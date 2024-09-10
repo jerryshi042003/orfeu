@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- For an .ico file -->
+    <link rel="icon" href="assets/favicon/favicon.ico" type="image/x-icon">
+
+    <!-- Apple Touch Icon (for iOS devices) -->
+    <link rel="apple-touch-icon" href="assets/favicon/apple-touch-icon.png" sizes="180x180">
+
+    <!-- Android Chrome Icon -->
+    <link rel="icon" sizes="192x192" href="assets/favicon/android-chrome-192x192.png">
+    <link rel="icon" sizes="512x512" href="assets/favicon/android-chrome-512x512.png">
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Genre of the Day</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+            margin: 0;
+        }
+        .container {
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        .genre {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 10px; /* Add space below the genre */
+        }
+        .spotify-button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 1rem;
+            color: white;
+            background-color: #1DB954;
+            border: none;
+            border-radius: 25px;
+            text-decoration: none;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .spotify-button:hover {
+            background-color: #1ed760;
+        }
+        .spotify-link-text {
+            font-size: 0.9rem;
+            color: #1DB954;
+            text-decoration: none;
+            word-wrap: break-word;
+        }
+        #spotify-link-text {
+            display: none;
+        }
+        /* .description {
+            margin-top: 20px;
+            font-size: 1rem;
+            color: #333;
+        } */
+        .description-container {
+            margin-top: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            display: inline-block;
+            max-width: 600px;
+            text-align: left;
+        }
+        .description-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .description-text {
+            font-size: 1rem;
+            line-height: 1.5;
+        }
+        .word-pyramid {
+            margin-top: 20px;
+            width: 100%;
+            height: 400px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="genre" id="genre"></div>
+        <a id="spotify-link" class="spotify-button" href="#" target="_blank">See Spotify</a>
+        <div id="spotify-link-text" class="spotify-link-text"></div>
+        <div class="description-container">
+            <div class="description-title">Genre Description</div>
+            <p id="description" class="description-text"></p>
+        </div>
+        <div id="word-pyramid" class="word-pyramid"></div> <!-- Container for D3 visualization -->
+    </div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wikipedia Description Fetcher</title>
+</head>
+<body>
+    <input type="text" id="searchTerm" placeholder="Enter a topic">
+    <button onclick="fetchWikipediaDescription()">Fetch Description</button>
+    <p id="description"></p>
+
+    <script>
+        async function fetchWikipediaDescription() {
+            const searchTerm = document.getElementById('searchTerm').value;
+            const response = await fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(searchTerm)}`);
+            const data = await response.json();
+
+            if (data.extract) {
+                document.getElementById('description').innerText = data.extract;
+            } else {
+                document.getElementById('description').innerText = 'No description found.';
+            }
+        }
+    </script>
+</body>
+</html> -->
