@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+    <!-- Scalable CSS Scrolling -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+
     <!-- Favicon and other icon links -->
     <link rel="icon" href="assets/favicon/favicon-32x32.png" sizes="32x32">
     <link rel="apple-touch-icon" href="assets/favicon/apple-touch-icon.png" sizes="180x180">
@@ -12,105 +17,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Random Genre of the Day</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f0f0f0;
-            margin: 0;
-            font-family: 'Helvetica', sans-serif;
-        }
-
-        .title {
-            font-size: 1.5rem;
-            font-weight: bold;
-            margin-bottom: 20px; /* Space below the title */
-        }
-
-        .container {
-            text-align: center;
-            font-family: Helvetica, sans-serif;
-            width: 100%;
-            max-width: 600px;
-        }
-        .genre {
-            font-size: 8rem;
-            font-weight: bold;
-            margin-bottom: 20px; /* Space below the genre title */
-        }
-        .spotify-button {
-            display: inline-block;
-            padding: 15px 25px;
-            font-size: 1rem;
-            color: white;
-            background-color: #1DB954;
-            border: none;
-            border-radius: 30px;
-            text-decoration: none;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-            margin-bottom: 20px; /* Space below the Spotify button */
-        }
-        .spotify-button:hover {
-            background-color: #1ed760;
-        }
-        .spotify-link-text {
-            font-size: 0.9rem;
-            color: #1DB954;
-            text-decoration: none;
-            word-wrap: break-word;
-        }
-        #spotify-link-text {
-            display: none;
-        }
-        .description-container {
-            margin-bottom: 20px;
-            padding: 15px;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            background-color: #fff;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-            text-align: left;
-        }
-        .description-title {
-            font-size: 1.2rem;
-            font-weight: bold;
-            margin-bottom: 10px;
-        }
-        .description-text {
-            font-size: 1rem;
-            line-height: 1.5;
-        }
-        .fetch-container {
-            margin-top: 20px;
-        }
-        #searchTerm {
-            padding: 10px;
-            font-size: 1rem;
-            width: calc(100% - 22px); /* Full width minus padding */
-            margin-bottom: 10px;
-        }
-        .fetch-button {
-            padding: 10px 20px;
-            font-size: 1rem;
-            cursor: pointer;
-            background-color: #007BFF;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            margin-bottom: 20px; /* Space below the fetch button */
-        }
-        .fetch-button:hover {
-            background-color: #0056b3;
-        }
-        #wiki-description {
-            font-size: 1rem;
-            color: #333;
-            text-align: left;
-        }
-    </style>
+    
+    <!-- Link to the external CSS file -->
+    <link rel="stylesheet" href="styles.css">
+    
 </head>
 <body>
     <div class="container">
