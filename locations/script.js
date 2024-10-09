@@ -1,18 +1,12 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Get the current date once and reuse it
     const today = new Date();
-
-    // Manually test new dates {can be implemented for future saving past days}
-    // const yesterday = new Date();
-    // const today = new Date(yesterday);
-    // today.setDate(today.getDate() - 3);
-
     const formattedDate = getFormattedDate(today);
 
     // Set the title when the page loads
     setTitle(formattedDate);
 
-    const genreElement = document.getElementById('genre');
+    const locationElement = document.getElementById('location');
     const spotifyLinkElement = document.getElementById('spotify-link');
     const spotifyLinkTextElement = document.getElementById('spotify-link-text');
     const descriptionElement = document.getElementById('description'); // Element for description
@@ -26,11 +20,13 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Fetch the CSV file
-    fetch('assets/data/filteredPulse.csv')
+    fetch('../assets/data/passed_rows.csv')
         .then(response => {
             if (!response.ok) {
                 throw new Error(`HTTP error! Status: ${response.status}`);
             }
+            console.log('CSV file fetched successfully');
+
             return response.text();
         })
         .then(text => {
@@ -41,32 +37,15 @@ document.addEventListener('DOMContentLoaded', function() {
             // Get the day of the year using the current date
             const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 86400000);
 
-
-            // Seeded random number generator (based on the day of the year)
-            function seededRandom(seed) {
-                let x = Math.sin(seed) * 10000;
-                return x - Math.floor(x);
-            }
-
-            // Use the dayOfYear as the seed
-            const randomIndex = Math.floor(seededRandom(dayOfYear) * data.length);
-
-            // Select the row based on the random index
-            const selectedLine = data[randomIndex].split(',');
-
-            // Select row based on the day of the year [Goes through CSV row by row]
-            // const index = dayOfYear % data.length;
-            // const selectedLine = data[index].split(',');
-
-            // Generate a random index to select a random row [Random Upon Refresh]
-            // const randomIndex = Math.floor(Math.random() * data.length);
-            // const selectedLine = data[randomIndex].split(',');
+            // Select row based on the day of the year
+            const index = dayOfYear % data.length;
+            const selectedLine = data[index].split(',');
 
             const name = selectedLine[0].trim(); // First column as name
             const spotifyLink = selectedLine[2].trim(); // Third column as Spotify link
 
             // Display the name
-            genreElement.textContent = name;
+            locationElement.textContent = name;
 
             // Use the Spotify link from the CSV
             spotifyLinkElement.href = spotifyLink;
@@ -115,6 +94,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // Function to set the title
     function setTitle(formattedDate) {
         const titleElement = document.getElementById('title');
-        titleElement.textContent = `Genre of the Day (${formattedDate})`;
+        titleElement.textContent = `location of the Day (${formattedDate})`;
     }
 });
