@@ -23,17 +23,17 @@ Visit the Orfeu website to discover a new genre each day. The site features:
 
 *I encourage users to listen to a few songs from different artists within the genre and perform a simple Google search to learn more about its cultural context.*
 
-## Future wORK
+## Future Work
 plan to add features:
 
 - Lists of the most popular artists and songs within each genre.
 - Insights into the genre’s influence on others.
 - Detailed explanations of the rhythms, instruments, and cultural ties that define the genre.
 
-## Tools and Technologies
+## Tools
 
 - **Web Scraping**: BeautifulSoup, Scrapy
 - **Data Cleaning**: Python (pandas, numpy)
 - **Visualizations**: D3.js
-- **Music Data**: Spotify API
+- **Music Data**: Spotify API, LastFM API, MusixMatch API
 - **Geographical Data**: Google Maps API
