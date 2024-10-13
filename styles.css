@@ -111,4 +111,21 @@ body {
     color: #333;
     text-align: left;
 }
+.location-button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 1rem;
+    color: black;
+    background-color: #b3b3b3;
+    border-radius: 30px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    margin-bottom: 20px;
+}
+
+.location-button:hover {
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
 

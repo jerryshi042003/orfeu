@@ -11,10 +11,13 @@ document.addEventListener('DOMContentLoaded', function() {
     const spotifyLinkTextElement = document.getElementById('spotify-link-text');
     const descriptionElement = document.getElementById('description'); // Element for description
 
-
     // Function to update description element
     function updateDescription(text) {
         descriptionElement.innerText = text;
+
+        // Style the text to resemble the end of a letter
+        descriptionElement.style.fontStyle = 'italic'; // Make it italic
+        descriptionElement.style.marginTop = '20px';   // Add some space above
     }
 
     // Fetch the CSV file
@@ -50,11 +53,13 @@ document.addEventListener('DOMContentLoaded', function() {
             spotifyLinkTextElement.textContent = spotifyLink;
             spotifyLinkTextElement.href = spotifyLink;
 
+            // Update the description element
+            updateDescription(`- Enjoy listening to ${name}!`);
         })
         .catch(error => {
             console.error('Error fetching the CSV file:', error);
             // Update description to indicate error
-            updateDescription('Failed to load description 1.');
+            updateDescription('Failed to load description.');
         });
 
     // Function to get the current date and format it as mm/dd
@@ -67,6 +72,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // Function to set the title
     function setTitle(formattedDate) {
         const titleElement = document.getElementById('title');
-        titleElement.textContent = `location of the Day (${formattedDate})`;
+        titleElement.textContent = `Location of the Day (${formattedDate})`;
     }
 });
