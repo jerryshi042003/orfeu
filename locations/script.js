@@ -11,8 +11,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const spotifyLinkTextElement = document.getElementById('spotify-link-text');
     const descriptionElement = document.getElementById('description'); // Element for description
 
-    // Set static text for testing initially
-    descriptionElement.innerText = 'Loading description...'; // Indicate loading state
 
     // Function to update description element
     function updateDescription(text) {
@@ -52,37 +50,12 @@ document.addEventListener('DOMContentLoaded', function() {
             spotifyLinkTextElement.textContent = spotifyLink;
             spotifyLinkTextElement.href = spotifyLink;
 
-            // Fetch Wikipedia description
-            fetchWikipediaDescription(name);
-
         })
         .catch(error => {
             console.error('Error fetching the CSV file:', error);
             // Update description to indicate error
             updateDescription('Failed to load description 1.');
         });
-
-    // Function to fetch Wikipedia description
-    function fetchWikipediaDescription(searchTerm) {
-        fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(searchTerm)}`)
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error(`HTTP error! Status: ${response.status}`);
-                }
-                return response.json();
-            })
-            .then(data => {
-                if (data.extract) {
-                    updateDescription(data.extract);
-                } else {
-                    updateDescription('No description found.');
-                }
-            })
-            .catch(error => {
-                console.error('Error fetching Wikipedia content:', error);
-                updateDescription('Failed to load description 2.');
-            });
-    }
 
     // Function to get the current date and format it as mm/dd
     function getFormattedDate(date) {

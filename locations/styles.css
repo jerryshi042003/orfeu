@@ -63,52 +63,6 @@ body {
 #spotify-link-text {
     display: none;
 }
-.description-container {
-    margin: 0 auto;
-    margin-bottom: 20px;
-    padding: 15px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    background-color: #fff;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    text-align: left;
-    max-width: 95%; /* Ensure it has some space from the edges */
-    box-sizing: border-box; /* Ensure padding and border are included in the width */
-}
-.description-title {
-    font-size: 1.2rem;
-    font-weight: bold;
-    margin-bottom: 10px;
-}
-.description-text {
-    font-size: 1rem;
-    line-height: 1.5;
-}
-.fetch-container {
-    margin-top: 20px;
-}
-#searchTerm {
-    padding: 10px;
-    font-size: 1rem;
-    width: calc(100% - 22px); /* Full width minus padding */
-    margin-bottom: 10px;
-}
-.fetch-button {
-    padding: 10px 20px;
-    font-size: 1rem;
-    cursor: pointer;
-    background-color: #007BFF;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    margin-bottom: 20px; /* Space below the fetch button */
-}
-.fetch-button:hover {
-    background-color: #0056b3;
-}
-#wiki-description {
-    font-size: 1rem;
-    color: #333;
-    text-align: left;
-}
+
+
 

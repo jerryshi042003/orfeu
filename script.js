@@ -17,8 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const spotifyLinkTextElement = document.getElementById('spotify-link-text');
     const descriptionElement = document.getElementById('description'); // Element for description
 
-    // Set static text for testing initially
-    descriptionElement.innerText = 'Loading description...'; // Indicate loading state
+ 
 
     // Function to update description element
     function updateDescription(text) {
