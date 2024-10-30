@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const selectedLine = data[index].split(',');
 
             const name = selectedLine[0].trim(); // First column as name
-            const spotifyLink = selectedLine[2].trim(); // Third column as Spotify link
+            const spotifyLink = selectedLine[1].trim(); // Third column as Spotify link
 
             // Display the name
             locationElement.textContent = name;
