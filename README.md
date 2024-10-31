@@ -26,8 +26,9 @@ Visit the Orfeu website to discover a new genre each day. The site features:
 *I encourage users to listen to a few songs from different artists within the genre and perform a simple Google search to learn more about its cultural context.*
 
 <a href="https://youtube.com/shorts/lQzao0TsUYA?feature=share">
-    <img src="assets/demo/IndonesiaCover.png" alt="Indonesia example" width="100" height="100">
+    <img src="assets/demo/IndonesiaCover.png" alt="Indonesia example" width="360" height="640">
 </a>
+
 
 
 ## Future Work
