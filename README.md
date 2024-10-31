@@ -3,7 +3,16 @@
 
 While Spotify's recommendation algorithm is powerful, it focuses on music similarity, often feeding you a playlist regurgitation of genres you already know. It doesn't take risks and it focuses on marketing music instead of educating about music. Orfeu aims to break this cycle by introducing listeners to a broader scope of genres along with their historical and cultural importance. 
 
-![Demo](./assets/demo/orfeu_demo2.gif)
+<div style="display: flex; align-items: center;">
+    <!-- Landscape Image -->
+    <img src="./assets/demo/orfeu_demo2.gif" alt="Demo" width="180" height="100" style="margin-right: 10px;">
+
+    <!-- Portrait Image -->
+    <a href="https://youtube.com/shorts/lQzao0TsUYA?feature=share">
+        <img src="assets/demo/IndonesiaCover.png" alt="Indonesia example" width="180" height="320">
+    </a>
+</div>
+
 
 ## Methodology
 
@@ -24,12 +33,6 @@ Visit the Orfeu website to discover a new genre each day. The site features:
 - Key descriptive points about the genre, web scraped from Wikipedia.
 
 *I encourage users to listen to a few songs from different artists within the genre and perform a simple Google search to learn more about its cultural context.*
-
-<a href="https://youtube.com/shorts/lQzao0TsUYA?feature=share">
-    <img src="assets/demo/IndonesiaCover.png" alt="Indonesia example" width="180" height="320">
-</a>
-
-
 
 ## Future Work
 plan to add features:
