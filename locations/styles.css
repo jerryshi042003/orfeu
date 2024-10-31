@@ -26,9 +26,12 @@ html, body {
 }
 
 .location {
-    font-size: 4rem;
+    font-size: clamp(1.5rem, 5vw, 5rem); /* Responsive font size */
     font-weight: bold;
-    margin-bottom: 20px; /* Space below the location title */
+    margin-bottom: 20px;
+    overflow-wrap: break-word;  /* Break long words */
+    hyphens: auto;              /* Add hyphens where appropriate */
+    text-align: center;
 }
 
 .spotify-button, .genre-button {

@@ -1,43 +1,48 @@
+/* Global Styles */
 html, body {
     height: 100%;
     margin: 0;
     padding: 0;
     display: flex;
     justify-content: center; /* Horizontal centering */
-    align-items: center; /* Vertical centering */
+    align-items: center;     /* Vertical centering */
     flex-direction: column;
     background-color: #f0f0f0;
-    overflow-y: auto; /* Enable vertical scrolling */
+    overflow-y: auto;        /* Enable vertical scrolling */
 }
 
 body {
     min-height: 100vh;
-    margin: 0;
     font-family: 'Helvetica', sans-serif;
     box-sizing: border-box;
 }
 
+.container {
+    text-align: center;
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+    box-sizing: border-box; /* Include padding in width */
+}
+
+/* Title Styles */
 .title {
     font-size: 1.5rem;
     font-weight: bold;
     margin-bottom: 20px; /* Space below the title */
 }
 
-.container {
-    text-align: center;
-    font-family: Helvetica, sans-serif;
-    width: 100%;
-    max-width: 600px;
-    padding: 20px;
-    box-sizing: border-box; /* Ensure padding is included in the width */
-
-}
+/* Genre Title Styles */
 .genre {
-    font-size: 4rem;
+    font-size: clamp(0.8rem, 5vw, 3rem); /* Responsive font size */
     font-weight: bold;
-    margin-bottom: 20px; /* Space below the genre title */
-    
+    margin-bottom: 20px;
+    overflow-wrap: break-word;  /* Break long words */
+    hyphens: auto;              /* Add hyphens where appropriate */
+    text-align: center;
 }
+
+/* Spotify Button Styles */
 .spotify-button {
     display: inline-block;
     padding: 15px 25px;
@@ -49,50 +54,66 @@ body {
     text-decoration: none;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    margin-bottom: 20px; /* Space below the Spotify button */
+    margin-bottom: 20px; /* Space below the button */
 }
+
 .spotify-button:hover {
     background-color: #1ed760;
 }
+
+/* Spotify Link Text Styles */
 .spotify-link-text {
     font-size: 0.9rem;
     color: #1DB954;
     text-decoration: none;
-    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
+
 #spotify-link-text {
     display: none;
 }
+
+/* Description Container Styles */
 .description-container {
-    margin: 0 auto;
-    margin-bottom: 20px;
+    margin: 0 auto 30px auto; /* Added extra bottom margin (30px) */
     padding: 15px;
     border: 1px solid #ddd;
     border-radius: 8px;
     background-color: #fff;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     text-align: left;
-    max-width: 95%; /* Ensure it has some space from the edges */
-    box-sizing: border-box; /* Ensure padding and border are included in the width */
+    max-width: 95%; /* Ensure container fits within screen */
+    width: 100%;     /* Fill available space */
+    box-sizing: border-box;
+    overflow-wrap: break-word; /* Wrap long words */
 }
+
 .description-title {
     font-size: 1.2rem;
     font-weight: bold;
     margin-bottom: 10px;
 }
+
 .description-text {
     font-size: 1rem;
     line-height: 1.5;
+    word-wrap: break-word;
+    word-break: break-word;
+    overflow-wrap: break-word;
 }
+
+/* Fetch Container Styles */
 .fetch-container {
     margin-top: 20px;
 }
+
 #searchTerm {
     padding: 10px;
     font-size: 1rem;
     width: calc(100% - 22px); /* Full width minus padding */
     margin-bottom: 10px;
 }
+
 .fetch-button {
     padding: 10px 20px;
     font-size: 1rem;
@@ -101,16 +122,20 @@ body {
     color: white;
     border: none;
     border-radius: 5px;
-    margin-bottom: 20px; /* Space below the fetch button */
+    margin-bottom: 20px; /* Space below the button */
 }
+
 .fetch-button:hover {
     background-color: #0056b3;
 }
+
 #wiki-description {
     font-size: 1rem;
     color: #333;
     text-align: left;
 }
+
+/* Location Button Styles */
 .location-button {
     display: inline-block;
     padding: 15px 25px;
@@ -121,7 +146,7 @@ body {
     text-decoration: none;
     cursor: pointer;
     transition: background-color 0.3s ease, color 0.3s ease;
-    margin-bottom: 20px;
+    margin-bottom: 30px; /* Increased bottom margin from 20px to 30px */
 }
 
 .location-button:hover {
@@ -129,3 +154,13 @@ body {
     color: black;
 }
 
+/* Responsive Adjustments */
+@media (max-width: 600px) {
+    /* Allow clamp to handle genre font size */
+
+    /* Adjust description container */
+    .description-container {
+        padding: 10px;   /* Reduce padding */
+        font-size: 0.9rem; /* Slightly reduce font size */
+    }
+}
