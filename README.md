@@ -5,26 +5,16 @@ While Spotify's recommendation algorithm is powerful, it focuses on music simila
 
 ![Demo](./assets/demo/orfeu_demo2.gif)
 
-<table>
-    <tr>
-        <!-- Image with Link -->
-        <td>
-            <a href="https://youtube.com/shorts/lQzao0TsUYA?feature=share">
-                <img src="assets/demo/IndonesiaCover.png" alt="Indonesia example" width="180" height="320">
-            </a>
-        </td>
-        
-        <!-- Description in Bullet Points -->
-        <td style="padding-left: 15px;">
-            <ul>
-                <li><strong>Indonesia's Music Legacy:</strong> Known for blending traditional and modern influences.</li>
-                <li><strong>"Berharap Tak Berpisah" by Reza Artamevia:</strong> A soulful track with emotional depth.</li>
-                <li><strong>"Tanya Hati" by Pasto:</strong> Represents Indonesian pop ballads.</li>
-                <li><strong>"Pulang" by Float:</strong> Evokes themes of home and nostalgia.</li>
-            </ul>
-        </td>
-    </tr>
-</table>
+<a href="https://youtube.com/shorts/lQzao0TsUYA?feature=share">
+  <img src="assets/demo/IndonesiaCover.png" alt="Indonesia example" width="180" height="320" style="display: inline-block; margin-right: 20px;">
+</a>
+
+- **Indonesia's Music Legacy:** Known for blending traditional and modern influences.
+- **"Berharap Tak Berpisah" by Reza Artamevia:** A soulful track with emotional depth.
+- **"Tanya Hati" by Pasto:** Represents Indonesian pop ballads.
+- **"Pulang" by Float:** Evokes themes of home and nostalgia.
+
+
 
 
 
