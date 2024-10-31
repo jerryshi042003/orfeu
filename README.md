@@ -5,14 +5,27 @@ While Spotify's recommendation algorithm is powerful, it focuses on music simila
 
 ![Demo](./assets/demo/orfeu_demo2.gif)
 
-<a href="https://youtube.com/shorts/lQzao0TsUYA?feature=share">
-        <img src="assets/demo/IndonesiaCover.png" alt="Indonesia example" width="180" height="320" style="margin-right: 15px;">
-    </a>
-    
-    <!-- Description -->
-    <div>
-        <p><strong>Indonesia's Music Highlight:</strong> This example from Orfeu showcases Indonesia's rich musical heritage. Indonesia has made substantial contributions to Southeast Asian music, blending traditional and modern styles. Key tracks include "Berharap Tak Berpisah" by Reza Artamevia, known for its soulful melody and heartfelt lyrics, "Tanya Hati" by Pasto, which captures the essence of Indonesian pop ballads, and "Pulang" by Float, an evocative song that resonates with listeners through its emotional depth and connection to home. These songs illustrate Indonesia's unique musical style and emotional expression.</p>
-    </div>
+<table>
+    <tr>
+        <!-- Image with Link -->
+        <td>
+            <a href="https://youtube.com/shorts/lQzao0TsUYA?feature=share">
+                <img src="assets/demo/IndonesiaCover.png" alt="Indonesia example" width="180" height="320">
+            </a>
+        </td>
+        
+        <!-- Description in Bullet Points -->
+        <td style="padding-left: 15px;">
+            <ul>
+                <li><strong>Indonesia's Music Legacy:</strong> Known for blending traditional and modern influences.</li>
+                <li><strong>"Berharap Tak Berpisah" by Reza Artamevia:</strong> A soulful track with emotional depth.</li>
+                <li><strong>"Tanya Hati" by Pasto:</strong> Represents Indonesian pop ballads.</li>
+                <li><strong>"Pulang" by Float:</strong> Evokes themes of home and nostalgia.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
 
 
 ## Methodology
