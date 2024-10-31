@@ -8,7 +8,7 @@ While Spotify's recommendation algorithm is powerful, it focuses on music simila
 ## Example
 
 - **Indonesia's Music Legacy:** Known for blending traditional and modern influences.       
-Orfeu highlights soulful, pop ballads, and beach songs from Indonesia. (click on image)
+- Orfeu highlights soulful, pop ballads, and beach songs from Indonesia. (click on image)
  
 <a href="https://youtube.com/shorts/lQzao0TsUYA?feature=share">
   <img src="assets/demo/IndonesiaCover.png" alt="Indonesia example" width="180" height="320" style="display: inline-block; margin-right: 20px;">
