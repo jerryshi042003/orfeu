@@ -1,56 +1,41 @@
 # Orfeu
-*Named after the Brasilian pronouniciation of Orfeus, the Greek God of music.*     
 
-While Spotify's recommendation algorithm is powerful, it focuses on music similarity, often feeding you a playlist regurgitation of genres you already know. It doesn't take risks and it focuses on marketing music instead of educating about music. Orfeu aims to break this cycle by introducing listeners to a broader scope of genres along with their historical and cultural importance. 
+Orfeu is a daily music-discovery experience for listeners who want to explore beyond familiar recommendations.
 
-![Demo](./assets/demo/indonesia.gif)
+**Live site:** [jerryshi042003.github.io/orfeu](https://jerryshi042003.github.io/orfeu/)
 
-## Example
+![Orfeu location discovery demo](./assets/demo/indonesia.gif)
 
-- **Indonesia's Music Legacy:** Known for blending traditional and modern influences.       
-- Orfeu highlights soulful, pop ballads, and beach songs from Indonesia. (click on image)
- 
-<a href="https://youtube.com/shorts/lQzao0TsUYA?feature=share">
-  <img src="assets/demo/IndonesiaCover.png" alt="Indonesia example" width="180" height="320" style="display: inline-block; margin-right: 20px;">
-</a>
+## What it does
 
+Each day, Orfeu presents:
 
+- a genre selected from a catalog of more than 6,000 genres;
+- a browser-safe Spotify playlist link;
+- background context from Wikipedia; and
+- a location view for exploring music geographically.
 
+The site is a public beta. It runs in the browser, requires no account, and works on desktop and mobile.
 
+## How it was built
 
+The source dataset was collected from Every Noise at Once with Python, BeautifulSoup, and Scrapy. The pipeline cleaned and classified genre records into three playlist perspectives:
 
+- **The Sound** — a broad introduction to the genre.
+- **The Pulse** — music popular with the genre's core listeners.
+- **The Edge** — more experimental examples.
 
-## Methodology
+spaCy was used to extract geographic references for the location experience. The product is delivered as a lightweight static site using JavaScript, CSS, and D3.
 
-The data was collected by scraping **everynoise.com** using web-scraping libraries **BeautifulSoup** and **Scrapy**. This data includes an extensive list of (>6000) genres, compared to the 126 that Spotify API provides, classified using ML into three distinct playlist types.  
+## Product direction
 
-- **The Sound**: A collection representing the general sound of the genre.
-- **The Pulse**: Core songs beloved by the main listener demographic.
-- **The Edge**: Tracks that represent the more experimental aspects of the genre.
+The next useful improvements are:
 
-A natural language processing model **SpaCy** was used to identify locations and separate playlists into geographic regions. This can be explored on subpage /locations
+1. add feedback and basic usage analytics;
+2. let listeners save and share discoveries;
+3. automate and monitor data refreshes; and
+4. improve genre context when Wikipedia has no matching article.
 
-## How to Use
+## Name
 
-Visit the Orfeu website to discover a new genre each day. The site features:
-
-- A randomly selected genre.
-- A link to a Spotify playlist curated to explore the genre.
-- Key descriptive points about the genre, web scraped from Wikipedia.
-
-*I encourage users to listen to a few songs from different artists within the genre and perform a simple Google search to learn more about its cultural context.*
-
-## Future Work
-plan to add features:
-
-- Lists of the most popular artists and songs within each genre.
-- Insights into the genre’s influence on others.
-- Detailed explanations of the rhythms, instruments, and cultural ties that define the genre.
-
-## Tools
-
-- **Web Scraping**: BeautifulSoup, Scrapy
-- **Data Cleaning**: Python (pandas, numpy)
-- **Visualizations**: D3.js
-- **Music Data**: Spotify API, LastFM API, MusixMatch API
-- **Geographical Data**: Google Maps API
+Orfeu takes its name from the Brazilian Portuguese form of Orpheus, the musician and poet of Greek mythology.
