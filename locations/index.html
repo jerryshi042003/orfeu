@@ -1,76 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-    <!-- Scalable CSS Scrolling -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
-
-    <!-- Favicon and other icon links -->
-    <link rel="icon" href="../assets/favicon/favicon-32x32.png" sizes="32x32">
-    <link rel="apple-touch-icon" href="../assets/favicon/apple-touch-icon.png" sizes="180x180">
-    <link rel="icon" sizes="192x192" href="../assets/favicon/android-chrome-192x192.png">
-    <link rel="icon" sizes="512x512" href="../assets/favicon/android-chrome-512x512.png"> 
-    
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Random Location of the Day</title>
-    
-    <!-- Link to the external CSS file -->
-    <link rel="stylesheet" href="styles.css">
-    
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Orfeu · Place of the day</title>
+  <meta name="description" content="A new place to hear every day: the sound of a city or country on Spotify, marked on a map.">
+  <meta name="theme-color" content="#f4efe5" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
+  <link rel="canonical" href="https://jerryshi042003.github.io/orfeu/locations/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Orfeu">
+  <meta property="og:title" content="Orfeu · Place of the day">
+  <meta property="og:description" content="A new place to hear every day: the sound of a city or country on Spotify, marked on a map.">
+  <meta property="og:url" content="https://jerryshi042003.github.io/orfeu/locations/">
+  <link rel="icon" href="../assets/favicon/favicon.ico" sizes="any">
+  <link rel="icon" href="../assets/favicon/favicon-32x32.png" type="image/png" sizes="32x32">
+  <link rel="apple-touch-icon" href="../assets/favicon/apple-touch-icon.png">
+  <link rel="manifest" href="../assets/favicon/site.webmanifest">
+  <link rel="preload" href="../assets/fonts/instrument-serif-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="../assets/css/orfeu.css?v=3">
+  <script src="../assets/js/orfeu.js?v=3" defer></script>
 </head>
-<body>
-    <div class="container">
-        <!-- Title for location of the Day -->
-        <div id="title" class="title">Title</div>
-        
-        <!-- location Title -->
-        <div class="location" id="location">Location Title</div>
-        
-        <!-- Spotify Link Button -->
-        <div class="button-container">
-            <!-- Spotify Link Button -->
-            <a id="spotify-link" class="spotify-button" href="#" target="_blank">Open Spotify Playlist</a>
-            <div id="spotify-link-text" class="spotify-link-text"></div>
-        
-            <!-- Add the "Next" Button Here -->
-            <a href="../" class="genre-button">Genre of the Day</a>
-        </div>
+<body data-page="place" data-root="../">
+  <header class="masthead">
+    <a class="wordmark" href="../">Orfeu</a>
+    <nav class="tabs" aria-label="Daily picks">
+      <a href="../">Genre</a>
+      <a href="./" aria-current="page">Place</a>
+    </nav>
+  </header>
 
-        <!-- location Description -->
-        <div class="description-container">
-            <div class="description-title"></div>
-            <p id="description" class="description-text"></p>
-        </div>
-        
-        
+  <main>
+    <nav class="day" aria-label="Choose a day">
+      <a id="day-prev" class="day-step" href="?" aria-label="Previous day"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg></a>
+      <time id="day-label">Today</time>
+      <a id="day-next" class="day-step" href="?" aria-label="Next day"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></a>
+      <a id="day-today" class="day-today" href="./" hidden>Back to today</a>
+    </nav>
 
-        <!-- Wikipedia Fetch Section -->
-        <!-- <div class="fetch-container">
-            <input type="text" id="searchTerm" placeholder="Enter a topic">
-            <button class="fetch-button" onclick="fetchWikipediaDescription()">Fetch Description</button>
-            <p id="wiki-description"></p>
-        </div> -->
-    </div>
+    <section class="pick" aria-label="Place of the day">
+      <h1 id="pick-name" class="pick-name" aria-busy="true">&hellip;</h1>
+      <p id="pick-where" class="pick-where"></p>
+      <p class="visually-hidden">Place of the day</p>
+      <div class="listen-row">
+        <a id="listen" class="listen" target="_blank" rel="noopener noreferrer" aria-disabled="true"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 1.5a10.5 10.5 0 1 0 0 21 10.5 10.5 0 0 0 0-21Zm4.82 15.15a.65.65 0 0 1-.9.22c-2.46-1.5-5.56-1.84-9.21-1.01a.66.66 0 0 1-.29-1.28c4-.91 7.42-.52 10.18 1.17.31.19.41.59.22.9Zm1.28-2.86a.82.82 0 0 1-1.12.27c-2.82-1.73-7.11-2.23-10.44-1.22a.82.82 0 1 1-.47-1.57c3.8-1.15 8.54-.6 11.77 1.39.38.24.5.74.26 1.13Zm.11-2.97C14.83 8.8 9.27 8.62 6.05 9.6a.98.98 0 1 1-.57-1.88c3.7-1.12 9.83-.9 13.71 1.4a.98.98 0 0 1-1 1.7Z"/></svg><span>Listen on Spotify</span><span class="visually-hidden"> (opens in a new tab)</span></a>
+        <p id="listen-note" class="listen-note"></p>
+      </div>
+      <p id="problem" class="problem" role="alert" hidden>Today’s pick didn’t load. Check your connection and try again.<button id="problem-retry" type="button">Reload</button></p>
+      <noscript><p class="problem">Orfeu needs JavaScript to pick the day’s place.</p></noscript>
+    </section>
 
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="script.js"></script>
-    <script>
-        async function fetchWikipediaDescription() {
-            // const searchTerm = document.getElementById('searchTerm').value;
-            // const response = await fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(searchTerm)}`);
-            // const data = await response.json();
+    <figure id="map" class="map" hidden>
+      <div id="map-frame" class="map-frame"></div>
+      <figcaption id="map-caption"></figcaption>
+    </figure>
+  </main>
 
-            
-            // if (data.extract) {
-            //     document.getElementById('wiki-description').innerText = data.extract;
-            // } else {
-            //     document.getElementById('wiki-description').innerText = 'No description found.';
-            // }
-        }
-    </script>
+  <footer class="colophon">
+    <p>Orfeu picks one genre and one place to listen to every day. Orfeu is Brazilian Portuguese for Orpheus, the musician of Greek myth.</p>
+    <p>Playlists come from Every Noise at Once (“The Sound of …”) on Spotify. Map from Natural Earth; place coordinates from OpenStreetMap contributors (ODbL).</p>
+    <p><a href="https://github.com/jerryshi042003/orfeu">Source on GitHub</a></p>
+  </footer>
 </body>
 </html>
