@@ -142,7 +142,7 @@
       svg.setAttribute('aria-label', `World map marking ${place.name}${place.country ? ', ' + place.country : ''}`);
       svg.querySelectorAll('title').forEach(t => t.remove());
       const country = place.map && svg.querySelector(`#c${place.map}`);
-      if (country) country.classList.add('is-here');
+      if (country) { country.classList.add('is-here'); country.parentNode.append(country); } // draw its outline above neighbours
       figure.hidden = false; // getBBox() needs the map to be rendered
       const view = mapWindow(svg, country, place, data.width);
       svg.setAttribute('viewBox', view.join(' '));
