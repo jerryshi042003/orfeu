@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+# Data pipeline
+pipeline/node_modules/
+pipeline/.cache/
+
+# Local screenshots and scratch output
+*.log

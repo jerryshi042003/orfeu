@@ -1,0 +1,47 @@
+{
+ "kept": 697,
+ "skipped": {
+  "notPlace": [
+   "APO Armed Forces Europe, Middle East, & Canada US",
+   "Celtic Christmas",
+   "Children's Christmas",
+   "Christian Christmas",
+   "Christmas",
+   "Christmas Product",
+   "Classical Christmas",
+   "Country Christmas",
+   "Everything",
+   "Folk Christmas",
+   "Hatecore",
+   "Heavy Christmas",
+   "Indie Christmas",
+   "Jazz Christmas",
+   "Latin Christmas",
+   "Pop Christmas",
+   "Punk Christmas",
+   "Soul Christmas",
+   "World Christmas"
+  ],
+  "unparsed": [],
+  "dead": [
+   "Concord AU",
+   "Estonia",
+   "Hellerup DK",
+   "Kaufman Texas US",
+   "Lithuania",
+   "Lohja FI",
+   "Mugla TR",
+   "Måløv DK",
+   "Oldham GB",
+   "Omaha Nebraska US",
+   "Palmas BR",
+   "Romford GB",
+   "Slovakia",
+   "Tullinge SE",
+   "Turku FI",
+   "Worthing GB"
+  ],
+  "noGeo": []
+ },
+ "unmapped": []
+}

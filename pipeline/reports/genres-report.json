@@ -1,0 +1,6009 @@
+[
+ {
+  "name": "A Cappella",
+  "wiki": "A cappella",
+  "live": true,
+  "playlistTitle": "The Pulse of A Cappella",
+  "tried": [
+   "A Cappella (music):missing",
+   "A Cappella (genre):missing",
+   "A Cappella (music genre):missing",
+   "A Cappella:ok (A cappella)"
+  ]
+ },
+ {
+  "name": "Abstract",
+  "wiki": null,
+  "live": true,
+  "playlistTitle": "The Pulse of Abstract",
+  "tried": [
+   "override:none"
+  ]
+ },
+ {
+  "name": "Accordion",
+  "wiki": "Accordion",
+  "live": true,
+  "playlistTitle": "The Pulse of Accordion",
+  "tried": [
+   "Accordion (music):missing",
+   "Accordion (genre):missing",
+   "Accordion (music genre):missing",
+   "Accordion:ok"
+  ]
+ },
+ {
+  "name": "Acid House",
+  "wiki": "Acid house",
+  "live": true,
+  "playlistTitle": "The Pulse of Acid House",
+  "tried": [
+   "Acid House (music):missing",
+   "Acid House (genre):missing",
+   "Acid House (music genre):missing",
+   "Acid House:ok (Acid house)"
+  ]
+ },
+ {
+  "name": "Acid Jazz",
+  "wiki": "Acid jazz",
+  "live": true,
+  "playlistTitle": "The Pulse of Acid Jazz",
+  "tried": [
+   "Acid Jazz (music):missing",
+   "Acid Jazz (genre):missing",
+   "Acid Jazz (music genre):missing",
+   "Acid Jazz:ok (Acid jazz)"
+  ]
+ },
+ {
+  "name": "Acid Techno",
+  "wiki": "Acid techno",
+  "live": true,
+  "playlistTitle": "The Pulse of Acid Techno",
+  "tried": [
+   "Acid Techno (music):missing",
+   "Acid Techno (genre):missing",
+   "Acid Techno (music genre):missing",
+   "Acid Techno:ok (Acid techno)"
+  ]
+ },
+ {
+  "name": "Adult Standards",
+  "wiki": "Adult standards",
+  "live": true,
+  "playlistTitle": "The Pulse of Adult Standards",
+  "tried": [
+   "Adult Standards (music):missing",
+   "Adult Standards (genre):missing",
+   "Adult Standards (music genre):missing",
+   "Adult Standards:ok (Adult standards)"
+  ]
+ },
+ {
+  "name": "Afrobeat",
+  "wiki": "Afrobeat",
+  "live": true,
+  "playlistTitle": "The Pulse of Afrobeat",
+  "tried": [
+   "Afrobeat (music):missing",
+   "Afrobeat (genre):missing",
+   "Afrobeat (music genre):missing",
+   "Afrobeat:ok"
+  ]
+ },
+ {
+  "name": "Afrobeats",
+  "wiki": "Afrobeats",
+  "live": true,
+  "playlistTitle": "The Pulse of Afrobeats",
+  "tried": [
+   "Afrobeats (music):missing",
+   "Afrobeats (genre):missing",
+   "Afrobeats (music genre):missing",
+   "Afrobeats:ok"
+  ]
+ },
+ {
+  "name": "Aggrotech",
+  "wiki": "Electro-industrial",
+  "live": true,
+  "playlistTitle": "The Pulse of Aggrotech",
+  "tried": [
+   "Aggrotech (music):missing",
+   "Aggrotech (genre):missing",
+   "Aggrotech (music genre):missing",
+   "Aggrotech:ok (Electro-industrial)"
+  ]
+ },
+ {
+  "name": "Alternative CCM",
+  "wiki": "Christian alternative rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Alternative CCM",
+  "tried": [
+   "Alternative CCM (music):missing",
+   "Alternative CCM (genre):missing",
+   "Alternative CCM (music genre):missing",
+   "Alternative CCM:ok (Christian alternative rock)"
+  ]
+ },
+ {
+  "name": "Alternative Country",
+  "wiki": "Alternative country",
+  "live": true,
+  "playlistTitle": "The Pulse of Alternative Country",
+  "tried": [
+   "Alternative Country (music):missing",
+   "Alternative Country (genre):missing",
+   "Alternative Country (music genre):missing",
+   "Alternative Country:ok (Alternative country)"
+  ]
+ },
+ {
+  "name": "Alternative Dance",
+  "wiki": "Alternative dance",
+  "live": true,
+  "playlistTitle": "The Pulse of Alternative Dance",
+  "tried": [
+   "Alternative Dance (music):missing",
+   "Alternative Dance (genre):missing",
+   "Alternative Dance (music genre):missing",
+   "Alternative Dance:ok (Alternative dance)"
+  ]
+ },
+ {
+  "name": "Alternative Hardcore",
+  "wiki": "Hardcore punk",
+  "live": true,
+  "playlistTitle": "The Pulse of Alternative Hardcore",
+  "tried": [
+   "Alternative Hardcore (music):missing",
+   "Alternative Hardcore (genre):missing",
+   "Alternative Hardcore (music genre):missing",
+   "Alternative Hardcore:ok (Hardcore punk)"
+  ]
+ },
+ {
+  "name": "Alternative Hip Hop",
+  "wiki": "Alternative hip-hop",
+  "live": true,
+  "playlistTitle": "The Pulse of Alternative Hip Hop",
+  "tried": [
+   "Alternative Hip Hop (music):missing",
+   "Alternative Hip Hop (genre):missing",
+   "Alternative Hip Hop (music genre):missing",
+   "Alternative Hip Hop:ok (Alternative hip-hop)"
+  ]
+ },
+ {
+  "name": "Alternative Metal",
+  "wiki": "Alternative metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Alternative Metal",
+  "tried": [
+   "Alternative Metal (music):missing",
+   "Alternative Metal (genre):missing",
+   "Alternative Metal (music genre):missing",
+   "Alternative Metal:ok (Alternative metal)"
+  ]
+ },
+ {
+  "name": "Alternative Pop",
+  "wiki": "Alternative rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Alternative Pop",
+  "tried": [
+   "Alternative Pop (music):missing",
+   "Alternative Pop (genre):missing",
+   "Alternative Pop (music genre):missing",
+   "Alternative Pop:ok (Alternative rock)"
+  ]
+ },
+ {
+  "name": "Alternative R&B",
+  "wiki": "Alternative R&B",
+  "live": true,
+  "playlistTitle": "The Pulse of Alternative R&B",
+  "tried": [
+   "Alternative R&B (music):missing",
+   "Alternative R&B (genre):missing",
+   "Alternative R&B (music genre):missing",
+   "Alternative R&B:ok"
+  ]
+ },
+ {
+  "name": "Alternative Rock",
+  "wiki": "Alternative rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Alternative Rock",
+  "tried": [
+   "Alternative Rock (music):missing",
+   "Alternative Rock (genre):missing",
+   "Alternative Rock (music genre):missing",
+   "Alternative Rock:ok (Alternative rock)"
+  ]
+ },
+ {
+  "name": "Anarcho-Punk",
+  "wiki": "Anarcho-punk",
+  "live": true,
+  "playlistTitle": "The Pulse of Anarcho-Punk",
+  "tried": [
+   "Anarcho-Punk (music):missing",
+   "Anarcho-Punk (genre):missing",
+   "Anarcho-Punk (music genre):missing",
+   "Anarcho-Punk:ok (Anarcho-punk)"
+  ]
+ },
+ {
+  "name": "Argentine Rock",
+  "wiki": "Argentine rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Argentine Rock",
+  "tried": [
+   "Argentine Rock (music):missing",
+   "Argentine Rock (genre):missing",
+   "Argentine Rock (music genre):missing",
+   "Argentine Rock:ok (Argentine rock)"
+  ]
+ },
+ {
+  "name": "Armenian Folk",
+  "wiki": "Armenian folk music",
+  "live": true,
+  "playlistTitle": "The Pulse of Armenian Folk",
+  "tried": [
+   "Armenian Folk (music):missing",
+   "Armenian Folk (genre):missing",
+   "Armenian Folk (music genre):missing",
+   "Armenian Folk:unrelated-redirect (Dashterov (project))",
+   "Armenian Folk music:missing",
+   "Armenianfolk:missing",
+   "search:Armenian folk music:ok"
+  ]
+ },
+ {
+  "name": "Art Rock",
+  "wiki": "Art rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Art Rock",
+  "tried": [
+   "Art Rock (music):missing",
+   "Art Rock (genre):missing",
+   "Art Rock (music genre):missing",
+   "Art Rock:ok (Art rock)"
+  ]
+ },
+ {
+  "name": "Atmospheric Black Metal",
+  "wiki": "Black metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Atmospheric Black Metal",
+  "tried": [
+   "Atmospheric Black Metal (music):missing",
+   "Atmospheric Black Metal (genre):missing",
+   "Atmospheric Black Metal (music genre):missing",
+   "Atmospheric Black Metal:ok (Black metal)"
+  ]
+ },
+ {
+  "name": "Australian Hip Hop",
+  "wiki": "Australian hip-hop",
+  "live": true,
+  "playlistTitle": "The Pulse of Australian Hip Hop",
+  "tried": [
+   "Australian Hip Hop (music):missing",
+   "Australian Hip Hop (genre):missing",
+   "Australian Hip Hop (music genre):missing",
+   "Australian Hip Hop:ok (Australian hip-hop)"
+  ]
+ },
+ {
+  "name": "Austropop",
+  "wiki": "Austropop",
+  "live": true,
+  "playlistTitle": "The Pulse of Austropop",
+  "tried": [
+   "Austropop (music):missing",
+   "Austropop (genre):missing",
+   "Austropop (music genre):missing",
+   "Austropop:ok"
+  ]
+ },
+ {
+  "name": "Avant-Garde Jazz",
+  "wiki": "Avant-garde jazz",
+  "live": true,
+  "playlistTitle": "The Pulse of Avant-Garde Jazz",
+  "tried": [
+   "Avant-Garde Jazz (music):missing",
+   "Avant-Garde Jazz (genre):missing",
+   "Avant-Garde Jazz (music genre):missing",
+   "Avant-Garde Jazz:ok (Avant-garde jazz)"
+  ]
+ },
+ {
+  "name": "Axé",
+  "wiki": "Axé",
+  "live": true,
+  "playlistTitle": "The Pulse of Axé",
+  "tried": [
+   "Axé (music):ok (Axé)"
+  ]
+ },
+ {
+  "name": "Azonto",
+  "wiki": "Azonto",
+  "live": true,
+  "playlistTitle": "The Pulse of Azonto",
+  "tried": [
+   "Azonto (music):missing",
+   "Azonto (genre):missing",
+   "Azonto (music genre):missing",
+   "Azonto:ok"
+  ]
+ },
+ {
+  "name": "Bachata",
+  "wiki": "Bachata (music)",
+  "live": true,
+  "playlistTitle": "The Pulse of Bachata",
+  "tried": [
+   "Bachata (music):ok"
+  ]
+ },
+ {
+  "name": "Baile Funk",
+  "wiki": "Funk carioca",
+  "live": true,
+  "playlistTitle": "The Pulse of Funk das Antigas",
+  "tried": [
+   "Baile Funk (music):missing",
+   "Baile Funk (genre):missing",
+   "Baile Funk (music genre):missing",
+   "Baile Funk:ok (Funk carioca)"
+  ]
+ },
+ {
+  "name": "Balearic",
+  "wiki": "Balearic beat",
+  "live": true,
+  "playlistTitle": "The Pulse of Balearic",
+  "tried": [
+   "override:Balearic beat"
+  ]
+ },
+ {
+  "name": "Balkan Brass",
+  "wiki": "Balkan brass",
+  "live": true,
+  "playlistTitle": "The Pulse of Balkan Brass",
+  "tried": [
+   "Balkan Brass (music):missing",
+   "Balkan Brass (genre):missing",
+   "Balkan Brass (music genre):missing",
+   "Balkan Brass:ok (Balkan brass)"
+  ]
+ },
+ {
+  "name": "Barbershop",
+  "wiki": "Barbershop music",
+  "live": true,
+  "playlistTitle": "The Pulse of Barbershop",
+  "tried": [
+   "Barbershop (music):ok (Barbershop music)"
+  ]
+ },
+ {
+  "name": "Baroque",
+  "wiki": "Baroque music",
+  "live": true,
+  "playlistTitle": "The Pulse of Baroque",
+  "tried": [
+   "Baroque (music):ok (Baroque music)"
+  ]
+ },
+ {
+  "name": "Bassline",
+  "wiki": "Bassline (music genre)",
+  "live": true,
+  "playlistTitle": "The Pulse of Old School Bassline",
+  "tried": [
+   "Bassline (music):ok (Bassline (music genre))"
+  ]
+ },
+ {
+  "name": "Beach Music",
+  "wiki": "Beach music",
+  "live": true,
+  "playlistTitle": "The Pulse of Beach Music",
+  "tried": [
+   "Beach Music (music):missing",
+   "Beach Music (genre):missing",
+   "Beach Music (music genre):missing",
+   "Beach Music:ok (Beach music)"
+  ]
+ },
+ {
+  "name": "Bebop",
+  "wiki": "Bebop",
+  "live": true,
+  "playlistTitle": "The Pulse of Bebop",
+  "tried": [
+   "Bebop (music):missing",
+   "Bebop (genre):missing",
+   "Bebop (music genre):missing",
+   "Bebop:ok"
+  ]
+ },
+ {
+  "name": "Bemani",
+  "wiki": "Bemani",
+  "live": false,
+  "playlistTitle": null,
+  "tried": [
+   "Bemani (music):missing",
+   "Bemani (genre):missing",
+   "Bemani (music genre):missing",
+   "Bemani:ok"
+  ]
+ },
+ {
+  "name": "Bhangra",
+  "wiki": "Bhangra (music)",
+  "live": true,
+  "playlistTitle": "The Pulse of Bhangra",
+  "tried": [
+   "Bhangra (music):ok"
+  ]
+ },
+ {
+  "name": "Big Band",
+  "wiki": "Big band",
+  "live": true,
+  "playlistTitle": "The Pulse of Big Band",
+  "tried": [
+   "Big Band (music):missing",
+   "Big Band (genre):missing",
+   "Big Band (music genre):missing",
+   "Big Band:ok (Big band)"
+  ]
+ },
+ {
+  "name": "Big Beat",
+  "wiki": "Big beat",
+  "live": true,
+  "playlistTitle": "The Pulse of Big Beat",
+  "tried": [
+   "Big Beat (music):missing",
+   "Big Beat (genre):missing",
+   "Big Beat (music genre):missing",
+   "Big Beat:ok (Big beat)"
+  ]
+ },
+ {
+  "name": "Black Metal",
+  "wiki": "Black metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Black Metal",
+  "tried": [
+   "Black Metal (music):missing",
+   "Black Metal (genre):missing",
+   "Black Metal (music genre):missing",
+   "Black Metal:ok (Black metal)"
+  ]
+ },
+ {
+  "name": "Blues",
+  "wiki": "Blues",
+  "live": true,
+  "playlistTitle": "The Pulse of Blues",
+  "tried": [
+   "Blues (music):ok (Blues)"
+  ]
+ },
+ {
+  "name": "Blues-Rock",
+  "wiki": "Blues rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Blues Rock",
+  "tried": [
+   "Blues-Rock (music):missing",
+   "Blues-Rock (genre):missing",
+   "Blues-Rock (music genre):missing",
+   "Blues-Rock:ok (Blues rock)"
+  ]
+ },
+ {
+  "name": "Bolero",
+  "wiki": "Bolero",
+  "live": true,
+  "playlistTitle": "The Pulse of Bolero",
+  "tried": [
+   "Bolero (music):missing",
+   "Bolero (genre):missing",
+   "Bolero (music genre):missing",
+   "Bolero:ok"
+  ]
+ },
+ {
+  "name": "Boogaloo",
+  "wiki": "Boogaloo",
+  "live": true,
+  "playlistTitle": "The Pulse of Boogaloo",
+  "tried": [
+   "Boogaloo (music):missing",
+   "Boogaloo (genre):missing",
+   "Boogaloo (music genre):missing",
+   "Boogaloo:ok"
+  ]
+ },
+ {
+  "name": "Boogie-Woogie",
+  "wiki": "Boogie-woogie",
+  "live": true,
+  "playlistTitle": "The Pulse of Boogie-Woogie",
+  "tried": [
+   "Boogie-Woogie (music):missing",
+   "Boogie-Woogie (genre):missing",
+   "Boogie-Woogie (music genre):missing",
+   "Boogie-Woogie:ok (Boogie-woogie)"
+  ]
+ },
+ {
+  "name": "Bossa Nova",
+  "wiki": "Bossa nova",
+  "live": true,
+  "playlistTitle": "The Pulse of Bossa Nova",
+  "tried": [
+   "Bossa Nova (music):missing",
+   "Bossa Nova (genre):missing",
+   "Bossa Nova (music genre):missing",
+   "Bossa Nova:ok (Bossa nova)"
+  ]
+ },
+ {
+  "name": "Boston Rock",
+  "wiki": null,
+  "live": true,
+  "playlistTitle": "The Pulse of Boston Rock",
+  "tried": [
+   "Boston Rock (music):missing",
+   "Boston Rock (genre):missing",
+   "Boston Rock (music genre):missing",
+   "Boston Rock:entity",
+   "Boston Rock music:missing",
+   "Bostonrock:missing"
+  ]
+ },
+ {
+  "name": "Boy Band",
+  "wiki": "Boy band",
+  "live": true,
+  "playlistTitle": "The Pulse of Boy Band",
+  "tried": [
+   "override:Boy band"
+  ]
+ },
+ {
+  "name": "Brass Band",
+  "wiki": "Brass band",
+  "live": true,
+  "playlistTitle": "The Pulse of Brass Band",
+  "tried": [
+   "Brass Band (music):missing",
+   "Brass Band (genre):missing",
+   "Brass Band (music genre):missing",
+   "Brass Band:ok (Brass band)"
+  ]
+ },
+ {
+  "name": "Breakbeat",
+  "wiki": "Breakbeat",
+  "live": true,
+  "playlistTitle": "The Pulse of Breakbeat",
+  "tried": [
+   "Breakbeat (music):missing",
+   "Breakbeat (genre):missing",
+   "Breakbeat (music genre):missing",
+   "Breakbeat:ok"
+  ]
+ },
+ {
+  "name": "Breakcore",
+  "wiki": "Breakcore",
+  "live": true,
+  "playlistTitle": "The Pulse of Breakcore",
+  "tried": [
+   "Breakcore (music):missing",
+   "Breakcore (genre):missing",
+   "Breakcore (music genre):missing",
+   "Breakcore:ok"
+  ]
+ },
+ {
+  "name": "Brill Building Pop",
+  "wiki": "Brill Building (genre)",
+  "live": true,
+  "playlistTitle": "The Pulse of Brill Building Pop",
+  "tried": [
+   "Brill Building Pop (music):missing",
+   "Brill Building Pop (genre):missing",
+   "Brill Building Pop (music genre):missing",
+   "Brill Building Pop:ok (Brill Building (genre))"
+  ]
+ },
+ {
+  "name": "British Blues",
+  "wiki": "British blues",
+  "live": true,
+  "playlistTitle": "The Pulse of British Blues",
+  "tried": [
+   "British Blues (music):missing",
+   "British Blues (genre):missing",
+   "British Blues (music genre):missing",
+   "British Blues:ok (British blues)"
+  ]
+ },
+ {
+  "name": "British Dance Band",
+  "wiki": "British dance band",
+  "live": true,
+  "playlistTitle": "The Pulse of British Dance Band",
+  "tried": [
+   "British Dance Band (music):missing",
+   "British Dance Band (genre):missing",
+   "British Dance Band (music genre):missing",
+   "British Dance Band:ok (British dance band)"
+  ]
+ },
+ {
+  "name": "British Invasion",
+  "wiki": "British Invasion",
+  "live": true,
+  "playlistTitle": "The Pulse of British Invasion",
+  "tried": [
+   "British Invasion (music):missing",
+   "British Invasion (genre):missing",
+   "British Invasion (music genre):missing",
+   "British Invasion:ok"
+  ]
+ },
+ {
+  "name": "Britpop",
+  "wiki": "Britpop",
+  "live": true,
+  "playlistTitle": "The Pulse of Britpop",
+  "tried": [
+   "Britpop (music):missing",
+   "Britpop (genre):missing",
+   "Britpop (music genre):missing",
+   "Britpop:ok"
+  ]
+ },
+ {
+  "name": "Broken Beat",
+  "wiki": "Broken beat",
+  "live": true,
+  "playlistTitle": "The Pulse of Broken Beat",
+  "tried": [
+   "Broken Beat (music):missing",
+   "Broken Beat (genre):missing",
+   "Broken Beat (music genre):missing",
+   "Broken Beat:ok (Broken beat)"
+  ]
+ },
+ {
+  "name": "Brutal Death Metal",
+  "wiki": "Brutal death metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Brutal Death Metal",
+  "tried": [
+   "Brutal Death Metal (music):missing",
+   "Brutal Death Metal (genre):missing",
+   "Brutal Death Metal (music genre):missing",
+   "Brutal Death Metal:ok (Brutal death metal)"
+  ]
+ },
+ {
+  "name": "Bubblegum Dance",
+  "wiki": "Bubblegum music",
+  "live": true,
+  "playlistTitle": "The Pulse of Bubblegum Dance",
+  "tried": [
+   "Bubblegum Dance (music):missing",
+   "Bubblegum Dance (genre):missing",
+   "Bubblegum Dance (music genre):missing",
+   "Bubblegum Dance:ok (Bubblegum music)"
+  ]
+ },
+ {
+  "name": "Bubblegum Pop",
+  "wiki": "Bubblegum music",
+  "live": true,
+  "playlistTitle": "The Pulse of Bubblegum Pop",
+  "tried": [
+   "Bubblegum Pop (music):missing",
+   "Bubblegum Pop (genre):missing",
+   "Bubblegum Pop (music genre):missing",
+   "Bubblegum Pop:ok (Bubblegum music)"
+  ]
+ },
+ {
+  "name": "C-Pop",
+  "wiki": "C-pop",
+  "live": true,
+  "playlistTitle": "The Pulse of C-Pop",
+  "tried": [
+   "C-Pop (music):missing",
+   "C-Pop (genre):missing",
+   "C-Pop (music genre):missing",
+   "C-Pop:ok (C-pop)"
+  ]
+ },
+ {
+  "name": "C86",
+  "wiki": "C86",
+  "live": true,
+  "playlistTitle": "The Pulse of C86",
+  "tried": [
+   "override:C86"
+  ]
+ },
+ {
+  "name": "Cabaret",
+  "wiki": "Cabaret",
+  "live": true,
+  "playlistTitle": "The Pulse of Cabaret",
+  "tried": [
+   "Cabaret (music):ok (Cabaret)"
+  ]
+ },
+ {
+  "name": "Canadian Hip Hop",
+  "wiki": "Canadian hip-hop",
+  "live": true,
+  "playlistTitle": "The Pulse of Canadian Hip Hop",
+  "tried": [
+   "Canadian Hip Hop (music):missing",
+   "Canadian Hip Hop (genre):missing",
+   "Canadian Hip Hop (music genre):missing",
+   "Canadian Hip Hop:ok (Canadian hip-hop)"
+  ]
+ },
+ {
+  "name": "Candy Pop",
+  "wiki": null,
+  "live": true,
+  "playlistTitle": "The Pulse of Candy Pop",
+  "tried": [
+   "Candy Pop (music):missing",
+   "Candy Pop (genre):missing",
+   "Candy Pop (music genre):missing",
+   "Candy Pop:disambiguation",
+   "Candy Pop music:missing",
+   "Candypop:missing"
+  ]
+ },
+ {
+  "name": "Canterbury Scene",
+  "wiki": "Canterbury scene",
+  "live": true,
+  "playlistTitle": "The Pulse of Canterbury Scene",
+  "tried": [
+   "Canterbury Scene (music):missing",
+   "Canterbury Scene (genre):missing",
+   "Canterbury Scene (music genre):missing",
+   "Canterbury Scene:ok (Canterbury scene)"
+  ]
+ },
+ {
+  "name": "Cantopop",
+  "wiki": "Cantopop",
+  "live": true,
+  "playlistTitle": "The Pulse of Cantopop",
+  "tried": [
+   "Cantopop (music):missing",
+   "Cantopop (genre):missing",
+   "Cantopop (music genre):missing",
+   "Cantopop:ok"
+  ]
+ },
+ {
+  "name": "Canzone Napoletana",
+  "wiki": "Canzone napoletana",
+  "live": true,
+  "playlistTitle": "The Pulse of Canzone Napoletana",
+  "tried": [
+   "Canzone Napoletana (music):missing",
+   "Canzone Napoletana (genre):missing",
+   "Canzone Napoletana (music genre):missing",
+   "Canzone Napoletana:ok (Canzone napoletana)"
+  ]
+ },
+ {
+  "name": "Capoeira",
+  "wiki": "Capoeira music",
+  "live": true,
+  "playlistTitle": "The Pulse of Capoeira",
+  "tried": [
+   "Capoeira (music):missing",
+   "Capoeira (genre):missing",
+   "Capoeira (music genre):missing",
+   "Capoeira:entity",
+   "Capoeira music:ok"
+  ]
+ },
+ {
+  "name": "Carnatic",
+  "wiki": "Carnatic music",
+  "live": true,
+  "playlistTitle": "The Pulse of Carnatic",
+  "tried": [
+   "Carnatic (music):missing",
+   "Carnatic (genre):missing",
+   "Carnatic (music genre):missing",
+   "Carnatic:disambiguation",
+   "Carnatic music:ok"
+  ]
+ },
+ {
+  "name": "Ceilidh",
+  "wiki": "Cèilidh",
+  "live": true,
+  "playlistTitle": "The Pulse of Ceilidh",
+  "tried": [
+   "Ceilidh (music):missing",
+   "Ceilidh (genre):missing",
+   "Ceilidh (music genre):missing",
+   "Ceilidh:ok (Cèilidh)"
+  ]
+ },
+ {
+  "name": "Cello",
+  "wiki": "Cello",
+  "live": true,
+  "playlistTitle": "The Pulse of Cello",
+  "tried": [
+   "Cello (music):missing",
+   "Cello (genre):missing",
+   "Cello (music genre):missing",
+   "Cello:ok"
+  ]
+ },
+ {
+  "name": "Celtic Punk",
+  "wiki": "Celtic punk",
+  "live": true,
+  "playlistTitle": "The Pulse of Celtic Punk",
+  "tried": [
+   "Celtic Punk (music):missing",
+   "Celtic Punk (genre):missing",
+   "Celtic Punk (music genre):missing",
+   "Celtic Punk:ok (Celtic punk)"
+  ]
+ },
+ {
+  "name": "Celtic Rock",
+  "wiki": "Celtic rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Celtic Rock",
+  "tried": [
+   "Celtic Rock (music):missing",
+   "Celtic Rock (genre):missing",
+   "Celtic Rock (music genre):missing",
+   "Celtic Rock:ok (Celtic rock)"
+  ]
+ },
+ {
+  "name": "Chalga",
+  "wiki": "Chalga",
+  "live": true,
+  "playlistTitle": "The Pulse of Chalga",
+  "tried": [
+   "Chalga (music):missing",
+   "Chalga (genre):missing",
+   "Chalga (music genre):missing",
+   "Chalga:ok"
+  ]
+ },
+ {
+  "name": "Chamber Choir",
+  "wiki": "Chamber choir",
+  "live": true,
+  "playlistTitle": "The Pulse of Chamber Choir",
+  "tried": [
+   "Chamber Choir (music):missing",
+   "Chamber Choir (genre):missing",
+   "Chamber Choir (music genre):missing",
+   "Chamber Choir:ok (Chamber choir)"
+  ]
+ },
+ {
+  "name": "Chamber Pop",
+  "wiki": "Chamber pop",
+  "live": true,
+  "playlistTitle": "The Pulse of Chamber Pop",
+  "tried": [
+   "Chamber Pop (music):missing",
+   "Chamber Pop (genre):missing",
+   "Chamber Pop (music genre):missing",
+   "Chamber Pop:ok (Chamber pop)"
+  ]
+ },
+ {
+  "name": "Chanson",
+  "wiki": "Chanson",
+  "live": true,
+  "playlistTitle": "The Pulse of Chanson",
+  "tried": [
+   "Chanson (music):missing",
+   "Chanson (genre):missing",
+   "Chanson (music genre):missing",
+   "Chanson:ok"
+  ]
+ },
+ {
+  "name": "Chicago Blues",
+  "wiki": "Chicago blues",
+  "live": true,
+  "playlistTitle": "The Pulse of Chicago Blues",
+  "tried": [
+   "Chicago Blues (music):missing",
+   "Chicago Blues (genre):missing",
+   "Chicago Blues (music genre):missing",
+   "Chicago Blues:ok (Chicago blues)"
+  ]
+ },
+ {
+  "name": "Chicago House",
+  "wiki": "Chicago house",
+  "live": true,
+  "playlistTitle": "The Pulse of Chicago House",
+  "tried": [
+   "Chicago House (music):missing",
+   "Chicago House (genre):missing",
+   "Chicago House (music genre):missing",
+   "Chicago House:ok (Chicago house)"
+  ]
+ },
+ {
+  "name": "Chicago Soul",
+  "wiki": "Chicago soul",
+  "live": true,
+  "playlistTitle": "The Pulse of Chicago Soul",
+  "tried": [
+   "Chicago Soul (music):missing",
+   "Chicago Soul (genre):missing",
+   "Chicago Soul (music genre):missing",
+   "Chicago Soul:ok (Chicago soul)"
+  ]
+ },
+ {
+  "name": "Chicano Rap",
+  "wiki": "Chicano rap",
+  "live": true,
+  "playlistTitle": "The Pulse of Chicano Rap",
+  "tried": [
+   "Chicano Rap (music):missing",
+   "Chicano Rap (genre):missing",
+   "Chicano Rap (music genre):missing",
+   "Chicano Rap:ok (Chicano rap)"
+  ]
+ },
+ {
+  "name": "Children's Music",
+  "wiki": "Children's music",
+  "live": true,
+  "playlistTitle": "The Pulse of Children's Music",
+  "tried": [
+   "Children's Music (music):missing",
+   "Children's Music (genre):missing",
+   "Children's Music (music genre):missing",
+   "Children's Music:ok (Children's music)"
+  ]
+ },
+ {
+  "name": "Chillwave",
+  "wiki": "Chillwave",
+  "live": true,
+  "playlistTitle": "The Pulse of Chillwave",
+  "tried": [
+   "Chillwave (music):missing",
+   "Chillwave (genre):missing",
+   "Chillwave (music genre):missing",
+   "Chillwave:ok"
+  ]
+ },
+ {
+  "name": "Chinese Opera",
+  "wiki": "Chinese opera",
+  "live": true,
+  "playlistTitle": "The Pulse of Chinese Opera",
+  "tried": [
+   "Chinese Opera (music):missing",
+   "Chinese Opera (genre):missing",
+   "Chinese Opera (music genre):missing",
+   "Chinese Opera:ok (Chinese opera)"
+  ]
+ },
+ {
+  "name": "Chiptune",
+  "wiki": "Chiptune",
+  "live": true,
+  "playlistTitle": "The Pulse of Chiptune",
+  "tried": [
+   "Chiptune (music):missing",
+   "Chiptune (genre):missing",
+   "Chiptune (music genre):missing",
+   "Chiptune:ok"
+  ]
+ },
+ {
+  "name": "Choral",
+  "wiki": "Choir",
+  "live": true,
+  "playlistTitle": "The Pulse of Choral",
+  "tried": [
+   "Choral (music):missing",
+   "Choral (genre):missing",
+   "Choral (music genre):missing",
+   "Choral:ok (Choir)"
+  ]
+ },
+ {
+  "name": "Choro",
+  "wiki": "Choro",
+  "live": true,
+  "playlistTitle": "The Pulse of Choro",
+  "tried": [
+   "Choro (music):missing",
+   "Choro (genre):missing",
+   "Choro (music genre):missing",
+   "Choro:ok"
+  ]
+ },
+ {
+  "name": "Christian Alternative Rock",
+  "wiki": "Christian alternative rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Christian Alternative Rock",
+  "tried": [
+   "Christian Alternative Rock (music):missing",
+   "Christian Alternative Rock (genre):missing",
+   "Christian Alternative Rock (music genre):missing",
+   "Christian Alternative Rock:ok (Christian alternative rock)"
+  ]
+ },
+ {
+  "name": "Christian Hardcore",
+  "wiki": "Christian hardcore",
+  "live": true,
+  "playlistTitle": "The Pulse of Christian Hardcore",
+  "tried": [
+   "Christian Hardcore (music):missing",
+   "Christian Hardcore (genre):missing",
+   "Christian Hardcore (music genre):missing",
+   "Christian Hardcore:ok (Christian hardcore)"
+  ]
+ },
+ {
+  "name": "Christian Hip Hop",
+  "wiki": "Christian hip-hop",
+  "live": true,
+  "playlistTitle": "The Pulse of Christian Hip Hop",
+  "tried": [
+   "Christian Hip Hop (music):missing",
+   "Christian Hip Hop (genre):missing",
+   "Christian Hip Hop (music genre):missing",
+   "Christian Hip Hop:ok (Christian hip-hop)"
+  ]
+ },
+ {
+  "name": "Christian Metal",
+  "wiki": "Christian metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Christian Metal",
+  "tried": [
+   "Christian Metal (music):missing",
+   "Christian Metal (genre):missing",
+   "Christian Metal (music genre):missing",
+   "Christian Metal:ok (Christian metal)"
+  ]
+ },
+ {
+  "name": "Christian Music",
+  "wiki": "Christian music",
+  "live": true,
+  "playlistTitle": "The Pulse of Christian Music",
+  "tried": [
+   "Christian Music (music):missing",
+   "Christian Music (genre):missing",
+   "Christian Music (music genre):missing",
+   "Christian Music:ok (Christian music)"
+  ]
+ },
+ {
+  "name": "Christian Punk",
+  "wiki": "Christian punk",
+  "live": true,
+  "playlistTitle": "The Pulse of Christian Punk",
+  "tried": [
+   "Christian Punk (music):missing",
+   "Christian Punk (genre):missing",
+   "Christian Punk (music genre):missing",
+   "Christian Punk:ok (Christian punk)"
+  ]
+ },
+ {
+  "name": "Christian Rock",
+  "wiki": "Christian rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Christian Rock",
+  "tried": [
+   "Christian Rock (music):missing",
+   "Christian Rock (genre):missing",
+   "Christian Rock (music genre):missing",
+   "Christian Rock:ok (Christian rock)"
+  ]
+ },
+ {
+  "name": "Clarinet",
+  "wiki": "Clarinet",
+  "live": true,
+  "playlistTitle": "The Pulse of Classical Clarinet",
+  "tried": [
+   "Clarinet (music):missing",
+   "Clarinet (genre):missing",
+   "Clarinet (music genre):missing",
+   "Clarinet:ok"
+  ]
+ },
+ {
+  "name": "Classic Rock",
+  "wiki": "Classic rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Classic Rock",
+  "tried": [
+   "Classic Rock (music):missing",
+   "Classic Rock (genre):missing",
+   "Classic Rock (music genre):missing",
+   "Classic Rock:ok (Classic rock)"
+  ]
+ },
+ {
+  "name": "Classical Guitar",
+  "wiki": "Classical guitar",
+  "live": true,
+  "playlistTitle": "The Pulse of Classical Guitar",
+  "tried": [
+   "Classical Guitar (music):missing",
+   "Classical Guitar (genre):missing",
+   "Classical Guitar (music genre):missing",
+   "Classical Guitar:ok (Classical guitar)"
+  ]
+ },
+ {
+  "name": "Classical Period",
+  "wiki": "Classical period (music)",
+  "live": true,
+  "playlistTitle": "The Pulse of Classical Period",
+  "tried": [
+   "Classical Period (music):ok (Classical period (music))"
+  ]
+ },
+ {
+  "name": "Colombian Rock",
+  "wiki": "Colombian rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Colombian Rock",
+  "tried": [
+   "Colombian Rock (music):missing",
+   "Colombian Rock (genre):missing",
+   "Colombian Rock (music genre):missing",
+   "Colombian Rock:ok (Colombian rock)"
+  ]
+ },
+ {
+  "name": "Comedy Rock",
+  "wiki": "Comedy rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Comedy Rock",
+  "tried": [
+   "Comedy Rock (music):missing",
+   "Comedy Rock (genre):missing",
+   "Comedy Rock (music genre):missing",
+   "Comedy Rock:ok (Comedy rock)"
+  ]
+ },
+ {
+  "name": "Complextro",
+  "wiki": "Electro house",
+  "live": true,
+  "playlistTitle": "The Pulse of Complextro",
+  "tried": [
+   "Complextro (music):missing",
+   "Complextro (genre):missing",
+   "Complextro (music genre):missing",
+   "Complextro:ok (Electro house)"
+  ]
+ },
+ {
+  "name": "Contemporary Country",
+  "wiki": null,
+  "live": true,
+  "playlistTitle": "The Pulse of Contemporary Country",
+  "tried": [
+   "Contemporary Country (music):missing",
+   "Contemporary Country (genre):missing",
+   "Contemporary Country (music genre):missing",
+   "Contemporary Country:entity",
+   "Contemporary Country music:missing",
+   "Contemporarycountry:missing"
+  ]
+ },
+ {
+  "name": "Contemporary Jazz",
+  "wiki": null,
+  "live": true,
+  "playlistTitle": "The Pulse of Contemporary Jazz",
+  "tried": [
+   "override:none"
+  ]
+ },
+ {
+  "name": "Cool Jazz",
+  "wiki": "Cool jazz",
+  "live": true,
+  "playlistTitle": "The Pulse of Cool Jazz",
+  "tried": [
+   "Cool Jazz (music):missing",
+   "Cool Jazz (genre):missing",
+   "Cool Jazz (music genre):missing",
+   "Cool Jazz:ok (Cool jazz)"
+  ]
+ },
+ {
+  "name": "Country Blues",
+  "wiki": "Country blues",
+  "live": true,
+  "playlistTitle": "The Pulse of Country Blues",
+  "tried": [
+   "Country Blues (music):missing",
+   "Country Blues (genre):missing",
+   "Country Blues (music genre):missing",
+   "Country Blues:entity",
+   "Country Blues music:missing",
+   "Countryblues:missing",
+   "search:Country blues:ok"
+  ]
+ },
+ {
+  "name": "Country Gospel",
+  "wiki": "Christian country music",
+  "live": true,
+  "playlistTitle": "The Pulse of Country Gospel",
+  "tried": [
+   "Country Gospel (music):missing",
+   "Country Gospel (genre):missing",
+   "Country Gospel (music genre):missing",
+   "Country Gospel:ok (Christian country music)"
+  ]
+ },
+ {
+  "name": "Country Road",
+  "wiki": null,
+  "live": true,
+  "playlistTitle": "The Pulse of Country Road",
+  "tried": [
+   "Country Road (music):missing",
+   "Country Road (genre):missing",
+   "Country Road (music genre):missing",
+   "Country Road:disambiguation",
+   "Country Road music:missing",
+   "Countryroad:missing"
+  ]
+ },
+ {
+  "name": "Country Rock",
+  "wiki": "Country rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Country Rock",
+  "tried": [
+   "Country Rock (music):missing",
+   "Country Rock (genre):missing",
+   "Country Rock (music genre):missing",
+   "Country Rock:ok (Country rock)"
+  ]
+ },
+ {
+  "name": "Crunk",
+  "wiki": "Crunk",
+  "live": true,
+  "playlistTitle": "The Pulse of Crunk",
+  "tried": [
+   "Crunk (music):ok (Crunk)"
+  ]
+ },
+ {
+  "name": "Crust Punk",
+  "wiki": "Crust punk",
+  "live": true,
+  "playlistTitle": "The Pulse of Crust Punk",
+  "tried": [
+   "Crust Punk (music):missing",
+   "Crust Punk (genre):missing",
+   "Crust Punk (music genre):missing",
+   "Crust Punk:ok (Crust punk)"
+  ]
+ },
+ {
+  "name": "Cuban Rumba",
+  "wiki": "Cuban rumba",
+  "live": true,
+  "playlistTitle": "The Pulse of Cuban Rumba",
+  "tried": [
+   "Cuban Rumba (music):missing",
+   "Cuban Rumba (genre):missing",
+   "Cuban Rumba (music genre):missing",
+   "Cuban Rumba:ok (Cuban rumba)"
+  ]
+ },
+ {
+  "name": "Cubaton",
+  "wiki": "Reggaeton",
+  "live": true,
+  "playlistTitle": "The Pulse of Cubaton",
+  "tried": [
+   "Cubaton (music):missing",
+   "Cubaton (genre):missing",
+   "Cubaton (music genre):missing",
+   "Cubaton:ok (Reggaeton)"
+  ]
+ },
+ {
+  "name": "Cumbia",
+  "wiki": "Cumbia",
+  "live": true,
+  "playlistTitle": "The Pulse of Cumbia",
+  "tried": [
+   "Cumbia (music):missing",
+   "Cumbia (genre):missing",
+   "Cumbia (music genre):missing",
+   "Cumbia:ok"
+  ]
+ },
+ {
+  "name": "Cumbia Villera",
+  "wiki": "Cumbia villera",
+  "live": true,
+  "playlistTitle": "The Pulse of Cumbia Villera",
+  "tried": [
+   "Cumbia Villera (music):missing",
+   "Cumbia Villera (genre):missing",
+   "Cumbia Villera (music genre):missing",
+   "Cumbia Villera:ok (Cumbia villera)"
+  ]
+ },
+ {
+  "name": "Cyber Metal",
+  "wiki": "Industrial metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Cyber Metal",
+  "tried": [
+   "Cyber Metal (music):missing",
+   "Cyber Metal (genre):missing",
+   "Cyber Metal (music genre):missing",
+   "Cyber Metal:ok (Industrial metal)"
+  ]
+ },
+ {
+  "name": "Dance Pop",
+  "wiki": "Dance-pop",
+  "live": true,
+  "playlistTitle": "The Pulse of Dance Pop",
+  "tried": [
+   "Dance Pop (music):missing",
+   "Dance Pop (genre):missing",
+   "Dance Pop (music genre):missing",
+   "Dance Pop:ok (Dance-pop)"
+  ]
+ },
+ {
+  "name": "Dance Rock",
+  "wiki": "Dance-rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Dance Rock",
+  "tried": [
+   "Dance Rock (music):missing",
+   "Dance Rock (genre):missing",
+   "Dance Rock (music genre):missing",
+   "Dance Rock:ok (Dance-rock)"
+  ]
+ },
+ {
+  "name": "Dancehall",
+  "wiki": "Dancehall",
+  "live": true,
+  "playlistTitle": "The Pulse of Dancehall",
+  "tried": [
+   "Dancehall (music):missing",
+   "Dancehall (genre):missing",
+   "Dancehall (music genre):missing",
+   "Dancehall:ok"
+  ]
+ },
+ {
+  "name": "Dangdut",
+  "wiki": "Dangdut",
+  "live": true,
+  "playlistTitle": "The Pulse of Dangdut",
+  "tried": [
+   "Dangdut (music):missing",
+   "Dangdut (genre):missing",
+   "Dangdut (music genre):missing",
+   "Dangdut:ok"
+  ]
+ },
+ {
+  "name": "Dansband",
+  "wiki": "Dansband",
+  "live": true,
+  "playlistTitle": "The Pulse of Dansband",
+  "tried": [
+   "Dansband (music):missing",
+   "Dansband (genre):missing",
+   "Dansband (music genre):missing",
+   "Dansband:ok"
+  ]
+ },
+ {
+  "name": "Danseband",
+  "wiki": "Dansband",
+  "live": true,
+  "playlistTitle": "The Pulse of Danseband",
+  "tried": [
+   "Danseband (music):missing",
+   "Danseband (genre):missing",
+   "Danseband (music genre):missing",
+   "Danseband:ok (Dansband)"
+  ]
+ },
+ {
+  "name": "Dansktop",
+  "wiki": null,
+  "live": true,
+  "playlistTitle": "The Pulse of Dansktop",
+  "tried": [
+   "override:none"
+  ]
+ },
+ {
+  "name": "Dark Ambient",
+  "wiki": "Dark ambient",
+  "live": true,
+  "playlistTitle": "The Pulse of Dark Ambient",
+  "tried": [
+   "Dark Ambient (music):missing",
+   "Dark Ambient (genre):missing",
+   "Dark Ambient (music genre):missing",
+   "Dark Ambient:ok (Dark ambient)"
+  ]
+ },
+ {
+  "name": "Dark Cabaret",
+  "wiki": "Dark cabaret",
+  "live": true,
+  "playlistTitle": "The Pulse of Dark Cabaret",
+  "tried": [
+   "Dark Cabaret (music):missing",
+   "Dark Cabaret (genre):missing",
+   "Dark Cabaret (music genre):missing",
+   "Dark Cabaret:ok (Dark cabaret)"
+  ]
+ },
+ {
+  "name": "Dark Psytrance",
+  "wiki": "Psychedelic trance",
+  "live": true,
+  "playlistTitle": "The Pulse of Dark Psytrance",
+  "tried": [
+   "Dark Psytrance (music):missing",
+   "Dark Psytrance (genre):missing",
+   "Dark Psytrance (music genre):missing",
+   "Dark Psytrance:ok (Psychedelic trance)"
+  ]
+ },
+ {
+  "name": "Dark Wave",
+  "wiki": "Dark wave",
+  "live": true,
+  "playlistTitle": "The Pulse of Dark Wave",
+  "tried": [
+   "Dark Wave (music):missing",
+   "Dark Wave (genre):missing",
+   "Dark Wave (music genre):missing",
+   "Dark Wave:ok (Dark wave)"
+  ]
+ },
+ {
+  "name": "Darkstep",
+  "wiki": "Drum and bass",
+  "live": true,
+  "playlistTitle": "The Pulse of Darkstep",
+  "tried": [
+   "Darkstep (music):missing",
+   "Darkstep (genre):missing",
+   "Darkstep (music genre):missing",
+   "Darkstep:ok (Drum and bass)"
+  ]
+ },
+ {
+  "name": "Death Metal",
+  "wiki": "Death metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Death Metal",
+  "tried": [
+   "Death Metal (music):missing",
+   "Death Metal (genre):missing",
+   "Death Metal (music genre):missing",
+   "Death Metal:ok (Death metal)"
+  ]
+ },
+ {
+  "name": "Deathgrind",
+  "wiki": "Deathgrind",
+  "live": true,
+  "playlistTitle": "The Pulse of Deathgrind",
+  "tried": [
+   "Deathgrind (music):missing",
+   "Deathgrind (genre):missing",
+   "Deathgrind (music genre):missing",
+   "Deathgrind:ok"
+  ]
+ },
+ {
+  "name": "Deep Funk",
+  "wiki": "Deep funk",
+  "live": true,
+  "playlistTitle": "The Pulse of Deep Funk",
+  "tried": [
+   "Deep Funk (music):missing",
+   "Deep Funk (genre):missing",
+   "Deep Funk (music genre):missing",
+   "Deep Funk:ok (Deep funk)"
+  ]
+ },
+ {
+  "name": "Deep House",
+  "wiki": "Deep house",
+  "live": true,
+  "playlistTitle": "The Pulse of Deep House",
+  "tried": [
+   "Deep House (music):missing",
+   "Deep House (genre):missing",
+   "Deep House (music genre):missing",
+   "Deep House:ok (Deep house)"
+  ]
+ },
+ {
+  "name": "Delta Blues",
+  "wiki": "Delta blues",
+  "live": true,
+  "playlistTitle": "The Pulse of Delta Blues",
+  "tried": [
+   "Delta Blues (music):missing",
+   "Delta Blues (genre):missing",
+   "Delta Blues (music genre):missing",
+   "Delta Blues:ok (Delta blues)"
+  ]
+ },
+ {
+  "name": "Demoscene",
+  "wiki": "Demoscene",
+  "live": true,
+  "playlistTitle": "The Pulse of Demoscene",
+  "tried": [
+   "Demoscene (music):missing",
+   "Demoscene (genre):missing",
+   "Demoscene (music genre):missing",
+   "Demoscene:ok"
+  ]
+ },
+ {
+  "name": "Detroit Hip Hop",
+  "wiki": "Music of Detroit",
+  "live": true,
+  "playlistTitle": "The Pulse of Detroit Hip Hop",
+  "tried": [
+   "Detroit Hip Hop (music):missing",
+   "Detroit Hip Hop (genre):missing",
+   "Detroit Hip Hop (music genre):missing",
+   "Detroit Hip Hop:ok (Music of Detroit)"
+  ]
+ },
+ {
+  "name": "Detroit Techno",
+  "wiki": "Detroit techno",
+  "live": true,
+  "playlistTitle": "The Pulse of Detroit Techno",
+  "tried": [
+   "Detroit Techno (music):missing",
+   "Detroit Techno (genre):missing",
+   "Detroit Techno (music genre):missing",
+   "Detroit Techno:ok (Detroit techno)"
+  ]
+ },
+ {
+  "name": "Didgeridoo",
+  "wiki": "Didgeridoo",
+  "live": true,
+  "playlistTitle": "The Pulse of Didgeridoo",
+  "tried": [
+   "Didgeridoo (music):missing",
+   "Didgeridoo (genre):missing",
+   "Didgeridoo (music genre):missing",
+   "Didgeridoo:ok"
+  ]
+ },
+ {
+  "name": "Digital Hardcore",
+  "wiki": "Digital hardcore",
+  "live": true,
+  "playlistTitle": "The Pulse of Digital Hardcore",
+  "tried": [
+   "Digital Hardcore (music):missing",
+   "Digital Hardcore (genre):missing",
+   "Digital Hardcore (music genre):missing",
+   "Digital Hardcore:ok (Digital hardcore)"
+  ]
+ },
+ {
+  "name": "Disco",
+  "wiki": "Disco",
+  "live": true,
+  "playlistTitle": "The Pulse of Disco",
+  "tried": [
+   "Disco (music):ok (Disco)"
+  ]
+ },
+ {
+  "name": "Disco House",
+  "wiki": "French house",
+  "live": true,
+  "playlistTitle": "The Pulse of Disco House",
+  "tried": [
+   "Disco House (music):missing",
+   "Disco House (genre):missing",
+   "Disco House (music genre):missing",
+   "Disco House:ok (French house)"
+  ]
+ },
+ {
+  "name": "Dixieland",
+  "wiki": "Dixieland jazz",
+  "live": true,
+  "playlistTitle": "The Pulse of Dixieland",
+  "tried": [
+   "Dixieland (music):missing",
+   "Dixieland (genre):missing",
+   "Dixieland (music genre):missing",
+   "Dixieland:ok (Dixieland jazz)"
+  ]
+ },
+ {
+  "name": "Djent",
+  "wiki": "Djent",
+  "live": true,
+  "playlistTitle": "The Pulse of Djent",
+  "tried": [
+   "Djent (music):missing",
+   "Djent (genre):missing",
+   "Djent (music genre):missing",
+   "Djent:ok"
+  ]
+ },
+ {
+  "name": "Doo-Wop",
+  "wiki": "Doo-wop",
+  "live": true,
+  "playlistTitle": "The Pulse of Doo-Wop",
+  "tried": [
+   "Doo-Wop (music):missing",
+   "Doo-Wop (genre):missing",
+   "Doo-Wop (music genre):missing",
+   "Doo-Wop:ok (Doo-wop)"
+  ]
+ },
+ {
+  "name": "Doom Metal",
+  "wiki": "Doom metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Doom Metal",
+  "tried": [
+   "Doom Metal (music):missing",
+   "Doom Metal (genre):missing",
+   "Doom Metal (music genre):missing",
+   "Doom Metal:ok (Doom metal)"
+  ]
+ },
+ {
+  "name": "Doomcore",
+  "wiki": "Hardcore (electronic dance music genre)",
+  "live": true,
+  "playlistTitle": "The Pulse of Doomcore",
+  "tried": [
+   "Doomcore (music):missing",
+   "Doomcore (genre):missing",
+   "Doomcore (music genre):missing",
+   "Doomcore:ok (Hardcore (electronic dance music genre))"
+  ]
+ },
+ {
+  "name": "Doujin",
+  "wiki": "Doujin",
+  "live": true,
+  "playlistTitle": "The Pulse of Doujin",
+  "tried": [
+   "Doujin (music):missing",
+   "Doujin (genre):missing",
+   "Doujin (music genre):missing",
+   "Doujin:ok"
+  ]
+ },
+ {
+  "name": "Downtempo",
+  "wiki": "Downtempo",
+  "live": true,
+  "playlistTitle": "The Pulse of Downtempo",
+  "tried": [
+   "Downtempo (music):missing",
+   "Downtempo (genre):missing",
+   "Downtempo (music genre):missing",
+   "Downtempo:ok"
+  ]
+ },
+ {
+  "name": "Dream Pop",
+  "wiki": "Dream pop",
+  "live": true,
+  "playlistTitle": "The Pulse of Dream Pop",
+  "tried": [
+   "Dream Pop (music):missing",
+   "Dream Pop (genre):missing",
+   "Dream Pop (music genre):missing",
+   "Dream Pop:ok (Dream pop)"
+  ]
+ },
+ {
+  "name": "Drone Metal",
+  "wiki": "Drone metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Drone Metal",
+  "tried": [
+   "Drone Metal (music):missing",
+   "Drone Metal (genre):missing",
+   "Drone Metal (music genre):missing",
+   "Drone Metal:ok (Drone metal)"
+  ]
+ },
+ {
+  "name": "Drum and Bass",
+  "wiki": "Drum and bass",
+  "live": true,
+  "playlistTitle": "The Pulse of Drum and Bass",
+  "tried": [
+   "Drum and Bass (music):missing",
+   "Drum and Bass (genre):missing",
+   "Drum and Bass (music genre):missing",
+   "Drum and Bass:ok (Drum and bass)"
+  ]
+ },
+ {
+  "name": "Drumfunk",
+  "wiki": "Drum and bass",
+  "live": true,
+  "playlistTitle": "The Pulse of Drumfunk",
+  "tried": [
+   "Drumfunk (music):missing",
+   "Drumfunk (genre):missing",
+   "Drumfunk (music genre):missing",
+   "Drumfunk:ok (Drum and bass)"
+  ]
+ },
+ {
+  "name": "Dub",
+  "wiki": "Dub music",
+  "live": true,
+  "playlistTitle": "The Pulse of Dub",
+  "tried": [
+   "Dub (music):ok (Dub music)"
+  ]
+ },
+ {
+  "name": "Dub Techno",
+  "wiki": "Dub techno",
+  "live": true,
+  "playlistTitle": "The Pulse of Dub Techno",
+  "tried": [
+   "Dub Techno (music):missing",
+   "Dub Techno (genre):missing",
+   "Dub Techno (music genre):missing",
+   "Dub Techno:ok (Dub techno)"
+  ]
+ },
+ {
+  "name": "Dubstep",
+  "wiki": "Dubstep",
+  "live": true,
+  "playlistTitle": "The Pulse of Classic Dubstep",
+  "tried": [
+   "Dubstep (music):missing",
+   "Dubstep (genre):missing",
+   "Dubstep (music genre):missing",
+   "Dubstep:ok"
+  ]
+ },
+ {
+  "name": "Duranguense",
+  "wiki": "Duranguense",
+  "live": true,
+  "playlistTitle": "The Pulse of Duranguense",
+  "tried": [
+   "Duranguense (music):missing",
+   "Duranguense (genre):missing",
+   "Duranguense (music genre):missing",
+   "Duranguense:ok"
+  ]
+ },
+ {
+  "name": "Dutch House",
+  "wiki": "Electro house",
+  "live": true,
+  "playlistTitle": "The Pulse of Dutch House",
+  "tried": [
+   "Dutch House (music):missing",
+   "Dutch House (genre):missing",
+   "Dutch House (music genre):missing",
+   "Dutch House:ok (Electro house)"
+  ]
+ },
+ {
+  "name": "Dutch Pop",
+  "wiki": "Music of the Netherlands",
+  "live": true,
+  "playlistTitle": "The Pulse of Dutch Pop",
+  "tried": [
+   "Dutch Pop (music):missing",
+   "Dutch Pop (genre):missing",
+   "Dutch Pop (music genre):missing",
+   "Dutch Pop:ok (Music of the Netherlands)"
+  ]
+ },
+ {
+  "name": "Early Music",
+  "wiki": "Early music",
+  "live": true,
+  "playlistTitle": "The Pulse of Early Music",
+  "tried": [
+   "Early Music (music):missing",
+   "Early Music (genre):missing",
+   "Early Music (music genre):missing",
+   "Early Music:ok (Early music)"
+  ]
+ },
+ {
+  "name": "East Coast Hip Hop",
+  "wiki": "East Coast hip-hop",
+  "live": true,
+  "playlistTitle": "The Pulse of East Coast Hip Hop",
+  "tried": [
+   "East Coast Hip Hop (music):missing",
+   "East Coast Hip Hop (genre):missing",
+   "East Coast Hip Hop (music genre):missing",
+   "East Coast Hip Hop:ok (East Coast hip-hop)"
+  ]
+ },
+ {
+  "name": "Easy Listening",
+  "wiki": "Easy listening",
+  "live": true,
+  "playlistTitle": "The Pulse of Easy Listening",
+  "tried": [
+   "Easy Listening (music):missing",
+   "Easy Listening (genre):missing",
+   "Easy Listening (music genre):missing",
+   "Easy Listening:ok (Easy listening)"
+  ]
+ },
+ {
+  "name": "Electric Blues",
+  "wiki": "Electric blues",
+  "live": true,
+  "playlistTitle": "The Pulse of Electric Blues",
+  "tried": [
+   "Electric Blues (music):missing",
+   "Electric Blues (genre):missing",
+   "Electric Blues (music genre):missing",
+   "Electric Blues:disambiguation",
+   "Electric Blues music:missing",
+   "Electricblues:missing",
+   "search:Electric blues:ok"
+  ]
+ },
+ {
+  "name": "Electro House",
+  "wiki": "Electro house",
+  "live": true,
+  "playlistTitle": "The Pulse of Electro House",
+  "tried": [
+   "Electro House (music):missing",
+   "Electro House (genre):missing",
+   "Electro House (music genre):missing",
+   "Electro House:ok (Electro house)"
+  ]
+ },
+ {
+  "name": "Electro Swing",
+  "wiki": "Electro swing",
+  "live": true,
+  "playlistTitle": "The Pulse of Electro Swing",
+  "tried": [
+   "Electro Swing (music):missing",
+   "Electro Swing (genre):missing",
+   "Electro Swing (music genre):missing",
+   "Electro Swing:ok (Electro swing)"
+  ]
+ },
+ {
+  "name": "Electro-Industrial",
+  "wiki": "Electro-industrial",
+  "live": true,
+  "playlistTitle": "The Pulse of Electro-Industrial",
+  "tried": [
+   "Electro-Industrial (music):missing",
+   "Electro-Industrial (genre):missing",
+   "Electro-Industrial (music genre):missing",
+   "Electro-Industrial:ok (Electro-industrial)"
+  ]
+ },
+ {
+  "name": "Electroacoustic Improvisation",
+  "wiki": "Live electronic music",
+  "live": true,
+  "playlistTitle": "The Pulse of Electroacoustic Improvisation",
+  "tried": [
+   "Electroacoustic Improvisation (music):missing",
+   "Electroacoustic Improvisation (genre):missing",
+   "Electroacoustic Improvisation (music genre):missing",
+   "Electroacoustic Improvisation:ok (Live electronic music)"
+  ]
+ },
+ {
+  "name": "Electroclash",
+  "wiki": "Electroclash",
+  "live": true,
+  "playlistTitle": "The Pulse of Electroclash",
+  "tried": [
+   "Electroclash (music):missing",
+   "Electroclash (genre):missing",
+   "Electroclash (music genre):missing",
+   "Electroclash:ok"
+  ]
+ },
+ {
+  "name": "Electronica",
+  "wiki": "Electronica",
+  "live": true,
+  "playlistTitle": "The Pulse of Indie Electronica",
+  "tried": [
+   "Electronica (music):ok (Electronica)"
+  ]
+ },
+ {
+  "name": "Electronicore",
+  "wiki": "Electronicore",
+  "live": true,
+  "playlistTitle": "The Pulse of Electronicore",
+  "tried": [
+   "Electronicore (music):missing",
+   "Electronicore (genre):missing",
+   "Electronicore (music genre):missing",
+   "Electronicore:ok"
+  ]
+ },
+ {
+  "name": "Electropunk",
+  "wiki": "Electronic rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Elektropunk",
+  "tried": [
+   "Electropunk (music):missing",
+   "Electropunk (genre):missing",
+   "Electropunk (music genre):missing",
+   "Electropunk:ok (Electronic rock)"
+  ]
+ },
+ {
+  "name": "Emo",
+  "wiki": "Emo",
+  "live": true,
+  "playlistTitle": "The Pulse of Emo",
+  "tried": [
+   "Emo (music):ok (Emo)"
+  ]
+ },
+ {
+  "name": "Enka",
+  "wiki": "Enka",
+  "live": true,
+  "playlistTitle": "The Pulse of Enka",
+  "tried": [
+   "Enka (music):missing",
+   "Enka (genre):missing",
+   "Enka (music genre):missing",
+   "Enka:ok"
+  ]
+ },
+ {
+  "name": "Ethereal Wave",
+  "wiki": "Ethereal wave",
+  "live": true,
+  "playlistTitle": "The Pulse of Ethereal Wave",
+  "tried": [
+   "Ethereal Wave (music):missing",
+   "Ethereal Wave (genre):missing",
+   "Ethereal Wave (music genre):missing",
+   "Ethereal Wave:ok (Ethereal wave)"
+  ]
+ },
+ {
+  "name": "Eurodance",
+  "wiki": "Eurodance",
+  "live": true,
+  "playlistTitle": "The Pulse of Eurodance",
+  "tried": [
+   "Eurodance (music):missing",
+   "Eurodance (genre):missing",
+   "Eurodance (music genre):missing",
+   "Eurodance:ok"
+  ]
+ },
+ {
+  "name": "Europop",
+  "wiki": "Europop",
+  "live": true,
+  "playlistTitle": "The Pulse of Europop",
+  "tried": [
+   "Europop (music):missing",
+   "Europop (genre):missing",
+   "Europop (music genre):missing",
+   "Europop:ok"
+  ]
+ },
+ {
+  "name": "Exotica",
+  "wiki": "Exotica",
+  "live": true,
+  "playlistTitle": "The Pulse of Exotica",
+  "tried": [
+   "Exotica (music):missing",
+   "Exotica (genre):missing",
+   "Exotica (music genre):missing",
+   "Exotica:ok"
+  ]
+ },
+ {
+  "name": "Experimental Rock",
+  "wiki": "Experimental rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Experimental Rock",
+  "tried": [
+   "Experimental Rock (music):missing",
+   "Experimental Rock (genre):missing",
+   "Experimental Rock (music genre):missing",
+   "Experimental Rock:ok (Experimental rock)"
+  ]
+ },
+ {
+  "name": "Fado",
+  "wiki": "Fado",
+  "live": true,
+  "playlistTitle": "The Pulse of Fado",
+  "tried": [
+   "Fado (music):ok (Fado)"
+  ]
+ },
+ {
+  "name": "Filmi",
+  "wiki": "Hindi film music",
+  "live": true,
+  "playlistTitle": "The Pulse of Filmi",
+  "tried": [
+   "Filmi (music):missing",
+   "Filmi (genre):missing",
+   "Filmi (music genre):missing",
+   "Filmi:ok (Hindi film music)"
+  ]
+ },
+ {
+  "name": "Filthstep",
+  "wiki": "Dubstep",
+  "live": true,
+  "playlistTitle": "The Pulse of Filthstep",
+  "tried": [
+   "Filthstep (music):missing",
+   "Filthstep (genre):missing",
+   "Filthstep (music genre):missing",
+   "Filthstep:ok (Dubstep)"
+  ]
+ },
+ {
+  "name": "Fingerstyle",
+  "wiki": "Fingerstyle guitar",
+  "live": true,
+  "playlistTitle": "The Pulse of Fingerstyle",
+  "tried": [
+   "Fingerstyle (music):missing",
+   "Fingerstyle (genre):missing",
+   "Fingerstyle (music genre):missing",
+   "Fingerstyle:ok (Fingerstyle guitar)"
+  ]
+ },
+ {
+  "name": "Flamenco",
+  "wiki": "Flamenco",
+  "live": true,
+  "playlistTitle": "The Pulse of Flamenco",
+  "tried": [
+   "Flamenco (music):missing",
+   "Flamenco (genre):missing",
+   "Flamenco (music genre):missing",
+   "Flamenco:ok"
+  ]
+ },
+ {
+  "name": "Folk Metal",
+  "wiki": "Folk metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Folk Metal",
+  "tried": [
+   "Folk Metal (music):missing",
+   "Folk Metal (genre):missing",
+   "Folk Metal (music genre):missing",
+   "Folk Metal:ok (Folk metal)"
+  ]
+ },
+ {
+  "name": "Folk Punk",
+  "wiki": "Folk punk",
+  "live": true,
+  "playlistTitle": "The Pulse of Folk Punk",
+  "tried": [
+   "Folk Punk (music):missing",
+   "Folk Punk (genre):missing",
+   "Folk Punk (music genre):missing",
+   "Folk Punk:ok (Folk punk)"
+  ]
+ },
+ {
+  "name": "Folk Rock",
+  "wiki": "Folk rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Folk Rock",
+  "tried": [
+   "Folk Rock (music):missing",
+   "Folk Rock (genre):missing",
+   "Folk Rock (music genre):missing",
+   "Folk Rock:ok (Folk rock)"
+  ]
+ },
+ {
+  "name": "Folk-Pop",
+  "wiki": "Folk-pop",
+  "live": true,
+  "playlistTitle": "The Pulse of Folk-Pop",
+  "tried": [
+   "Folk-Pop (music):missing",
+   "Folk-Pop (genre):missing",
+   "Folk-Pop (music genre):missing",
+   "Folk-Pop:ok (Folk-pop)"
+  ]
+ },
+ {
+  "name": "Footwork",
+  "wiki": "Footwork (genre)",
+  "live": true,
+  "playlistTitle": "The Pulse of Footwork",
+  "tried": [
+   "Footwork (music):ok (Footwork (genre))"
+  ]
+ },
+ {
+  "name": "Forro",
+  "wiki": "Forró",
+  "live": true,
+  "playlistTitle": "The Pulse of Forró",
+  "tried": [
+   "Forro (music):missing",
+   "Forro (genre):missing",
+   "Forro (music genre):missing",
+   "Forro:disambiguation",
+   "Forro music:missing",
+   "search:Forró:ok"
+  ]
+ },
+ {
+  "name": "Freak Folk",
+  "wiki": "Freak folk",
+  "live": true,
+  "playlistTitle": "The Pulse of Freak Folk",
+  "tried": [
+   "Freak Folk (music):missing",
+   "Freak Folk (genre):missing",
+   "Freak Folk (music genre):missing",
+   "Freak Folk:ok (Freak folk)"
+  ]
+ },
+ {
+  "name": "Freakbeat",
+  "wiki": "Freakbeat",
+  "live": true,
+  "playlistTitle": "The Pulse of Freakbeat",
+  "tried": [
+   "Freakbeat (music):missing",
+   "Freakbeat (genre):missing",
+   "Freakbeat (music genre):missing",
+   "Freakbeat:ok"
+  ]
+ },
+ {
+  "name": "Free Improvisation",
+  "wiki": "Free improvisation",
+  "live": true,
+  "playlistTitle": "The Pulse of Free Improvisation",
+  "tried": [
+   "Free Improvisation (music):missing",
+   "Free Improvisation (genre):missing",
+   "Free Improvisation (music genre):missing",
+   "Free Improvisation:ok (Free improvisation)"
+  ]
+ },
+ {
+  "name": "Free Jazz",
+  "wiki": "Free jazz",
+  "live": true,
+  "playlistTitle": "The Pulse of Free Jazz",
+  "tried": [
+   "Free Jazz (music):missing",
+   "Free Jazz (genre):missing",
+   "Free Jazz (music genre):missing",
+   "Free Jazz:ok (Free jazz)"
+  ]
+ },
+ {
+  "name": "French Pop",
+  "wiki": "French pop music",
+  "live": true,
+  "playlistTitle": "The Pulse of French Pop",
+  "tried": [
+   "French Pop (music):missing",
+   "French Pop (genre):missing",
+   "French Pop (music genre):missing",
+   "French Pop:ok (French pop music)"
+  ]
+ },
+ {
+  "name": "Full On",
+  "wiki": "Psychedelic trance",
+  "live": true,
+  "playlistTitle": "The Pulse of Full On",
+  "tried": [
+   "Full On (music):missing",
+   "Full On (genre):missing",
+   "Full On (music genre):missing",
+   "Full On:ok (Psychedelic trance)"
+  ]
+ },
+ {
+  "name": "Funeral Doom",
+  "wiki": "Doom metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Funeral Doom",
+  "tried": [
+   "Funeral Doom (music):missing",
+   "Funeral Doom (genre):missing",
+   "Funeral Doom (music genre):missing",
+   "Funeral Doom:ok (Doom metal)"
+  ]
+ },
+ {
+  "name": "Funk",
+  "wiki": "Funk",
+  "live": true,
+  "playlistTitle": "The Pulse of Funk",
+  "tried": [
+   "Funk (music):ok (Funk)"
+  ]
+ },
+ {
+  "name": "Funk Carioca",
+  "wiki": "Funk carioca",
+  "live": true,
+  "playlistTitle": "The Pulse of Funk Carioca",
+  "tried": [
+   "Funk Carioca (music):missing",
+   "Funk Carioca (genre):missing",
+   "Funk Carioca (music genre):missing",
+   "Funk Carioca:ok (Funk carioca)"
+  ]
+ },
+ {
+  "name": "Funk Metal",
+  "wiki": "Funk metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Funk Metal",
+  "tried": [
+   "Funk Metal (music):missing",
+   "Funk Metal (genre):missing",
+   "Funk Metal (music genre):missing",
+   "Funk Metal:ok (Funk metal)"
+  ]
+ },
+ {
+  "name": "Funk Rock",
+  "wiki": "Funk rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Funk Rock",
+  "tried": [
+   "Funk Rock (music):missing",
+   "Funk Rock (genre):missing",
+   "Funk Rock (music genre):missing",
+   "Funk Rock:ok (Funk rock)"
+  ]
+ },
+ {
+  "name": "Futurepop",
+  "wiki": "Futurepop",
+  "live": true,
+  "playlistTitle": "The Pulse of Futurepop",
+  "tried": [
+   "Futurepop (music):missing",
+   "Futurepop (genre):missing",
+   "Futurepop (music genre):missing",
+   "Futurepop:ok"
+  ]
+ },
+ {
+  "name": "G Funk",
+  "wiki": "G-funk",
+  "live": true,
+  "playlistTitle": "The Pulse of G Funk",
+  "tried": [
+   "G Funk (music):missing",
+   "G Funk (genre):missing",
+   "G Funk (music genre):missing",
+   "G Funk:ok (G-funk)"
+  ]
+ },
+ {
+  "name": "Gamelan",
+  "wiki": "Gamelan",
+  "live": true,
+  "playlistTitle": "The Pulse of Gamelan",
+  "tried": [
+   "Gamelan (music):missing",
+   "Gamelan (genre):missing",
+   "Gamelan (music genre):missing",
+   "Gamelan:ok"
+  ]
+ },
+ {
+  "name": "Gangster Rap",
+  "wiki": "Gangsta rap",
+  "live": true,
+  "playlistTitle": "The Pulse of Gangster Rap",
+  "tried": [
+   "Gangster Rap (music):missing",
+   "Gangster Rap (genre):missing",
+   "Gangster Rap (music genre):missing",
+   "Gangster Rap:ok (Gangsta rap)"
+  ]
+ },
+ {
+  "name": "Garage Punk",
+  "wiki": "Garage rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Garage Punk",
+  "tried": [
+   "Garage Punk (music):missing",
+   "Garage Punk (genre):missing",
+   "Garage Punk (music genre):missing",
+   "Garage Punk:ok (Garage rock)"
+  ]
+ },
+ {
+  "name": "Garage Rock",
+  "wiki": "Garage rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Garage Rock",
+  "tried": [
+   "Garage Rock (music):missing",
+   "Garage Rock (genre):missing",
+   "Garage Rock (music genre):missing",
+   "Garage Rock:ok (Garage rock)"
+  ]
+ },
+ {
+  "name": "German Punk",
+  "wiki": "German punk",
+  "live": true,
+  "playlistTitle": "The Pulse of German Punk",
+  "tried": [
+   "German Punk (music):missing",
+   "German Punk (genre):missing",
+   "German Punk (music genre):missing",
+   "German Punk:ok (German punk)"
+  ]
+ },
+ {
+  "name": "Ghettotech",
+  "wiki": "Ghettotech",
+  "live": true,
+  "playlistTitle": "The Pulse of Ghettotech",
+  "tried": [
+   "Ghettotech (music):missing",
+   "Ghettotech (genre):missing",
+   "Ghettotech (music genre):missing",
+   "Ghettotech:ok"
+  ]
+ },
+ {
+  "name": "Girl Group",
+  "wiki": "Girl group",
+  "live": true,
+  "playlistTitle": "The Pulse of Classic Girl Group",
+  "tried": [
+   "Girl Group (music):missing",
+   "Girl Group (genre):missing",
+   "Girl Group (music genre):missing",
+   "Girl Group:ok (Girl group)"
+  ]
+ },
+ {
+  "name": "Glam Metal",
+  "wiki": "Glam metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Glam Metal",
+  "tried": [
+   "Glam Metal (music):missing",
+   "Glam Metal (genre):missing",
+   "Glam Metal (music genre):missing",
+   "Glam Metal:ok (Glam metal)"
+  ]
+ },
+ {
+  "name": "Glam Rock",
+  "wiki": "Glam rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Glam Rock",
+  "tried": [
+   "Glam Rock (music):missing",
+   "Glam Rock (genre):missing",
+   "Glam Rock (music genre):missing",
+   "Glam Rock:ok (Glam rock)"
+  ]
+ },
+ {
+  "name": "Glitch Hop",
+  "wiki": "Glitch (music)",
+  "live": true,
+  "playlistTitle": "The Pulse of Glitch Hop",
+  "tried": [
+   "Glitch Hop (music):missing",
+   "Glitch Hop (genre):missing",
+   "Glitch Hop (music genre):missing",
+   "Glitch Hop:ok (Glitch (music))"
+  ]
+ },
+ {
+  "name": "Goa Trance",
+  "wiki": "Goa trance",
+  "live": true,
+  "playlistTitle": "The Pulse of Goa Trance",
+  "tried": [
+   "Goa Trance (music):missing",
+   "Goa Trance (genre):missing",
+   "Goa Trance (music genre):missing",
+   "Goa Trance:ok (Goa trance)"
+  ]
+ },
+ {
+  "name": "Goregrind",
+  "wiki": "Goregrind",
+  "live": true,
+  "playlistTitle": "The Pulse of Goregrind",
+  "tried": [
+   "Goregrind (music):missing",
+   "Goregrind (genre):missing",
+   "Goregrind (music genre):missing",
+   "Goregrind:ok"
+  ]
+ },
+ {
+  "name": "Gothic Metal",
+  "wiki": "Gothic metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Gothic Metal",
+  "tried": [
+   "Gothic Metal (music):missing",
+   "Gothic Metal (genre):missing",
+   "Gothic Metal (music genre):missing",
+   "Gothic Metal:ok (Gothic metal)"
+  ]
+ },
+ {
+  "name": "Gothic Rock",
+  "wiki": "Gothic rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Gothic Rock",
+  "tried": [
+   "Gothic Rock (music):missing",
+   "Gothic Rock (genre):missing",
+   "Gothic Rock (music genre):missing",
+   "Gothic Rock:ok (Gothic rock)"
+  ]
+ },
+ {
+  "name": "Grindcore",
+  "wiki": "Grindcore",
+  "live": true,
+  "playlistTitle": "The Pulse of Grindcore",
+  "tried": [
+   "Grindcore (music):missing",
+   "Grindcore (genre):missing",
+   "Grindcore (music genre):missing",
+   "Grindcore:ok"
+  ]
+ },
+ {
+  "name": "Groove Metal",
+  "wiki": "Groove metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Groove Metal",
+  "tried": [
+   "Groove Metal (music):missing",
+   "Groove Metal (genre):missing",
+   "Groove Metal (music genre):missing",
+   "Groove Metal:ok (Groove metal)"
+  ]
+ },
+ {
+  "name": "Grunge",
+  "wiki": "Grunge",
+  "live": true,
+  "playlistTitle": "The Pulse of Grunge",
+  "tried": [
+   "Grunge (music):ok (Grunge)"
+  ]
+ },
+ {
+  "name": "Grupera",
+  "wiki": "Grupera",
+  "live": true,
+  "playlistTitle": "The Pulse of Grupera",
+  "tried": [
+   "Grupera (music):missing",
+   "Grupera (genre):missing",
+   "Grupera (music genre):missing",
+   "Grupera:ok"
+  ]
+ },
+ {
+  "name": "Gypsy Jazz",
+  "wiki": "Gypsy jazz",
+  "live": true,
+  "playlistTitle": "The Pulse of Gypsy Jazz",
+  "tried": [
+   "Gypsy Jazz (music):missing",
+   "Gypsy Jazz (genre):missing",
+   "Gypsy Jazz (music genre):missing",
+   "Gypsy Jazz:ok (Gypsy jazz)"
+  ]
+ },
+ {
+  "name": "Happy Hardcore",
+  "wiki": "Happy hardcore",
+  "live": true,
+  "playlistTitle": "The Pulse of Happy Hardcore",
+  "tried": [
+   "Happy Hardcore (music):missing",
+   "Happy Hardcore (genre):missing",
+   "Happy Hardcore (music genre):missing",
+   "Happy Hardcore:ok (Happy hardcore)"
+  ]
+ },
+ {
+  "name": "Hard Alternative",
+  "wiki": "Alternative metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Hard Alternative",
+  "tried": [
+   "Hard Alternative (music):missing",
+   "Hard Alternative (genre):missing",
+   "Hard Alternative (music genre):missing",
+   "Hard Alternative:ok (Alternative metal)"
+  ]
+ },
+ {
+  "name": "Hard Bop",
+  "wiki": "Hard bop",
+  "live": true,
+  "playlistTitle": "The Pulse of Hard Bop",
+  "tried": [
+   "Hard Bop (music):missing",
+   "Hard Bop (genre):missing",
+   "Hard Bop (music genre):missing",
+   "Hard Bop:ok (Hard bop)"
+  ]
+ },
+ {
+  "name": "Hard House",
+  "wiki": "UK hard house",
+  "live": true,
+  "playlistTitle": "The Pulse of Hard House",
+  "tried": [
+   "Hard House (music):missing",
+   "Hard House (genre):missing",
+   "Hard House (music genre):missing",
+   "Hard House:ok (UK hard house)"
+  ]
+ },
+ {
+  "name": "Hard Rock",
+  "wiki": "Hard rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Hard Rock",
+  "tried": [
+   "Hard Rock (music):missing",
+   "Hard Rock (genre):missing",
+   "Hard Rock (music genre):missing",
+   "Hard Rock:ok (Hard rock)"
+  ]
+ },
+ {
+  "name": "Hardcore Hip Hop",
+  "wiki": "Hardcore hip-hop",
+  "live": true,
+  "playlistTitle": "The Pulse of Hardcore Hip Hop",
+  "tried": [
+   "Hardcore Hip Hop (music):missing",
+   "Hardcore Hip Hop (genre):missing",
+   "Hardcore Hip Hop (music genre):missing",
+   "Hardcore Hip Hop:ok (Hardcore hip-hop)"
+  ]
+ },
+ {
+  "name": "Hardcore Punk",
+  "wiki": "Hardcore punk",
+  "live": true,
+  "playlistTitle": "The Pulse of Hardcore Punk",
+  "tried": [
+   "Hardcore Punk (music):missing",
+   "Hardcore Punk (genre):missing",
+   "Hardcore Punk (music genre):missing",
+   "Hardcore Punk:ok (Hardcore punk)"
+  ]
+ },
+ {
+  "name": "Hardcore Techno",
+  "wiki": "Hardcore (electronic dance music genre)",
+  "live": true,
+  "playlistTitle": "The Pulse of Hardcore Techno",
+  "tried": [
+   "Hardcore Techno (music):missing",
+   "Hardcore Techno (genre):missing",
+   "Hardcore Techno (music genre):missing",
+   "Hardcore Techno:ok (Hardcore (electronic dance music genre))"
+  ]
+ },
+ {
+  "name": "Hardstyle",
+  "wiki": "Hardstyle",
+  "live": true,
+  "playlistTitle": "The Pulse of Classic Hardstyle",
+  "tried": [
+   "Hardstyle (music):missing",
+   "Hardstyle (genre):missing",
+   "Hardstyle (music genre):missing",
+   "Hardstyle:ok"
+  ]
+ },
+ {
+  "name": "Harp",
+  "wiki": "Harp",
+  "live": true,
+  "playlistTitle": "The Pulse of Harp",
+  "tried": [
+   "Harp (music):missing",
+   "Harp (genre):missing",
+   "Harp (music genre):missing",
+   "Harp:ok"
+  ]
+ },
+ {
+  "name": "Harpsichord",
+  "wiki": "Harpsichord",
+  "live": true,
+  "playlistTitle": "The Pulse of Harpsichord",
+  "tried": [
+   "Harpsichord (music):missing",
+   "Harpsichord (genre):missing",
+   "Harpsichord (music genre):missing",
+   "Harpsichord:ok"
+  ]
+ },
+ {
+  "name": "Hauntology",
+  "wiki": "Hauntology (music)",
+  "live": true,
+  "playlistTitle": "The Pulse of Hauntology",
+  "tried": [
+   "Hauntology (music):ok"
+  ]
+ },
+ {
+  "name": "Highlife",
+  "wiki": "Highlife",
+  "live": true,
+  "playlistTitle": "The Pulse of Highlife",
+  "tried": [
+   "Highlife (music):missing",
+   "Highlife (genre):missing",
+   "Highlife (music genre):missing",
+   "Highlife:ok"
+  ]
+ },
+ {
+  "name": "Hindustani Classical",
+  "wiki": "Hindustani classical music",
+  "live": true,
+  "playlistTitle": "The Pulse of Hindustani Classical",
+  "tried": [
+   "Hindustani Classical (music):missing",
+   "Hindustani Classical (genre):missing",
+   "Hindustani Classical (music genre):missing",
+   "Hindustani Classical:ok (Hindustani classical music)"
+  ]
+ },
+ {
+  "name": "Hip Hop",
+  "wiki": "Hip-hop",
+  "live": true,
+  "playlistTitle": "The Pulse of Hip Hop",
+  "tried": [
+   "Hip Hop (music):missing",
+   "Hip Hop (genre):missing",
+   "Hip Hop (music genre):missing",
+   "Hip Hop:ok (Hip-hop)"
+  ]
+ },
+ {
+  "name": "Hip Hop Tuga",
+  "wiki": "Hip-hop tuga",
+  "live": true,
+  "playlistTitle": "The Pulse of Hip Hop Tuga",
+  "tried": [
+   "Hip Hop Tuga (music):missing",
+   "Hip Hop Tuga (genre):missing",
+   "Hip Hop Tuga (music genre):missing",
+   "Hip Hop Tuga:ok (Hip-hop tuga)"
+  ]
+ },
+ {
+  "name": "Hip House",
+  "wiki": "Hip house",
+  "live": true,
+  "playlistTitle": "The Pulse of Hip House",
+  "tried": [
+   "Hip House (music):missing",
+   "Hip House (genre):missing",
+   "Hip House (music genre):missing",
+   "Hip House:ok (Hip house)"
+  ]
+ },
+ {
+  "name": "Hiplife",
+  "wiki": "Hiplife",
+  "live": true,
+  "playlistTitle": "The Pulse of Hiplife",
+  "tried": [
+   "Hiplife (music):missing",
+   "Hiplife (genre):missing",
+   "Hiplife (music genre):missing",
+   "Hiplife:ok"
+  ]
+ },
+ {
+  "name": "Horror Punk",
+  "wiki": "Horror punk",
+  "live": true,
+  "playlistTitle": "The Pulse of Horror Punk",
+  "tried": [
+   "Horror Punk (music):missing",
+   "Horror Punk (genre):missing",
+   "Horror Punk (music genre):missing",
+   "Horror Punk:ok (Horror punk)"
+  ]
+ },
+ {
+  "name": "Horrorcore",
+  "wiki": "Horrorcore",
+  "live": true,
+  "playlistTitle": "The Pulse of Horrorcore",
+  "tried": [
+   "Horrorcore (music):missing",
+   "Horrorcore (genre):missing",
+   "Horrorcore (music genre):missing",
+   "Horrorcore:ok"
+  ]
+ },
+ {
+  "name": "Hyphy",
+  "wiki": "Hyphy",
+  "live": true,
+  "playlistTitle": "The Pulse of Hyphy",
+  "tried": [
+   "Hyphy (music):missing",
+   "Hyphy (genre):missing",
+   "Hyphy (music genre):missing",
+   "Hyphy:ok"
+  ]
+ },
+ {
+  "name": "Indie Folk",
+  "wiki": "Indie folk",
+  "live": true,
+  "playlistTitle": "The Pulse of Indie Folk",
+  "tried": [
+   "Indie Folk (music):missing",
+   "Indie Folk (genre):missing",
+   "Indie Folk (music genre):missing",
+   "Indie Folk:ok (Indie folk)"
+  ]
+ },
+ {
+  "name": "Indie Pop",
+  "wiki": "Indie pop",
+  "live": true,
+  "playlistTitle": "The Pulse of Indie Pop",
+  "tried": [
+   "Indie Pop (music):missing",
+   "Indie Pop (genre):missing",
+   "Indie Pop (music genre):missing",
+   "Indie Pop:ok (Indie pop)"
+  ]
+ },
+ {
+  "name": "Indie Punk",
+  "wiki": "Indie rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Indie Punk",
+  "tried": [
+   "Indie Punk (music):missing",
+   "Indie Punk (genre):missing",
+   "Indie Punk (music genre):missing",
+   "Indie Punk:ok (Indie rock)"
+  ]
+ },
+ {
+  "name": "Indie R&B",
+  "wiki": "Alternative R&B",
+  "live": true,
+  "playlistTitle": "The Pulse of Indie R&B",
+  "tried": [
+   "Indie R&B (music):missing",
+   "Indie R&B (genre):missing",
+   "Indie R&B (music genre):missing",
+   "Indie R&B:ok (Alternative R&B)"
+  ]
+ },
+ {
+  "name": "Indie Rock",
+  "wiki": "Indie rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Indie Rock",
+  "tried": [
+   "Indie Rock (music):missing",
+   "Indie Rock (genre):missing",
+   "Indie Rock (music genre):missing",
+   "Indie Rock:ok (Indie rock)"
+  ]
+ },
+ {
+  "name": "Indietronica",
+  "wiki": "Electronic music",
+  "live": true,
+  "playlistTitle": "The Pulse of Indietronica",
+  "tried": [
+   "Indietronica (music):missing",
+   "Indietronica (genre):missing",
+   "Indietronica (music genre):missing",
+   "Indietronica:ok (Electronic music)"
+  ]
+ },
+ {
+  "name": "Indorock",
+  "wiki": "Indorock",
+  "live": true,
+  "playlistTitle": "The Pulse of Indorock",
+  "tried": [
+   "Indorock (music):missing",
+   "Indorock (genre):missing",
+   "Indorock (music genre):missing",
+   "Indorock:ok"
+  ]
+ },
+ {
+  "name": "Industrial Metal",
+  "wiki": "Industrial metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Industrial Metal",
+  "tried": [
+   "Industrial Metal (music):missing",
+   "Industrial Metal (genre):missing",
+   "Industrial Metal (music genre):missing",
+   "Industrial Metal:ok (Industrial metal)"
+  ]
+ },
+ {
+  "name": "Industrial Rock",
+  "wiki": "Industrial rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Industrial Rock",
+  "tried": [
+   "Industrial Rock (music):missing",
+   "Industrial Rock (genre):missing",
+   "Industrial Rock (music genre):missing",
+   "Industrial Rock:ok (Industrial rock)"
+  ]
+ },
+ {
+  "name": "Intelligent Dance Music",
+  "wiki": "Intelligent dance music",
+  "live": true,
+  "playlistTitle": "The Pulse of Intelligent Dance Music",
+  "tried": [
+   "override:Intelligent dance music"
+  ]
+ },
+ {
+  "name": "Irish Folk",
+  "wiki": "Irish traditional music",
+  "live": true,
+  "playlistTitle": "The Pulse of Irish Folk",
+  "tried": [
+   "Irish Folk (music):missing",
+   "Irish Folk (genre):missing",
+   "Irish Folk (music genre):missing",
+   "Irish Folk:ok (Irish traditional music)"
+  ]
+ },
+ {
+  "name": "Iskelma",
+  "wiki": "Schlager music",
+  "live": true,
+  "playlistTitle": "The Pulse of Classic Iskelmä",
+  "tried": [
+   "Iskelma (music):missing",
+   "Iskelma (genre):missing",
+   "Iskelma (music genre):missing",
+   "Iskelma:ok (Schlager music)"
+  ]
+ },
+ {
+  "name": "Italo dance",
+  "wiki": "Italo dance",
+  "live": true,
+  "playlistTitle": "The Pulse of Italo Dance",
+  "tried": [
+   "Italo dance (music):missing",
+   "Italo dance (genre):missing",
+   "Italo dance (music genre):missing",
+   "Italo dance:ok"
+  ]
+ },
+ {
+  "name": "J-Pop",
+  "wiki": "J-pop",
+  "live": true,
+  "playlistTitle": "The Pulse of J-Pop",
+  "tried": [
+   "J-Pop (music):missing",
+   "J-Pop (genre):missing",
+   "J-Pop (music genre):missing",
+   "J-Pop:ok (J-pop)"
+  ]
+ },
+ {
+  "name": "J-Punk",
+  "wiki": "Music of Japan",
+  "live": true,
+  "playlistTitle": "The Pulse of J-Punk",
+  "tried": [
+   "J-Punk (music):missing",
+   "J-Punk (genre):missing",
+   "J-Punk (music genre):missing",
+   "J-Punk:ok (Music of Japan)"
+  ]
+ },
+ {
+  "name": "J-Rock",
+  "wiki": "Japanese rock",
+  "live": true,
+  "playlistTitle": "The Pulse of J-Rock",
+  "tried": [
+   "J-Rock (music):missing",
+   "J-Rock (genre):missing",
+   "J-Rock (music genre):missing",
+   "J-Rock:ok (Japanese rock)"
+  ]
+ },
+ {
+  "name": "Jam Band",
+  "wiki": "Jam band",
+  "live": true,
+  "playlistTitle": "The Pulse of Jam Band",
+  "tried": [
+   "Jam Band (music):missing",
+   "Jam Band (genre):missing",
+   "Jam Band (music genre):missing",
+   "Jam Band:ok (Jam band)"
+  ]
+ },
+ {
+  "name": "Jangle Pop",
+  "wiki": "Jangle pop",
+  "live": true,
+  "playlistTitle": "The Pulse of Jangle Pop",
+  "tried": [
+   "Jangle Pop (music):missing",
+   "Jangle Pop (genre):missing",
+   "Jangle Pop (music genre):missing",
+   "Jangle Pop:ok (Jangle pop)"
+  ]
+ },
+ {
+  "name": "Japanoise",
+  "wiki": "Japanoise",
+  "live": true,
+  "playlistTitle": "The Pulse of Japanoise",
+  "tried": [
+   "Japanoise (music):missing",
+   "Japanoise (genre):missing",
+   "Japanoise (music genre):missing",
+   "Japanoise:ok"
+  ]
+ },
+ {
+  "name": "Jazz",
+  "wiki": "Jazz",
+  "live": true,
+  "playlistTitle": "The Pulse of Jazz",
+  "tried": [
+   "Jazz (music):missing",
+   "Jazz (genre):missing",
+   "Jazz (music genre):ok (Jazz)"
+  ]
+ },
+ {
+  "name": "Jazz Funk",
+  "wiki": "Jazz-funk",
+  "live": true,
+  "playlistTitle": "The Pulse of Jazz Funk",
+  "tried": [
+   "Jazz Funk (music):missing",
+   "Jazz Funk (genre):missing",
+   "Jazz Funk (music genre):missing",
+   "Jazz Funk:ok (Jazz-funk)"
+  ]
+ },
+ {
+  "name": "Jazz Fusion",
+  "wiki": "Jazz fusion",
+  "live": true,
+  "playlistTitle": "The Pulse of Jazz Fusion",
+  "tried": [
+   "Jazz Fusion (music):missing",
+   "Jazz Fusion (genre):missing",
+   "Jazz Fusion (music genre):missing",
+   "Jazz Fusion:ok (Jazz fusion)"
+  ]
+ },
+ {
+  "name": "Jazz Metal",
+  "wiki": "Jazz fusion",
+  "live": true,
+  "playlistTitle": "The Pulse of Jazz Metal",
+  "tried": [
+   "Jazz Metal (music):missing",
+   "Jazz Metal (genre):missing",
+   "Jazz Metal (music genre):missing",
+   "Jazz Metal:ok (Jazz fusion)"
+  ]
+ },
+ {
+  "name": "Jump Blues",
+  "wiki": "Jump blues",
+  "live": true,
+  "playlistTitle": "The Pulse of Jump Blues",
+  "tried": [
+   "Jump Blues (music):missing",
+   "Jump Blues (genre):missing",
+   "Jump Blues (music genre):missing",
+   "Jump Blues:ok (Jump blues)"
+  ]
+ },
+ {
+  "name": "Jumpstyle",
+  "wiki": "Jumpstyle",
+  "live": true,
+  "playlistTitle": "The Pulse of Jumpstyle",
+  "tried": [
+   "Jumpstyle (music):missing",
+   "Jumpstyle (genre):missing",
+   "Jumpstyle (music genre):missing",
+   "Jumpstyle:ok"
+  ]
+ },
+ {
+  "name": "K-Pop",
+  "wiki": "K-pop",
+  "live": true,
+  "playlistTitle": "The Pulse of K-Pop",
+  "tried": [
+   "K-Pop (music):missing",
+   "K-Pop (genre):missing",
+   "K-Pop (music genre):missing",
+   "K-Pop:ok (K-pop)"
+  ]
+ },
+ {
+  "name": "Kindermusik",
+  "wiki": null,
+  "live": true,
+  "playlistTitle": "The Pulse of Kindermusik",
+  "tried": [
+   "override:none"
+  ]
+ },
+ {
+  "name": "Kirtan",
+  "wiki": "Kirtan",
+  "live": true,
+  "playlistTitle": "The Pulse of Kirtan",
+  "tried": [
+   "Kirtan (music):missing",
+   "Kirtan (genre):missing",
+   "Kirtan (music genre):missing",
+   "Kirtan:ok"
+  ]
+ },
+ {
+  "name": "Kizomba",
+  "wiki": "Kizomba",
+  "live": true,
+  "playlistTitle": "The Pulse of Kizomba",
+  "tried": [
+   "Kizomba (music):missing",
+   "Kizomba (genre):missing",
+   "Kizomba (music genre):missing",
+   "Kizomba:ok"
+  ]
+ },
+ {
+  "name": "Klapa",
+  "wiki": "Klapa",
+  "live": true,
+  "playlistTitle": "The Pulse of Klapa",
+  "tried": [
+   "Klapa (music):missing",
+   "Klapa (genre):missing",
+   "Klapa (music genre):missing",
+   "Klapa:ok"
+  ]
+ },
+ {
+  "name": "Klezmer",
+  "wiki": "Klezmer",
+  "live": true,
+  "playlistTitle": "The Pulse of Klezmer",
+  "tried": [
+   "Klezmer (music):missing",
+   "Klezmer (genre):missing",
+   "Klezmer (music genre):missing",
+   "Klezmer:ok"
+  ]
+ },
+ {
+  "name": "Kompa",
+  "wiki": "Compas",
+  "live": true,
+  "playlistTitle": "The Pulse of Kompa",
+  "tried": [
+   "Kompa (music):missing",
+   "Kompa (genre):missing",
+   "Kompa (music genre):missing",
+   "Kompa:ok (Compas)"
+  ]
+ },
+ {
+  "name": "Korean Pop",
+  "wiki": "K-pop",
+  "live": true,
+  "playlistTitle": "The Pulse of Korean Pop",
+  "tried": [
+   "Korean Pop (music):missing",
+   "Korean Pop (genre):missing",
+   "Korean Pop (music genre):missing",
+   "Korean Pop:ok (K-pop)"
+  ]
+ },
+ {
+  "name": "Kraut Rock",
+  "wiki": "Krautrock",
+  "live": true,
+  "playlistTitle": "The Pulse of Krautrock",
+  "tried": [
+   "Kraut Rock (music):missing",
+   "Kraut Rock (genre):missing",
+   "Kraut Rock (music genre):missing",
+   "Kraut Rock:ok (Krautrock)"
+  ]
+ },
+ {
+  "name": "Kuduro",
+  "wiki": "Kuduro",
+  "live": true,
+  "playlistTitle": "The Pulse of Kuduro Antigo",
+  "tried": [
+   "Kuduro (music):missing",
+   "Kuduro (genre):missing",
+   "Kuduro (music genre):missing",
+   "Kuduro:ok"
+  ]
+ },
+ {
+  "name": "Kwaito",
+  "wiki": "Kwaito",
+  "live": true,
+  "playlistTitle": "The Pulse of Kwaito",
+  "tried": [
+   "Kwaito (music):missing",
+   "Kwaito (genre):missing",
+   "Kwaito (music genre):missing",
+   "Kwaito:ok"
+  ]
+ },
+ {
+  "name": "Laiko",
+  "wiki": "Laïko",
+  "live": true,
+  "playlistTitle": "The Pulse of Laïko",
+  "tried": [
+   "Laiko (music):missing",
+   "Laiko (genre):missing",
+   "Laiko (music genre):missing",
+   "Laiko:ok (Laïko)"
+  ]
+ },
+ {
+  "name": "Latin Alternative",
+  "wiki": "Latin alternative",
+  "live": true,
+  "playlistTitle": "The Pulse of Latin Alternative",
+  "tried": [
+   "Latin Alternative (music):missing",
+   "Latin Alternative (genre):missing",
+   "Latin Alternative (music genre):missing",
+   "Latin Alternative:ok (Latin alternative)"
+  ]
+ },
+ {
+  "name": "Latin Jazz",
+  "wiki": "Latin jazz",
+  "live": true,
+  "playlistTitle": "The Pulse of Latin Jazz",
+  "tried": [
+   "Latin Jazz (music):missing",
+   "Latin Jazz (genre):missing",
+   "Latin Jazz (music genre):missing",
+   "Latin Jazz:ok (Latin jazz)"
+  ]
+ },
+ {
+  "name": "Latin Metal",
+  "wiki": "Latin metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Latin Metal",
+  "tried": [
+   "Latin Metal (music):missing",
+   "Latin Metal (genre):missing",
+   "Latin Metal (music genre):missing",
+   "Latin Metal:ok (Latin metal)"
+  ]
+ },
+ {
+  "name": "Latin Pop",
+  "wiki": "Latin pop",
+  "live": true,
+  "playlistTitle": "The Pulse of Latin Pop",
+  "tried": [
+   "Latin Pop (music):missing",
+   "Latin Pop (genre):missing",
+   "Latin Pop (music genre):missing",
+   "Latin Pop:ok (Latin pop)"
+  ]
+ },
+ {
+  "name": "Levenslied",
+  "wiki": "Levenslied",
+  "live": true,
+  "playlistTitle": "The Pulse of Levenslied",
+  "tried": [
+   "Levenslied (music):missing",
+   "Levenslied (genre):missing",
+   "Levenslied (music genre):missing",
+   "Levenslied:ok"
+  ]
+ },
+ {
+  "name": "Liedermacher",
+  "wiki": "Singer-songwriter",
+  "live": true,
+  "playlistTitle": "The Pulse of Liedermacher",
+  "tried": [
+   "Liedermacher (music):missing",
+   "Liedermacher (genre):missing",
+   "Liedermacher (music genre):missing",
+   "Liedermacher:ok (Singer-songwriter)"
+  ]
+ },
+ {
+  "name": "Light Music",
+  "wiki": "Light music",
+  "live": true,
+  "playlistTitle": "The Pulse of Light Music",
+  "tried": [
+   "Light Music (music):missing",
+   "Light Music (genre):missing",
+   "Light Music (music genre):missing",
+   "Light Music:ok (Light music)"
+  ]
+ },
+ {
+  "name": "Liquid Funk",
+  "wiki": "Liquid drum and bass",
+  "live": true,
+  "playlistTitle": "The Pulse of Liquid Funk",
+  "tried": [
+   "Liquid Funk (music):missing",
+   "Liquid Funk (genre):missing",
+   "Liquid Funk (music genre):missing",
+   "Liquid Funk:ok (Liquid drum and bass)"
+  ]
+ },
+ {
+  "name": "Lo-Fi",
+  "wiki": "Lo-fi music",
+  "live": true,
+  "playlistTitle": "The Pulse of Lo-Fi",
+  "tried": [
+   "Lo-Fi (music):missing",
+   "Lo-Fi (genre):missing",
+   "Lo-Fi (music genre):missing",
+   "Lo-Fi:disambiguation (Lo-fi (disambiguation))",
+   "Lo-Fi music:missing",
+   "search:Lo-fi music:ok"
+  ]
+ },
+ {
+  "name": "Lovers Rock",
+  "wiki": "Lovers rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Lovers Rock",
+  "tried": [
+   "Lovers Rock (music):missing",
+   "Lovers Rock (genre):missing",
+   "Lovers Rock (music genre):missing",
+   "Lovers Rock:ok (Lovers rock)"
+  ]
+ },
+ {
+  "name": "Luk Thung",
+  "wiki": "Luk thung",
+  "live": true,
+  "playlistTitle": "The Pulse of Luk Thung",
+  "tried": [
+   "Luk Thung (music):missing",
+   "Luk Thung (genre):missing",
+   "Luk Thung (music genre):missing",
+   "Luk Thung:ok (Luk thung)"
+  ]
+ },
+ {
+  "name": "Madchester",
+  "wiki": "Madchester",
+  "live": true,
+  "playlistTitle": "The Pulse of Madchester",
+  "tried": [
+   "Madchester (music):missing",
+   "Madchester (genre):missing",
+   "Madchester (music genre):missing",
+   "Madchester:ok"
+  ]
+ },
+ {
+  "name": "Makossa",
+  "wiki": "Makossa",
+  "live": true,
+  "playlistTitle": "The Pulse of Makossa",
+  "tried": [
+   "Makossa (music):missing",
+   "Makossa (genre):missing",
+   "Makossa (music genre):missing",
+   "Makossa:ok"
+  ]
+ },
+ {
+  "name": "Mambo",
+  "wiki": "Mambo (music)",
+  "live": true,
+  "playlistTitle": "The Pulse of Mambo",
+  "tried": [
+   "Mambo (music):ok"
+  ]
+ },
+ {
+  "name": "Mandopop",
+  "wiki": "Mandopop",
+  "live": true,
+  "playlistTitle": "The Pulse of Classic Mandopop",
+  "tried": [
+   "Mandopop (music):missing",
+   "Mandopop (genre):missing",
+   "Mandopop (music genre):missing",
+   "Mandopop:ok"
+  ]
+ },
+ {
+  "name": "Manele",
+  "wiki": "Manele",
+  "live": true,
+  "playlistTitle": "The Pulse of Manele",
+  "tried": [
+   "Manele (music):ok (Manele)"
+  ]
+ },
+ {
+  "name": "Marching Band",
+  "wiki": "Marching band",
+  "live": true,
+  "playlistTitle": "The Pulse of Marching Band",
+  "tried": [
+   "Marching Band (music):missing",
+   "Marching Band (genre):missing",
+   "Marching Band (music genre):missing",
+   "Marching Band:ok (Marching band)"
+  ]
+ },
+ {
+  "name": "Mariachi",
+  "wiki": "Mariachi",
+  "live": true,
+  "playlistTitle": "The Pulse of Mariachi",
+  "tried": [
+   "Mariachi (music):missing",
+   "Mariachi (genre):missing",
+   "Mariachi (music genre):missing",
+   "Mariachi:ok"
+  ]
+ },
+ {
+  "name": "Martial Industrial",
+  "wiki": "Martial industrial",
+  "live": true,
+  "playlistTitle": "The Pulse of Martial Industrial",
+  "tried": [
+   "Martial Industrial (music):missing",
+   "Martial Industrial (genre):missing",
+   "Martial Industrial (music genre):missing",
+   "Martial Industrial:ok (Martial industrial)"
+  ]
+ },
+ {
+  "name": "Mashup",
+  "wiki": "Mashup (music)",
+  "live": true,
+  "playlistTitle": "The Pulse of Mashup",
+  "tried": [
+   "Mashup (music):ok"
+  ]
+ },
+ {
+  "name": "Math Rock",
+  "wiki": "Math rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Math Rock",
+  "tried": [
+   "Math Rock (music):missing",
+   "Math Rock (genre):missing",
+   "Math Rock (music genre):missing",
+   "Math Rock:ok (Math rock)"
+  ]
+ },
+ {
+  "name": "Mbalax",
+  "wiki": "Mbalax",
+  "live": true,
+  "playlistTitle": "The Pulse of Mbalax",
+  "tried": [
+   "Mbalax (music):missing",
+   "Mbalax (genre):missing",
+   "Mbalax (music genre):missing",
+   "Mbalax:ok"
+  ]
+ },
+ {
+  "name": "Melbourne Bounce",
+  "wiki": "Electro house",
+  "live": true,
+  "playlistTitle": "The Pulse of Melbourne Bounce",
+  "tried": [
+   "Melbourne Bounce (music):missing",
+   "Melbourne Bounce (genre):missing",
+   "Melbourne Bounce (music genre):missing",
+   "Melbourne Bounce:ok (Electro house)"
+  ]
+ },
+ {
+  "name": "Mellow Gold",
+  "wiki": null,
+  "live": true,
+  "playlistTitle": "The Pulse of Mellow Gold",
+  "tried": [
+   "override:none"
+  ]
+ },
+ {
+  "name": "Melodic Death Metal",
+  "wiki": "Melodic death metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Melodic Death Metal",
+  "tried": [
+   "Melodic Death Metal (music):missing",
+   "Melodic Death Metal (genre):missing",
+   "Melodic Death Metal (music genre):missing",
+   "Melodic Death Metal:ok (Melodic death metal)"
+  ]
+ },
+ {
+  "name": "Melodic Hardcore",
+  "wiki": "Melodic hardcore",
+  "live": true,
+  "playlistTitle": "The Pulse of Melodic Hardcore",
+  "tried": [
+   "Melodic Hardcore (music):missing",
+   "Melodic Hardcore (genre):missing",
+   "Melodic Hardcore (music genre):missing",
+   "Melodic Hardcore:ok (Melodic hardcore)"
+  ]
+ },
+ {
+  "name": "Melodic Metalcore",
+  "wiki": "Melodic metalcore",
+  "live": true,
+  "playlistTitle": "The Pulse of Melodic Metalcore",
+  "tried": [
+   "Melodic Metalcore (music):missing",
+   "Melodic Metalcore (genre):missing",
+   "Melodic Metalcore (music genre):missing",
+   "Melodic Metalcore:ok (Melodic metalcore)"
+  ]
+ },
+ {
+  "name": "Memphis Blues",
+  "wiki": "Memphis blues",
+  "live": true,
+  "playlistTitle": "The Pulse of Memphis Blues",
+  "tried": [
+   "Memphis Blues (music):missing",
+   "Memphis Blues (genre):missing",
+   "Memphis Blues (music genre):missing",
+   "Memphis Blues:disambiguation (Memphis blues (disambiguation))",
+   "Memphis Blues music:missing",
+   "Memphisblues:missing",
+   "search:Memphis blues:ok"
+  ]
+ },
+ {
+  "name": "Memphis Soul",
+  "wiki": "Memphis soul",
+  "live": true,
+  "playlistTitle": "The Pulse of Memphis Soul",
+  "tried": [
+   "Memphis Soul (music):missing",
+   "Memphis Soul (genre):missing",
+   "Memphis Soul (music genre):missing",
+   "Memphis Soul:ok (Memphis soul)"
+  ]
+ },
+ {
+  "name": "Merengue",
+  "wiki": "Merengue music",
+  "live": true,
+  "playlistTitle": "The Pulse of Merengue",
+  "tried": [
+   "Merengue (music):ok (Merengue music)"
+  ]
+ },
+ {
+  "name": "Merseybeat",
+  "wiki": "Beat music",
+  "live": true,
+  "playlistTitle": "The Pulse of Merseybeat",
+  "tried": [
+   "Merseybeat (music):missing",
+   "Merseybeat (genre):missing",
+   "Merseybeat (music genre):missing",
+   "Merseybeat:ok (Beat music)"
+  ]
+ },
+ {
+  "name": "Metalcore",
+  "wiki": "Metalcore",
+  "live": true,
+  "playlistTitle": "The Pulse of Metalcore",
+  "tried": [
+   "Metalcore (music):missing",
+   "Metalcore (genre):missing",
+   "Metalcore (music genre):missing",
+   "Metalcore:ok"
+  ]
+ },
+ {
+  "name": "Mexican Son",
+  "wiki": "Son mexicano",
+  "live": true,
+  "playlistTitle": "The Pulse of Mexican Son",
+  "tried": [
+   "Mexican Son (music):missing",
+   "Mexican Son (genre):missing",
+   "Mexican Son (music genre):missing",
+   "Mexican Son:ok (Son mexicano)"
+  ]
+ },
+ {
+  "name": "Miami Bass",
+  "wiki": "Miami bass",
+  "live": true,
+  "playlistTitle": "The Pulse of Miami Bass",
+  "tried": [
+   "Miami Bass (music):missing",
+   "Miami Bass (genre):missing",
+   "Miami Bass (music genre):missing",
+   "Miami Bass:ok (Miami bass)"
+  ]
+ },
+ {
+  "name": "Microhouse",
+  "wiki": "Microhouse",
+  "live": true,
+  "playlistTitle": "The Pulse of Microhouse",
+  "tried": [
+   "Microhouse (music):missing",
+   "Microhouse (genre):missing",
+   "Microhouse (music genre):missing",
+   "Microhouse:ok"
+  ]
+ },
+ {
+  "name": "Military Band",
+  "wiki": "Military band",
+  "live": true,
+  "playlistTitle": "The Pulse of Military Band",
+  "tried": [
+   "Military Band (music):missing",
+   "Military Band (genre):missing",
+   "Military Band (music genre):missing",
+   "Military Band:ok (Military band)"
+  ]
+ },
+ {
+  "name": "Minimal",
+  "wiki": "Minimal music",
+  "live": true,
+  "playlistTitle": "The Pulse of Minimalism",
+  "tried": [
+   "Minimal (music):missing",
+   "Minimal (genre):missing",
+   "Minimal (music genre):ok (Minimal music)"
+  ]
+ },
+ {
+  "name": "Minimal Techno",
+  "wiki": "Minimal techno",
+  "live": true,
+  "playlistTitle": "The Pulse of Minimal Techno",
+  "tried": [
+   "Minimal Techno (music):missing",
+   "Minimal Techno (genre):missing",
+   "Minimal Techno (music genre):missing",
+   "Minimal Techno:ok (Minimal techno)"
+  ]
+ },
+ {
+  "name": "Minimal Wave",
+  "wiki": "Minimal wave",
+  "live": true,
+  "playlistTitle": "The Pulse of Minimal Wave",
+  "tried": [
+   "Minimal Wave (music):missing",
+   "Minimal Wave (genre):missing",
+   "Minimal Wave (music genre):missing",
+   "Minimal Wave:ok (Minimal wave)"
+  ]
+ },
+ {
+  "name": "Mod Revival",
+  "wiki": "Mod revival",
+  "live": true,
+  "playlistTitle": "The Pulse of Mod Revival",
+  "tried": [
+   "Mod Revival (music):missing",
+   "Mod Revival (genre):missing",
+   "Mod Revival (music genre):missing",
+   "Mod Revival:ok (Mod revival)"
+  ]
+ },
+ {
+  "name": "Moombahton",
+  "wiki": "Moombahton",
+  "live": true,
+  "playlistTitle": "The Pulse of Moombahton",
+  "tried": [
+   "Moombahton (music):missing",
+   "Moombahton (genre):missing",
+   "Moombahton (music genre):missing",
+   "Moombahton:ok"
+  ]
+ },
+ {
+  "name": "Motown",
+  "wiki": "Motown",
+  "live": true,
+  "playlistTitle": "The Pulse of Motown",
+  "tried": [
+   "override:Motown"
+  ]
+ },
+ {
+  "name": "Musique Concrete",
+  "wiki": "Musique concrète",
+  "live": true,
+  "playlistTitle": "The Pulse of Musique Concrète",
+  "tried": [
+   "Musique Concrete (music):missing",
+   "Musique Concrete (genre):missing",
+   "Musique Concrete (music genre):missing",
+   "Musique Concrete:ok (Musique concrète)"
+  ]
+ },
+ {
+  "name": "Nasheed",
+  "wiki": "Nasheed",
+  "live": true,
+  "playlistTitle": "The Pulse of Nasheed",
+  "tried": [
+   "Nasheed (music):missing",
+   "Nasheed (genre):missing",
+   "Nasheed (music genre):missing",
+   "Nasheed:ok"
+  ]
+ },
+ {
+  "name": "Nashville Sound",
+  "wiki": "Nashville sound",
+  "live": true,
+  "playlistTitle": "The Pulse of Nashville Sound",
+  "tried": [
+   "Nashville Sound (music):missing",
+   "Nashville Sound (genre):missing",
+   "Nashville Sound (music genre):missing",
+   "Nashville Sound:ok (Nashville sound)"
+  ]
+ },
+ {
+  "name": "Neo Metal",
+  "wiki": "New wave of American heavy metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Neo Metal",
+  "tried": [
+   "Neo Metal (music):missing",
+   "Neo Metal (genre):missing",
+   "Neo Metal (music genre):missing",
+   "Neo Metal:ok (New wave of American heavy metal)"
+  ]
+ },
+ {
+  "name": "Neo Soul",
+  "wiki": "Neo soul",
+  "live": true,
+  "playlistTitle": "The Pulse of Neo Soul",
+  "tried": [
+   "Neo Soul (music):missing",
+   "Neo Soul (genre):missing",
+   "Neo Soul (music genre):missing",
+   "Neo Soul:ok (Neo soul)"
+  ]
+ },
+ {
+  "name": "Neo-Rockabilly",
+  "wiki": "Rockabilly",
+  "live": true,
+  "playlistTitle": "The Pulse of Neo-Rockabilly",
+  "tried": [
+   "Neo-Rockabilly (music):missing",
+   "Neo-Rockabilly (genre):missing",
+   "Neo-Rockabilly (music genre):missing",
+   "Neo-Rockabilly:ok (Rockabilly)"
+  ]
+ },
+ {
+  "name": "Neoclassical",
+  "wiki": null,
+  "live": true,
+  "playlistTitle": "The Pulse of Neoclassical Darkwave",
+  "tried": [
+   "Neoclassical (music):missing",
+   "Neoclassical (genre):missing",
+   "Neoclassical (music genre):missing",
+   "Neoclassical:disambiguation",
+   "Neoclassical music:broader-redirect (Neoclassicism (music))",
+   "search:Neoclassical:disambiguation"
+  ]
+ },
+ {
+  "name": "Neofolk",
+  "wiki": "Neofolk",
+  "live": true,
+  "playlistTitle": "The Pulse of Neofolk",
+  "tried": [
+   "Neofolk (music):missing",
+   "Neofolk (genre):missing",
+   "Neofolk (music genre):missing",
+   "Neofolk:ok"
+  ]
+ },
+ {
+  "name": "Nerdcore",
+  "wiki": "Nerdcore",
+  "live": true,
+  "playlistTitle": "The Pulse of Nerdcore",
+  "tried": [
+   "Nerdcore (music):missing",
+   "Nerdcore (genre):missing",
+   "Nerdcore (music genre):missing",
+   "Nerdcore:ok"
+  ]
+ },
+ {
+  "name": "Neue Deutsche Harte",
+  "wiki": "Neue Deutsche Härte",
+  "live": true,
+  "playlistTitle": "The Pulse of Neue Deutsche Härte",
+  "tried": [
+   "Neue Deutsche Harte (music):missing",
+   "Neue Deutsche Harte (genre):missing",
+   "Neue Deutsche Harte (music genre):missing",
+   "Neue Deutsche Harte:ok (Neue Deutsche Härte)"
+  ]
+ },
+ {
+  "name": "Neue Deutsche Welle",
+  "wiki": "Neue Deutsche Welle",
+  "live": true,
+  "playlistTitle": "The Pulse of Neue Deutsche Welle",
+  "tried": [
+   "Neue Deutsche Welle (music):missing",
+   "Neue Deutsche Welle (genre):missing",
+   "Neue Deutsche Welle (music genre):missing",
+   "Neue Deutsche Welle:ok"
+  ]
+ },
+ {
+  "name": "New Beat",
+  "wiki": "New beat",
+  "live": true,
+  "playlistTitle": "The Pulse of New Beat",
+  "tried": [
+   "New Beat (music):missing",
+   "New Beat (genre):missing",
+   "New Beat (music genre):missing",
+   "New Beat:ok (New beat)"
+  ]
+ },
+ {
+  "name": "New Jack Swing",
+  "wiki": "New jack swing",
+  "live": true,
+  "playlistTitle": "The Pulse of New Jack Swing",
+  "tried": [
+   "New Jack Swing (music):missing",
+   "New Jack Swing (genre):missing",
+   "New Jack Swing (music genre):missing",
+   "New Jack Swing:ok (New jack swing)"
+  ]
+ },
+ {
+  "name": "New Orleans Blues",
+  "wiki": "New Orleans blues",
+  "live": true,
+  "playlistTitle": "The Pulse of New Orleans Blues",
+  "tried": [
+   "New Orleans Blues (music):missing",
+   "New Orleans Blues (genre):missing",
+   "New Orleans Blues (music genre):missing",
+   "New Orleans Blues:ok (New Orleans blues)"
+  ]
+ },
+ {
+  "name": "New Orleans Jazz",
+  "wiki": "Dixieland jazz",
+  "live": true,
+  "playlistTitle": "The Pulse of New Orleans Jazz",
+  "tried": [
+   "override:Dixieland jazz"
+  ]
+ },
+ {
+  "name": "New Rave",
+  "wiki": "New rave",
+  "live": true,
+  "playlistTitle": "The Pulse of New Rave",
+  "tried": [
+   "New Rave (music):missing",
+   "New Rave (genre):missing",
+   "New Rave (music genre):missing",
+   "New Rave:ok (New rave)"
+  ]
+ },
+ {
+  "name": "New Weird America",
+  "wiki": "New Weird America",
+  "live": true,
+  "playlistTitle": "The Pulse of New Weird America",
+  "tried": [
+   "New Weird America (music):missing",
+   "New Weird America (genre):missing",
+   "New Weird America (music genre):missing",
+   "New Weird America:ok"
+  ]
+ },
+ {
+  "name": "Nintendocore",
+  "wiki": "Nintendocore",
+  "live": true,
+  "playlistTitle": "The Pulse of Nintendocore",
+  "tried": [
+   "Nintendocore (music):missing",
+   "Nintendocore (genre):ok (Nintendocore)"
+  ]
+ },
+ {
+  "name": "No Wave",
+  "wiki": "No wave",
+  "live": true,
+  "playlistTitle": "The Pulse of No Wave",
+  "tried": [
+   "No Wave (music):missing",
+   "No Wave (genre):missing",
+   "No Wave (music genre):missing",
+   "No Wave:ok (No wave)"
+  ]
+ },
+ {
+  "name": "Noise Pop",
+  "wiki": "Noise Pop",
+  "live": true,
+  "playlistTitle": "The Pulse of Noise Pop",
+  "tried": [
+   "Noise Pop (music):missing",
+   "Noise Pop (genre):missing",
+   "Noise Pop (music genre):missing",
+   "Noise Pop:ok"
+  ]
+ },
+ {
+  "name": "Noise Rock",
+  "wiki": "Noise rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Noise Rock",
+  "tried": [
+   "Noise Rock (music):missing",
+   "Noise Rock (genre):missing",
+   "Noise Rock (music genre):missing",
+   "Noise Rock:ok (Noise rock)"
+  ]
+ },
+ {
+  "name": "Norteno",
+  "wiki": "Norteño (music)",
+  "live": true,
+  "playlistTitle": "The Pulse of Norteño",
+  "tried": [
+   "Norteno (music):ok (Norteño (music))"
+  ]
+ },
+ {
+  "name": "Northern Soul",
+  "wiki": "Northern soul",
+  "live": true,
+  "playlistTitle": "The Pulse of Northern Soul",
+  "tried": [
+   "Northern Soul (music):missing",
+   "Northern Soul (genre):missing",
+   "Northern Soul (music genre):missing",
+   "Northern Soul:ok (Northern soul)"
+  ]
+ },
+ {
+  "name": "Nu Electro",
+  "wiki": "Electro (music)",
+  "live": true,
+  "playlistTitle": "The Pulse of Nu Electro",
+  "tried": [
+   "Nu Electro (music):missing",
+   "Nu Electro (genre):missing",
+   "Nu Electro (music genre):missing",
+   "Nu Electro:ok (Electro (music))"
+  ]
+ },
+ {
+  "name": "Nu Gaze",
+  "wiki": "Nu gaze",
+  "live": true,
+  "playlistTitle": "The Pulse of Nu Gaze",
+  "tried": [
+   "Nu Gaze (music):missing",
+   "Nu Gaze (genre):missing",
+   "Nu Gaze (music genre):missing",
+   "Nu Gaze:ok (Nu gaze)"
+  ]
+ },
+ {
+  "name": "Nu Jazz",
+  "wiki": "Nu jazz",
+  "live": true,
+  "playlistTitle": "The Pulse of Nu Jazz",
+  "tried": [
+   "Nu Jazz (music):missing",
+   "Nu Jazz (genre):missing",
+   "Nu Jazz (music genre):missing",
+   "Nu Jazz:ok (Nu jazz)"
+  ]
+ },
+ {
+  "name": "Nu Metal",
+  "wiki": "Nu metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Nu Metal",
+  "tried": [
+   "Nu Metal (music):missing",
+   "Nu Metal (genre):missing",
+   "Nu Metal (music genre):missing",
+   "Nu Metal:ok (Nu metal)"
+  ]
+ },
+ {
+  "name": "Nueva Cancion",
+  "wiki": "Nueva canción",
+  "live": true,
+  "playlistTitle": "The Pulse of Nueva Canción",
+  "tried": [
+   "Nueva Cancion (music):missing",
+   "Nueva Cancion (genre):missing",
+   "Nueva Cancion (music genre):missing",
+   "Nueva Cancion:ok (Nueva canción)"
+  ]
+ },
+ {
+  "name": "NWOBHM",
+  "wiki": "New wave of British heavy metal",
+  "live": true,
+  "playlistTitle": "The Pulse of NWOBHM",
+  "tried": [
+   "NWOBHM (music):missing",
+   "NWOBHM (genre):missing",
+   "NWOBHM (music genre):missing",
+   "NWOBHM:ok (New wave of British heavy metal)"
+  ]
+ },
+ {
+  "name": "NWOTHM",
+  "wiki": "New wave of traditional heavy metal",
+  "live": true,
+  "playlistTitle": "The Pulse of NWOTHM",
+  "tried": [
+   "NWOTHM (music):missing",
+   "NWOTHM (genre):missing",
+   "NWOTHM (music genre):missing",
+   "NWOTHM:ok (New wave of traditional heavy metal)"
+  ]
+ },
+ {
+  "name": "Opera",
+  "wiki": "Opera",
+  "live": true,
+  "playlistTitle": "The Pulse of Opera",
+  "tried": [
+   "Opera (music):missing",
+   "Opera (genre):missing",
+   "Opera (music genre):missing",
+   "Opera:ok"
+  ]
+ },
+ {
+  "name": "Operatic Pop",
+  "wiki": "Operatic pop",
+  "live": true,
+  "playlistTitle": "The Pulse of Operatic Pop",
+  "tried": [
+   "Operatic Pop (music):missing",
+   "Operatic Pop (genre):missing",
+   "Operatic Pop (music genre):missing",
+   "Operatic Pop:ok (Operatic pop)"
+  ]
+ },
+ {
+  "name": "Orchestral",
+  "wiki": "Orchestra",
+  "live": true,
+  "playlistTitle": "The Pulse of Orchestra",
+  "tried": [
+   "Orchestral (music):missing",
+   "Orchestral (genre):missing",
+   "Orchestral (music genre):missing",
+   "Orchestral:ok (Orchestra)"
+  ]
+ },
+ {
+  "name": "Orquesta Tipica",
+  "wiki": "Orquesta típica",
+  "live": true,
+  "playlistTitle": "The Pulse of Orquesta Tipica",
+  "tried": [
+   "Orquesta Tipica (music):missing",
+   "Orquesta Tipica (genre):missing",
+   "Orquesta Tipica (music genre):missing",
+   "Orquesta Tipica:ok (Orquesta típica)"
+  ]
+ },
+ {
+  "name": "Ostrock",
+  "wiki": "Music of Germany",
+  "live": true,
+  "playlistTitle": "The Pulse of Ostrock",
+  "tried": [
+   "Ostrock (music):missing",
+   "Ostrock (genre):missing",
+   "Ostrock (music genre):missing",
+   "Ostrock:ok (Music of Germany)"
+  ]
+ },
+ {
+  "name": "Outlaw Country",
+  "wiki": "Outlaw country",
+  "live": true,
+  "playlistTitle": "The Pulse of Outlaw Country",
+  "tried": [
+   "Outlaw Country (music):missing",
+   "Outlaw Country (genre):missing",
+   "Outlaw Country (music genre):missing",
+   "Outlaw Country:ok (Outlaw country)"
+  ]
+ },
+ {
+  "name": "P Funk",
+  "wiki": "Parliament-Funkadelic",
+  "live": true,
+  "playlistTitle": "The Pulse of P Funk",
+  "tried": [
+   "P Funk (music):missing",
+   "P Funk (genre):missing",
+   "P Funk (music genre):missing",
+   "P Funk:ok (Parliament-Funkadelic)"
+  ]
+ },
+ {
+  "name": "Pagan Black Metal",
+  "wiki": "Pagan metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Pagan Black Metal",
+  "tried": [
+   "Pagan Black Metal (music):missing",
+   "Pagan Black Metal (genre):missing",
+   "Pagan Black Metal (music genre):missing",
+   "Pagan Black Metal:ok (Pagan metal)"
+  ]
+ },
+ {
+  "name": "Pagode",
+  "wiki": "Pagode",
+  "live": true,
+  "playlistTitle": "The Pulse of Pagode",
+  "tried": [
+   "Pagode (music):broader-redirect (Caipira pagode)",
+   "Pagode (genre):missing",
+   "Pagode (music genre):missing",
+   "Pagode:ok"
+  ]
+ },
+ {
+  "name": "Panpipe",
+  "wiki": "Pan flute",
+  "live": true,
+  "playlistTitle": "The Pulse of Panpipe",
+  "tried": [
+   "Panpipe (music):missing",
+   "Panpipe (genre):missing",
+   "Panpipe (music genre):missing",
+   "Panpipe:ok (Pan flute)"
+  ]
+ },
+ {
+  "name": "Piano Blues",
+  "wiki": "Blues",
+  "live": true,
+  "playlistTitle": "The Pulse of Piano Blues",
+  "tried": [
+   "Piano Blues (music):missing",
+   "Piano Blues (genre):missing",
+   "Piano Blues (music genre):missing",
+   "Piano Blues:ok (Blues)"
+  ]
+ },
+ {
+  "name": "Pipe Band",
+  "wiki": "Pipe band",
+  "live": true,
+  "playlistTitle": "The Pulse of Bagpipe",
+  "tried": [
+   "Pipe Band (music):missing",
+   "Pipe Band (genre):missing",
+   "Pipe Band (music genre):missing",
+   "Pipe Band:ok (Pipe band)"
+  ]
+ },
+ {
+  "name": "Poetry",
+  "wiki": null,
+  "live": true,
+  "playlistTitle": "The Pulse of Poetry",
+  "tried": [
+   "override:none"
+  ]
+ },
+ {
+  "name": "Polka",
+  "wiki": "Polka",
+  "live": true,
+  "playlistTitle": "The Pulse of Polka",
+  "tried": [
+   "Polka (music):missing",
+   "Polka (genre):missing",
+   "Polka (music genre):missing",
+   "Polka:ok"
+  ]
+ },
+ {
+  "name": "Polyphony",
+  "wiki": "Polyphony",
+  "live": true,
+  "playlistTitle": "The Pulse of Polyphony",
+  "tried": [
+   "Polyphony (music):missing",
+   "Polyphony (genre):missing",
+   "Polyphony (music genre):missing",
+   "Polyphony:ok"
+  ]
+ },
+ {
+  "name": "Pop Punk",
+  "wiki": "Pop-punk",
+  "live": true,
+  "playlistTitle": "The Pulse of Pop Punk",
+  "tried": [
+   "Pop Punk (music):missing",
+   "Pop Punk (genre):missing",
+   "Pop Punk (music genre):missing",
+   "Pop Punk:ok (Pop-punk)"
+  ]
+ },
+ {
+  "name": "Pop Rap",
+  "wiki": "Pop rap",
+  "live": true,
+  "playlistTitle": "The Pulse of Pop Rap",
+  "tried": [
+   "Pop Rap (music):missing",
+   "Pop Rap (genre):missing",
+   "Pop Rap (music genre):missing",
+   "Pop Rap:ok (Pop rap)"
+  ]
+ },
+ {
+  "name": "Pop Rock",
+  "wiki": "Pop rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Pop Rock",
+  "tried": [
+   "Pop Rock (music):missing",
+   "Pop Rock (genre):missing",
+   "Pop Rock (music genre):missing",
+   "Pop Rock:ok (Pop rock)"
+  ]
+ },
+ {
+  "name": "Porro",
+  "wiki": "Porro",
+  "live": true,
+  "playlistTitle": "The Pulse of Porro",
+  "tried": [
+   "Porro (music):missing",
+   "Porro (genre):missing",
+   "Porro (music genre):missing",
+   "Porro:ok"
+  ]
+ },
+ {
+  "name": "Post Rock",
+  "wiki": "Post-rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Post-Rock",
+  "tried": [
+   "Post Rock (music):missing",
+   "Post Rock (genre):missing",
+   "Post Rock (music genre):missing",
+   "Post Rock:disambiguation",
+   "Post Rock music:missing",
+   "Postrock:ok (Post-rock)"
+  ]
+ },
+ {
+  "name": "Post-Disco",
+  "wiki": "Post-disco",
+  "live": true,
+  "playlistTitle": "The Pulse of Post-Disco",
+  "tried": [
+   "Post-Disco (music):missing",
+   "Post-Disco (genre):missing",
+   "Post-Disco (music genre):missing",
+   "Post-Disco:ok (Post-disco)"
+  ]
+ },
+ {
+  "name": "Post-Grunge",
+  "wiki": "Post-grunge",
+  "live": true,
+  "playlistTitle": "The Pulse of Post-Grunge",
+  "tried": [
+   "Post-Grunge (music):missing",
+   "Post-Grunge (genre):missing",
+   "Post-Grunge (music genre):missing",
+   "Post-Grunge:ok (Post-grunge)"
+  ]
+ },
+ {
+  "name": "Post-Hardcore",
+  "wiki": "Post-hardcore",
+  "live": true,
+  "playlistTitle": "The Pulse of Post-Hardcore",
+  "tried": [
+   "Post-Hardcore (music):missing",
+   "Post-Hardcore (genre):missing",
+   "Post-Hardcore (music genre):missing",
+   "Post-Hardcore:ok (Post-hardcore)"
+  ]
+ },
+ {
+  "name": "Post-Metal",
+  "wiki": "Post-metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Post-Metal",
+  "tried": [
+   "Post-Metal (music):missing",
+   "Post-Metal (genre):missing",
+   "Post-Metal (music genre):missing",
+   "Post-Metal:ok (Post-metal)"
+  ]
+ },
+ {
+  "name": "Post-Punk",
+  "wiki": "Post-punk",
+  "live": true,
+  "playlistTitle": "The Pulse of Post-Punk",
+  "tried": [
+   "Post-Punk (music):ok (Post-punk)"
+  ]
+ },
+ {
+  "name": "Power Noise",
+  "wiki": "Power noise",
+  "live": true,
+  "playlistTitle": "The Pulse of Power Noise",
+  "tried": [
+   "Power Noise (music):missing",
+   "Power Noise (genre):missing",
+   "Power Noise (music genre):missing",
+   "Power Noise:ok (Power noise)"
+  ]
+ },
+ {
+  "name": "Power Pop",
+  "wiki": "Power pop",
+  "live": true,
+  "playlistTitle": "The Pulse of Power Pop",
+  "tried": [
+   "Power Pop (music):missing",
+   "Power Pop (genre):missing",
+   "Power Pop (music genre):missing",
+   "Power Pop:ok (Power pop)"
+  ]
+ },
+ {
+  "name": "Power Violence",
+  "wiki": "Powerviolence",
+  "live": true,
+  "playlistTitle": "The Pulse of Powerviolence",
+  "tried": [
+   "Power Violence (music):missing",
+   "Power Violence (genre):missing",
+   "Power Violence (music genre):missing",
+   "Power Violence:ok (Powerviolence)"
+  ]
+ },
+ {
+  "name": "Progressive Bluegrass",
+  "wiki": "Bluegrass music",
+  "live": true,
+  "playlistTitle": "The Pulse of Progressive Bluegrass",
+  "tried": [
+   "Progressive Bluegrass (music):missing",
+   "Progressive Bluegrass (genre):missing",
+   "Progressive Bluegrass (music genre):missing",
+   "Progressive Bluegrass:ok (Bluegrass music)"
+  ]
+ },
+ {
+  "name": "Progressive House",
+  "wiki": "Progressive house",
+  "live": true,
+  "playlistTitle": "The Pulse of Progressive House",
+  "tried": [
+   "Progressive House (music):missing",
+   "Progressive House (genre):missing",
+   "Progressive House (music genre):missing",
+   "Progressive House:ok (Progressive house)"
+  ]
+ },
+ {
+  "name": "Progressive Metal",
+  "wiki": "Progressive metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Progressive Metal",
+  "tried": [
+   "Progressive Metal (music):missing",
+   "Progressive Metal (genre):missing",
+   "Progressive Metal (music genre):missing",
+   "Progressive Metal:ok (Progressive metal)"
+  ]
+ },
+ {
+  "name": "Progressive Rock",
+  "wiki": "Progressive rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Progressive Rock",
+  "tried": [
+   "Progressive Rock (music):missing",
+   "Progressive Rock (genre):missing",
+   "Progressive Rock (music genre):missing",
+   "Progressive Rock:ok (Progressive rock)"
+  ]
+ },
+ {
+  "name": "Progressive Trance",
+  "wiki": "Trance music",
+  "live": true,
+  "playlistTitle": "The Pulse of Progressive Trance",
+  "tried": [
+   "Progressive Trance (music):missing",
+   "Progressive Trance (genre):missing",
+   "Progressive Trance (music genre):missing",
+   "Progressive Trance:ok (Trance music)"
+  ]
+ },
+ {
+  "name": "Protopunk",
+  "wiki": "Proto-punk",
+  "live": true,
+  "playlistTitle": "The Pulse of Protopunk",
+  "tried": [
+   "Protopunk (music):missing",
+   "Protopunk (genre):missing",
+   "Protopunk (music genre):missing",
+   "Protopunk:ok (Proto-punk)"
+  ]
+ },
+ {
+  "name": "Psychedelic Rock",
+  "wiki": "Psychedelic rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Psychedelic Rock",
+  "tried": [
+   "Psychedelic Rock (music):missing",
+   "Psychedelic Rock (genre):missing",
+   "Psychedelic Rock (music genre):missing",
+   "Psychedelic Rock:ok (Psychedelic rock)"
+  ]
+ },
+ {
+  "name": "Psychedelic Trance",
+  "wiki": "Psychedelic trance",
+  "live": true,
+  "playlistTitle": "The Pulse of Psychedelic Trance",
+  "tried": [
+   "Psychedelic Trance (music):missing",
+   "Psychedelic Trance (genre):missing",
+   "Psychedelic Trance (music genre):missing",
+   "Psychedelic Trance:ok (Psychedelic trance)"
+  ]
+ },
+ {
+  "name": "Psychobilly",
+  "wiki": "Psychobilly",
+  "live": true,
+  "playlistTitle": "The Pulse of Psychobilly",
+  "tried": [
+   "Psychobilly (music):missing",
+   "Psychobilly (genre):missing",
+   "Psychobilly (music genre):missing",
+   "Psychobilly:ok"
+  ]
+ },
+ {
+  "name": "Pub Rock",
+  "wiki": "Pub rock (United Kingdom)",
+  "live": true,
+  "playlistTitle": "The Pulse of Pub Rock",
+  "tried": [
+   "override:Pub rock (United Kingdom)"
+  ]
+ },
+ {
+  "name": "Punta",
+  "wiki": "Punta",
+  "live": true,
+  "playlistTitle": "The Pulse of Punta",
+  "tried": [
+   "Punta (music):ok (Punta)"
+  ]
+ },
+ {
+  "name": "Qawwali",
+  "wiki": "Qawwali",
+  "live": true,
+  "playlistTitle": "The Pulse of Qawwali",
+  "tried": [
+   "Qawwali (music):missing",
+   "Qawwali (genre):missing",
+   "Qawwali (music genre):missing",
+   "Qawwali:ok"
+  ]
+ },
+ {
+  "name": "R&B",
+  "wiki": "Rhythm and blues",
+  "live": true,
+  "playlistTitle": "The Pulse of R&B",
+  "tried": [
+   "R&B (music):missing",
+   "R&B (genre):missing",
+   "R&B (music genre):missing",
+   "R&B:ok (Rhythm and blues)"
+  ]
+ },
+ {
+  "name": "Ragga Jungle",
+  "wiki": "Jungle music",
+  "live": true,
+  "playlistTitle": "The Pulse of Ragga Jungle",
+  "tried": [
+   "Ragga Jungle (music):missing",
+   "Ragga Jungle (genre):missing",
+   "Ragga Jungle (music genre):missing",
+   "Ragga Jungle:ok (Jungle music)"
+  ]
+ },
+ {
+  "name": "Ragtime",
+  "wiki": "Ragtime",
+  "live": true,
+  "playlistTitle": "The Pulse of Ragtime",
+  "tried": [
+   "Ragtime (music):missing",
+   "Ragtime (genre):missing",
+   "Ragtime (music genre):missing",
+   "Ragtime:ok"
+  ]
+ },
+ {
+  "name": "Ranchera",
+  "wiki": "Ranchera",
+  "live": true,
+  "playlistTitle": "The Pulse of Ranchera",
+  "tried": [
+   "Ranchera (music):ok (Ranchera)"
+  ]
+ },
+ {
+  "name": "Rap",
+  "wiki": "Rapping",
+  "live": true,
+  "playlistTitle": "The Pulse of Rap",
+  "tried": [
+   "Rap (music):broader-redirect (Hip-hop)",
+   "Rap (genre):broader-redirect (Rapping)",
+   "Rap (music genre):missing",
+   "Rap:ok (Rapping)"
+  ]
+ },
+ {
+  "name": "Rap Metal",
+  "wiki": "Rap metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Rap Metal",
+  "tried": [
+   "Rap Metal (music):missing",
+   "Rap Metal (genre):missing",
+   "Rap Metal (music genre):missing",
+   "Rap Metal:ok (Rap metal)"
+  ]
+ },
+ {
+  "name": "Rap Rock",
+  "wiki": "Rap rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Rap Rock",
+  "tried": [
+   "Rap Rock (music):missing",
+   "Rap Rock (genre):missing",
+   "Rap Rock (music genre):missing",
+   "Rap Rock:ok (Rap rock)"
+  ]
+ },
+ {
+  "name": "Rebetiko",
+  "wiki": "Rebetiko",
+  "live": true,
+  "playlistTitle": "The Pulse of Rebetiko",
+  "tried": [
+   "Rebetiko (music):missing",
+   "Rebetiko (genre):missing",
+   "Rebetiko (music genre):missing",
+   "Rebetiko:ok"
+  ]
+ },
+ {
+  "name": "Reggae",
+  "wiki": "Reggae",
+  "live": true,
+  "playlistTitle": "The Pulse of Reggae",
+  "tried": [
+   "Reggae (music):ok (Reggae)"
+  ]
+ },
+ {
+  "name": "Reggae Fusion",
+  "wiki": "Reggae fusion",
+  "live": true,
+  "playlistTitle": "The Pulse of Reggae Fusion",
+  "tried": [
+   "Reggae Fusion (music):missing",
+   "Reggae Fusion (genre):missing",
+   "Reggae Fusion (music genre):missing",
+   "Reggae Fusion:ok (Reggae fusion)"
+  ]
+ },
+ {
+  "name": "Reggae Rock",
+  "wiki": "Reggae rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Reggae Rock",
+  "tried": [
+   "Reggae Rock (music):missing",
+   "Reggae Rock (genre):missing",
+   "Reggae Rock (music genre):missing",
+   "Reggae Rock:ok (Reggae rock)"
+  ]
+ },
+ {
+  "name": "Reggaeton",
+  "wiki": "Reggaeton",
+  "live": true,
+  "playlistTitle": "The Pulse of Reggaeton",
+  "tried": [
+   "Reggaeton (music):missing",
+   "Reggaeton (genre):missing",
+   "Reggaeton (music genre):missing",
+   "Reggaeton:ok"
+  ]
+ },
+ {
+  "name": "Regional Mexican",
+  "wiki": "Regional Mexican music",
+  "live": true,
+  "playlistTitle": "The Pulse of Música Mexicana",
+  "tried": [
+   "Regional Mexican (music):missing",
+   "Regional Mexican (genre):missing",
+   "Regional Mexican (music genre):missing",
+   "Regional Mexican:ok (Regional Mexican music)"
+  ]
+ },
+ {
+  "name": "Riddim",
+  "wiki": "Riddim (genre)",
+  "live": true,
+  "playlistTitle": "The Pulse of Riddim",
+  "tried": [
+   "Riddim (music):missing",
+   "Riddim (genre):ok"
+  ]
+ },
+ {
+  "name": "Riot Grrrl",
+  "wiki": "Riot grrrl",
+  "live": true,
+  "playlistTitle": "The Pulse of Riot Grrrl",
+  "tried": [
+   "Riot Grrrl (music):missing",
+   "Riot Grrrl (genre):missing",
+   "Riot Grrrl (music genre):missing",
+   "Riot Grrrl:ok (Riot grrrl)"
+  ]
+ },
+ {
+  "name": "Rock",
+  "wiki": "Rock music",
+  "live": true,
+  "playlistTitle": "The Pulse of Rock",
+  "tried": [
+   "Rock (music):ok (Rock music)"
+  ]
+ },
+ {
+  "name": "Rock en Español",
+  "wiki": "Rock en español",
+  "live": true,
+  "playlistTitle": "The Pulse of Rock en Español",
+  "tried": [
+   "Rock en Español (music):missing",
+   "Rock en Español (genre):missing",
+   "Rock en Español (music genre):missing",
+   "Rock en Español:ok (Rock en español)"
+  ]
+ },
+ {
+  "name": "Rock Steady",
+  "wiki": "Rocksteady",
+  "live": true,
+  "playlistTitle": "The Pulse of Rocksteady",
+  "tried": [
+   "Rock Steady (music):missing",
+   "Rock Steady (genre):missing",
+   "Rock Steady (music genre):missing",
+   "Rock Steady:disambiguation (Rocksteady (disambiguation))",
+   "Rock Steady music:missing",
+   "Rocksteady:ok"
+  ]
+ },
+ {
+  "name": "Rockabilly",
+  "wiki": "Rockabilly",
+  "live": true,
+  "playlistTitle": "The Pulse of Rockabilly",
+  "tried": [
+   "Rockabilly (music):missing",
+   "Rockabilly (genre):missing",
+   "Rockabilly (music genre):missing",
+   "Rockabilly:ok"
+  ]
+ },
+ {
+  "name": "Roots Reggae",
+  "wiki": "Roots reggae",
+  "live": true,
+  "playlistTitle": "The Pulse of Roots Reggae",
+  "tried": [
+   "Roots Reggae (music):missing",
+   "Roots Reggae (genre):missing",
+   "Roots Reggae (music genre):missing",
+   "Roots Reggae:ok (Roots reggae)"
+  ]
+ },
+ {
+  "name": "Roots Rock",
+  "wiki": "Roots rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Roots Rock",
+  "tried": [
+   "Roots Rock (music):missing",
+   "Roots Rock (genre):missing",
+   "Roots Rock (music genre):missing",
+   "Roots Rock:ok (Roots rock)"
+  ]
+ },
+ {
+  "name": "Rumba",
+  "wiki": null,
+  "live": true,
+  "playlistTitle": "The Pulse of Rumba",
+  "tried": [
+   "Rumba (music):missing",
+   "Rumba (genre):missing",
+   "Rumba (music genre):missing",
+   "Rumba:disambiguation",
+   "Rumba music:missing",
+   "search:Rumba:disambiguation"
+  ]
+ },
+ {
+  "name": "Russelåter",
+  "wiki": "Russ music",
+  "live": true,
+  "playlistTitle": "The Pulse of Russelåter",
+  "tried": [
+   "Russelåter (music):missing",
+   "Russelåter (genre):missing",
+   "Russelåter (music genre):missing",
+   "Russelåter:ok (Russ music)"
+  ]
+ },
+ {
+  "name": "Russian Rock",
+  "wiki": "Rock music in Russia",
+  "live": true,
+  "playlistTitle": "The Pulse of Russian Rock",
+  "tried": [
+   "Russian Rock (music):missing",
+   "Russian Rock (genre):missing",
+   "Russian Rock (music genre):missing",
+   "Russian Rock:ok (Rock music in Russia)"
+  ]
+ },
+ {
+  "name": "Salsa",
+  "wiki": "Salsa music",
+  "live": true,
+  "playlistTitle": "The Pulse of Salsa",
+  "tried": [
+   "Salsa (music):ok (Salsa music)"
+  ]
+ },
+ {
+  "name": "Samba",
+  "wiki": "Samba",
+  "live": true,
+  "playlistTitle": "The Pulse of Samba",
+  "tried": [
+   "Samba (music):ok (Samba)"
+  ]
+ },
+ {
+  "name": "Schlager",
+  "wiki": "Schlager music",
+  "live": true,
+  "playlistTitle": "The Pulse of Schlager",
+  "tried": [
+   "Schlager (music):missing",
+   "Schlager (genre):missing",
+   "Schlager (music genre):missing",
+   "Schlager:ok (Schlager music)"
+  ]
+ },
+ {
+  "name": "Screamo",
+  "wiki": "Screamo",
+  "live": true,
+  "playlistTitle": "The Pulse of Screamo",
+  "tried": [
+   "Screamo (music):ok (Screamo)"
+  ]
+ },
+ {
+  "name": "Screamocore",
+  "wiki": "Screamo",
+  "live": false,
+  "playlistTitle": null,
+  "tried": [
+   "Screamocore (music):missing",
+   "Screamocore (genre):missing",
+   "Screamocore (music genre):missing",
+   "Screamocore:ok (Screamo)"
+  ]
+ },
+ {
+  "name": "Semba",
+  "wiki": "Semba",
+  "live": true,
+  "playlistTitle": "The Pulse of Semba",
+  "tried": [
+   "Semba (music):ok (Semba)"
+  ]
+ },
+ {
+  "name": "Serialism",
+  "wiki": "Serialism",
+  "live": true,
+  "playlistTitle": "The Pulse of Serialism",
+  "tried": [
+   "Serialism (music):missing",
+   "Serialism (genre):missing",
+   "Serialism (music genre):missing",
+   "Serialism:ok"
+  ]
+ },
+ {
+  "name": "Sertanejo",
+  "wiki": "Sertanejo music",
+  "live": true,
+  "playlistTitle": "The Pulse of Sertanejo",
+  "tried": [
+   "Sertanejo (music):missing",
+   "Sertanejo (genre):missing",
+   "Sertanejo (music genre):missing",
+   "Sertanejo:disambiguation (Sertaneja)",
+   "Sertanejo music:ok"
+  ]
+ },
+ {
+  "name": "Shibuya-Kei",
+  "wiki": "Shibuya-kei",
+  "live": true,
+  "playlistTitle": "The Pulse of Shibuya-Kei",
+  "tried": [
+   "Shibuya-Kei (music):missing",
+   "Shibuya-Kei (genre):missing",
+   "Shibuya-Kei (music genre):missing",
+   "Shibuya-Kei:ok (Shibuya-kei)"
+  ]
+ },
+ {
+  "name": "Shoegaze",
+  "wiki": "Shoegaze",
+  "live": true,
+  "playlistTitle": "The Pulse of Shoegaze",
+  "tried": [
+   "Shoegaze (music):missing",
+   "Shoegaze (genre):ok (Shoegaze)"
+  ]
+ },
+ {
+  "name": "Singer-Songwriter",
+  "wiki": "Singer-songwriter",
+  "live": true,
+  "playlistTitle": "The Pulse of Singer-Songwriter",
+  "tried": [
+   "Singer-Songwriter (music):missing",
+   "Singer-Songwriter (genre):missing",
+   "Singer-Songwriter (music genre):missing",
+   "Singer-Songwriter:ok (Singer-songwriter)"
+  ]
+ },
+ {
+  "name": "Ska",
+  "wiki": "Ska",
+  "live": true,
+  "playlistTitle": "The Pulse of Ska",
+  "tried": [
+   "Ska (music):missing",
+   "Ska (genre):missing",
+   "Ska (music genre):missing",
+   "Ska:ok"
+  ]
+ },
+ {
+  "name": "Ska Punk",
+  "wiki": "Ska punk",
+  "live": true,
+  "playlistTitle": "The Pulse of Ska Punk",
+  "tried": [
+   "Ska Punk (music):missing",
+   "Ska Punk (genre):missing",
+   "Ska Punk (music genre):missing",
+   "Ska Punk:ok (Ska punk)"
+  ]
+ },
+ {
+  "name": "Skiffle",
+  "wiki": "Skiffle",
+  "live": true,
+  "playlistTitle": "The Pulse of Skiffle",
+  "tried": [
+   "Skiffle (music):missing",
+   "Skiffle (genre):missing",
+   "Skiffle (music genre):missing",
+   "Skiffle:ok"
+  ]
+ },
+ {
+  "name": "Skweee",
+  "wiki": "Skweee",
+  "live": true,
+  "playlistTitle": "The Pulse of Skweee",
+  "tried": [
+   "Skweee (music):missing",
+   "Skweee (genre):missing",
+   "Skweee (music genre):missing",
+   "Skweee:ok"
+  ]
+ },
+ {
+  "name": "Sleaze Rock",
+  "wiki": "Glam metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Sleaze Rock",
+  "tried": [
+   "Sleaze Rock (music):missing",
+   "Sleaze Rock (genre):missing",
+   "Sleaze Rock (music genre):missing",
+   "Sleaze Rock:ok (Glam metal)"
+  ]
+ },
+ {
+  "name": "Sludge Metal",
+  "wiki": "Sludge metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Sludge Metal",
+  "tried": [
+   "Sludge Metal (music):missing",
+   "Sludge Metal (genre):missing",
+   "Sludge Metal (music genre):missing",
+   "Sludge Metal:ok (Sludge metal)"
+  ]
+ },
+ {
+  "name": "Smooth Jazz",
+  "wiki": "Smooth jazz",
+  "live": true,
+  "playlistTitle": "The Pulse of Smooth Jazz",
+  "tried": [
+   "Smooth Jazz (music):missing",
+   "Smooth Jazz (genre):missing",
+   "Smooth Jazz (music genre):missing",
+   "Smooth Jazz:ok (Smooth jazz)"
+  ]
+ },
+ {
+  "name": "Soft Rock",
+  "wiki": "Soft rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Soft Rock",
+  "tried": [
+   "Soft Rock (music):missing",
+   "Soft Rock (genre):missing",
+   "Soft Rock (music genre):missing",
+   "Soft Rock:disambiguation",
+   "Soft Rock music:missing",
+   "Softrock:ok (Soft rock)"
+  ]
+ },
+ {
+  "name": "Soukous",
+  "wiki": "Soukous",
+  "live": true,
+  "playlistTitle": "The Pulse of Soukous",
+  "tried": [
+   "Soukous (music):missing",
+   "Soukous (genre):missing",
+   "Soukous (music genre):missing",
+   "Soukous:ok"
+  ]
+ },
+ {
+  "name": "Soul Blues",
+  "wiki": "Soul blues",
+  "live": true,
+  "playlistTitle": "The Pulse of Soul Blues",
+  "tried": [
+   "Soul Blues (music):missing",
+   "Soul Blues (genre):missing",
+   "Soul Blues (music genre):missing",
+   "Soul Blues:ok (Soul blues)"
+  ]
+ },
+ {
+  "name": "Soul Jazz",
+  "wiki": "Soul jazz",
+  "live": true,
+  "playlistTitle": "The Pulse of Soul Jazz",
+  "tried": [
+   "Soul Jazz (music):missing",
+   "Soul Jazz (genre):missing",
+   "Soul Jazz (music genre):missing",
+   "Soul Jazz:ok (Soul jazz)"
+  ]
+ },
+ {
+  "name": "Soundtrack",
+  "wiki": "Soundtrack",
+  "live": true,
+  "playlistTitle": "The Pulse of Soundtrack",
+  "tried": [
+   "Soundtrack (music):missing",
+   "Soundtrack (genre):missing",
+   "Soundtrack (music genre):missing",
+   "Soundtrack:ok"
+  ]
+ },
+ {
+  "name": "Southern Gospel",
+  "wiki": "Southern gospel",
+  "live": true,
+  "playlistTitle": "The Pulse of Southern Gospel",
+  "tried": [
+   "Southern Gospel (music):missing",
+   "Southern Gospel (genre):missing",
+   "Southern Gospel (music genre):missing",
+   "Southern Gospel:ok (Southern gospel)"
+  ]
+ },
+ {
+  "name": "Southern Hip Hop",
+  "wiki": "Southern hip-hop",
+  "live": true,
+  "playlistTitle": "The Pulse of Southern Hip Hop",
+  "tried": [
+   "Southern Hip Hop (music):missing",
+   "Southern Hip Hop (genre):missing",
+   "Southern Hip Hop (music genre):missing",
+   "Southern Hip Hop:ok (Southern hip-hop)"
+  ]
+ },
+ {
+  "name": "Southern Rock",
+  "wiki": "Southern rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Southern Rock",
+  "tried": [
+   "Southern Rock (music):missing",
+   "Southern Rock (genre):missing",
+   "Southern Rock (music genre):missing",
+   "Southern Rock:ok (Southern rock)"
+  ]
+ },
+ {
+  "name": "Southern Soul",
+  "wiki": "Southern soul",
+  "live": true,
+  "playlistTitle": "The Pulse of Southern Soul",
+  "tried": [
+   "Southern Soul (music):missing",
+   "Southern Soul (genre):missing",
+   "Southern Soul (music genre):missing",
+   "Southern Soul:ok (Southern soul)"
+  ]
+ },
+ {
+  "name": "Space Rock",
+  "wiki": "Space rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Space Rock",
+  "tried": [
+   "Space Rock (music):missing",
+   "Space Rock (genre):missing",
+   "Space Rock (music genre):missing",
+   "Space Rock:ok (Space rock)"
+  ]
+ },
+ {
+  "name": "Spanish Reggae",
+  "wiki": "Reggae en Español",
+  "live": true,
+  "playlistTitle": "The Pulse of Spanish Reggae",
+  "tried": [
+   "Spanish Reggae (music):missing",
+   "Spanish Reggae (genre):missing",
+   "Spanish Reggae (music genre):missing",
+   "Spanish Reggae:ok (Reggae en Español)"
+  ]
+ },
+ {
+  "name": "Speed Garage",
+  "wiki": "Speed garage",
+  "live": true,
+  "playlistTitle": "The Pulse of Speed Garage",
+  "tried": [
+   "Speed Garage (music):missing",
+   "Speed Garage (genre):missing",
+   "Speed Garage (music genre):missing",
+   "Speed Garage:ok (Speed garage)"
+  ]
+ },
+ {
+  "name": "Speed Metal",
+  "wiki": "Speed metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Speed Metal",
+  "tried": [
+   "Speed Metal (music):missing",
+   "Speed Metal (genre):missing",
+   "Speed Metal (music genre):missing",
+   "Speed Metal:ok (Speed metal)"
+  ]
+ },
+ {
+  "name": "Speedcore",
+  "wiki": "Speedcore",
+  "live": true,
+  "playlistTitle": "The Pulse of Speedcore",
+  "tried": [
+   "Speedcore (music):missing",
+   "Speedcore (genre):missing",
+   "Speedcore (music genre):missing",
+   "Speedcore:ok"
+  ]
+ },
+ {
+  "name": "Spoken Word",
+  "wiki": "Spoken word",
+  "live": true,
+  "playlistTitle": "The Pulse of Spoken Word",
+  "tried": [
+   "override:Spoken word"
+  ]
+ },
+ {
+  "name": "Steelpan",
+  "wiki": "Steelpan",
+  "live": true,
+  "playlistTitle": "The Pulse of Steelpan",
+  "tried": [
+   "Steelpan (music):missing",
+   "Steelpan (genre):missing",
+   "Steelpan (music genre):missing",
+   "Steelpan:ok"
+  ]
+ },
+ {
+  "name": "Stoner Metal",
+  "wiki": "Stoner rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Stoner Metal",
+  "tried": [
+   "Stoner Metal (music):missing",
+   "Stoner Metal (genre):missing",
+   "Stoner Metal (music genre):missing",
+   "Stoner Metal:ok (Stoner rock)"
+  ]
+ },
+ {
+  "name": "Stoner Rock",
+  "wiki": "Stoner rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Stoner Rock",
+  "tried": [
+   "Stoner Rock (music):missing",
+   "Stoner Rock (genre):missing",
+   "Stoner Rock (music genre):missing",
+   "Stoner Rock:ok (Stoner rock)"
+  ]
+ },
+ {
+  "name": "Street Punk",
+  "wiki": "Street punk",
+  "live": true,
+  "playlistTitle": "The Pulse of Street Punk",
+  "tried": [
+   "Street Punk (music):missing",
+   "Street Punk (genre):missing",
+   "Street Punk (music genre):missing",
+   "Street Punk:ok (Street punk)"
+  ]
+ },
+ {
+  "name": "String Band",
+  "wiki": "String band",
+  "live": true,
+  "playlistTitle": "The Pulse of String Band",
+  "tried": [
+   "String Band (music):missing",
+   "String Band (genre):missing",
+   "String Band (music genre):missing",
+   "String Band:ok (String band)"
+  ]
+ },
+ {
+  "name": "String Quartet",
+  "wiki": "String quartet",
+  "live": true,
+  "playlistTitle": "The Pulse of String Quartet",
+  "tried": [
+   "String Quartet (music):missing",
+   "String Quartet (genre):missing",
+   "String Quartet (music genre):missing",
+   "String Quartet:ok (String quartet)"
+  ]
+ },
+ {
+  "name": "Sunset Lounge",
+  "wiki": null,
+  "live": true,
+  "playlistTitle": "The Pulse of Sunset Lounge",
+  "tried": [
+   "override:none"
+  ]
+ },
+ {
+  "name": "Swamp Blues",
+  "wiki": "Swamp blues",
+  "live": true,
+  "playlistTitle": "The Pulse of Swamp Blues",
+  "tried": [
+   "Swamp Blues (music):missing",
+   "Swamp Blues (genre):missing",
+   "Swamp Blues (music genre):missing",
+   "Swamp Blues:ok (Swamp blues)"
+  ]
+ },
+ {
+  "name": "Swamp Pop",
+  "wiki": "Swamp pop",
+  "live": true,
+  "playlistTitle": "The Pulse of Swamp Pop",
+  "tried": [
+   "Swamp Pop (music):missing",
+   "Swamp Pop (genre):missing",
+   "Swamp Pop (music genre):missing",
+   "Swamp Pop:ok (Swamp pop)"
+  ]
+ },
+ {
+  "name": "Symphonic Black Metal",
+  "wiki": "Symphonic black metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Symphonic Black Metal",
+  "tried": [
+   "Symphonic Black Metal (music):missing",
+   "Symphonic Black Metal (genre):missing",
+   "Symphonic Black Metal (music genre):missing",
+   "Symphonic Black Metal:ok (Symphonic black metal)"
+  ]
+ },
+ {
+  "name": "Symphonic Metal",
+  "wiki": "Symphonic metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Symphonic Metal",
+  "tried": [
+   "Symphonic Metal (music):missing",
+   "Symphonic Metal (genre):missing",
+   "Symphonic Metal (music genre):missing",
+   "Symphonic Metal:ok (Symphonic metal)"
+  ]
+ },
+ {
+  "name": "Symphonic Rock",
+  "wiki": "Progressive rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Symphonic Rock",
+  "tried": [
+   "Symphonic Rock (music):missing",
+   "Symphonic Rock (genre):missing",
+   "Symphonic Rock (music genre):missing",
+   "Symphonic Rock:ok (Progressive rock)"
+  ]
+ },
+ {
+  "name": "Synthpop",
+  "wiki": "Synth-pop",
+  "live": true,
+  "playlistTitle": "The Pulse of Synthpop",
+  "tried": [
+   "Synthpop (music):missing",
+   "Synthpop (genre):missing",
+   "Synthpop (music genre):missing",
+   "Synthpop:ok (Synth-pop)"
+  ]
+ },
+ {
+  "name": "Tech House",
+  "wiki": "Tech house",
+  "live": true,
+  "playlistTitle": "The Pulse of Tech House",
+  "tried": [
+   "Tech House (music):missing",
+   "Tech House (genre):missing",
+   "Tech House (music genre):missing",
+   "Tech House:ok (Tech house)"
+  ]
+ },
+ {
+  "name": "Technical Death Metal",
+  "wiki": "Technical death metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Technical Death Metal",
+  "tried": [
+   "Technical Death Metal (music):missing",
+   "Technical Death Metal (genre):missing",
+   "Technical Death Metal (music genre):missing",
+   "Technical Death Metal:ok (Technical death metal)"
+  ]
+ },
+ {
+  "name": "Techno",
+  "wiki": "Techno",
+  "live": true,
+  "playlistTitle": "The Pulse of Techno",
+  "tried": [
+   "Techno (music):ok (Techno)"
+  ]
+ },
+ {
+  "name": "Teen Pop",
+  "wiki": "Teen pop",
+  "live": true,
+  "playlistTitle": "The Pulse of Teen Pop",
+  "tried": [
+   "Teen Pop (music):missing",
+   "Teen Pop (genre):missing",
+   "Teen Pop (music genre):missing",
+   "Teen Pop:ok (Teen pop)"
+  ]
+ },
+ {
+  "name": "Tekno",
+  "wiki": null,
+  "live": true,
+  "playlistTitle": "The Pulse of Tekno",
+  "tried": [
+   "Tekno (music):missing",
+   "Tekno (genre):missing",
+   "Tekno (music genre):missing",
+   "Tekno:disambiguation",
+   "Tekno music:missing",
+   "search:Tekno:disambiguation"
+  ]
+ },
+ {
+  "name": "Texas Blues",
+  "wiki": "Texas blues",
+  "live": true,
+  "playlistTitle": "The Pulse of Texas Blues",
+  "tried": [
+   "Texas Blues (music):missing",
+   "Texas Blues (genre):missing",
+   "Texas Blues (music genre):missing",
+   "Texas Blues:ok (Texas blues)"
+  ]
+ },
+ {
+  "name": "Texas Country",
+  "wiki": "Texas country music",
+  "live": true,
+  "playlistTitle": "The Pulse of Classic Texas Country",
+  "tried": [
+   "Texas Country (music):missing",
+   "Texas Country (genre):missing",
+   "Texas Country (music genre):missing",
+   "Texas Country:ok (Texas country music)"
+  ]
+ },
+ {
+  "name": "Theme",
+  "wiki": "Theme music",
+  "live": true,
+  "playlistTitle": "The Pulse of Theme",
+  "tried": [
+   "Theme (music):broader-redirect (Subject (music))",
+   "Theme (genre):missing",
+   "Theme (music genre):missing",
+   "Theme:disambiguation",
+   "Theme music:ok"
+  ]
+ },
+ {
+  "name": "Thrash Metal",
+  "wiki": "Thrash metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Thrash Metal",
+  "tried": [
+   "Thrash Metal (music):missing",
+   "Thrash Metal (genre):missing",
+   "Thrash Metal (music genre):missing",
+   "Thrash Metal:ok (Thrash metal)"
+  ]
+ },
+ {
+  "name": "Throat Singing",
+  "wiki": "Throat singing",
+  "live": true,
+  "playlistTitle": "The Pulse of Throat Singing",
+  "tried": [
+   "Throat Singing (music):missing",
+   "Throat Singing (genre):missing",
+   "Throat Singing (music genre):missing",
+   "Throat Singing:ok (Throat singing)"
+  ]
+ },
+ {
+  "name": "Timba",
+  "wiki": "Timba",
+  "live": true,
+  "playlistTitle": "The Pulse of Timba",
+  "tried": [
+   "Timba (music):missing",
+   "Timba (genre):missing",
+   "Timba (music genre):missing",
+   "Timba:ok"
+  ]
+ },
+ {
+  "name": "Tin Pan Alley",
+  "wiki": "Tin Pan Alley",
+  "live": true,
+  "playlistTitle": "The Pulse of Tin Pan Alley",
+  "tried": [
+   "override:Tin Pan Alley"
+  ]
+ },
+ {
+  "name": "Trap Music",
+  "wiki": "Trap music",
+  "live": true,
+  "playlistTitle": "The Pulse of Trap",
+  "tried": [
+   "Trap Music (music):missing",
+   "Trap Music (genre):missing",
+   "Trap Music (music genre):missing",
+   "Trap Music:ok (Trap music)"
+  ]
+ },
+ {
+  "name": "Tribal House",
+  "wiki": "Tribal house",
+  "live": true,
+  "playlistTitle": "The Pulse of Tribal House",
+  "tried": [
+   "Tribal House (music):missing",
+   "Tribal House (genre):missing",
+   "Tribal House (music genre):missing",
+   "Tribal House:ok (Tribal house)"
+  ]
+ },
+ {
+  "name": "Trip Hop",
+  "wiki": "Trip hop",
+  "live": true,
+  "playlistTitle": "The Pulse of Trip Hop",
+  "tried": [
+   "Trip Hop (music):missing",
+   "Trip Hop (genre):missing",
+   "Trip Hop (music genre):missing",
+   "Trip Hop:ok (Trip hop)"
+  ]
+ },
+ {
+  "name": "Trova",
+  "wiki": "Trova",
+  "live": true,
+  "playlistTitle": "The Pulse of Trova",
+  "tried": [
+   "Trova (music):missing",
+   "Trova (genre):missing",
+   "Trova (music genre):missing",
+   "Trova:ok"
+  ]
+ },
+ {
+  "name": "Turbo Folk",
+  "wiki": "Turbo-folk",
+  "live": true,
+  "playlistTitle": "The Pulse of Turbo Folk",
+  "tried": [
+   "Turbo Folk (music):missing",
+   "Turbo Folk (genre):missing",
+   "Turbo Folk (music genre):missing",
+   "Turbo Folk:ok (Turbo-folk)"
+  ]
+ },
+ {
+  "name": "Turntablism",
+  "wiki": "Turntablism",
+  "live": true,
+  "playlistTitle": "The Pulse of Turntablism",
+  "tried": [
+   "Turntablism (music):missing",
+   "Turntablism (genre):missing",
+   "Turntablism (music genre):missing",
+   "Turntablism:ok"
+  ]
+ },
+ {
+  "name": "UK Funky",
+  "wiki": "UK funky",
+  "live": true,
+  "playlistTitle": "The Pulse of UK Funky",
+  "tried": [
+   "UK Funky (music):missing",
+   "UK Funky (genre):missing",
+   "UK Funky (music genre):ok (UK funky)"
+  ]
+ },
+ {
+  "name": "UK Garage",
+  "wiki": "UK garage",
+  "live": true,
+  "playlistTitle": "The Pulse of UK Garage",
+  "tried": [
+   "UK Garage (music):missing",
+   "UK Garage (genre):missing",
+   "UK Garage (music genre):missing",
+   "UK Garage:ok (UK garage)"
+  ]
+ },
+ {
+  "name": "UK Hip Hop",
+  "wiki": "UK rap",
+  "live": true,
+  "playlistTitle": "The Pulse of UK Hip Hop",
+  "tried": [
+   "UK Hip Hop (music):missing",
+   "UK Hip Hop (genre):missing",
+   "UK Hip Hop (music genre):missing",
+   "UK Hip Hop:ok (UK rap)"
+  ]
+ },
+ {
+  "name": "Ukulele",
+  "wiki": "Ukulele",
+  "live": true,
+  "playlistTitle": "The Pulse of Ukulele",
+  "tried": [
+   "Ukulele (music):missing",
+   "Ukulele (genre):missing",
+   "Ukulele (music genre):missing",
+   "Ukulele:ok"
+  ]
+ },
+ {
+  "name": "Unblack Metal",
+  "wiki": "Unblack metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Unblack Metal",
+  "tried": [
+   "Unblack Metal (music):missing",
+   "Unblack Metal (genre):missing",
+   "Unblack Metal (music genre):missing",
+   "Unblack Metal:ok (Unblack metal)"
+  ]
+ },
+ {
+  "name": "Underground Hip Hop",
+  "wiki": "Underground hip-hop",
+  "live": true,
+  "playlistTitle": "The Pulse of Underground Hip Hop",
+  "tried": [
+   "Underground Hip Hop (music):missing",
+   "Underground Hip Hop (genre):missing",
+   "Underground Hip Hop (music genre):missing",
+   "Underground Hip Hop:ok (Underground hip-hop)"
+  ]
+ },
+ {
+  "name": "Underground Rap",
+  "wiki": "Underground hip-hop",
+  "live": true,
+  "playlistTitle": "The Pulse of Underground Rap",
+  "tried": [
+   "Underground Rap (music):missing",
+   "Underground Rap (genre):missing",
+   "Underground Rap (music genre):missing",
+   "Underground Rap:ok (Underground hip-hop)"
+  ]
+ },
+ {
+  "name": "Uplifting Trance",
+  "wiki": "Uplifting trance",
+  "live": true,
+  "playlistTitle": "The Pulse of Uplifting Trance",
+  "tried": [
+   "Uplifting Trance (music):missing",
+   "Uplifting Trance (genre):missing",
+   "Uplifting Trance (music genre):missing",
+   "Uplifting Trance:ok (Uplifting trance)"
+  ]
+ },
+ {
+  "name": "Urban Contemporary",
+  "wiki": "Urban contemporary music",
+  "live": true,
+  "playlistTitle": "The Pulse of Urban Contemporary",
+  "tried": [
+   "Urban Contemporary (music):missing",
+   "Urban Contemporary (genre):missing",
+   "Urban Contemporary (music genre):missing",
+   "Urban Contemporary:ok (Urban contemporary music)"
+  ]
+ },
+ {
+  "name": "Vallenato",
+  "wiki": "Vallenato",
+  "live": true,
+  "playlistTitle": "The Pulse of Vallenato",
+  "tried": [
+   "Vallenato (music):ok (Vallenato)"
+  ]
+ },
+ {
+  "name": "Vaporwave",
+  "wiki": "Vaporwave",
+  "live": true,
+  "playlistTitle": "The Pulse of Vaporwave",
+  "tried": [
+   "Vaporwave (music):missing",
+   "Vaporwave (genre):missing",
+   "Vaporwave (music genre):missing",
+   "Vaporwave:ok"
+  ]
+ },
+ {
+  "name": "Video Game Music",
+  "wiki": "Video game music",
+  "live": true,
+  "playlistTitle": "The Pulse of Video Game Music",
+  "tried": [
+   "Video Game Music (music):missing",
+   "Video Game Music (genre):missing",
+   "Video Game Music (music genre):missing",
+   "Video Game Music:ok (Video game music)"
+  ]
+ },
+ {
+  "name": "Vietnamese Pop",
+  "wiki": "Popular music of Vietnam",
+  "live": true,
+  "playlistTitle": "The Pulse of V-Pop",
+  "tried": [
+   "Vietnamese Pop (music):missing",
+   "Vietnamese Pop (genre):missing",
+   "Vietnamese Pop (music genre):missing",
+   "Vietnamese Pop:ok (Popular music of Vietnam)"
+  ]
+ },
+ {
+  "name": "Viking Metal",
+  "wiki": "Viking metal",
+  "live": true,
+  "playlistTitle": "The Pulse of Viking Metal",
+  "tried": [
+   "Viking Metal (music):missing",
+   "Viking Metal (genre):missing",
+   "Viking Metal (music genre):missing",
+   "Viking Metal:ok (Viking metal)"
+  ]
+ },
+ {
+  "name": "Villancicos",
+  "wiki": "Villancico",
+  "live": true,
+  "playlistTitle": "The Pulse of Villancicos",
+  "tried": [
+   "Villancicos (music):missing",
+   "Villancicos (genre):missing",
+   "Villancicos (music genre):missing",
+   "Villancicos:ok (Villancico)"
+  ]
+ },
+ {
+  "name": "Visual Kei",
+  "wiki": "Visual kei",
+  "live": true,
+  "playlistTitle": "The Pulse of Visual Kei",
+  "tried": [
+   "Visual Kei (music):missing",
+   "Visual Kei (genre):missing",
+   "Visual Kei (music genre):missing",
+   "Visual Kei:ok (Visual kei)"
+  ]
+ },
+ {
+  "name": "Vocal House",
+  "wiki": "House music",
+  "live": true,
+  "playlistTitle": "The Pulse of Vocal House",
+  "tried": [
+   "Vocal House (music):missing",
+   "Vocal House (genre):missing",
+   "Vocal House (music genre):missing",
+   "Vocal House:ok (House music)"
+  ]
+ },
+ {
+  "name": "Vocal Jazz",
+  "wiki": "Vocal jazz",
+  "live": true,
+  "playlistTitle": "The Pulse of Vocal Jazz",
+  "tried": [
+   "Vocal Jazz (music):missing",
+   "Vocal Jazz (genre):missing",
+   "Vocal Jazz (music genre):missing",
+   "Vocal Jazz:ok (Vocal jazz)"
+  ]
+ },
+ {
+  "name": "Vocaloid",
+  "wiki": "Vocaloid",
+  "live": true,
+  "playlistTitle": "The Pulse of Vocaloid",
+  "tried": [
+   "Vocaloid (music):missing",
+   "Vocaloid (genre):missing",
+   "Vocaloid (music genre):missing",
+   "Vocaloid:ok"
+  ]
+ },
+ {
+  "name": "Volksmusik",
+  "wiki": "Alpine folk music",
+  "live": true,
+  "playlistTitle": "The Pulse of Volksmusik",
+  "tried": [
+   "Volksmusik (music):missing",
+   "Volksmusik (genre):missing",
+   "Volksmusik (music genre):missing",
+   "Volksmusik:ok (Alpine folk music)"
+  ]
+ },
+ {
+  "name": "West Coast Rap",
+  "wiki": "West Coast hip-hop",
+  "live": true,
+  "playlistTitle": "The Pulse of West Coast Rap",
+  "tried": [
+   "West Coast Rap (music):missing",
+   "West Coast Rap (genre):missing",
+   "West Coast Rap (music genre):missing",
+   "West Coast Rap:ok (West Coast hip-hop)"
+  ]
+ },
+ {
+  "name": "Western Swing",
+  "wiki": "Western swing",
+  "live": true,
+  "playlistTitle": "The Pulse of Western Swing",
+  "tried": [
+   "Western Swing (music):missing",
+   "Western Swing (genre):missing",
+   "Western Swing (music genre):missing",
+   "Western Swing:ok (Western swing)"
+  ]
+ },
+ {
+  "name": "Wonky",
+  "wiki": "Wonky (genre)",
+  "live": true,
+  "playlistTitle": "The Pulse of Wonky",
+  "tried": [
+   "Wonky (music):ok (Wonky (genre))"
+  ]
+ },
+ {
+  "name": "World Fusion",
+  "wiki": "World music",
+  "live": true,
+  "playlistTitle": "The Pulse of World Fusion",
+  "tried": [
+   "World Fusion (music):missing",
+   "World Fusion (genre):missing",
+   "World Fusion (music genre):missing",
+   "World Fusion:ok (World music)"
+  ]
+ },
+ {
+  "name": "Wrock",
+  "wiki": "Wizard rock",
+  "live": true,
+  "playlistTitle": "The Pulse of Wrock",
+  "tried": [
+   "Wrock (music):missing",
+   "Wrock (genre):missing",
+   "Wrock (music genre):missing",
+   "Wrock:ok (Wizard rock)"
+  ]
+ },
+ {
+  "name": "Yoik",
+  "wiki": "Joik",
+  "live": true,
+  "playlistTitle": "The Pulse of Yoik",
+  "tried": [
+   "Yoik (music):missing",
+   "Yoik (genre):missing",
+   "Yoik (music genre):missing",
+   "Yoik:ok (Joik)"
+  ]
+ },
+ {
+  "name": "Yugoslav Rock",
+  "wiki": "Popular music in Yugoslavia",
+  "live": true,
+  "playlistTitle": "The Pulse of Yugoslav Rock",
+  "tried": [
+   "Yugoslav Rock (music):missing",
+   "Yugoslav Rock (genre):missing",
+   "Yugoslav Rock (music genre):missing",
+   "Yugoslav Rock:ok (Popular music in Yugoslavia)"
+  ]
+ },
+ {
+  "name": "Zeuhl",
+  "wiki": "Zeuhl",
+  "live": true,
+  "playlistTitle": "The Pulse of Zeuhl",
+  "tried": [
+   "Zeuhl (music):missing",
+   "Zeuhl (genre):missing",
+   "Zeuhl (music genre):missing",
+   "Zeuhl:ok"
+  ]
+ },
+ {
+  "name": "Zouglou",
+  "wiki": "Zouglou",
+  "live": true,
+  "playlistTitle": "The Pulse of Zouglou",
+  "tried": [
+   "Zouglou (music):missing",
+   "Zouglou (genre):missing",
+   "Zouglou (music genre):missing",
+   "Zouglou:ok"
+  ]
+ },
+ {
+  "name": "Zouk",
+  "wiki": "Zouk",
+  "live": true,
+  "playlistTitle": "The Pulse of Zouk",
+  "tried": [
+   "Zouk (music):missing",
+   "Zouk (genre):missing",
+   "Zouk (music genre):missing",
+   "Zouk:ok"
+  ]
+ },
+ {
+  "name": "Zydeco",
+  "wiki": "Zydeco",
+  "live": true,
+  "playlistTitle": "The Pulse of Zydeco",
+  "tried": [
+   "Zydeco (music):missing",
+   "Zydeco (genre):missing",
+   "Zydeco (music genre):missing",
+   "Zydeco:ok"
+  ]
+ }
+]

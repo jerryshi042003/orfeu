@@ -1,0 +1,4977 @@
+{
+ "'s-hertogenbosch||NL": {
+  "lat": 51.6889,
+  "lon": 5.3031,
+  "name": "'s-Hertogenbosch",
+  "osm": "relation/162798",
+  "type": "city"
+ },
+ "A Coruña||ES": {
+  "lat": 43.3455,
+  "lon": -8.4139,
+  "name": "A Coruña",
+  "osm": "relation/346810",
+  "type": "municipality"
+ },
+ "Aabenraa||DK": {
+  "lat": 55.0446,
+  "lon": 9.421,
+  "name": "Aabenraa",
+  "osm": "node/25425345",
+  "type": "town"
+ },
+ "Aabybro||DK": {
+  "lat": 57.1606,
+  "lon": 9.734,
+  "name": "Aabybro",
+  "osm": "node/2242031830",
+  "type": "village"
+ },
+ "Aachen||DE": {
+  "lat": 50.7764,
+  "lon": 6.0839,
+  "name": "Aachen",
+  "osm": "relation/62564",
+  "type": "city"
+ },
+ "Aalen||DE": {
+  "lat": 48.8376,
+  "lon": 10.093,
+  "name": "Aalen",
+  "osm": "relation/915486",
+  "type": "town"
+ },
+ "Aalsmeer||NL": {
+  "lat": 52.2669,
+  "lon": 4.7493,
+  "name": "Aalsmeer",
+  "osm": "relation/443905",
+  "type": "town"
+ },
+ "Aarhus||DK": {
+  "lat": 56.1496,
+  "lon": 10.2134,
+  "name": "Aarhus",
+  "osm": "node/26559213",
+  "type": "city"
+ },
+ "Aars||DK": {
+  "lat": 56.8034,
+  "lon": 9.5169,
+  "name": "Aars",
+  "osm": "node/2259729134",
+  "type": "town"
+ },
+ "Abbots Langley||GB": {
+  "lat": 51.7066,
+  "lon": -0.4178,
+  "name": "Abbots Langley",
+  "osm": "relation/3646926",
+  "type": "village"
+ },
+ "Aberdeen||GB": {
+  "lat": 57.1482,
+  "lon": -2.0928,
+  "name": "Aberdeen City",
+  "osm": "relation/1900654",
+  "type": "city"
+ },
+ "Absecon|New Jersey|US": {
+  "lat": 39.4285,
+  "lon": -74.4957,
+  "name": "Absecon",
+  "osm": "relation/170328",
+  "type": "village"
+ },
+ "Acapulco||MX": {
+  "lat": 16.868,
+  "lon": -99.894,
+  "name": "Acapulco",
+  "osm": "node/269913250",
+  "type": "city"
+ },
+ "Adelaide||AU": {
+  "lat": -34.9282,
+  "lon": 138.5999,
+  "name": "Adelaide",
+  "osm": "relation/11381689",
+  "type": "city"
+ },
+ "Adrian|Michigan|US": {
+  "lat": 41.8975,
+  "lon": -84.0373,
+  "name": "Adrian",
+  "osm": "relation/135101",
+  "type": "town"
+ },
+ "Aguascalientes||MX": {
+  "lat": 21.8805,
+  "lon": -102.2967,
+  "name": "Aguascalientes City",
+  "osm": "node/4392412822",
+  "type": "city"
+ },
+ "Aix-en-provence||FR": {
+  "lat": 43.5298,
+  "lon": 5.4475,
+  "name": "Aix-en-Provence",
+  "osm": "relation/70279",
+  "type": "city"
+ },
+ "Akron|Ohio|US": {
+  "lat": 41.0831,
+  "lon": -81.5185,
+  "name": "Akron",
+  "osm": "relation/182644",
+  "type": "city"
+ },
+ "Albertslund||DK": {
+  "lat": 55.6586,
+  "lon": 12.3563,
+  "name": "Albertslund",
+  "osm": "node/392715786",
+  "type": "suburb"
+ },
+ "Albuquerque|New Mexico|US": {
+  "lat": 35.0841,
+  "lon": -106.651,
+  "name": "Albuquerque",
+  "osm": "relation/171262",
+  "type": "city"
+ },
+ "Alcalá De Guadaira||ES": {
+  "lat": 37.3398,
+  "lon": -5.8408,
+  "name": "Alcalá de Guadaíra",
+  "osm": "relation/345821",
+  "type": "town"
+ },
+ "Alhambra|California|US": {
+  "lat": 34.093,
+  "lon": -118.1271,
+  "name": "Alhambra",
+  "osm": "relation/3529865",
+  "type": "town"
+ },
+ "Alingsås||SE": {
+  "lat": 57.93,
+  "lon": 12.533,
+  "name": "Alingsås",
+  "osm": "node/28256477",
+  "type": "town"
+ },
+ "Alkmaar||NL": {
+  "lat": 52.6009,
+  "lon": 4.8171,
+  "name": "Alkmaar",
+  "osm": "relation/337391",
+  "type": "municipality"
+ },
+ "Allerød||DK": {
+  "lat": 55.8708,
+  "lon": 12.3557,
+  "name": "Lillerød",
+  "osm": "node/2603507785",
+  "type": "town"
+ },
+ "Almere||NL": {
+  "lat": 52.3705,
+  "lon": 5.2186,
+  "name": "Almere",
+  "osm": "relation/409764",
+  "type": "city"
+ },
+ "Alpharetta|Georgia|US": {
+  "lat": 34.0756,
+  "lon": -84.2946,
+  "name": "Alpharetta",
+  "osm": "relation/119572",
+  "type": "city"
+ },
+ "Alphen Aan Den Rijn||NL": {
+  "lat": 52.1131,
+  "lon": 4.6408,
+  "name": "Alphen aan den Rijn",
+  "osm": "relation/443831",
+  "type": "municipality"
+ },
+ "Alta||NO": {
+  "lat": 69.9666,
+  "lon": 23.2733,
+  "name": "Alta",
+  "osm": "relation/406659",
+  "type": "municipality"
+ },
+ "Ames|Iowa|US": {
+  "lat": 42.0268,
+  "lon": -93.617,
+  "name": "Ames",
+  "osm": "relation/128947",
+  "type": "city"
+ },
+ "Amstelveen||NL": {
+  "lat": 52.3028,
+  "lon": 4.8597,
+  "name": "Amstelveen",
+  "osm": "relation/157955",
+  "type": "town"
+ },
+ "Amsterdam||NL": {
+  "lat": 52.3731,
+  "lon": 4.8925,
+  "name": "Amsterdam",
+  "osm": "relation/271110",
+  "type": "city"
+ },
+ "Anchorage|Alaska|US": {
+  "lat": 61.2163,
+  "lon": -149.8949,
+  "name": "Anchorage",
+  "osm": "relation/2605259",
+  "type": "city"
+ },
+ "Ancona||IT": {
+  "lat": 43.4801,
+  "lon": 13.2187,
+  "name": "Ancona",
+  "osm": "relation/53059",
+  "type": "county"
+ },
+ "Ankara||TR": {
+  "lat": 39.9208,
+  "lon": 32.854,
+  "name": "Ankara",
+  "osm": "node/25869410",
+  "type": "city"
+ },
+ "Ann Arbor|Michigan|US": {
+  "lat": 42.2814,
+  "lon": -83.7485,
+  "name": "Ann Arbor",
+  "osm": "relation/135130",
+  "type": "city"
+ },
+ "Annerley||AU": {
+  "lat": -27.5127,
+  "lon": 153.0326,
+  "name": "Annerley",
+  "osm": "relation/11677836",
+  "type": "city_district"
+ },
+ "Antalya||TR": {
+  "lat": 36.8866,
+  "lon": 30.703,
+  "name": "Antalya",
+  "osm": "node/428039517",
+  "type": "city"
+ },
+ "Antioch|Tennessee|US": {
+  "lat": 36.0601,
+  "lon": -86.6722,
+  "name": "Antioch",
+  "osm": "node/153526252",
+  "type": "hamlet"
+ },
+ "Antofagasta||CL": {
+  "lat": -23.6464,
+  "lon": -70.398,
+  "name": "Antofagasta",
+  "osm": "relation/1561898",
+  "type": "city"
+ },
+ "Antwerpen||BE": {
+  "lat": 51.2211,
+  "lon": 4.3997,
+  "name": "Antwerp",
+  "osm": "relation/59518",
+  "type": "city"
+ },
+ "Arcadia|California|US": {
+  "lat": 34.1362,
+  "lon": -118.0401,
+  "name": "Arcadia",
+  "osm": "relation/5547859",
+  "type": "town"
+ },
+ "Argentina||AR": {
+  "lat": -34.9965,
+  "lon": -64.9673,
+  "name": "Argentina",
+  "osm": "relation/286393",
+  "type": "country"
+ },
+ "Arlington|Texas|US": {
+  "lat": 32.7356,
+  "lon": -97.1071,
+  "name": "Arlington",
+  "osm": "relation/115329",
+  "type": "city"
+ },
+ "Ashburn|Virginia|US": {
+  "lat": 39.0298,
+  "lon": -77.4744,
+  "name": "Ashburn",
+  "osm": "relation/4803074",
+  "type": "census"
+ },
+ "Astoria|New York|US": {
+  "lat": 40.772,
+  "lon": -73.9303,
+  "name": "Astoria",
+  "osm": "node/158862559",
+  "type": "neighbourhood"
+ },
+ "Athens|Georgia|US": {
+  "lat": 33.9598,
+  "lon": -83.3764,
+  "name": "Athens",
+  "osm": "relation/119353",
+  "type": "city"
+ },
+ "Atlanta|Georgia|US": {
+  "lat": 33.7545,
+  "lon": -84.3898,
+  "name": "Atlanta",
+  "osm": "relation/119557",
+  "type": "city"
+ },
+ "Auckland||NZ": {
+  "lat": -36.8521,
+  "lon": 174.7632,
+  "name": "Auckland",
+  "osm": "node/292806332",
+  "type": "city"
+ },
+ "Aulnay-sous-bois||FR": {
+  "lat": 48.9342,
+  "lon": 2.4998,
+  "name": "Aulnay-sous-Bois",
+  "osm": "relation/162259",
+  "type": "town"
+ },
+ "Aurich||DE": {
+  "lat": 53.5095,
+  "lon": 7.3583,
+  "name": "Landkreis Aurich",
+  "osm": "relation/62355",
+  "type": "county"
+ },
+ "Aurora|Illinois|US": {
+  "lat": 41.7572,
+  "lon": -88.3148,
+  "name": "Aurora",
+  "osm": "relation/124817",
+  "type": "city"
+ },
+ "Austin|Texas|US": {
+  "lat": 30.2649,
+  "lon": -97.7474,
+  "name": "Austin",
+  "osm": "relation/113314",
+  "type": "city"
+ },
+ "Australia||AU": {
+  "lat": -24.7761,
+  "lon": 134.755,
+  "name": "Australia",
+  "osm": "relation/80500",
+  "type": "country"
+ },
+ "Austria||AT": {
+  "lat": 47.594,
+  "lon": 14.1246,
+  "name": "Austria",
+  "osm": "relation/16239",
+  "type": "country"
+ },
+ "Bagsværd||DK": {
+  "lat": 55.7584,
+  "lon": 12.4573,
+  "name": "Bagsværd",
+  "osm": "node/288674041",
+  "type": "suburb"
+ },
+ "Bahia Blanca||AR": {
+  "lat": -38.7177,
+  "lon": -62.2655,
+  "name": "Bahía Blanca",
+  "osm": "relation/3302861",
+  "type": "city"
+ },
+ "Baldwin Park|California|US": {
+  "lat": 34.0855,
+  "lon": -117.9612,
+  "name": "Baldwin Park",
+  "osm": "relation/18375458",
+  "type": "town"
+ },
+ "Balikesir||TR": {
+  "lat": 39.5401,
+  "lon": 28.0229,
+  "name": "Balıkesir",
+  "osm": "relation/223464",
+  "type": "province"
+ },
+ "Ballerup||DK": {
+  "lat": 55.7304,
+  "lon": 12.3612,
+  "name": "Ballerup",
+  "osm": "node/21770219",
+  "type": "town"
+ },
+ "Bangkok||TH": {
+  "lat": 13.7525,
+  "lon": 100.4935,
+  "name": "Bangkok",
+  "osm": "relation/92277",
+  "type": "city"
+ },
+ "Barcelona||ES": {
+  "lat": 41.3826,
+  "lon": 2.1771,
+  "name": "Barcelona",
+  "osm": "relation/347950",
+  "type": "city"
+ },
+ "Barnet||GB": {
+  "lat": 51.6531,
+  "lon": -0.2002,
+  "name": "Chipping Barnet",
+  "osm": "node/5557467720",
+  "type": "town"
+ },
+ "Baton Rouge|Louisiana|US": {
+  "lat": 30.4494,
+  "lon": -91.187,
+  "name": "Baton Rouge",
+  "osm": "relation/132206",
+  "type": "city"
+ },
+ "Bayamon|Puerto Rico|US": {
+  "lat": 18.345,
+  "lon": -66.1684,
+  "name": "Bayamón",
+  "osm": "relation/4468234",
+  "type": "county"
+ },
+ "Bedford||GB": {
+  "lat": 52.1364,
+  "lon": -0.4675,
+  "name": "Bedford",
+  "osm": "node/4085941",
+  "type": "town"
+ },
+ "Belfast||GB": {
+  "lat": 54.5964,
+  "lon": -5.9302,
+  "name": "Belfast City District",
+  "osm": "relation/19414244",
+  "type": "city"
+ },
+ "Belgium||BE": {
+  "lat": 50.6403,
+  "lon": 4.6667,
+  "name": "Belgium",
+  "osm": "relation/52411",
+  "type": "country"
+ },
+ "Bell|California|US": {
+  "lat": 33.9748,
+  "lon": -118.1866,
+  "name": "Bell",
+  "osm": "relation/3542101",
+  "type": "town"
+ },
+ "Belém||BR": {
+  "lat": -1.4506,
+  "lon": -48.4682,
+  "name": "Belém",
+  "osm": "relation/185567",
+  "type": "city"
+ },
+ "Bergen||NO": {
+  "lat": 60.3943,
+  "lon": 5.3259,
+  "name": "Bergen",
+  "osm": "relation/404159",
+  "type": "municipality"
+ },
+ "Berger||NO": {
+  "lat": 59.5449,
+  "lon": 10.3808,
+  "name": "Berger",
+  "osm": "node/4401110623",
+  "type": "village"
+ },
+ "Berkeley|California|US": {
+  "lat": 37.8708,
+  "lon": -122.2729,
+  "name": "Berkeley",
+  "osm": "relation/2833528",
+  "type": "city"
+ },
+ "Berlin||DE": {
+  "lat": 52.5174,
+  "lon": 13.3951,
+  "name": "Berlin",
+  "osm": "relation/62422",
+  "type": "city"
+ },
+ "Beverly Hills||AU": {
+  "lat": -33.9497,
+  "lon": 151.0817,
+  "name": "Beverly Hills",
+  "osm": "relation/5675951",
+  "type": "suburb"
+ },
+ "Bilbao||ES": {
+  "lat": 43.263,
+  "lon": -2.935,
+  "name": "Bilbao",
+  "osm": "relation/339549",
+  "type": "city"
+ },
+ "Billings|Montana|US": {
+  "lat": 45.7875,
+  "lon": -108.4961,
+  "name": "Billings",
+  "osm": "relation/142497",
+  "type": "city"
+ },
+ "Birkerød||DK": {
+  "lat": 55.8403,
+  "lon": 12.4288,
+  "name": "Birkerød",
+  "osm": "node/26559045",
+  "type": "town"
+ },
+ "Birmingham|Alabama|US": {
+  "lat": 33.5207,
+  "lon": -86.8024,
+  "name": "Birmingham",
+  "osm": "relation/111031",
+  "type": "city"
+ },
+ "Birmingham|Michigan|US": {
+  "lat": 42.5467,
+  "lon": -83.2113,
+  "name": "Birmingham",
+  "osm": "relation/134537",
+  "type": "city"
+ },
+ "Blackpool||GB": {
+  "lat": 53.8179,
+  "lon": -3.051,
+  "name": "Blackpool",
+  "osm": "node/5527648921",
+  "type": "town"
+ },
+ "Blacksburg|Virginia|US": {
+  "lat": 37.2297,
+  "lon": -80.4137,
+  "name": "Blacksburg",
+  "osm": "relation/206542",
+  "type": "city"
+ },
+ "Bloomington|Indiana|US": {
+  "lat": 39.167,
+  "lon": -86.5343,
+  "name": "Bloomington",
+  "osm": "relation/127716",
+  "type": "city"
+ },
+ "Boardman|Oregon|US": {
+  "lat": 45.8399,
+  "lon": -119.7006,
+  "name": "Boardman",
+  "osm": "relation/186453",
+  "type": "village"
+ },
+ "Bogotá||CO": {
+  "lat": 4.6534,
+  "lon": -74.0836,
+  "name": "Bogota",
+  "osm": "relation/7426387",
+  "type": "city"
+ },
+ "Boise|Idaho|US": {
+  "lat": 43.6166,
+  "lon": -116.2009,
+  "name": "Boise",
+  "osm": "relation/121360",
+  "type": "city"
+ },
+ "Bolivia||BO": {
+  "lat": -17.0569,
+  "lon": -64.9912,
+  "name": "Bolivia",
+  "osm": "relation/252645",
+  "type": "country"
+ },
+ "Bondi||AU": {
+  "lat": -33.8931,
+  "lon": 151.2633,
+  "name": "Bondi",
+  "osm": "relation/3044806",
+  "type": "suburb"
+ },
+ "Bonn||DE": {
+  "lat": 50.7353,
+  "lon": 7.1025,
+  "name": "Bonn",
+  "osm": "relation/62508",
+  "type": "city"
+ },
+ "Bordeaux||FR": {
+  "lat": 44.8412,
+  "lon": -0.58,
+  "name": "Bordeaux",
+  "osm": "relation/105270",
+  "type": "city"
+ },
+ "Boston|Massachusetts|US": {
+  "lat": 42.3588,
+  "lon": -71.0578,
+  "name": "Boston",
+  "osm": "relation/2315704",
+  "type": "city"
+ },
+ "Bottrop||DE": {
+  "lat": 51.5216,
+  "lon": 6.9292,
+  "name": "Bottrop",
+  "osm": "relation/62634",
+  "type": "city"
+ },
+ "Boulder|Colorado|US": {
+  "lat": 40.015,
+  "lon": -105.2705,
+  "name": "Boulder",
+  "osm": "relation/112298",
+  "type": "city"
+ },
+ "Boulogne-billancourt||FR": {
+  "lat": 48.8357,
+  "lon": 2.2402,
+  "name": "Boulogne-Billancourt",
+  "osm": "relation/72020",
+  "type": "city"
+ },
+ "Brasília||BR": {
+  "lat": -15.794,
+  "lon": -47.8828,
+  "name": "Brasília",
+  "osm": "node/34567423",
+  "type": "city"
+ },
+ "Bratislava||SK": {
+  "lat": 48.1435,
+  "lon": 17.1083,
+  "name": "Bratislava",
+  "osm": "relation/1702499",
+  "type": "city"
+ },
+ "Brazil||BR": {
+  "lat": -10.3333,
+  "lon": -53.2,
+  "name": "Brazil",
+  "osm": "relation/59470",
+  "type": "country"
+ },
+ "Brentwood|California|US": {
+  "lat": 37.9318,
+  "lon": -121.696,
+  "name": "Brentwood",
+  "osm": "relation/112194",
+  "type": "town"
+ },
+ "Bridgeport|Connecticut|US": {
+  "lat": 41.1793,
+  "lon": -73.1888,
+  "name": "Bridgeport",
+  "osm": "relation/11049559",
+  "type": "city"
+ },
+ "Brisbane||AU": {
+  "lat": -27.469,
+  "lon": 153.0235,
+  "name": "Brisbane",
+  "osm": "relation/14027280",
+  "type": "city"
+ },
+ "Bronx|New York|US": {
+  "lat": 40.8467,
+  "lon": -73.8786,
+  "name": "The Bronx",
+  "osm": "relation/9691916",
+  "type": "suburb"
+ },
+ "Brooklyn|New York|US": {
+  "lat": 40.6526,
+  "lon": -73.9497,
+  "name": "Brooklyn",
+  "osm": "relation/9691750",
+  "type": "suburb"
+ },
+ "Brugge||BE": {
+  "lat": 51.2086,
+  "lon": 3.2268,
+  "name": "Bruges",
+  "osm": "relation/562654",
+  "type": "city"
+ },
+ "Brussels||BE": {
+  "lat": 50.8467,
+  "lon": 4.3525,
+  "name": "Brussels",
+  "osm": "relation/58274",
+  "type": "city"
+ },
+ "Bryne||NO": {
+  "lat": 58.7355,
+  "lon": 5.6478,
+  "name": "Bryne",
+  "osm": "node/31264078",
+  "type": "town"
+ },
+ "Brønderslev||DK": {
+  "lat": 57.27,
+  "lon": 9.9449,
+  "name": "Brønderslev",
+  "osm": "node/2237916793",
+  "type": "town"
+ },
+ "Brønshøj||DK": {
+  "lat": 55.7041,
+  "lon": 12.4985,
+  "name": "Brønshøj",
+  "osm": "node/279433200",
+  "type": "suburb"
+ },
+ "Buena Park|California|US": {
+  "lat": 33.8704,
+  "lon": -117.9962,
+  "name": "Buena Park",
+  "osm": "relation/2312654",
+  "type": "town"
+ },
+ "Buenos Aires||AR": {
+  "lat": -34.6096,
+  "lon": -58.3888,
+  "name": "Buenos Aires",
+  "osm": "relation/1224652",
+  "type": "city"
+ },
+ "Bulgaria||BG": {
+  "lat": 42.6074,
+  "lon": 25.4857,
+  "name": "Bulgaria",
+  "osm": "relation/186382",
+  "type": "country"
+ },
+ "Burbank|California|US": {
+  "lat": 34.1812,
+  "lon": -118.3072,
+  "name": "Burbank",
+  "osm": "relation/3529574",
+  "type": "city"
+ },
+ "Burswood||AU": {
+  "lat": -31.9602,
+  "lon": 115.8963,
+  "name": "Burswood",
+  "osm": "relation/11325870",
+  "type": "suburb"
+ },
+ "Børkop||DK": {
+  "lat": 55.641,
+  "lon": 9.6492,
+  "name": "Børkop",
+  "osm": "node/26559099",
+  "type": "village"
+ },
+ "Cabramatta||AU": {
+  "lat": -33.8983,
+  "lon": 150.9345,
+  "name": "Cabramatta",
+  "osm": "relation/5541459",
+  "type": "suburb"
+ },
+ "Cagliari||IT": {
+  "lat": 39.2172,
+  "lon": 9.1133,
+  "name": "Cagliari",
+  "osm": "relation/39837",
+  "type": "city"
+ },
+ "Caguas|Puerto Rico|US": {
+  "lat": 18.2129,
+  "lon": -66.0559,
+  "name": "Caguas",
+  "osm": "relation/4468417",
+  "type": "county"
+ },
+ "Cali||CO": {
+  "lat": 3.4108,
+  "lon": -76.5812,
+  "name": "Cali",
+  "osm": "relation/1320707",
+  "type": "county"
+ },
+ "Callao||PE": {
+  "lat": -12.0865,
+  "lon": -77.2234,
+  "name": "Callao",
+  "osm": "relation/1944657",
+  "type": "state"
+ },
+ "Camboriú||BR": {
+  "lat": -27.0274,
+  "lon": -48.6536,
+  "name": "Camboriú",
+  "osm": "relation/296661",
+  "type": "city"
+ },
+ "Cambridge|Massachusetts|US": {
+  "lat": 42.3656,
+  "lon": -71.104,
+  "name": "Cambridge",
+  "osm": "relation/1933745",
+  "type": "city"
+ },
+ "Camden|New Jersey|US": {
+  "lat": 39.9441,
+  "lon": -75.1192,
+  "name": "Camden",
+  "osm": "relation/170683",
+  "type": "city"
+ },
+ "Campo Grande||BR": {
+  "lat": -20.464,
+  "lon": -54.6163,
+  "name": "Campo Grande",
+  "osm": "relation/334022",
+  "type": "city"
+ },
+ "Canada||CA": {
+  "lat": 61.0667,
+  "lon": -107.9917,
+  "name": "Canada",
+  "osm": "relation/1428125",
+  "type": "country"
+ },
+ "Cancún||MX": {
+  "lat": 21.1527,
+  "lon": -86.8426,
+  "name": "Cancún",
+  "osm": "relation/17611454",
+  "type": "city"
+ },
+ "Capelle Aan Den Ijssel||NL": {
+  "lat": 51.9359,
+  "lon": 4.5895,
+  "name": "Capelle aan den IJssel",
+  "osm": "relation/301625",
+  "type": "municipality"
+ },
+ "Caracas||VE": {
+  "lat": 10.5061,
+  "lon": -66.9146,
+  "name": "Caracas",
+  "osm": "relation/11219583",
+  "type": "city"
+ },
+ "Carapicuíba||BR": {
+  "lat": -23.5235,
+  "lon": -46.8407,
+  "name": "Carapicuíba",
+  "osm": "relation/298480",
+  "type": "city"
+ },
+ "Carlton||AU": {
+  "lat": -37.8004,
+  "lon": 144.9684,
+  "name": "Carlton",
+  "osm": "relation/2383224",
+  "type": "suburb"
+ },
+ "Carol Stream|Illinois|US": {
+  "lat": 41.9125,
+  "lon": -88.1348,
+  "name": "Carol Stream",
+  "osm": "relation/125463",
+  "type": "town"
+ },
+ "Carrollton|Texas|US": {
+  "lat": 32.9515,
+  "lon": -96.9034,
+  "name": "Carrollton",
+  "osm": "relation/6402220",
+  "type": "city"
+ },
+ "Cary|North Carolina|US": {
+  "lat": 35.7874,
+  "lon": -78.7812,
+  "name": "Cary",
+  "osm": "relation/179796",
+  "type": "city"
+ },
+ "Castel Mella||IT": {
+  "lat": 45.4996,
+  "lon": 10.145,
+  "name": "Castel Mella",
+  "osm": "relation/45113",
+  "type": "town"
+ },
+ "Castellón||ES": {
+  "lat": 40.2519,
+  "lon": -0.0615,
+  "name": "Castelló / Castellón",
+  "osm": "relation/349020",
+  "type": "state_district"
+ },
+ "Cavite City||PH": {
+  "lat": 14.4821,
+  "lon": 120.9089,
+  "name": "Cavite City",
+  "osm": "relation/122129",
+  "type": "city"
+ },
+ "Caxias Do Sul||BR": {
+  "lat": -29.1685,
+  "lon": -51.1796,
+  "name": "Caxias do Sul",
+  "osm": "relation/242450",
+  "type": "city"
+ },
+ "Cebu||PH": {
+  "lat": 10.47,
+  "lon": 123.83,
+  "name": "Cebu",
+  "osm": "relation/1506936",
+  "type": "state"
+ },
+ "Cedar Rapids|Iowa|US": {
+  "lat": 41.9759,
+  "lon": -91.6704,
+  "name": "Cedar Rapids",
+  "osm": "relation/129088",
+  "type": "city"
+ },
+ "Chalco||MX": {
+  "lat": 19.2383,
+  "lon": -98.8189,
+  "name": "Chalco",
+  "osm": "relation/5605635",
+  "type": "county"
+ },
+ "Changhua||TW": {
+  "lat": 24.0756,
+  "lon": 120.5445,
+  "name": "Changhua County",
+  "osm": "relation/2917549",
+  "type": "county"
+ },
+ "Chantilly|Virginia|US": {
+  "lat": 38.8852,
+  "lon": -77.4487,
+  "name": "Chantilly",
+  "osm": "relation/206712",
+  "type": "census"
+ },
+ "Charlotte|North Carolina|US": {
+  "lat": 35.2272,
+  "lon": -80.8431,
+  "name": "Charlotte",
+  "osm": "relation/177415",
+  "type": "city"
+ },
+ "Charlottenlund||DK": {
+  "lat": 55.7553,
+  "lon": 12.5671,
+  "name": "Charlottenlund",
+  "osm": "node/393177878",
+  "type": "suburb"
+ },
+ "Charlottesville|Virginia|US": {
+  "lat": 38.0293,
+  "lon": -78.4767,
+  "name": "Charlottesville",
+  "osm": "relation/2504948",
+  "type": "city"
+ },
+ "Chatswood||AU": {
+  "lat": -33.7967,
+  "lon": 151.1814,
+  "name": "Chatswood",
+  "osm": "relation/5644858",
+  "type": "town"
+ },
+ "Chicago|Illinois|US": {
+  "lat": 41.8756,
+  "lon": -87.6244,
+  "name": "Chicago",
+  "osm": "relation/122604",
+  "type": "city"
+ },
+ "Chihuahua||MX": {
+  "lat": 28.5,
+  "lon": -106,
+  "name": "Chihuahua",
+  "osm": "relation/1673425",
+  "type": "state"
+ },
+ "Chile||CL": {
+  "lat": -31.7613,
+  "lon": -71.3188,
+  "name": "Chile",
+  "osm": "relation/167454",
+  "type": "country"
+ },
+ "China||CN": {
+  "lat": 34.5412,
+  "lon": 108.9237,
+  "name": "China",
+  "osm": "relation/270056",
+  "type": "country"
+ },
+ "Chino|California|US": {
+  "lat": 34.0134,
+  "lon": -117.6901,
+  "name": "Chino",
+  "osm": "relation/111793",
+  "type": "town"
+ },
+ "Chippendale||AU": {
+  "lat": -33.8863,
+  "lon": 151.1998,
+  "name": "Chippendale",
+  "osm": "relation/5725737",
+  "type": "suburb"
+ },
+ "Cicero|Illinois|US": {
+  "lat": 41.8455,
+  "lon": -87.754,
+  "name": "Cicero",
+  "osm": "relation/123129",
+  "type": "town"
+ },
+ "Ciudad de México||MX": {
+  "lat": 19.3208,
+  "lon": -99.1515,
+  "name": "Mexico City",
+  "osm": "relation/1376330",
+  "type": "state"
+ },
+ "Clemson|South Carolina|US": {
+  "lat": 34.6851,
+  "lon": -82.8364,
+  "name": "Clemson",
+  "osm": "relation/193848",
+  "type": "city"
+ },
+ "Clermont-ferrand||FR": {
+  "lat": 45.7775,
+  "lon": 3.0819,
+  "name": "Clermont-Ferrand",
+  "osm": "relation/110866",
+  "type": "city"
+ },
+ "Cleveland|Ohio|US": {
+  "lat": 41.4997,
+  "lon": -81.6937,
+  "name": "Cleveland",
+  "osm": "relation/182130",
+  "type": "city"
+ },
+ "Clifton|New Jersey|US": {
+  "lat": 40.8584,
+  "lon": -74.1638,
+  "name": "Clifton",
+  "osm": "relation/170728",
+  "type": "city"
+ },
+ "Coimbra||PT": {
+  "lat": 40.2112,
+  "lon": -8.4291,
+  "name": "Coimbra",
+  "osm": "relation/5379538",
+  "type": "city"
+ },
+ "Colombia||CO": {
+  "lat": 4.0999,
+  "lon": -72.9088,
+  "name": "Colombia",
+  "osm": "relation/120027",
+  "type": "country"
+ },
+ "Columbia|Maryland|US": {
+  "lat": 39.1938,
+  "lon": -76.8646,
+  "name": "Columbia",
+  "osm": "relation/133606",
+  "type": "statistical"
+ },
+ "Columbia|Missouri|US": {
+  "lat": 38.9519,
+  "lon": -92.3337,
+  "name": "Columbia",
+  "osm": "relation/141403",
+  "type": "city"
+ },
+ "Compton|California|US": {
+  "lat": 33.8949,
+  "lon": -118.2266,
+  "name": "Compton",
+  "osm": "node/1837323613",
+  "type": "city"
+ },
+ "Concepcion||CL": {
+  "lat": -36.8271,
+  "lon": -73.0502,
+  "name": "Concepcion",
+  "osm": "relation/1620105",
+  "type": "city"
+ },
+ "Concord||AU": {
+  "lat": -33.8557,
+  "lon": 151.1068,
+  "name": "Concord",
+  "osm": "relation/5678504",
+  "type": "suburb"
+ },
+ "Concord|California|US": {
+  "lat": 37.9769,
+  "lon": -122.0336,
+  "name": "Concord",
+  "osm": "relation/3705569",
+  "type": "city"
+ },
+ "Concord|North Carolina|US": {
+  "lat": 35.4094,
+  "lon": -80.58,
+  "name": "Concord",
+  "osm": "relation/180114",
+  "type": "city"
+ },
+ "Cordoba||AR": {
+  "lat": -31.4167,
+  "lon": -64.1834,
+  "name": "Cordoba",
+  "osm": "relation/5167559",
+  "type": "city"
+ },
+ "Cork||IE": {
+  "lat": 51.8985,
+  "lon": -8.4726,
+  "name": "Cork",
+  "osm": "relation/11797890",
+  "type": "city"
+ },
+ "Costa Rica||CR": {
+  "lat": 10.2736,
+  "lon": -84.0739,
+  "name": "Costa Rica",
+  "osm": "relation/287667",
+  "type": "country"
+ },
+ "Courbevoie||FR": {
+  "lat": 48.8953,
+  "lon": 2.2562,
+  "name": "Courbevoie",
+  "osm": "relation/91768",
+  "type": "town"
+ },
+ "Croatia||HR": {
+  "lat": 45.3658,
+  "lon": 15.6575,
+  "name": "Croatia",
+  "osm": "relation/214885",
+  "type": "country"
+ },
+ "Croydon||GB": {
+  "lat": 51.3737,
+  "lon": -0.1003,
+  "name": "Croydon",
+  "osm": "node/21262496",
+  "type": "town"
+ },
+ "Cuauhtémoc||MX": {
+  "lat": 19.4415,
+  "lon": -99.1517,
+  "name": "Cuauhtémoc",
+  "osm": "relation/5605721",
+  "type": "borough"
+ },
+ "Cuautla||MX": {
+  "lat": 20.2036,
+  "lon": -104.4858,
+  "name": "Cuautla",
+  "osm": "relation/5605728",
+  "type": "county"
+ },
+ "Cuiabá||BR": {
+  "lat": -15.5987,
+  "lon": -56.0991,
+  "name": "Cuiabá",
+  "osm": "relation/333734",
+  "type": "city"
+ },
+ "Curitiba||BR": {
+  "lat": -25.4296,
+  "lon": -49.2713,
+  "name": "Curitiba",
+  "osm": "relation/297514",
+  "type": "city"
+ },
+ "Cypress|Texas|US": {
+  "lat": 29.9691,
+  "lon": -95.6972,
+  "name": "Cypress",
+  "osm": "node/151499074",
+  "type": "town"
+ },
+ "Cyprus||CY": {
+  "lat": 34.9823,
+  "lon": 33.1451,
+  "name": "Cyprus",
+  "osm": "relation/307787",
+  "type": "country"
+ },
+ "Córdoba||ES": {
+  "lat": 37.8846,
+  "lon": -4.776,
+  "name": "Córdoba",
+  "osm": "relation/343207",
+  "type": "city"
+ },
+ "Dallas|Texas|US": {
+  "lat": 32.7763,
+  "lon": -96.7969,
+  "name": "Dallas",
+  "osm": "relation/6571629",
+  "type": "city"
+ },
+ "Darlinghurst||AU": {
+  "lat": -33.8783,
+  "lon": 151.2192,
+  "name": "Darlinghurst",
+  "osm": "relation/5726016",
+  "type": "suburb"
+ },
+ "Dasmariñas||PH": {
+  "lat": 14.3271,
+  "lon": 120.9371,
+  "name": "Dasmariñas",
+  "osm": "relation/1488071",
+  "type": "city"
+ },
+ "Davao||PH": {
+  "lat": 7.0648,
+  "lon": 125.6081,
+  "name": "Davao City",
+  "osm": "relation/3936841",
+  "type": "city"
+ },
+ "Delft||NL": {
+  "lat": 51.9995,
+  "lon": 4.3627,
+  "name": "Delft",
+  "osm": "relation/271202",
+  "type": "administrative"
+ },
+ "Den Bosch||NL": {
+  "lat": 51.6889,
+  "lon": 5.3031,
+  "name": "'s-Hertogenbosch",
+  "osm": "relation/162798",
+  "type": "city"
+ },
+ "Den Haag||NL": {
+  "lat": 52.08,
+  "lon": 4.3113,
+  "name": "The Hague",
+  "osm": "relation/192737",
+  "type": "city"
+ },
+ "Denizli||TR": {
+  "lat": 37.8276,
+  "lon": 29.239,
+  "name": "Denizli",
+  "osm": "relation/223169",
+  "type": "province"
+ },
+ "Denmark||DK": {
+  "lat": 55.6702,
+  "lon": 10.3333,
+  "name": "Denmark",
+  "osm": "relation/50046",
+  "type": "country"
+ },
+ "Denver|Colorado|US": {
+  "lat": 39.7392,
+  "lon": -104.9849,
+  "name": "Denver",
+  "osm": "relation/1411339",
+  "type": "city"
+ },
+ "Detroit|Michigan|US": {
+  "lat": 42.3316,
+  "lon": -83.0466,
+  "name": "Detroit",
+  "osm": "relation/134591",
+  "type": "city"
+ },
+ "Diemen||NL": {
+  "lat": 52.335,
+  "lon": 4.9843,
+  "name": "Diemen",
+  "osm": "relation/158840",
+  "type": "administrative"
+ },
+ "Dinslaken||DE": {
+  "lat": 51.5624,
+  "lon": 6.7345,
+  "name": "Dinslaken",
+  "osm": "relation/54462",
+  "type": "town"
+ },
+ "Dortmund||DE": {
+  "lat": 51.5142,
+  "lon": 7.4653,
+  "name": "Dortmund",
+  "osm": "relation/1829065",
+  "type": "city"
+ },
+ "Dresden||DE": {
+  "lat": 51.0493,
+  "lon": 13.7381,
+  "name": "Dresden",
+  "osm": "relation/191645",
+  "type": "city"
+ },
+ "Dublin|California|US": {
+  "lat": 37.7022,
+  "lon": -121.9358,
+  "name": "Dublin",
+  "osm": "relation/3165541",
+  "type": "town"
+ },
+ "Dublin||IE": {
+  "lat": 53.3494,
+  "lon": -6.2606,
+  "name": "Dublin",
+  "osm": "relation/1109531",
+  "type": "city"
+ },
+ "Durham|North Carolina|US": {
+  "lat": 35.9967,
+  "lon": -78.9018,
+  "name": "Durham",
+  "osm": "relation/179868",
+  "type": "city"
+ },
+ "Ecatepec De Morelos||MX": {
+  "lat": 19.5994,
+  "lon": -99.0487,
+  "name": "Ecatepec de Morelos",
+  "osm": "relation/5605754",
+  "type": "city"
+ },
+ "Ecatepec||MX": {
+  "lat": 19.5994,
+  "lon": -99.0487,
+  "name": "Ecatepec de Morelos",
+  "osm": "relation/5605754",
+  "type": "city"
+ },
+ "Ecuador||EC": {
+  "lat": -1.3398,
+  "lon": -79.3667,
+  "name": "Ecuador",
+  "osm": "relation/108089",
+  "type": "country"
+ },
+ "Edinburgh||GB": {
+  "lat": 55.9533,
+  "lon": -3.1884,
+  "name": "City of Edinburgh",
+  "osm": "relation/1920901",
+  "type": "city"
+ },
+ "Egypt||EG": {
+  "lat": 26.254,
+  "lon": 29.2675,
+  "name": "Egypt",
+  "osm": "relation/1473947",
+  "type": "country"
+ },
+ "El Monte|California|US": {
+  "lat": 34.0752,
+  "lon": -118.0368,
+  "name": "El Monte",
+  "osm": "relation/16310540",
+  "type": "city"
+ },
+ "El Paso|Texas|US": {
+  "lat": 31.7601,
+  "lon": -106.487,
+  "name": "El Paso",
+  "osm": "relation/113919",
+  "type": "city"
+ },
+ "El Puerto De Santa María||ES": {
+  "lat": 36.6004,
+  "lon": -6.2253,
+  "name": "El Puerto de Santa María",
+  "osm": "relation/342093",
+  "type": "town"
+ },
+ "El Salvador||SV": {
+  "lat": 13.8,
+  "lon": -88.9141,
+  "name": "El Salvador",
+  "osm": "relation/1520612",
+  "type": "country"
+ },
+ "Elizabeth|New Jersey|US": {
+  "lat": 40.664,
+  "lon": -74.2107,
+  "name": "Elizabeth",
+  "osm": "relation/170505",
+  "type": "city"
+ },
+ "Elmhurst|New York|US": {
+  "lat": 40.7366,
+  "lon": -73.8784,
+  "name": "Elmhurst",
+  "osm": "node/158874245",
+  "type": "quarter"
+ },
+ "Enköping||SE": {
+  "lat": 59.6356,
+  "lon": 17.0779,
+  "name": "Enköping",
+  "osm": "node/27544566",
+  "type": "town"
+ },
+ "Eskisehir||TR": {
+  "lat": 39.7744,
+  "lon": 30.5191,
+  "name": "Eskisehir",
+  "osm": "node/25869769",
+  "type": "city"
+ },
+ "Estonia||EE": {
+  "lat": 58.7524,
+  "lon": 25.3319,
+  "name": "Estonia",
+  "osm": "relation/79510",
+  "type": "country"
+ },
+ "Euless|Texas|US": {
+  "lat": 32.8371,
+  "lon": -97.082,
+  "name": "Euless",
+  "osm": "relation/115330",
+  "type": "town"
+ },
+ "Faaborg||DK": {
+  "lat": 55.0971,
+  "lon": 10.2428,
+  "name": "Faaborg",
+  "osm": "node/26559278",
+  "type": "town"
+ },
+ "Falls Church|Virginia|US": {
+  "lat": 38.8823,
+  "lon": -77.1711,
+  "name": "Falls Church",
+  "osm": "relation/206642",
+  "type": "city"
+ },
+ "Farum||DK": {
+  "lat": 55.8101,
+  "lon": 12.3703,
+  "name": "Farum",
+  "osm": "node/26559262",
+  "type": "town"
+ },
+ "Fayetteville|North Carolina|US": {
+  "lat": 35.0526,
+  "lon": -78.8783,
+  "name": "Fayetteville",
+  "osm": "relation/179846",
+  "type": "city"
+ },
+ "Federal||AR": {
+  "lat": -30.9559,
+  "lon": -58.7798,
+  "name": "Federal",
+  "osm": "relation/2818797",
+  "type": "town"
+ },
+ "Feira De Santana||BR": {
+  "lat": -12.2579,
+  "lon": -38.9598,
+  "name": "Feira de Santana",
+  "osm": "relation/362294",
+  "type": "city"
+ },
+ "Finland||FI": {
+  "lat": 63.2468,
+  "lon": 25.9209,
+  "name": "Finland",
+  "osm": "relation/54224",
+  "type": "country"
+ },
+ "Florianópolis||BR": {
+  "lat": -27.5973,
+  "lon": -48.5496,
+  "name": "Florianópolis",
+  "osm": "relation/296561",
+  "type": "city"
+ },
+ "Florø||NO": {
+  "lat": 61.6003,
+  "lon": 5.035,
+  "name": "Florø",
+  "osm": "node/258770049",
+  "type": "town"
+ },
+ "Flushing|New York|US": {
+  "lat": 40.7654,
+  "lon": -73.8174,
+  "name": "Flushing",
+  "osm": "node/158859327",
+  "type": "quarter"
+ },
+ "Fort Lauderdale|Florida|US": {
+  "lat": 26.1223,
+  "lon": -80.1434,
+  "name": "Fort Lauderdale",
+  "osm": "relation/117955",
+  "type": "city"
+ },
+ "Fort Worth|Texas|US": {
+  "lat": 32.7532,
+  "lon": -97.3327,
+  "name": "Fort Worth",
+  "osm": "relation/115274",
+  "type": "city"
+ },
+ "Fortaleza||BR": {
+  "lat": -3.7932,
+  "lon": -38.528,
+  "name": "Fortaleza",
+  "osm": "relation/302588",
+  "type": "municipality"
+ },
+ "France||FR": {
+  "lat": 46.6034,
+  "lon": 1.8883,
+  "name": "France",
+  "osm": "relation/2202162",
+  "type": "country"
+ },
+ "Frankfurt Am Main||DE": {
+  "lat": 50.1106,
+  "lon": 8.6821,
+  "name": "Frankfurt",
+  "osm": "relation/62400",
+  "type": "city"
+ },
+ "Frederikssund||DK": {
+  "lat": 55.8418,
+  "lon": 12.0636,
+  "name": "Frederikssund",
+  "osm": "node/25435368",
+  "type": "town"
+ },
+ "Gainesville|Florida|US": {
+  "lat": 29.652,
+  "lon": -82.325,
+  "name": "Gainesville",
+  "osm": "relation/118870",
+  "type": "city"
+ },
+ "Garland|Texas|US": {
+  "lat": 32.9126,
+  "lon": -96.6389,
+  "name": "Garland",
+  "osm": "relation/253954",
+  "type": "city"
+ },
+ "Gdansk||PL": {
+  "lat": 54.3707,
+  "lon": 18.613,
+  "name": "Gdansk",
+  "osm": "relation/2597485",
+  "type": "city_district"
+ },
+ "Geneve||CH": {
+  "lat": 46.2018,
+  "lon": 6.1466,
+  "name": "Geneva",
+  "osm": "relation/1685488",
+  "type": "city"
+ },
+ "Genova||IT": {
+  "lat": 44.4073,
+  "lon": 8.9339,
+  "name": "Genoa",
+  "osm": "relation/44875",
+  "type": "city"
+ },
+ "Gent||BE": {
+  "lat": 51.0538,
+  "lon": 3.725,
+  "name": "Ghent",
+  "osm": "relation/897671",
+  "type": "city"
+ },
+ "Germany||DE": {
+  "lat": 51.1638,
+  "lon": 10.4478,
+  "name": "Germany",
+  "osm": "relation/51477",
+  "type": "country"
+ },
+ "Gevelsberg||DE": {
+  "lat": 51.3207,
+  "lon": 7.3405,
+  "name": "Gevelsberg",
+  "osm": "relation/1956782",
+  "type": "town"
+ },
+ "Gießen||DE": {
+  "lat": 50.5862,
+  "lon": 8.6742,
+  "name": "Giessen",
+  "osm": "relation/418617",
+  "type": "town"
+ },
+ "Gijón||ES": {
+  "lat": 43.5449,
+  "lon": -5.6627,
+  "name": "Gijón",
+  "osm": "relation/345576",
+  "type": "city"
+ },
+ "Girona||ES": {
+  "lat": 41.9793,
+  "lon": 2.8199,
+  "name": "Girona",
+  "osm": "relation/343535",
+  "type": "city"
+ },
+ "Glasgow||GB": {
+  "lat": 55.8612,
+  "lon": -4.2502,
+  "name": "Glasgow",
+  "osm": "node/11127374",
+  "type": "city"
+ },
+ "Glostrup||DK": {
+  "lat": 55.6837,
+  "lon": 12.4129,
+  "name": "Glostrup Municipality",
+  "osm": "relation/2190423",
+  "type": "municipality"
+ },
+ "Goiânia||BR": {
+  "lat": -16.6809,
+  "lon": -49.2533,
+  "name": "Goiânia",
+  "osm": "relation/334547",
+  "type": "city"
+ },
+ "Gold Coast||AU": {
+  "lat": -28.0024,
+  "lon": 153.4146,
+  "name": "Gold Coast",
+  "osm": "node/145620822",
+  "type": "city"
+ },
+ "Gram||DK": {
+  "lat": 55.287,
+  "lon": 9.0463,
+  "name": "Gram",
+  "osm": "node/8700566520",
+  "type": "village"
+ },
+ "Grand Rapids|Michigan|US": {
+  "lat": 42.9632,
+  "lon": -85.6679,
+  "name": "Grand Rapids",
+  "osm": "relation/134444",
+  "type": "city"
+ },
+ "Greece||GR": {
+  "lat": 38.9954,
+  "lon": 21.9877,
+  "name": "Greece",
+  "osm": "relation/192307",
+  "type": "country"
+ },
+ "Grenaa||DK": {
+  "lat": 56.4134,
+  "lon": 10.8793,
+  "name": "Grenaa",
+  "osm": "node/7447416109",
+  "type": "town"
+ },
+ "Grindsted||DK": {
+  "lat": 55.7571,
+  "lon": 8.9278,
+  "name": "Grindsted",
+  "osm": "node/26559287",
+  "type": "town"
+ },
+ "Groningen||NL": {
+  "lat": 53.2191,
+  "lon": 6.568,
+  "name": "Groningen",
+  "osm": "relation/409863",
+  "type": "city"
+ },
+ "Guadalajara||ES": {
+  "lat": 40.74,
+  "lon": -2.5059,
+  "name": "Guadalajara",
+  "osm": "relation/349025",
+  "type": "state_district"
+ },
+ "Guanajuato||MX": {
+  "lat": 20.9877,
+  "lon": -101,
+  "name": "Guanajuato",
+  "osm": "relation/2340909",
+  "type": "state"
+ },
+ "Guarujá||BR": {
+  "lat": -23.9928,
+  "lon": -46.2558,
+  "name": "Guarujá",
+  "osm": "relation/298463",
+  "type": "city"
+ },
+ "Guatemala||GT": {
+  "lat": 15.5856,
+  "lon": -90.3458,
+  "name": "Guatemala",
+  "osm": "relation/1521463",
+  "type": "country"
+ },
+ "Göteborg||SE": {
+  "lat": 57.7072,
+  "lon": 11.967,
+  "name": "Gothenburg",
+  "osm": "node/25930131",
+  "type": "city"
+ },
+ "Hamburg||DE": {
+  "lat": 53.5502,
+  "lon": 10.0013,
+  "name": "Hamburg",
+  "osm": "relation/62782",
+  "type": "city"
+ },
+ "Harrisburg|Pennsylvania|US": {
+  "lat": 40.2663,
+  "lon": -76.8861,
+  "name": "Harrisburg",
+  "osm": "relation/188218",
+  "type": "city"
+ },
+ "Hartford|Connecticut|US": {
+  "lat": 41.7662,
+  "lon": -72.6733,
+  "name": "Hartford",
+  "osm": "relation/3909995",
+  "type": "city"
+ },
+ "Hatay||TR": {
+  "lat": 36.3451,
+  "lon": 36.0748,
+  "name": "Hatay",
+  "osm": "relation/223122",
+  "type": "province"
+ },
+ "Heidelberg||DE": {
+  "lat": 49.4094,
+  "lon": 8.6947,
+  "name": "Heidelberg",
+  "osm": "relation/62487",
+  "type": "city"
+ },
+ "Hellerup||DK": {
+  "lat": 55.7337,
+  "lon": 12.5655,
+  "name": "Hellerup",
+  "osm": "node/25260966",
+  "type": "suburb"
+ },
+ "Helsingør||DK": {
+  "lat": 56.0349,
+  "lon": 12.613,
+  "name": "Elsinore",
+  "osm": "node/21040320",
+  "type": "town"
+ },
+ "Hialeah|Florida|US": {
+  "lat": 25.8268,
+  "lon": -80.2814,
+  "name": "Hialeah",
+  "osm": "relation/118853",
+  "type": "suburb"
+ },
+ "Hinnerup||DK": {
+  "lat": 56.2678,
+  "lon": 10.0689,
+  "name": "Hinnerup",
+  "osm": "node/6121109293",
+  "type": "town"
+ },
+ "Holbæk||DK": {
+  "lat": 55.7186,
+  "lon": 11.7135,
+  "name": "Holbæk",
+  "osm": "node/21686564",
+  "type": "town"
+ },
+ "Hollywood|Florida|US": {
+  "lat": 26.0112,
+  "lon": -80.1495,
+  "name": "Hollywood",
+  "osm": "relation/117954",
+  "type": "city"
+ },
+ "Homebush||AU": {
+  "lat": -33.8605,
+  "lon": 151.0806,
+  "name": "Homebush",
+  "osm": "relation/5682414",
+  "type": "suburb"
+ },
+ "Honduras||HN": {
+  "lat": 15.2572,
+  "lon": -86.0755,
+  "name": "Honduras",
+  "osm": "relation/287670",
+  "type": "country"
+ },
+ "Honolulu|Hawaii|US": {
+  "lat": 21.3045,
+  "lon": -157.8557,
+  "name": "Honolulu",
+  "osm": "relation/119231",
+  "type": "city"
+ },
+ "Houston|Texas|US": {
+  "lat": 29.7589,
+  "lon": -95.3677,
+  "name": "Houston",
+  "osm": "relation/2688911",
+  "type": "city"
+ },
+ "Humble|Texas|US": {
+  "lat": 29.9988,
+  "lon": -95.2622,
+  "name": "Humble",
+  "osm": "relation/1560409",
+  "type": "town"
+ },
+ "Hungary||HU": {
+  "lat": 47.1818,
+  "lon": 19.5061,
+  "name": "Hungary",
+  "osm": "relation/21335",
+  "type": "country"
+ },
+ "Huntington Station|New York|US": {
+  "lat": 40.8472,
+  "lon": -73.4036,
+  "name": "Huntington Station",
+  "osm": "relation/175753",
+  "type": "census"
+ },
+ "Hyattsville|Maryland|US": {
+  "lat": 38.9529,
+  "lon": -76.9409,
+  "name": "Hyattsville",
+  "osm": "relation/133382",
+  "type": "town"
+ },
+ "Hyvinkää||FI": {
+  "lat": 60.6311,
+  "lon": 24.8604,
+  "name": "Hyvinkää",
+  "osm": "relation/36101",
+  "type": "town"
+ },
+ "Hägersten||SE": {
+  "lat": 59.304,
+  "lon": 17.9671,
+  "name": "Hägersten",
+  "osm": "relation/6824813",
+  "type": "suburb"
+ },
+ "Höör||SE": {
+  "lat": 55.9333,
+  "lon": 13.5454,
+  "name": "Höör",
+  "osm": "node/122703072",
+  "type": "town"
+ },
+ "Hønefoss||NO": {
+  "lat": 60.1662,
+  "lon": 10.2555,
+  "name": "Hønefoss",
+  "osm": "node/31264125",
+  "type": "town"
+ },
+ "Iceland||IS": {
+  "lat": 64.9842,
+  "lon": -18.1059,
+  "name": "Iceland",
+  "osm": "relation/299133",
+  "type": "country"
+ },
+ "Ilford||GB": {
+  "lat": 51.5583,
+  "lon": 0.0712,
+  "name": "Ilford",
+  "osm": "node/597413690",
+  "type": "town"
+ },
+ "India||IN": {
+  "lat": 22.3511,
+  "lon": 78.6677,
+  "name": "India",
+  "osm": "relation/304716",
+  "type": "country"
+ },
+ "Indonesia||ID": {
+  "lat": -2.4834,
+  "lon": 117.8903,
+  "name": "Indonesia",
+  "osm": "relation/304751",
+  "type": "country"
+ },
+ "Iowa City|Iowa|US": {
+  "lat": 41.6613,
+  "lon": -91.5299,
+  "name": "Iowa City",
+  "osm": "relation/128462",
+  "type": "city"
+ },
+ "Iran||IR": {
+  "lat": 32.6475,
+  "lon": 54.5644,
+  "name": "Iran",
+  "osm": "relation/304938",
+  "type": "country"
+ },
+ "Ireland||IE": {
+  "lat": 52.8652,
+  "lon": -7.9795,
+  "name": "Ireland",
+  "osm": "relation/62273",
+  "type": "country"
+ },
+ "Israel||IL": {
+  "lat": 30.8124,
+  "lon": 34.8595,
+  "name": "Israel",
+  "osm": "relation/1473946",
+  "type": "country"
+ },
+ "Issy-les-moulineaux||FR": {
+  "lat": 48.8251,
+  "lon": 2.2735,
+  "name": "Issy-les-Moulineaux",
+  "osm": "relation/85527",
+  "type": "town"
+ },
+ "Istanbul||TR": {
+  "lat": 41.0064,
+  "lon": 28.9759,
+  "name": "Istanbul",
+  "osm": "node/1882099475",
+  "type": "city"
+ },
+ "Itajaí||BR": {
+  "lat": -26.9047,
+  "lon": -48.6553,
+  "name": "Itajaí",
+  "osm": "relation/296666",
+  "type": "city"
+ },
+ "Italy||IT": {
+  "lat": 42.6384,
+  "lon": 12.6743,
+  "name": "Italy",
+  "osm": "relation/365331",
+  "type": "country"
+ },
+ "Ithaca|New York|US": {
+  "lat": 42.4374,
+  "lon": -76.5484,
+  "name": "Town of Ithaca",
+  "osm": "relation/9155213",
+  "type": "city"
+ },
+ "Izmir||TR": {
+  "lat": 38.4193,
+  "lon": 27.1285,
+  "name": "İzmir",
+  "osm": "node/428039507",
+  "type": "city"
+ },
+ "Jakarta||ID": {
+  "lat": -6.1754,
+  "lon": 106.8272,
+  "name": "Special Capital Region of Jakarta",
+  "osm": "relation/6362934",
+  "type": "city"
+ },
+ "Jaén||ES": {
+  "lat": 37.7729,
+  "lon": -3.7883,
+  "name": "Jaén",
+  "osm": "relation/339631",
+  "type": "city"
+ },
+ "Jerez De La Frontera||ES": {
+  "lat": 36.6817,
+  "lon": -6.1377,
+  "name": "Jerez",
+  "osm": "relation/342097",
+  "type": "city"
+ },
+ "Jersey City|New Jersey|US": {
+  "lat": 40.7216,
+  "lon": -74.0475,
+  "name": "Jersey City",
+  "osm": "relation/170953",
+  "type": "city"
+ },
+ "João Pessoa||BR": {
+  "lat": -7.1216,
+  "lon": -34.882,
+  "name": "João Pessoa",
+  "osm": "relation/301405",
+  "type": "city"
+ },
+ "Juiz De Fora||BR": {
+  "lat": -21.761,
+  "lon": -43.3501,
+  "name": "Juiz de Fora",
+  "osm": "relation/314769",
+  "type": "city"
+ },
+ "Jundiaí||BR": {
+  "lat": -23.1888,
+  "lon": -46.8845,
+  "name": "Jundiaí",
+  "osm": "relation/297991",
+  "type": "city"
+ },
+ "Juárez||MX": {
+  "lat": 31.739,
+  "lon": -106.4832,
+  "name": "Ciudad Juárez",
+  "osm": "node/4145208823",
+  "type": "city"
+ },
+ "Kalix||SE": {
+  "lat": 66,
+  "lon": 23,
+  "name": "Kalix kommun",
+  "osm": "relation/935474",
+  "type": "municipality"
+ },
+ "Kansas City|Missouri|US": {
+  "lat": 39.1001,
+  "lon": -94.5781,
+  "name": "Kansas City",
+  "osm": "relation/141008",
+  "type": "city"
+ },
+ "Kaohsiung||TW": {
+  "lat": 22.6203,
+  "lon": 120.312,
+  "name": "Kaohsiung",
+  "osm": "relation/2127079",
+  "type": "city"
+ },
+ "Karlsruhe||DE": {
+  "lat": 49.0069,
+  "lon": 8.4034,
+  "name": "Karlsruhe",
+  "osm": "relation/62518",
+  "type": "city"
+ },
+ "Karlstad||SE": {
+  "lat": 59.3809,
+  "lon": 13.5028,
+  "name": "Karlstad",
+  "osm": "node/25975135",
+  "type": "city"
+ },
+ "Katowice||PL": {
+  "lat": 50.2599,
+  "lon": 19.0216,
+  "name": "Katowice",
+  "osm": "relation/332321",
+  "type": "city"
+ },
+ "Kaufman|Texas|US": {
+  "lat": 32.6016,
+  "lon": -96.3375,
+  "name": "Kaufman County",
+  "osm": "relation/1839031",
+  "type": "county"
+ },
+ "Kocaeli||TR": {
+  "lat": 40.8217,
+  "lon": 29.9507,
+  "name": "Kocaeli",
+  "osm": "relation/223473",
+  "type": "province"
+ },
+ "Kongsberg||NO": {
+  "lat": 59.5946,
+  "lon": 9.6709,
+  "name": "Kongsberg",
+  "osm": "relation/412349",
+  "type": "municipality"
+ },
+ "Kongsvinger||NO": {
+  "lat": 60.1899,
+  "lon": 12.216,
+  "name": "Kongsvinger",
+  "osm": "relation/412534",
+  "type": "municipality"
+ },
+ "Konya||TR": {
+  "lat": 37.8727,
+  "lon": 32.4924,
+  "name": "Konya",
+  "osm": "node/25869814",
+  "type": "city"
+ },
+ "Kota Bharu||MY": {
+  "lat": 6.1248,
+  "lon": 102.2378,
+  "name": "Kota Bharu",
+  "osm": "relation/18811907",
+  "type": "city"
+ },
+ "Kraków||PL": {
+  "lat": 50.0469,
+  "lon": 19.9972,
+  "name": "Krakow",
+  "osm": "relation/2768922",
+  "type": "administrative"
+ },
+ "Kópavogur||IS": {
+  "lat": 64.1114,
+  "lon": -21.9048,
+  "name": "Kopavogur",
+  "osm": "relation/2580603",
+  "type": "town"
+ },
+ "Köln||DE": {
+  "lat": 50.9384,
+  "lon": 6.96,
+  "name": "Cologne",
+  "osm": "relation/62578",
+  "type": "city"
+ },
+ "La Laguna||ES": {
+  "lat": 28.4858,
+  "lon": -16.3159,
+  "name": "San Cristóbal de La Laguna",
+  "osm": "relation/345393",
+  "type": "town"
+ },
+ "La Paz||BO": {
+  "lat": -16.4955,
+  "lon": -68.1336,
+  "name": "La Paz",
+  "osm": "relation/4499870",
+  "type": "city"
+ },
+ "Lakewood|New Jersey|US": {
+  "lat": 40.0941,
+  "lon": -74.215,
+  "name": "Lakewood Township",
+  "osm": "relation/962545",
+  "type": "city"
+ },
+ "Las Palmas De Gran Canaria||ES": {
+  "lat": 28.1289,
+  "lon": -15.4349,
+  "name": "Las Palmas",
+  "osm": "relation/340783",
+  "type": "city"
+ },
+ "Las Palmas||ES": {
+  "lat": 28.1289,
+  "lon": -15.4349,
+  "name": "Las Palmas",
+  "osm": "relation/340783",
+  "type": "city"
+ },
+ "Las Vegas|Nevada|US": {
+  "lat": 36.1674,
+  "lon": -115.1484,
+  "name": "Las Vegas",
+  "osm": "relation/170117",
+  "type": "city"
+ },
+ "Latham|New York|US": {
+  "lat": 42.7436,
+  "lon": -73.7458,
+  "name": "Latham",
+  "osm": "relation/14008884",
+  "type": "census"
+ },
+ "Latvia||LV": {
+  "lat": 56.8406,
+  "lon": 24.7538,
+  "name": "Latvia",
+  "osm": "relation/72594",
+  "type": "country"
+ },
+ "Leamington Spa||GB": {
+  "lat": 52.2913,
+  "lon": -1.5364,
+  "name": "Royal Leamington Spa",
+  "osm": "relation/1444360",
+  "type": "town"
+ },
+ "Leiden||NL": {
+  "lat": 52.1595,
+  "lon": 4.4909,
+  "name": "Leiden",
+  "osm": "relation/295092",
+  "type": "city"
+ },
+ "Leiria||PT": {
+  "lat": 39.7438,
+  "lon": -8.8071,
+  "name": "Leiria",
+  "osm": "relation/5399202",
+  "type": "city"
+ },
+ "Lemvig||DK": {
+  "lat": 56.5487,
+  "lon": 8.3046,
+  "name": "Lemvig",
+  "osm": "node/2381064271",
+  "type": "town"
+ },
+ "Lerma||MX": {
+  "lat": 19.3264,
+  "lon": -99.4601,
+  "name": "Lerma",
+  "osm": "relation/5605976",
+  "type": "county"
+ },
+ "Lewisville|Texas|US": {
+  "lat": 33.0462,
+  "lon": -96.9942,
+  "name": "Lewisville",
+  "osm": "relation/253769",
+  "type": "city"
+ },
+ "Lidingö||SE": {
+  "lat": 59.3669,
+  "lon": 18.1821,
+  "name": "Lidingö kommun",
+  "osm": "relation/398035",
+  "type": "municipality"
+ },
+ "Lidköping||SE": {
+  "lat": 58.5037,
+  "lon": 13.1576,
+  "name": "Lidköping",
+  "osm": "node/27426448",
+  "type": "town"
+ },
+ "Lima|Ohio|US": {
+  "lat": 40.74,
+  "lon": -84.105,
+  "name": "Lima",
+  "osm": "relation/182725",
+  "type": "city"
+ },
+ "Lima||PE": {
+  "lat": -12.046,
+  "lon": -77.0306,
+  "name": "Lima",
+  "osm": "node/4289361265",
+  "type": "city"
+ },
+ "Lisbon||PT": {
+  "lat": 38.7078,
+  "lon": -9.1366,
+  "name": "Lisbon",
+  "osm": "relation/5400890",
+  "type": "city"
+ },
+ "Lithuania||LT": {
+  "lat": 55.35,
+  "lon": 23.75,
+  "name": "Lithuania",
+  "osm": "relation/72596",
+  "type": "country"
+ },
+ "Liverpool||GB": {
+  "lat": 53.3933,
+  "lon": -2.9166,
+  "name": "Liverpool",
+  "osm": "relation/172987",
+  "type": "city"
+ },
+ "Lodz||PL": {
+  "lat": 51.7728,
+  "lon": 19.4785,
+  "name": "Łódź",
+  "osm": "relation/1582777",
+  "type": "administrative"
+ },
+ "Lohja||FI": {
+  "lat": 60.2512,
+  "lon": 24.0677,
+  "name": "Lohja",
+  "osm": "relation/2752633",
+  "type": "town"
+ },
+ "London||GB": {
+  "lat": 51.5074,
+  "lon": -0.1278,
+  "name": "Greater London",
+  "osm": "relation/175342",
+  "type": "city"
+ },
+ "Los Angeles|California|US": {
+  "lat": 34.0537,
+  "lon": -118.2428,
+  "name": "Los Angeles",
+  "osm": "relation/207359",
+  "type": "city"
+ },
+ "Luxembourg||LU": {
+  "lat": 49.8159,
+  "lon": 6.1297,
+  "name": "Luxembourg",
+  "osm": "relation/2171347",
+  "type": "country"
+ },
+ "Lyndhurst|New Jersey|US": {
+  "lat": 40.8123,
+  "lon": -74.1247,
+  "name": "Lyndhurst",
+  "osm": "relation/170730",
+  "type": "town"
+ },
+ "Lyngby||DK": {
+  "lat": 55.7719,
+  "lon": 12.5051,
+  "name": "Kongens Lyngby",
+  "osm": "node/21040321",
+  "type": "town"
+ },
+ "Lynwood|California|US": {
+  "lat": 33.9248,
+  "lon": -118.2024,
+  "name": "Lynwood",
+  "osm": "relation/3519914",
+  "type": "town"
+ },
+ "Lyon||FR": {
+  "lat": 45.7578,
+  "lon": 4.832,
+  "name": "Lyon",
+  "osm": "relation/120965",
+  "type": "city"
+ },
+ "Lünen||DE": {
+  "lat": 51.6142,
+  "lon": 7.5228,
+  "name": "Lünen",
+  "osm": "relation/158454",
+  "type": "town"
+ },
+ "Maceió||BR": {
+  "lat": -9.6477,
+  "lon": -35.7339,
+  "name": "Maceió",
+  "osm": "relation/303815",
+  "type": "municipality"
+ },
+ "Madison|Wisconsin|US": {
+  "lat": 43.0747,
+  "lon": -89.3842,
+  "name": "Madison",
+  "osm": "relation/3352040",
+  "type": "city"
+ },
+ "Madrid||ES": {
+  "lat": 40.4168,
+  "lon": -3.7035,
+  "name": "Madrid",
+  "osm": "relation/5326784",
+  "type": "city"
+ },
+ "Magé||BR": {
+  "lat": -22.6043,
+  "lon": -43.1081,
+  "name": "Magé",
+  "osm": "relation/2220786",
+  "type": "municipality"
+ },
+ "Mainz||DE": {
+  "lat": 49.9995,
+  "lon": 8.2736,
+  "name": "Mainz",
+  "osm": "relation/62630",
+  "type": "city"
+ },
+ "Makati||PH": {
+  "lat": 14.5568,
+  "lon": 121.0211,
+  "name": "Makati",
+  "osm": "relation/103716",
+  "type": "city"
+ },
+ "Malaysia||MY": {
+  "lat": 4.5694,
+  "lon": 102.2657,
+  "name": "Malaysia",
+  "osm": "relation/2108121",
+  "type": "country"
+ },
+ "Malmö||SE": {
+  "lat": 55.6053,
+  "lon": 13.0002,
+  "name": "Malmö",
+  "osm": "relation/10663667",
+  "type": "city"
+ },
+ "Manchester||GB": {
+  "lat": 53.4425,
+  "lon": -2.2325,
+  "name": "Manchester",
+  "osm": "relation/146656",
+  "type": "city"
+ },
+ "Manhattan|Kansas|US": {
+  "lat": 39.1836,
+  "lon": -96.5717,
+  "name": "Manhattan",
+  "osm": "relation/129869",
+  "type": "city"
+ },
+ "Manisa||TR": {
+  "lat": 38.8574,
+  "lon": 28.0566,
+  "name": "Manisa",
+  "osm": "relation/223168",
+  "type": "province"
+ },
+ "Mannedorf||CH": {
+  "lat": 47.2532,
+  "lon": 8.6918,
+  "name": "Männedorf",
+  "osm": "relation/1682167",
+  "type": "town"
+ },
+ "Mar Del Plata||AR": {
+  "lat": -37.9976,
+  "lon": -57.5482,
+  "name": "Mar del Plata",
+  "osm": "relation/3402727",
+  "type": "city"
+ },
+ "Marco||IT": {
+  "lat": 45.8434,
+  "lon": 11.0099,
+  "name": "Marco",
+  "osm": "relation/1322573",
+  "type": "village"
+ },
+ "Maringá||BR": {
+  "lat": -23.4253,
+  "lon": -51.9382,
+  "name": "Maringá",
+  "osm": "relation/297521",
+  "type": "city"
+ },
+ "Marseille||FR": {
+  "lat": 43.2964,
+  "lon": 5.3778,
+  "name": "Marseille",
+  "osm": "relation/76469",
+  "type": "city"
+ },
+ "Marília||BR": {
+  "lat": -22.2172,
+  "lon": -49.95,
+  "name": "Marília",
+  "osm": "relation/298306",
+  "type": "city"
+ },
+ "Matamoros||MX": {
+  "lat": 25.881,
+  "lon": -97.5065,
+  "name": "Matamoros",
+  "osm": "node/296889512",
+  "type": "city"
+ },
+ "Maywood|Illinois|US": {
+  "lat": 41.879,
+  "lon": -87.8436,
+  "name": "Maywood",
+  "osm": "relation/123445",
+  "type": "town"
+ },
+ "Mcleansville|North Carolina|US": {
+  "lat": 36.1037,
+  "lon": -79.6541,
+  "name": "McLeansville",
+  "osm": "relation/14929942",
+  "type": "statistical"
+ },
+ "Medellín||CO": {
+  "lat": 6.2697,
+  "lon": -75.6026,
+  "name": "Medellín",
+  "osm": "relation/1343264",
+  "type": "city"
+ },
+ "Melbourne||AU": {
+  "lat": -37.8142,
+  "lon": 144.9632,
+  "name": "Melbourne",
+  "osm": "relation/4246124",
+  "type": "city"
+ },
+ "Memphis|Tennessee|US": {
+  "lat": 35.146,
+  "lon": -90.0518,
+  "name": "Memphis",
+  "osm": "relation/197239",
+  "type": "city"
+ },
+ "Meppen||DE": {
+  "lat": 52.6947,
+  "lon": 7.291,
+  "name": "Meppen",
+  "osm": "relation/1075125",
+  "type": "town"
+ },
+ "Mersin||TR": {
+  "lat": 36.7978,
+  "lon": 34.6298,
+  "name": "Mersin",
+  "osm": "node/26481523",
+  "type": "city"
+ },
+ "Mesa|Arizona|US": {
+  "lat": 33.4151,
+  "lon": -111.8315,
+  "name": "Mesa",
+  "osm": "relation/110815",
+  "type": "city"
+ },
+ "Mexico||MX": {
+  "lat": 23.6585,
+  "lon": -102.0077,
+  "name": "Mexico",
+  "osm": "relation/114686",
+  "type": "country"
+ },
+ "Miami|Florida|US": {
+  "lat": 25.7742,
+  "lon": -80.1936,
+  "name": "Miami",
+  "osm": "node/154158458",
+  "type": "city"
+ },
+ "Mikkeli||FI": {
+  "lat": 61.6878,
+  "lon": 27.2732,
+  "name": "Mikkeli",
+  "osm": "relation/2752683",
+  "type": "city"
+ },
+ "Milan||IT": {
+  "lat": 45.4642,
+  "lon": 9.1896,
+  "name": "Milan",
+  "osm": "relation/44915",
+  "type": "city"
+ },
+ "Milan|Michigan|US": {
+  "lat": 42.0849,
+  "lon": -83.683,
+  "name": "Milan",
+  "osm": "relation/134906",
+  "type": "city"
+ },
+ "Milwaukee|Wisconsin|US": {
+  "lat": 43.0386,
+  "lon": -87.9091,
+  "name": "Milwaukee",
+  "osm": "relation/251075",
+  "type": "city"
+ },
+ "Minneapolis|Minnesota|US": {
+  "lat": 44.9773,
+  "lon": -93.2655,
+  "name": "Minneapolis",
+  "osm": "relation/136712",
+  "type": "city"
+ },
+ "Mira Loma|California|US": {
+  "lat": 33.9864,
+  "lon": -117.5227,
+  "name": "Mira Loma",
+  "osm": "relation/19847745",
+  "type": "neighbourhood"
+ },
+ "Mo I Rana||NO": {
+  "lat": 66.3111,
+  "lon": 14.1387,
+  "name": "Mo i Rana",
+  "osm": "node/31264117",
+  "type": "town"
+ },
+ "Mogi Das Cruzes||BR": {
+  "lat": -23.5234,
+  "lon": -46.1927,
+  "name": "Mogi das Cruzes",
+  "osm": "relation/298415",
+  "type": "city"
+ },
+ "Montebello|California|US": {
+  "lat": 34.0159,
+  "lon": -118.112,
+  "name": "Montebello",
+  "osm": "relation/2312929",
+  "type": "town"
+ },
+ "Monterrey||MX": {
+  "lat": 25.6802,
+  "lon": -100.3153,
+  "name": "Monterrey",
+  "osm": "node/4145210488",
+  "type": "city"
+ },
+ "Montpellier||FR": {
+  "lat": 43.6112,
+  "lon": 3.8767,
+  "name": "Montpellier",
+  "osm": "relation/28722",
+  "type": "city"
+ },
+ "Montréal||CA": {
+  "lat": 45.5032,
+  "lon": -73.5698,
+  "name": "Montreal",
+  "osm": "relation/1634158",
+  "type": "city"
+ },
+ "Moreno||AR": {
+  "lat": -34.6397,
+  "lon": -58.7898,
+  "name": "Moreno",
+  "osm": "relation/2461625",
+  "type": "city"
+ },
+ "Morocco||MA": {
+  "lat": 31.1728,
+  "lon": -7.3362,
+  "name": "Morocco",
+  "osm": "relation/3630439",
+  "type": "country"
+ },
+ "Mugla||TR": {
+  "lat": 37.1642,
+  "lon": 28.2624,
+  "name": "Muğla",
+  "osm": "relation/223136",
+  "type": "province"
+ },
+ "Murfreesboro|Tennessee|US": {
+  "lat": 35.846,
+  "lon": -86.3921,
+  "name": "Murfreesboro",
+  "osm": "relation/197137",
+  "type": "city"
+ },
+ "Málaga||ES": {
+  "lat": 36.7648,
+  "lon": -4.4422,
+  "name": "Málaga",
+  "osm": "relation/340746",
+  "type": "municipality"
+ },
+ "Móstoles||ES": {
+  "lat": 40.3239,
+  "lon": -3.8649,
+  "name": "Móstoles",
+  "osm": "relation/340288",
+  "type": "city"
+ },
+ "Mölndal||SE": {
+  "lat": 57.6565,
+  "lon": 12.0153,
+  "name": "Mölndal",
+  "osm": "node/30146990",
+  "type": "town"
+ },
+ "Mönchengladbach||DE": {
+  "lat": 51.1947,
+  "lon": 6.4354,
+  "name": "Mönchengladbach",
+  "osm": "relation/62410",
+  "type": "city"
+ },
+ "Münster||DE": {
+  "lat": 51.9625,
+  "lon": 7.6252,
+  "name": "Münster",
+  "osm": "relation/62591",
+  "type": "city"
+ },
+ "Namsos||NO": {
+  "lat": 64.4666,
+  "lon": 11.3345,
+  "name": "Namsos",
+  "osm": "relation/10143402",
+  "type": "municipality"
+ },
+ "Naperville|Illinois|US": {
+  "lat": 41.7729,
+  "lon": -88.1479,
+  "name": "Naperville",
+  "osm": "relation/124885",
+  "type": "city"
+ },
+ "Naples||IT": {
+  "lat": 40.8359,
+  "lon": 14.2488,
+  "name": "Naples",
+  "osm": "relation/40767",
+  "type": "city"
+ },
+ "Naranjito|Puerto Rico|US": {
+  "lat": 18.2874,
+  "lon": -66.2481,
+  "name": "Naranjito",
+  "osm": "relation/4468341",
+  "type": "county"
+ },
+ "Narvik||NO": {
+  "lat": 68.4384,
+  "lon": 17.4272,
+  "name": "Narvik",
+  "osm": "node/20981180",
+  "type": "town"
+ },
+ "Nashville|Tennessee|US": {
+  "lat": 36.1623,
+  "lon": -86.7743,
+  "name": "Nashville",
+  "osm": "relation/197472",
+  "type": "city"
+ },
+ "Natal||BR": {
+  "lat": -5.8054,
+  "lon": -35.2081,
+  "name": "Natal",
+  "osm": "relation/301091",
+  "type": "city"
+ },
+ "Naucalpan De Juárez||MX": {
+  "lat": 19.4788,
+  "lon": -99.2328,
+  "name": "Naucalpan de Juárez",
+  "osm": "relation/5606080",
+  "type": "city"
+ },
+ "Neuilly-sur-seine||FR": {
+  "lat": 48.8847,
+  "lon": 2.2696,
+  "name": "Neuilly-sur-Seine",
+  "osm": "relation/85802",
+  "type": "town"
+ },
+ "Neuquen||AR": {
+  "lat": -38.8503,
+  "lon": -69.8323,
+  "name": "Neuquén",
+  "osm": "relation/1606727",
+  "type": "state"
+ },
+ "New Braunfels|Texas|US": {
+  "lat": 29.7028,
+  "lon": -98.1257,
+  "name": "New Braunfels",
+  "osm": "relation/113600",
+  "type": "city"
+ },
+ "New Britain|Connecticut|US": {
+  "lat": 41.6612,
+  "lon": -72.7796,
+  "name": "New Britain",
+  "osm": "relation/5963846",
+  "type": "city"
+ },
+ "New Castle|Delaware|US": {
+  "lat": 39.616,
+  "lon": -75.663,
+  "name": "New Castle County",
+  "osm": "relation/1245077",
+  "type": "county"
+ },
+ "New Haven|Connecticut|US": {
+  "lat": 41.3082,
+  "lon": -72.9251,
+  "name": "New Haven",
+  "osm": "relation/270191",
+  "type": "city"
+ },
+ "New Orleans|Louisiana|US": {
+  "lat": 29.9575,
+  "lon": -90.0629,
+  "name": "New Orleans",
+  "osm": "relation/131885",
+  "type": "city"
+ },
+ "New York|New York|US": {
+  "lat": 40.7127,
+  "lon": -74.006,
+  "name": "New York",
+  "osm": "relation/175905",
+  "type": "city"
+ },
+ "New Zealand||NZ": {
+  "lat": -41.5001,
+  "lon": 172.8344,
+  "name": "New Zealand",
+  "osm": "relation/556706",
+  "type": "country"
+ },
+ "Newark|Delaware|US": {
+  "lat": 39.6828,
+  "lon": -75.7516,
+  "name": "Newark",
+  "osm": "relation/384312",
+  "type": "city"
+ },
+ "Newcastle||GB": {
+  "lat": 54.9738,
+  "lon": -1.6132,
+  "name": "Newcastle upon Tyne",
+  "osm": "relation/142282",
+  "type": "city"
+ },
+ "Newcastle Upon Tyne||GB": {
+  "lat": 54.9738,
+  "lon": -1.6132,
+  "name": "Newcastle upon Tyne",
+  "osm": "relation/142282",
+  "type": "city"
+ },
+ "Nezahualcóyotl||MX": {
+  "lat": 19.4325,
+  "lon": -99.0352,
+  "name": "Nezahualcóyotl",
+  "osm": "relation/5606086",
+  "type": "county"
+ },
+ "Niterói||BR": {
+  "lat": -22.8884,
+  "lon": -43.1147,
+  "name": "Niterói",
+  "osm": "relation/2220789",
+  "type": "city"
+ },
+ "Norcross|Georgia|US": {
+  "lat": 33.9412,
+  "lon": -84.2135,
+  "name": "Norcross",
+  "osm": "relation/119593",
+  "type": "town"
+ },
+ "Norwalk|California|US": {
+  "lat": 33.9093,
+  "lon": -118.0849,
+  "name": "Norwalk",
+  "osm": "relation/2312830",
+  "type": "city"
+ },
+ "Norway||NO": {
+  "lat": 61.1529,
+  "lon": 8.7877,
+  "name": "Norway",
+  "osm": "relation/2978650",
+  "type": "country"
+ },
+ "Nova Iguaçu||BR": {
+  "lat": -22.7592,
+  "lon": -43.4509,
+  "name": "Nova Iguaçu",
+  "osm": "relation/20576128",
+  "type": "city"
+ },
+ "Nykøbing||DK": {
+  "lat": 54.7646,
+  "lon": 11.871,
+  "name": "Nykøbing Falster",
+  "osm": "node/26559259",
+  "type": "town"
+ },
+ "Nykøbing Mors||DK": {
+  "lat": 56.7944,
+  "lon": 8.8595,
+  "name": "Nykøbing Mors",
+  "osm": "node/26559261",
+  "type": "town"
+ },
+ "Næstved||DK": {
+  "lat": 55.2328,
+  "lon": 11.7674,
+  "name": "Næstved",
+  "osm": "node/26559174",
+  "type": "town"
+ },
+ "Nørresundby||DK": {
+  "lat": 57.0607,
+  "lon": 9.9241,
+  "name": "Nørresundby",
+  "osm": "node/2246075609",
+  "type": "town"
+ },
+ "Nürnberg||DE": {
+  "lat": 49.4539,
+  "lon": 11.0773,
+  "name": "Nuremberg",
+  "osm": "relation/62780",
+  "type": "city"
+ },
+ "Oak Park|Michigan|US": {
+  "lat": 42.4595,
+  "lon": -83.1821,
+  "name": "Oak Park",
+  "osm": "relation/134563",
+  "type": "town"
+ },
+ "Oaxaca||MX": {
+  "lat": 17,
+  "lon": -96.5,
+  "name": "Oaxaca",
+  "osm": "relation/2529822",
+  "type": "state"
+ },
+ "Obregon||MX": {
+  "lat": 27.4847,
+  "lon": -109.9338,
+  "name": "Ciudad Obregón",
+  "osm": "node/273589866",
+  "type": "city"
+ },
+ "Odder||DK": {
+  "lat": 55.9758,
+  "lon": 10.1513,
+  "name": "Odder",
+  "osm": "node/26559275",
+  "type": "town"
+ },
+ "Olathe|Kansas|US": {
+  "lat": 38.8839,
+  "lon": -94.8189,
+  "name": "Olathe",
+  "osm": "relation/130192",
+  "type": "city"
+ },
+ "Oldham||GB": {
+  "lat": 53.5416,
+  "lon": -2.1148,
+  "name": "Oldham",
+  "osm": "node/27329894",
+  "type": "town"
+ },
+ "Omaha|Nebraska|US": {
+  "lat": 41.2587,
+  "lon": -95.9384,
+  "name": "Omaha",
+  "osm": "relation/169759",
+  "type": "city"
+ },
+ "Orense||ES": {
+  "lat": 42.3439,
+  "lon": -7.8572,
+  "name": "Ourense",
+  "osm": "relation/343932",
+  "type": "municipality"
+ },
+ "Orlando|Florida|US": {
+  "lat": 28.5421,
+  "lon": -81.379,
+  "name": "Orlando",
+  "osm": "relation/1128379",
+  "type": "city"
+ },
+ "Oslo||NO": {
+  "lat": 59.9133,
+  "lon": 10.739,
+  "name": "Oslo",
+  "osm": "relation/406091",
+  "type": "county"
+ },
+ "Overland Park|Kansas|US": {
+  "lat": 38.9743,
+  "lon": -94.6852,
+  "name": "Overland Park",
+  "osm": "relation/129590",
+  "type": "city"
+ },
+ "Oviedo||ES": {
+  "lat": 43.3533,
+  "lon": -5.8795,
+  "name": "Oviedo",
+  "osm": "relation/346397",
+  "type": "city"
+ },
+ "Oxford||GB": {
+  "lat": 51.752,
+  "lon": -1.2578,
+  "name": "Oxford",
+  "osm": "relation/394037",
+  "type": "city"
+ },
+ "Oxnard|California|US": {
+  "lat": 34.1976,
+  "lon": -119.1804,
+  "name": "Oxnard",
+  "osm": "relation/112583",
+  "type": "city"
+ },
+ "Pacoima|California|US": {
+  "lat": 34.2625,
+  "lon": -118.427,
+  "name": "Pacoima Neighborhood Council",
+  "osm": "relation/15899804",
+  "type": "suburb"
+ },
+ "Padua||IT": {
+  "lat": 45.3984,
+  "lon": 11.8957,
+  "name": "Padua",
+  "osm": "relation/44836",
+  "type": "city"
+ },
+ "Palermo||IT": {
+  "lat": 38.1112,
+  "lon": 13.3524,
+  "name": "Palermo",
+  "osm": "relation/39513",
+  "type": "city"
+ },
+ "Palma De Mallorca||ES": {
+  "lat": 39.5696,
+  "lon": 2.6501,
+  "name": "Palma de Mallorca",
+  "osm": "relation/341321",
+  "type": "city"
+ },
+ "Palmas||BR": {
+  "lat": -10.1838,
+  "lon": -48.3336,
+  "name": "Palmas",
+  "osm": "relation/336798",
+  "type": "city"
+ },
+ "Panama||PA": {
+  "lat": 8.5596,
+  "lon": -81.1308,
+  "name": "Panama",
+  "osm": "relation/287668",
+  "type": "country"
+ },
+ "Paraguay||PY": {
+  "lat": -23.3166,
+  "lon": -58.1693,
+  "name": "Paraguay",
+  "osm": "relation/287077",
+  "type": "country"
+ },
+ "Paramount|California|US": {
+  "lat": 33.8989,
+  "lon": -118.171,
+  "name": "Paramount",
+  "osm": "relation/3519954",
+  "type": "town"
+ },
+ "Parañaque||PH": {
+  "lat": 14.5008,
+  "lon": 120.9915,
+  "name": "Parañaque",
+  "osm": "relation/122940",
+  "type": "city"
+ },
+ "Paris||FR": {
+  "lat": 48.8535,
+  "lon": 2.3484,
+  "name": "Paris",
+  "osm": "relation/71525",
+  "type": "city"
+ },
+ "Pasadena|California|US": {
+  "lat": 34.1477,
+  "lon": -118.1442,
+  "name": "Pasadena",
+  "osm": "relation/3529725",
+  "type": "city"
+ },
+ "Pasay City||PH": {
+  "lat": 14.5437,
+  "lon": 120.9947,
+  "name": "Pasay",
+  "osm": "relation/113858",
+  "type": "city"
+ },
+ "Pawtucket|Rhode Island|US": {
+  "lat": 41.879,
+  "lon": -71.3821,
+  "name": "Pawtucket",
+  "osm": "relation/191212",
+  "type": "city"
+ },
+ "Penang||MY": {
+  "lat": 5.4065,
+  "lon": 100.2559,
+  "name": "Penang",
+  "osm": "relation/4445131",
+  "type": "state"
+ },
+ "Pennant Hills||AU": {
+  "lat": -33.7385,
+  "lon": 151.0717,
+  "name": "Pennant Hills",
+  "osm": "relation/5632866",
+  "type": "suburb"
+ },
+ "Pereira||CO": {
+  "lat": 4.7855,
+  "lon": -75.7883,
+  "name": "Pereira",
+  "osm": "relation/1343043",
+  "type": "municipality"
+ },
+ "Perth||AU": {
+  "lat": -31.9559,
+  "lon": 115.8606,
+  "name": "Perth",
+  "osm": "node/29277817",
+  "type": "city"
+ },
+ "Peru||PE": {
+  "lat": -6.87,
+  "lon": -75.0459,
+  "name": "Peru",
+  "osm": "relation/288247",
+  "type": "country"
+ },
+ "Petersburg|Michigan|US": {
+  "lat": 41.9012,
+  "lon": -83.7149,
+  "name": "Petersburg",
+  "osm": "relation/134904",
+  "type": "village"
+ },
+ "Philadelphia|Pennsylvania|US": {
+  "lat": 39.9527,
+  "lon": -75.1635,
+  "name": "Philadelphia",
+  "osm": "relation/188022",
+  "type": "city"
+ },
+ "Pittsburgh|Pennsylvania|US": {
+  "lat": 40.4407,
+  "lon": -80.0026,
+  "name": "Pittsburgh",
+  "osm": "relation/188553",
+  "type": "city"
+ },
+ "Plano|Texas|US": {
+  "lat": 33.0137,
+  "lon": -96.6925,
+  "name": "Plano",
+  "osm": "relation/6575893",
+  "type": "city"
+ },
+ "Poland||PL": {
+  "lat": 52.2159,
+  "lon": 19.1344,
+  "name": "Poland",
+  "osm": "relation/49715",
+  "type": "country"
+ },
+ "Polska||PL": {
+  "lat": 52.2159,
+  "lon": 19.1344,
+  "name": "Poland",
+  "osm": "relation/49715",
+  "type": "country"
+ },
+ "Pompano Beach|Florida|US": {
+  "lat": 26.2379,
+  "lon": -80.1248,
+  "name": "Pompano Beach",
+  "osm": "relation/1216810",
+  "type": "city"
+ },
+ "Port Melbourne||AU": {
+  "lat": -37.8334,
+  "lon": 144.9219,
+  "name": "Port Melbourne",
+  "osm": "relation/2399659",
+  "type": "suburb"
+ },
+ "Portland|Oregon|US": {
+  "lat": 45.5202,
+  "lon": -122.6742,
+  "name": "Portland",
+  "osm": "relation/186579",
+  "type": "city"
+ },
+ "Porto||PT": {
+  "lat": 41.1502,
+  "lon": -8.6103,
+  "name": "Porto",
+  "osm": "relation/3372453",
+  "type": "city"
+ },
+ "Portugal||PT": {
+  "lat": 39.6622,
+  "lon": -8.1354,
+  "name": "Portugal",
+  "osm": "relation/295480",
+  "type": "country"
+ },
+ "Poznan||PL": {
+  "lat": 52.4083,
+  "lon": 16.9335,
+  "name": "Poznan",
+  "osm": "relation/2456294",
+  "type": "city"
+ },
+ "Providence|Utah|US": {
+  "lat": 41.7063,
+  "lon": -111.8176,
+  "name": "Providence",
+  "osm": "relation/198795",
+  "type": "village"
+ },
+ "Puchong||MY": {
+  "lat": 3.0342,
+  "lon": 101.617,
+  "name": "Puchong",
+  "osm": "node/254072844",
+  "type": "town"
+ },
+ "Puebla||MX": {
+  "lat": 18.8333,
+  "lon": -98,
+  "name": "Puebla",
+  "osm": "relation/1376491",
+  "type": "state"
+ },
+ "Puerto Montt||CL": {
+  "lat": -41.4718,
+  "lon": -72.9396,
+  "name": "Puerto Montt",
+  "osm": "relation/1798806",
+  "type": "city"
+ },
+ "Pôrto Velho||BR": {
+  "lat": -8.7495,
+  "lon": -63.8735,
+  "name": "Porto Velho",
+  "osm": "relation/325855",
+  "type": "city"
+ },
+ "Querétaro||MX": {
+  "lat": 20.8052,
+  "lon": -99.8837,
+  "name": "Querétaro",
+  "osm": "relation/2340903",
+  "type": "state"
+ },
+ "Quezon City||PH": {
+  "lat": 14.6511,
+  "lon": 121.0486,
+  "name": "Quezon City",
+  "osm": "relation/106569",
+  "type": "city"
+ },
+ "Quincy|Massachusetts|US": {
+  "lat": 42.251,
+  "lon": -71.0037,
+  "name": "Quincy",
+  "osm": "relation/2387397",
+  "type": "city"
+ },
+ "Québec||CA": {
+  "lat": 52.4761,
+  "lon": -71.8259,
+  "name": "Quebec",
+  "osm": "relation/61549",
+  "type": "state"
+ },
+ "Reading|Pennsylvania|US": {
+  "lat": 40.3353,
+  "lon": -75.9279,
+  "name": "Reading",
+  "osm": "relation/188481",
+  "type": "city"
+ },
+ "Recife||BR": {
+  "lat": -8.0585,
+  "lon": -34.8848,
+  "name": "Recife",
+  "osm": "relation/303585",
+  "type": "city"
+ },
+ "Regina||CA": {
+  "lat": 50.448,
+  "lon": -104.6159,
+  "name": "Regina",
+  "osm": "relation/4263150",
+  "type": "city"
+ },
+ "Reno|Nevada|US": {
+  "lat": 39.5262,
+  "lon": -119.8127,
+  "name": "Reno",
+  "osm": "relation/170120",
+  "type": "city"
+ },
+ "Reykjavík||IS": {
+  "lat": 64.146,
+  "lon": -21.9422,
+  "name": "Reykjavik",
+  "osm": "relation/2580605",
+  "type": "city"
+ },
+ "Ribeirão Prêto||BR": {
+  "lat": -21.1776,
+  "lon": -47.8101,
+  "name": "Ribeirão Preto",
+  "osm": "relation/298156",
+  "type": "city"
+ },
+ "Richardson|Texas|US": {
+  "lat": 32.9482,
+  "lon": -96.7297,
+  "name": "Richardson",
+  "osm": "relation/6577487",
+  "type": "city"
+ },
+ "Richmond|California|US": {
+  "lat": 37.9358,
+  "lon": -122.3477,
+  "name": "Richmond",
+  "osm": "relation/114481",
+  "type": "city"
+ },
+ "Riga||LV": {
+  "lat": 56.9494,
+  "lon": 24.1052,
+  "name": "Riga",
+  "osm": "relation/13048688",
+  "type": "city"
+ },
+ "Ringkøbing||DK": {
+  "lat": 56.0906,
+  "lon": 8.2541,
+  "name": "Ringkøbing",
+  "osm": "node/2387702632",
+  "type": "town"
+ },
+ "Rio De Janeiro||BR": {
+  "lat": -22.911,
+  "lon": -43.2094,
+  "name": "Rio de Janeiro",
+  "osm": "relation/2697338",
+  "type": "city"
+ },
+ "Romania||RO": {
+  "lat": 45.9852,
+  "lon": 24.6859,
+  "name": "Romania",
+  "osm": "relation/90689",
+  "type": "country"
+ },
+ "Rome||IT": {
+  "lat": 41.8933,
+  "lon": 12.4829,
+  "name": "Rome",
+  "osm": "relation/41485",
+  "type": "city"
+ },
+ "Romford||GB": {
+  "lat": 51.576,
+  "lon": 0.1823,
+  "name": "Romford",
+  "osm": "node/27380330",
+  "type": "town"
+ },
+ "Rosemead|California|US": {
+  "lat": 34.0809,
+  "lon": -118.0732,
+  "name": "Rosemead",
+  "osm": "node/1694984557",
+  "type": "town"
+ },
+ "Rouen||FR": {
+  "lat": 49.4405,
+  "lon": 1.094,
+  "name": "Rouen",
+  "osm": "relation/75628",
+  "type": "city"
+ },
+ "Rovaniemi||FI": {
+  "lat": 66.5026,
+  "lon": 25.7304,
+  "name": "Rovaniemi",
+  "osm": "relation/2528474",
+  "type": "city"
+ },
+ "Russia||RU": {
+  "lat": 64.6863,
+  "lon": 97.7453,
+  "name": "Russia",
+  "osm": "relation/60189",
+  "type": "country"
+ },
+ "Ry||DK": {
+  "lat": 56.0884,
+  "lon": 9.7719,
+  "name": "Ry",
+  "osm": "node/1595129988",
+  "type": "village"
+ },
+ "Rødekro||DK": {
+  "lat": 55.0696,
+  "lon": 9.341,
+  "name": "Rødekro",
+  "osm": "node/26559030",
+  "type": "village"
+ },
+ "Rødovre||DK": {
+  "lat": 55.6812,
+  "lon": 12.4547,
+  "name": "Rødovre",
+  "osm": "node/288670686",
+  "type": "suburb"
+ },
+ "Rønne||DK": {
+  "lat": 55.0995,
+  "lon": 14.7061,
+  "name": "Rønne",
+  "osm": "node/249523561",
+  "type": "town"
+ },
+ "Saint Louis|Missouri|US": {
+  "lat": 38.6254,
+  "lon": -90.19,
+  "name": "Saint Louis",
+  "osm": "relation/1180533",
+  "type": "city"
+ },
+ "Saint Lucia||AU": {
+  "lat": -27.4987,
+  "lon": 153.0082,
+  "name": "St Lucia",
+  "osm": "node/88800268",
+  "type": "suburb"
+ },
+ "Saint Paul|Minnesota|US": {
+  "lat": 44.9497,
+  "lon": -93.0931,
+  "name": "Saint Paul",
+  "osm": "relation/136612",
+  "type": "city"
+ },
+ "Saint-denis||FR": {
+  "lat": 48.9384,
+  "lon": 2.3628,
+  "name": "Saint-Denis",
+  "osm": "relation/18476624",
+  "type": "city"
+ },
+ "Sakarya||TR": {
+  "lat": 40.7732,
+  "lon": 30.4816,
+  "name": "Sakarya",
+  "osm": "relation/223462",
+  "type": "province"
+ },
+ "Saltillo||MX": {
+  "lat": 25.423,
+  "lon": -100.9928,
+  "name": "Saltillo",
+  "osm": "node/611897092",
+  "type": "city"
+ },
+ "Salvador||BR": {
+  "lat": -12.9822,
+  "lon": -38.4813,
+  "name": "Salvador",
+  "osm": "relation/362362",
+  "type": "city"
+ },
+ "Samsun||TR": {
+  "lat": 41.2304,
+  "lon": 35.9683,
+  "name": "Samsun",
+  "osm": "relation/223451",
+  "type": "province"
+ },
+ "San Andrés Cholula||MX": {
+  "lat": 19.022,
+  "lon": -98.2873,
+  "name": "San Andrés Cholula",
+  "osm": "relation/4000397",
+  "type": "county"
+ },
+ "San Antonio|Texas|US": {
+  "lat": 29.4246,
+  "lon": -98.4951,
+  "name": "San Antonio",
+  "osm": "relation/253556",
+  "type": "city"
+ },
+ "San Diego|California|US": {
+  "lat": 32.7157,
+  "lon": -117.1638,
+  "name": "San Diego",
+  "osm": "relation/253832",
+  "type": "city"
+ },
+ "San Fernando De Monte Cristi||DO": {
+  "lat": 19.8484,
+  "lon": -71.6457,
+  "name": "San Fernando de Monte Cristi",
+  "osm": "node/250651186",
+  "type": "city"
+ },
+ "San Francisco|California|US": {
+  "lat": 37.7879,
+  "lon": -122.4075,
+  "name": "San Francisco",
+  "osm": "relation/111968",
+  "type": "city"
+ },
+ "San Jose|California|US": {
+  "lat": 37.3362,
+  "lon": -121.8906,
+  "name": "San Jose",
+  "osm": "relation/112143",
+  "type": "city"
+ },
+ "San Jose Del Monte||PH": {
+  "lat": 14.8102,
+  "lon": 121.0474,
+  "name": "San Jose del Monte",
+  "osm": "relation/15662634",
+  "type": "city"
+ },
+ "San Juan|Puerto Rico|US": {
+  "lat": 18.3842,
+  "lon": -66.0534,
+  "name": "San Juan",
+  "osm": "relation/4468264",
+  "type": "county"
+ },
+ "San Leandro|California|US": {
+  "lat": 37.7249,
+  "lon": -122.1561,
+  "name": "San Leandro",
+  "osm": "relation/3156240",
+  "type": "town"
+ },
+ "San Luis Obispo|California|US": {
+  "lat": 35.354,
+  "lon": -120.3757,
+  "name": "San Luis Obispo County",
+  "osm": "relation/396496",
+  "type": "county"
+ },
+ "San Luis Potosí||MX": {
+  "lat": 22.5,
+  "lon": -100.4949,
+  "name": "San Luis Potosí",
+  "osm": "relation/4086617",
+  "type": "state"
+ },
+ "San Nicolás De Los Garza||MX": {
+  "lat": 25.7558,
+  "lon": -100.2896,
+  "name": "San Nicolás de los Garza",
+  "osm": "node/1038661885",
+  "type": "city"
+ },
+ "San Pedro||PH": {
+  "lat": 14.3639,
+  "lon": 121.0568,
+  "name": "San Pedro",
+  "osm": "relation/1552543",
+  "type": "city"
+ },
+ "San Pedro Sula||HN": {
+  "lat": 15.5054,
+  "lon": -88.0251,
+  "name": "San Pedro Sula",
+  "osm": "relation/6057211",
+  "type": "city"
+ },
+ "San Ramon|California|US": {
+  "lat": 37.7648,
+  "lon": -121.9544,
+  "name": "San Ramon",
+  "osm": "relation/3704256",
+  "type": "town"
+ },
+ "Sande||NO": {
+  "lat": 62.294,
+  "lon": 5.3179,
+  "name": "Sande",
+  "osm": "relation/406867",
+  "type": "municipality"
+ },
+ "Sandnes||NO": {
+  "lat": 58.9831,
+  "lon": 6.3946,
+  "name": "Sandnes",
+  "osm": "relation/10150660",
+  "type": "municipality"
+ },
+ "Santa Ana||CR": {
+  "lat": 9.918,
+  "lon": -84.1916,
+  "name": "Santa Ana",
+  "osm": "relation/5657109",
+  "type": "county"
+ },
+ "Santa Barbara|California|US": {
+  "lat": 34.4221,
+  "lon": -119.7027,
+  "name": "Santa Barbara",
+  "osm": "relation/112224",
+  "type": "city"
+ },
+ "Santa Clara|California|US": {
+  "lat": 37.2333,
+  "lon": -121.6846,
+  "name": "Santa Clara County",
+  "osm": "relation/396501",
+  "type": "county"
+ },
+ "Santa Cruz De La Sierra||BO": {
+  "lat": -17.7834,
+  "lon": -63.1821,
+  "name": "Santa Cruz de la Sierra",
+  "osm": "relation/4511527",
+  "type": "city"
+ },
+ "Santa Cruz De Tenerife||ES": {
+  "lat": 28.4672,
+  "lon": -16.2508,
+  "name": "Santa Cruz de Tenerife",
+  "osm": "relation/340727",
+  "type": "city"
+ },
+ "Santa Rosa|California|US": {
+  "lat": 38.4405,
+  "lon": -122.7141,
+  "name": "Santa Rosa",
+  "osm": "relation/113158",
+  "type": "city"
+ },
+ "Santander||ES": {
+  "lat": 43.4619,
+  "lon": -3.81,
+  "name": "Santander",
+  "osm": "relation/340797",
+  "type": "city"
+ },
+ "Santiago||CL": {
+  "lat": -33.4377,
+  "lon": -70.6511,
+  "name": "Santiago",
+  "osm": "node/50016356",
+  "type": "city"
+ },
+ "Santiago||DO": {
+  "lat": 19.4508,
+  "lon": -70.6947,
+  "name": "Santiago de los Caballeros",
+  "osm": "relation/7380638",
+  "type": "city"
+ },
+ "Santiago De Compostela||ES": {
+  "lat": 42.9065,
+  "lon": -8.5193,
+  "name": "Santiago de Compostela",
+  "osm": "relation/346204",
+  "type": "municipality"
+ },
+ "Santiago Del Estero||AR": {
+  "lat": -27.6431,
+  "lon": -63.5409,
+  "name": "Santiago del Estero",
+  "osm": "relation/153544",
+  "type": "state"
+ },
+ "Santo André||BR": {
+  "lat": -23.6534,
+  "lon": -46.5279,
+  "name": "Santo André",
+  "osm": "relation/298086",
+  "type": "city"
+ },
+ "Santo Domingo||DO": {
+  "lat": 18.4714,
+  "lon": -69.8918,
+  "name": "Santo Domingo",
+  "osm": "relation/7407678",
+  "type": "city"
+ },
+ "Scarborough||CA": {
+  "lat": 43.773,
+  "lon": -79.2576,
+  "name": "Scarborough",
+  "osm": "relation/2520672",
+  "type": "suburb"
+ },
+ "Seattle|Washington|US": {
+  "lat": 47.6038,
+  "lon": -122.3301,
+  "name": "Seattle",
+  "osm": "relation/237385",
+  "type": "city"
+ },
+ "Secaucus|New Jersey|US": {
+  "lat": 40.7899,
+  "lon": -74.0567,
+  "name": "Secaucus",
+  "osm": "relation/170711",
+  "type": "town"
+ },
+ "Seffner|Florida|US": {
+  "lat": 27.9836,
+  "lon": -82.2756,
+  "name": "Seffner",
+  "osm": "way/33613832",
+  "type": "town"
+ },
+ "Segovia||ES": {
+  "lat": 40.9481,
+  "lon": -4.1172,
+  "name": "Segovia",
+  "osm": "relation/346134",
+  "type": "city"
+ },
+ "Serbia||RS": {
+  "lat": 44.1534,
+  "lon": 20.5514,
+  "name": "Serbia",
+  "osm": "relation/1741311",
+  "type": "country"
+ },
+ "Sevilla||ES": {
+  "lat": 37.3886,
+  "lon": -5.9953,
+  "name": "Seville",
+  "osm": "relation/342563",
+  "type": "city"
+ },
+ "Shawnee|Kansas|US": {
+  "lat": 39.0274,
+  "lon": -95.7628,
+  "name": "Shawnee County",
+  "osm": "relation/1070387",
+  "type": "county"
+ },
+ "Sheffield||GB": {
+  "lat": 53.3807,
+  "lon": -1.4702,
+  "name": "Sheffield",
+  "osm": "relation/106956",
+  "type": "city"
+ },
+ "Silver Spring|Maryland|US": {
+  "lat": 38.9998,
+  "lon": -77.024,
+  "name": "Silver Spring",
+  "osm": "relation/133501",
+  "type": "statistical"
+ },
+ "Singapore||SG": {
+  "lat": 1.3571,
+  "lon": 103.8195,
+  "name": "Singapore",
+  "osm": "relation/536780",
+  "type": "country"
+ },
+ "Skjern||DK": {
+  "lat": 55.9469,
+  "lon": 8.4909,
+  "name": "Skjern",
+  "osm": "node/2388778274",
+  "type": "town"
+ },
+ "Skørping||DK": {
+  "lat": 56.8384,
+  "lon": 9.8913,
+  "name": "Skørping",
+  "osm": "node/9710866334",
+  "type": "village"
+ },
+ "Slagelse||DK": {
+  "lat": 55.4061,
+  "lon": 11.3525,
+  "name": "Slagelse",
+  "osm": "node/27536827",
+  "type": "town"
+ },
+ "Slovakia||SK": {
+  "lat": 48.7412,
+  "lon": 19.4529,
+  "name": "Slovakia",
+  "osm": "relation/14296",
+  "type": "country"
+ },
+ "Snellville|Georgia|US": {
+  "lat": 33.8573,
+  "lon": -84.0199,
+  "name": "Snellville",
+  "osm": "relation/119591",
+  "type": "town"
+ },
+ "Sofia||BG": {
+  "lat": 42.6977,
+  "lon": 23.3217,
+  "name": "Sofia",
+  "osm": "relation/4283101",
+  "type": "city"
+ },
+ "Solrød Strand||DK": {
+  "lat": 55.5343,
+  "lon": 12.2193,
+  "name": "Solrød Strand",
+  "osm": "node/1749628534",
+  "type": "town"
+ },
+ "Sorø||DK": {
+  "lat": 55.4366,
+  "lon": 11.5629,
+  "name": "Sorø",
+  "osm": "node/26559256",
+  "type": "town"
+ },
+ "South Africa||ZA": {
+  "lat": -28.8166,
+  "lon": 24.9916,
+  "name": "South Africa",
+  "osm": "relation/87565",
+  "type": "country"
+ },
+ "South Gate|California|US": {
+  "lat": 33.9463,
+  "lon": -118.201,
+  "name": "South Gate",
+  "osm": "relation/3529457",
+  "type": "city"
+ },
+ "South Korea||KR": {
+  "lat": 36.6384,
+  "lon": 127.6961,
+  "name": "South Korea",
+  "osm": "relation/307756",
+  "type": "country"
+ },
+ "South Ozone Park|New York|US": {
+  "lat": 40.6701,
+  "lon": -73.819,
+  "name": "South Ozone Park",
+  "osm": "node/158918368",
+  "type": "neighbourhood"
+ },
+ "South Pasadena|California|US": {
+  "lat": 34.1133,
+  "lon": -118.1478,
+  "name": "South Pasadena",
+  "osm": "relation/3529862",
+  "type": "town"
+ },
+ "Southfield|Michigan|US": {
+  "lat": 42.4734,
+  "lon": -83.2219,
+  "name": "Southfield",
+  "osm": "relation/135057",
+  "type": "town"
+ },
+ "Spain||ES": {
+  "lat": 39.3261,
+  "lon": -4.838,
+  "name": "Spain",
+  "osm": "relation/1311341",
+  "type": "country"
+ },
+ "Spokane|Washington|US": {
+  "lat": 47.6572,
+  "lon": -117.4235,
+  "name": "Spokane",
+  "osm": "relation/237599",
+  "type": "city"
+ },
+ "Stafford|Texas|US": {
+  "lat": 29.6161,
+  "lon": -95.5577,
+  "name": "Stafford",
+  "osm": "relation/6586821",
+  "type": "village"
+ },
+ "Sterling Heights|Michigan|US": {
+  "lat": 42.5803,
+  "lon": -83.0302,
+  "name": "Sterling Heights",
+  "osm": "relation/134529",
+  "type": "city"
+ },
+ "Stockholm||SE": {
+  "lat": 59.3251,
+  "lon": 18.0711,
+  "name": "Stockholm",
+  "osm": "node/25929985",
+  "type": "city"
+ },
+ "Stockport||GB": {
+  "lat": 53.4079,
+  "lon": -2.1602,
+  "name": "Stockport",
+  "osm": "node/33079336",
+  "type": "town"
+ },
+ "Stockton|California|US": {
+  "lat": 37.9577,
+  "lon": -121.2908,
+  "name": "Stockton",
+  "osm": "relation/112382",
+  "type": "city"
+ },
+ "Stoke-on-trent||GB": {
+  "lat": 53.0162,
+  "lon": -2.1813,
+  "name": "Stoke-on-Trent",
+  "osm": "relation/163183",
+  "type": "city"
+ },
+ "Struer||DK": {
+  "lat": 56.4867,
+  "lon": 8.5951,
+  "name": "Struer",
+  "osm": "node/2385984997",
+  "type": "town"
+ },
+ "Støvring||DK": {
+  "lat": 56.8847,
+  "lon": 9.8331,
+  "name": "Støvring",
+  "osm": "node/8015510456",
+  "type": "town"
+ },
+ "Sugar Land|Texas|US": {
+  "lat": 29.6197,
+  "lon": -95.6349,
+  "name": "Sugar Land",
+  "osm": "relation/6586823",
+  "type": "city"
+ },
+ "Sulsted||DK": {
+  "lat": 57.1669,
+  "lon": 9.9526,
+  "name": "Sulsted",
+  "osm": "node/8757657268",
+  "type": "village"
+ },
+ "Sunnyvale|California|US": {
+  "lat": 37.3688,
+  "lon": -122.0363,
+  "name": "Sunnyvale",
+  "osm": "relation/112145",
+  "type": "city"
+ },
+ "Surry Hills||AU": {
+  "lat": -33.8845,
+  "lon": 151.21,
+  "name": "Surry Hills",
+  "osm": "relation/5724532",
+  "type": "suburb"
+ },
+ "Sutton||GB": {
+  "lat": 51.3574,
+  "lon": -0.1736,
+  "name": "London Borough of Sutton",
+  "osm": "relation/17529",
+  "type": "city_district"
+ },
+ "Suzano||BR": {
+  "lat": -23.5428,
+  "lon": -46.3108,
+  "name": "Suzano",
+  "osm": "relation/298085",
+  "type": "city"
+ },
+ "Svedala||SE": {
+  "lat": 55.5513,
+  "lon": 13.2167,
+  "name": "Svedala kommun",
+  "osm": "relation/935510",
+  "type": "municipality"
+ },
+ "Sweden||SE": {
+  "lat": 59.675,
+  "lon": 14.5209,
+  "name": "Sweden",
+  "osm": "relation/52822",
+  "type": "country"
+ },
+ "Switzerland||CH": {
+  "lat": 46.7986,
+  "lon": 8.232,
+  "name": "Switzerland",
+  "osm": "relation/51701",
+  "type": "country"
+ },
+ "Sydney||AU": {
+  "lat": -33.8698,
+  "lon": 151.2083,
+  "name": "Sydney",
+  "osm": "relation/5750005",
+  "type": "city"
+ },
+ "São Bernardo Do Campo||BR": {
+  "lat": -23.708,
+  "lon": -46.5507,
+  "name": "São Bernardo do Campo",
+  "osm": "relation/297968",
+  "type": "city"
+ },
+ "São Caetano Do Sul||BR": {
+  "lat": -23.6196,
+  "lon": -46.5688,
+  "name": "São Caetano do Sul",
+  "osm": "relation/298170",
+  "type": "city"
+ },
+ "São Carlos||BR": {
+  "lat": -21.8788,
+  "lon": -47.8568,
+  "name": "São Carlos",
+  "osm": "relation/297986",
+  "type": "municipality"
+ },
+ "São Gonçalo||BR": {
+  "lat": -22.8216,
+  "lon": -42.9957,
+  "name": "São Gonçalo",
+  "osm": "relation/2220792",
+  "type": "municipality"
+ },
+ "São José Do Rio Prêto||BR": {
+  "lat": -20.8126,
+  "lon": -49.3804,
+  "name": "São José do Rio Preto",
+  "osm": "relation/298344",
+  "type": "city"
+ },
+ "São José Dos Campos||BR": {
+  "lat": -23.0555,
+  "lon": -45.9583,
+  "name": "São José dos Campos",
+  "osm": "relation/298019",
+  "type": "municipality"
+ },
+ "São João De Meriti||BR": {
+  "lat": -22.7854,
+  "lon": -43.3667,
+  "name": "São João de Meriti",
+  "osm": "relation/2220793",
+  "type": "municipality"
+ },
+ "São Luís||BR": {
+  "lat": -2.5295,
+  "lon": -44.2964,
+  "name": "São Luís",
+  "osm": "relation/332923",
+  "type": "city"
+ },
+ "São Paulo||BR": {
+  "lat": -23.5507,
+  "lon": -46.6334,
+  "name": "São Paulo",
+  "osm": "relation/298285",
+  "type": "municipality"
+ },
+ "São Vicente||BR": {
+  "lat": -23.9664,
+  "lon": -46.3861,
+  "name": "São Vicente",
+  "osm": "relation/5683282",
+  "type": "city"
+ },
+ "Søborg||DK": {
+  "lat": 55.7365,
+  "lon": 12.5089,
+  "name": "Søborg",
+  "osm": "node/247953773",
+  "type": "suburb"
+ },
+ "Tadworth||GB": {
+  "lat": 51.2912,
+  "lon": -0.2327,
+  "name": "Tadworth",
+  "osm": "node/1275642566",
+  "type": "village"
+ },
+ "Tainan||TW": {
+  "lat": 22.9912,
+  "lon": 120.185,
+  "name": "Tainan",
+  "osm": "relation/2418506",
+  "type": "city"
+ },
+ "Taipei||TW": {
+  "lat": 25.0375,
+  "lon": 121.5637,
+  "name": "Taipei",
+  "osm": "relation/1293250",
+  "type": "city"
+ },
+ "Taiwan||TW": {
+  "lat": 23.9739,
+  "lon": 120.982,
+  "name": "Taiwan",
+  "osm": "relation/449220",
+  "type": "country"
+ },
+ "Talisay||PH": {
+  "lat": 10.243,
+  "lon": 123.8488,
+  "name": "Talisay",
+  "osm": "node/367831567",
+  "type": "city"
+ },
+ "Tallinn||EE": {
+  "lat": 59.4372,
+  "lon": 24.7573,
+  "name": "Tallinn",
+  "osm": "relation/2164745",
+  "type": "city"
+ },
+ "Tampa|Florida|US": {
+  "lat": 27.945,
+  "lon": -82.4583,
+  "name": "Tampa",
+  "osm": "relation/1216849",
+  "type": "city"
+ },
+ "Taoyüan||TW": {
+  "lat": 24.993,
+  "lon": 121.301,
+  "name": "Taoyuan City",
+  "osm": "relation/2770986",
+  "type": "city"
+ },
+ "Taubaté||BR": {
+  "lat": -23.0314,
+  "lon": -45.5613,
+  "name": "Taubaté",
+  "osm": "relation/298039",
+  "type": "city"
+ },
+ "Taylor|Michigan|US": {
+  "lat": 42.2409,
+  "lon": -83.2697,
+  "name": "Taylor",
+  "osm": "relation/134609",
+  "type": "town"
+ },
+ "Tekirdag||TR": {
+  "lat": 41.0731,
+  "lon": 27.4102,
+  "name": "Tekirdağ",
+  "osm": "relation/223470",
+  "type": "province"
+ },
+ "Thailand||TH": {
+  "lat": 14.8972,
+  "lon": 100.8327,
+  "name": "Thailand",
+  "osm": "relation/2067731",
+  "type": "country"
+ },
+ "Thessaloníki||GR": {
+  "lat": 40.6403,
+  "lon": 22.9353,
+  "name": "Thessaloniki",
+  "osm": "node/57554537",
+  "type": "city"
+ },
+ "Tijuana||MX": {
+  "lat": 32.5365,
+  "lon": -117.0371,
+  "name": "Tijuana",
+  "osm": "node/4145201092",
+  "type": "city"
+ },
+ "Tlajomulco De Zúñiga||MX": {
+  "lat": 20.4819,
+  "lon": -103.4005,
+  "name": "Tlajomulco de Zúñiga",
+  "osm": "relation/5606517",
+  "type": "county"
+ },
+ "Tlalnepantla||MX": {
+  "lat": 19.0298,
+  "lon": -98.9858,
+  "name": "Tlalnepantla",
+  "osm": "relation/5606522",
+  "type": "county"
+ },
+ "Tlaquepaque||MX": {
+  "lat": 20.6398,
+  "lon": -103.312,
+  "name": "Tlaquepaque",
+  "osm": "node/1618366658",
+  "type": "city"
+ },
+ "Tlaxcala||MX": {
+  "lat": 19.4167,
+  "lon": -98.1667,
+  "name": "Tlaxcala",
+  "osm": "relation/1375274",
+  "type": "state"
+ },
+ "Toa Alta|Puerto Rico|US": {
+  "lat": 18.3587,
+  "lon": -66.246,
+  "name": "Toa Alta",
+  "osm": "relation/4467653",
+  "type": "county"
+ },
+ "Tonalá||MX": {
+  "lat": 15.9824,
+  "lon": -93.697,
+  "name": "Tonalá",
+  "osm": "relation/6000194",
+  "type": "county"
+ },
+ "Toronto||CA": {
+  "lat": 43.6535,
+  "lon": -79.3839,
+  "name": "Toronto",
+  "osm": "relation/324211",
+  "type": "city"
+ },
+ "Torrance|California|US": {
+  "lat": 33.8371,
+  "lon": -118.3414,
+  "name": "Torrance",
+  "osm": "relation/2314273",
+  "type": "city"
+ },
+ "Toulouse||FR": {
+  "lat": 43.6045,
+  "lon": 1.4442,
+  "name": "Toulouse",
+  "osm": "relation/35738",
+  "type": "city"
+ },
+ "Tours||FR": {
+  "lat": 47.39,
+  "lon": 0.6889,
+  "name": "Tours",
+  "osm": "relation/76306",
+  "type": "city"
+ },
+ "Towson|Maryland|US": {
+  "lat": 39.3965,
+  "lon": -76.6148,
+  "name": "Towson",
+  "osm": "relation/7321415",
+  "type": "statistical"
+ },
+ "Tromsø||NO": {
+  "lat": 69.6516,
+  "lon": 18.9559,
+  "name": "Tromsø",
+  "osm": "relation/407754",
+  "type": "municipality"
+ },
+ "Trumbull|Connecticut|US": {
+  "lat": 41.2429,
+  "lon": -73.2007,
+  "name": "Trumbull",
+  "osm": "relation/11049560",
+  "type": "town"
+ },
+ "Tucuman||AR": {
+  "lat": -27.0448,
+  "lon": -65.3658,
+  "name": "Tucumán",
+  "osm": "relation/153558",
+  "type": "state"
+ },
+ "Tullinge||SE": {
+  "lat": 59.2067,
+  "lon": 17.9052,
+  "name": "Tullinge",
+  "osm": "node/221606587",
+  "type": "village"
+ },
+ "Turkey||TR": {
+  "lat": 39.2941,
+  "lon": 35.2317,
+  "name": "Turkey",
+  "osm": "relation/174737",
+  "type": "country"
+ },
+ "Turku||FI": {
+  "lat": 60.4516,
+  "lon": 22.267,
+  "name": "Turku",
+  "osm": "relation/399906",
+  "type": "city"
+ },
+ "Tyresö||SE": {
+  "lat": 59.2167,
+  "lon": 18.3333,
+  "name": "Tyresö kommun",
+  "osm": "relation/398575",
+  "type": "municipality"
+ },
+ "Täby||SE": {
+  "lat": 59.467,
+  "lon": 18.0658,
+  "name": "Täby kommun",
+  "osm": "relation/397194",
+  "type": "municipality"
+ },
+ "Tórshavn||DK": {
+  "lat": 62.0101,
+  "lon": -6.7716,
+  "name": "Tórshavn",
+  "osm": "relation/18413216",
+  "type": "town"
+ },
+ "Tübingen||DE": {
+  "lat": 48.5203,
+  "lon": 9.0536,
+  "name": "Tübingen",
+  "osm": "relation/2778914",
+  "type": "town"
+ },
+ "Uberlândia||BR": {
+  "lat": -18.9188,
+  "lon": -48.2768,
+  "name": "Uberlândia",
+  "osm": "relation/314875",
+  "type": "city"
+ },
+ "Uddevalla||SE": {
+  "lat": 58.3491,
+  "lon": 11.9383,
+  "name": "Uddevalla",
+  "osm": "node/26585398",
+  "type": "town"
+ },
+ "Union City|New Jersey|US": {
+  "lat": 40.7795,
+  "lon": -74.0238,
+  "name": "Union City",
+  "osm": "relation/170709",
+  "type": "town"
+ },
+ "Uruguay||UY": {
+  "lat": -32.8756,
+  "lon": -56.0202,
+  "name": "Uruguay",
+  "osm": "relation/287072",
+  "type": "country"
+ },
+ "Utrecht||NL": {
+  "lat": 52.0907,
+  "lon": 5.1216,
+  "name": "Utrecht",
+  "osm": "relation/419203",
+  "type": "city"
+ },
+ "Valencia||ES": {
+  "lat": 39.4697,
+  "lon": -0.3763,
+  "name": "Valencia",
+  "osm": "relation/344953",
+  "type": "city"
+ },
+ "Valladolid||ES": {
+  "lat": 41.62,
+  "lon": -4.726,
+  "name": "Valladolid",
+  "osm": "relation/348849",
+  "type": "city"
+ },
+ "Valparaiso||CL": {
+  "lat": -32.5976,
+  "lon": -70.853,
+  "name": "Valparaiso Region",
+  "osm": "relation/198847",
+  "type": "state"
+ },
+ "Van Nuys|California|US": {
+  "lat": 34.1866,
+  "lon": -118.4487,
+  "name": "Van Nuys Neighborhood Council District",
+  "osm": "relation/15339539",
+  "type": "suburb"
+ },
+ "Vancouver||CA": {
+  "lat": 49.2609,
+  "lon": -123.114,
+  "name": "Vancouver",
+  "osm": "relation/1852574",
+  "type": "city"
+ },
+ "Vejen||DK": {
+  "lat": 55.4743,
+  "lon": 9.1318,
+  "name": "Vejen",
+  "osm": "node/26559236",
+  "type": "town"
+ },
+ "Venezuela||VE": {
+  "lat": 8.0019,
+  "lon": -66.1109,
+  "name": "Venezuela",
+  "osm": "relation/272644",
+  "type": "country"
+ },
+ "Venice||IT": {
+  "lat": 45.4372,
+  "lon": 12.3346,
+  "name": "Venice",
+  "osm": "relation/44741",
+  "type": "city"
+ },
+ "Verdal||NO": {
+  "lat": 63.7862,
+  "lon": 11.9203,
+  "name": "Verdal",
+  "osm": "relation/407278",
+  "type": "municipality"
+ },
+ "Versailles||FR": {
+  "lat": 48.8035,
+  "lon": 2.1267,
+  "name": "Versailles",
+  "osm": "relation/30295",
+  "type": "town"
+ },
+ "Vestbjerg||DK": {
+  "lat": 57.1306,
+  "lon": 9.9667,
+  "name": "Vestbjerg",
+  "osm": "node/8962971546",
+  "type": "village"
+ },
+ "Victoria||CA": {
+  "lat": 48.4283,
+  "lon": -123.365,
+  "name": "Victoria",
+  "osm": "relation/2221062",
+  "type": "city"
+ },
+ "Victoria||MX": {
+  "lat": 23.6897,
+  "lon": -99.1292,
+  "name": "Victoria",
+  "osm": "relation/5606595",
+  "type": "county"
+ },
+ "Vila Nova De Gaia||PT": {
+  "lat": 41.1292,
+  "lon": -8.6057,
+  "name": "Vila Nova de Gaia",
+  "osm": "relation/3382115",
+  "type": "city"
+ },
+ "Villa De Alvarez||MX": {
+  "lat": 19.2651,
+  "lon": -103.736,
+  "name": "Villa de Álvarez",
+  "osm": "node/2829948098",
+  "type": "city"
+ },
+ "Villa Urquiza||AR": {
+  "lat": -31.6713,
+  "lon": -60.3175,
+  "name": "Villa Urquiza",
+  "osm": "relation/2872078",
+  "type": "municipality"
+ },
+ "Vilnius||LT": {
+  "lat": 54.687,
+  "lon": 25.2829,
+  "name": "Vilnius",
+  "osm": "relation/1529146",
+  "type": "city"
+ },
+ "Vina Del Mar||CL": {
+  "lat": -33.0245,
+  "lon": -71.5518,
+  "name": "Viña del Mar",
+  "osm": "relation/110804",
+  "type": "city"
+ },
+ "Vitoria||ES": {
+  "lat": 42.8506,
+  "lon": -2.6614,
+  "name": "Vitoria-Gasteiz",
+  "osm": "relation/344337",
+  "type": "municipality"
+ },
+ "Vitória||BR": {
+  "lat": -20.3201,
+  "lon": -40.3377,
+  "name": "Vitória",
+  "osm": "relation/1825817",
+  "type": "municipality"
+ },
+ "Vodskov||DK": {
+  "lat": 57.1096,
+  "lon": 10.0228,
+  "name": "Vodskov",
+  "osm": "node/9575172862",
+  "type": "village"
+ },
+ "Vojens||DK": {
+  "lat": 55.2464,
+  "lon": 9.3082,
+  "name": "Vojens",
+  "osm": "node/9463131170",
+  "type": "town"
+ },
+ "Volta Redonda||BR": {
+  "lat": -22.5219,
+  "lon": -44.104,
+  "name": "Volta Redonda",
+  "osm": "relation/20576349",
+  "type": "city"
+ },
+ "Vällingby||SE": {
+  "lat": 59.366,
+  "lon": 17.8716,
+  "name": "Vällingby",
+  "osm": "node/266746126",
+  "type": "suburb"
+ },
+ "Västra Frölunda||SE": {
+  "lat": 57.657,
+  "lon": 11.9119,
+  "name": "Västra Frölunda",
+  "osm": "node/373092110",
+  "type": "suburb"
+ },
+ "Växjö||SE": {
+  "lat": 56.8787,
+  "lon": 14.8094,
+  "name": "Växjö",
+  "osm": "node/25508576",
+  "type": "city"
+ },
+ "Værløse||DK": {
+  "lat": 55.7833,
+  "lon": 12.3833,
+  "name": "Værløse",
+  "osm": "node/26559081",
+  "type": "town"
+ },
+ "Warren|Michigan|US": {
+  "lat": 42.4933,
+  "lon": -83.0063,
+  "name": "Warren",
+  "osm": "relation/135048",
+  "type": "city"
+ },
+ "Warsaw||PL": {
+  "lat": 52.2334,
+  "lon": 21.0711,
+  "name": "Warsaw",
+  "osm": "relation/336074",
+  "type": "administrative"
+ },
+ "Wedel||DE": {
+  "lat": 53.581,
+  "lon": 9.7039,
+  "name": "Wedel",
+  "osm": "relation/3370039",
+  "type": "town"
+ },
+ "Welwyn Garden City||GB": {
+  "lat": 51.802,
+  "lon": -0.2087,
+  "name": "Welwyn Garden City",
+  "osm": "node/81886463",
+  "type": "town"
+ },
+ "Wilde||AR": {
+  "lat": -34.6984,
+  "lon": -58.3146,
+  "name": "Wilde",
+  "osm": "relation/2145974",
+  "type": "town"
+ },
+ "Wilmington|Delaware|US": {
+  "lat": 39.7383,
+  "lon": -75.5527,
+  "name": "Wilmington",
+  "osm": "relation/369472",
+  "type": "city"
+ },
+ "Winnipeg||CA": {
+  "lat": 49.8955,
+  "lon": -97.1385,
+  "name": "Winnipeg",
+  "osm": "relation/1790696",
+  "type": "city"
+ },
+ "Worcester|Massachusetts|US": {
+  "lat": 42.2626,
+  "lon": -71.8019,
+  "name": "Worcester",
+  "osm": "relation/1844209",
+  "type": "city"
+ },
+ "Worthing||GB": {
+  "lat": 50.8115,
+  "lon": -0.37,
+  "name": "Worthing",
+  "osm": "relation/117548",
+  "type": "town"
+ },
+ "Wroclaw||PL": {
+  "lat": 51.1263,
+  "lon": 16.9782,
+  "name": "Wrocław",
+  "osm": "relation/2805691",
+  "type": "administrative"
+ },
+ "Würzburg||DE": {
+  "lat": 49.778,
+  "lon": 9.9435,
+  "name": "Würzburg",
+  "osm": "relation/62464",
+  "type": "county"
+ },
+ "York||GB": {
+  "lat": 53.9657,
+  "lon": -1.0743,
+  "name": "York",
+  "osm": "relation/134353",
+  "type": "county"
+ },
+ "Ypsilanti|Michigan|US": {
+  "lat": 42.2411,
+  "lon": -83.6118,
+  "name": "Ypsilanti",
+  "osm": "relation/135135",
+  "type": "city"
+ },
+ "Zacatecas||MX": {
+  "lat": 23.0916,
+  "lon": -102.9334,
+  "name": "Zacatecas",
+  "osm": "relation/2399704",
+  "type": "state"
+ },
+ "Zamora||ES": {
+  "lat": 41.6858,
+  "lon": -5.9423,
+  "name": "Zamora",
+  "osm": "relation/348987",
+  "type": "province"
+ },
+ "Zaragoza||ES": {
+  "lat": 41.6916,
+  "lon": -0.9101,
+  "name": "Zaragoza",
+  "osm": "relation/345740",
+  "type": "city"
+ },
+ "Czech Republic||CZ": {
+  "lat": 49.7439,
+  "lon": 15.3381,
+  "name": "Czechia",
+  "osm": "relation/51684",
+  "type": "country"
+ },
+ "Dominican Republic||DO": {
+  "lat": 19.0974,
+  "lon": -70.3028,
+  "name": "Dominican Republic",
+  "osm": "relation/307828",
+  "type": "country"
+ },
+ "Netherlands||NL": {
+  "lat": 52.2435,
+  "lon": 5.6343,
+  "name": "Netherlands",
+  "osm": "relation/2323309",
+  "type": "country"
+ },
+ "Philippines||PH": {
+  "lat": 12.7503,
+  "lon": 122.7312,
+  "name": "Philippines",
+  "osm": "relation/443174",
+  "type": "country"
+ },
+ "United Kingdom||GB": {
+  "lat": 54.7024,
+  "lon": -3.2766,
+  "name": "United Kingdom",
+  "osm": "relation/62149",
+  "type": "country"
+ },
+ "United States of America||US": {
+  "lat": 39.7837,
+  "lon": -100.4459,
+  "name": "United States",
+  "osm": "relation/148838",
+  "type": "country"
+ },
+ "Ålborg||DK": {
+  "lat": 57.0463,
+  "lon": 9.9215,
+  "name": "Aalborg",
+  "osm": "node/2247730880",
+  "type": "city"
+ },
+ "Ås||NO": {
+  "lat": 59.6793,
+  "lon": 10.7742,
+  "name": "Ås",
+  "osm": "relation/409940",
+  "type": "municipality"
+ },
+ "Örebro||SE": {
+  "lat": 59.2747,
+  "lon": 15.2151,
+  "name": "Örebro",
+  "osm": "node/27593232",
+  "type": "city"
+ },
+ "Östersund||SE": {
+  "lat": 63.1794,
+  "lon": 14.6357,
+  "name": "Östersund",
+  "osm": "node/27558697",
+  "type": "city"
+ },
+ "Central District||HK": {
+  "lat": 22.2827,
+  "lon": 114.1587,
+  "name": "Central District",
+  "osm": "node/7670787153",
+  "type": "borough"
+ },
+ "Hong Kong||HK": {
+  "lat": 22.3492,
+  "lon": 114.1858,
+  "name": "Hong Kong",
+  "osm": "relation/913110",
+  "type": "region"
+ },
+ "Balaclava||AU": {
+  "lat": -37.8703,
+  "lon": 144.9947,
+  "name": "Balaclava",
+  "osm": "relation/2397610",
+  "type": "suburb"
+ },
+ "Barceloneta||ES": {
+  "lat": 41.3479,
+  "lon": 1.7046,
+  "name": "Barceloneta",
+  "osm": "node/8569648156",
+  "type": "neighbourhood"
+ },
+ "Cagayan De Oro City||PH": {
+  "lat": 8.3892,
+  "lon": 124.6008,
+  "name": "The New City",
+  "osm": "way/1280496475",
+  "type": "neighbourhood"
+ },
+ "Cuajimalpa||MX": {
+  "lat": 19.3572,
+  "lon": -99.2996,
+  "name": "Cuajimalpa de Morelos",
+  "osm": "relation/5605714",
+  "type": "borough"
+ },
+ "Enskede||SE": {
+  "lat": 59.2879,
+  "lon": 18.0697,
+  "name": "Enskede gård",
+  "osm": "node/442050300",
+  "type": "suburb"
+ },
+ "Flores||AR": {
+  "lat": -34.6282,
+  "lon": -58.4622,
+  "name": "Flores",
+  "osm": "relation/2221479",
+  "type": "suburb"
+ },
+ "Garza García||MX": {
+  "lat": 25.7349,
+  "lon": -100.332,
+  "name": "Garza García",
+  "osm": "way/113083712",
+  "type": "road"
+ },
+ "Gentofte||DK": {
+  "lat": 55.746,
+  "lon": 12.551,
+  "name": "Gentofte",
+  "osm": "node/25619103",
+  "type": "suburb"
+ },
+ "Iligan City||PH": {
+  "lat": 8.2282,
+  "lon": 124.2412,
+  "name": "Iligan",
+  "osm": "relation/3818838",
+  "type": "city"
+ },
+ "Jamaica|New York|US": {
+  "lat": 40.6998,
+  "lon": -73.8077,
+  "name": "Jamaica",
+  "osm": "node/7087272768",
+  "type": "railway"
+ },
+ "Montreuil||FR": {
+  "lat": 48.8623,
+  "lon": 2.4412,
+  "name": "Montreuil",
+  "osm": "relation/129423",
+  "type": "city",
+  "query": "Montreuil, Seine-Saint-Denis"
+ },
+ "Nunez||AR": {
+  "lat": -34.5453,
+  "lon": -58.4621,
+  "name": "Núñez",
+  "osm": "relation/2222173",
+  "type": "suburb",
+  "query": "Núñez, Buenos Aires"
+ },
+ "Parana||AR": {
+  "lat": -31.733,
+  "lon": -60.5299,
+  "name": "Paraná",
+  "osm": "relation/2879942",
+  "type": "city",
+  "query": "Paraná, Entre Ríos"
+ },
+ "Prahran||AU": {
+  "lat": -37.8519,
+  "lon": 145.0006,
+  "name": "Prahran",
+  "osm": "relation/2395766",
+  "type": "suburb"
+ },
+ "Saint Kilda||AU": {
+  "lat": -37.8638,
+  "lon": 144.9816,
+  "name": "St Kilda",
+  "osm": "relation/2397474",
+  "type": "suburb",
+  "query": "St Kilda, Victoria"
+ },
+ "San Pablo City||PH": {
+  "lat": 14.0653,
+  "lon": 121.3208,
+  "name": "San Pablo City",
+  "osm": "node/2347116530",
+  "type": "highway"
+ },
+ "Skärholmen||SE": {
+  "lat": 59.2784,
+  "lon": 17.8987,
+  "name": "Skärholmen",
+  "osm": "node/443097951",
+  "type": "suburb"
+ },
+ "Spånga||SE": {
+  "lat": 59.4176,
+  "lon": 13.6975,
+  "name": "Spånga",
+  "osm": "node/6304169620",
+  "type": "hamlet"
+ },
+ "Stord||NO": {
+  "lat": 59.825,
+  "lon": 5.4884,
+  "name": "Stord",
+  "osm": "relation/404169",
+  "type": "municipality"
+ },
+ "Vanløse||DK": {
+  "lat": 55.6901,
+  "lon": 12.4835,
+  "name": "Vanløse",
+  "osm": "node/21040322",
+  "type": "suburb"
+ },
+ "Ølstykke||DK": {
+  "lat": 55.7766,
+  "lon": 12.1717,
+  "name": "Ølstykke",
+  "osm": "node/25275433",
+  "type": "town"
+ },
+ "Aalesund||NO": {
+  "lat": 62.4802,
+  "lon": 6.5551,
+  "name": "Ålesund",
+  "osm": "relation/16873323",
+  "type": "municipality",
+  "query": "Ålesund"
+ }
+}

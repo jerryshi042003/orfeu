@@ -1,0 +1,16 @@
+{
+  "name": "orfeu-pipeline",
+  "private": true,
+  "type": "module",
+  "description": "Builds the static data files the Orfeu site reads.",
+  "scripts": {
+    "genres": "node build-genres.mjs",
+    "locations": "node build-locations.mjs",
+    "build": "node build-genres.mjs && node build-locations.mjs"
+  },
+  "dependencies": {
+    "d3-geo": "3.1.1",
+    "topojson-client": "3.1.0",
+    "world-atlas": "2.0.2"
+  }
+}
