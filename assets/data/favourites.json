@@ -1,0 +1,13 @@
+{
+ "about": "Genres Jerry Shi keeps coming back to. Each pick links to a playlist that passed the same audit as the rest of the site.",
+ "picks": [
+  { "genre": "flamenco", "note": "Guitar, cante and palmas from Andalusia. Start here.", "more": ["cante-flamenco", "pop-flamenco"], "places": ["sevilla", "jerez-de-la-frontera"] },
+  { "genre": "bossa-nova", "note": "Nylon-string guitar and hushed vocals from late-1950s Rio." },
+  { "genre": "pagode", "note": "Samba from the backyard roda: banjo, cavaquinho and tantã." },
+  { "genre": "funk-carioca", "label": "Funk bruxaria", "nearest": true, "note": "Funk bruxaria has no playlist of its own. Funk Carioca is the nearest one." },
+  { "genre": "samba", "label": "Luiz Bonfá and Black Orpheus", "note": "The guitar of Black Orpheus (1959) and the samba around it.", "places": ["rio-de-janeiro"] },
+  { "genre": "cool-jazz", "note": "Late-1950s Miles Davis, and a road to flamenco through Sketches of Spain." },
+  { "genre": "classical-piano", "label": "Solo piano", "note": "One instrument and plenty of room. Piano, not orchestra." },
+  { "genre": "southern-hip-hop", "label": "Playful rap", "note": "Punchlines and wordplay from the American South." }
+ ]
+}

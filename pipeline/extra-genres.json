@@ -1,0 +1,17 @@
+{
+ "about": "Genres outside filteredPulse.csv that the Jerry's picks tab needs. Each comes from thePulseOf.csv and passes the same playlist audit as every other genre.",
+ "genres": [
+  {
+   "name": "Cante Flamenco",
+   "wiki": "Cante flamenco"
+  },
+  {
+   "name": "Pop Flamenco",
+   "wiki": "New flamenco"
+  },
+  {
+   "name": "Classical Piano",
+   "wiki": "Piano"
+  }
+ ]
+}

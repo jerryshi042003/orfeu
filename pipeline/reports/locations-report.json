@@ -1,5 +1,6 @@
 {
- "kept": 697,
+ "kept": 677,
+ "audited": "2026-10-21",
  "skipped": {
   "notPlace": [
    "APO Armed Forces Europe, Middle East, & Canada US",
@@ -24,24 +25,350 @@
   ],
   "unparsed": [],
   "dead": [
+   "Ames Iowa US",
+   "Annerley AU",
+   "Ashburn Virginia US",
+   "Athens Georgia US",
+   "Aurich DE",
+   "Bloomington Indiana US",
+   "Bottrop DE",
+   "Carlton AU",
+   "Clifton New Jersey US",
    "Concord AU",
+   "Diemen NL",
+   "Elizabeth New Jersey US",
    "Estonia",
    "Hellerup DK",
+   "Ithaca New York US",
    "Kaufman Texas US",
    "Lithuania",
    "Lohja FI",
+   "Meppen DE",
    "Mugla TR",
    "Måløv DK",
+   "Norwalk California US",
    "Oldham GB",
    "Omaha Nebraska US",
    "Palmas BR",
+   "Prahran AU",
+   "Richardson Texas US",
    "Romford GB",
+   "San Pablo City PH",
+   "Santa Clara California US",
    "Slovakia",
+   "Stockport GB",
+   "Tlaquepaque MX",
    "Tullinge SE",
    "Turku FI",
    "Worthing GB"
   ],
   "noGeo": []
  },
+ "cut": [
+  {
+   "name": "Ames Iowa US",
+   "reasons": [
+    "tracks-1"
+   ],
+   "tracks": 1,
+   "playable": 1
+  },
+  {
+   "name": "Annerley AU",
+   "reasons": [
+    "tracks-8"
+   ],
+   "tracks": 8,
+   "playable": 8
+  },
+  {
+   "name": "Ashburn Virginia US",
+   "reasons": [
+    "playable-13/21"
+   ],
+   "tracks": 21,
+   "playable": 13
+  },
+  {
+   "name": "Athens Georgia US",
+   "reasons": [
+    "tracks-18"
+   ],
+   "tracks": 18,
+   "playable": 18
+  },
+  {
+   "name": "Aurich DE",
+   "reasons": [
+    "tracks-8"
+   ],
+   "tracks": 8,
+   "playable": 8
+  },
+  {
+   "name": "Bloomington Indiana US",
+   "reasons": [
+    "tracks-1"
+   ],
+   "tracks": 1,
+   "playable": 1
+  },
+  {
+   "name": "Bottrop DE",
+   "reasons": [
+    "tracks-1"
+   ],
+   "tracks": 1,
+   "playable": 1
+  },
+  {
+   "name": "Carlton AU",
+   "reasons": [
+    "tracks-13"
+   ],
+   "tracks": 13,
+   "playable": 13
+  },
+  {
+   "name": "Clifton New Jersey US",
+   "reasons": [
+    "tracks-1"
+   ],
+   "tracks": 1,
+   "playable": 1
+  },
+  {
+   "name": "Concord AU",
+   "reasons": [
+    "oembed-404",
+    "embed-no-entity"
+   ],
+   "tracks": 0,
+   "playable": 0
+  },
+  {
+   "name": "Diemen NL",
+   "reasons": [
+    "tracks-7"
+   ],
+   "tracks": 7,
+   "playable": 7
+  },
+  {
+   "name": "Elizabeth New Jersey US",
+   "reasons": [
+    "tracks-1"
+   ],
+   "tracks": 1,
+   "playable": 1
+  },
+  {
+   "name": "Estonia",
+   "reasons": [
+    "oembed-404",
+    "embed-no-entity"
+   ],
+   "tracks": 0,
+   "playable": 0
+  },
+  {
+   "name": "Hellerup DK",
+   "reasons": [
+    "oembed-404",
+    "embed-no-entity"
+   ],
+   "tracks": 0,
+   "playable": 0
+  },
+  {
+   "name": "Ithaca New York US",
+   "reasons": [
+    "tracks-4"
+   ],
+   "tracks": 4,
+   "playable": 4
+  },
+  {
+   "name": "Kaufman Texas US",
+   "reasons": [
+    "oembed-404",
+    "embed-no-entity"
+   ],
+   "tracks": 0,
+   "playable": 0
+  },
+  {
+   "name": "Lithuania",
+   "reasons": [
+    "oembed-404",
+    "embed-no-entity"
+   ],
+   "tracks": 0,
+   "playable": 0
+  },
+  {
+   "name": "Lohja FI",
+   "reasons": [
+    "oembed-404",
+    "embed-no-entity"
+   ],
+   "tracks": 0,
+   "playable": 0
+  },
+  {
+   "name": "Meppen DE",
+   "reasons": [
+    "tracks-1"
+   ],
+   "tracks": 1,
+   "playable": 1
+  },
+  {
+   "name": "Mugla TR",
+   "reasons": [
+    "oembed-404",
+    "embed-no-entity"
+   ],
+   "tracks": 0,
+   "playable": 0
+  },
+  {
+   "name": "Måløv DK",
+   "reasons": [
+    "oembed-404",
+    "embed-no-entity"
+   ],
+   "tracks": 0,
+   "playable": 0
+  },
+  {
+   "name": "Norwalk California US",
+   "reasons": [
+    "tracks-10"
+   ],
+   "tracks": 10,
+   "playable": 10
+  },
+  {
+   "name": "Oldham GB",
+   "reasons": [
+    "oembed-404",
+    "embed-no-entity"
+   ],
+   "tracks": 0,
+   "playable": 0
+  },
+  {
+   "name": "Omaha Nebraska US",
+   "reasons": [
+    "oembed-404",
+    "embed-no-entity"
+   ],
+   "tracks": 0,
+   "playable": 0
+  },
+  {
+   "name": "Palmas BR",
+   "reasons": [
+    "oembed-404",
+    "embed-no-entity"
+   ],
+   "tracks": 0,
+   "playable": 0
+  },
+  {
+   "name": "Prahran AU",
+   "reasons": [
+    "tracks-1"
+   ],
+   "tracks": 1,
+   "playable": 1
+  },
+  {
+   "name": "Richardson Texas US",
+   "reasons": [
+    "tracks-11"
+   ],
+   "tracks": 11,
+   "playable": 11
+  },
+  {
+   "name": "Romford GB",
+   "reasons": [
+    "oembed-404",
+    "embed-no-entity"
+   ],
+   "tracks": 0,
+   "playable": 0
+  },
+  {
+   "name": "San Pablo City PH",
+   "reasons": [
+    "tracks-7"
+   ],
+   "tracks": 7,
+   "playable": 7
+  },
+  {
+   "name": "Santa Clara California US",
+   "reasons": [
+    "tracks-4"
+   ],
+   "tracks": 4,
+   "playable": 4
+  },
+  {
+   "name": "Slovakia",
+   "reasons": [
+    "oembed-404",
+    "embed-no-entity"
+   ],
+   "tracks": 0,
+   "playable": 0
+  },
+  {
+   "name": "Stockport GB",
+   "reasons": [
+    "playable-49/100"
+   ],
+   "tracks": 100,
+   "playable": 49
+  },
+  {
+   "name": "Tlaquepaque MX",
+   "reasons": [
+    "tracks-3"
+   ],
+   "tracks": 3,
+   "playable": 3
+  },
+  {
+   "name": "Tullinge SE",
+   "reasons": [
+    "oembed-404",
+    "embed-no-entity"
+   ],
+   "tracks": 0,
+   "playable": 0
+  },
+  {
+   "name": "Turku FI",
+   "reasons": [
+    "oembed-404",
+    "embed-no-entity"
+   ],
+   "tracks": 0,
+   "playable": 0
+  },
+  {
+   "name": "Worthing GB",
+   "reasons": [
+    "oembed-404",
+    "embed-no-entity"
+   ],
+   "tracks": 0,
+   "playable": 0
+  }
+ ],
  "unmapped": []
 }

@@ -1,0 +1,5786 @@
+{
+ "built": "2026-10-22T03:48:56.586Z",
+ "tally": {
+  "lead": 85,
+  "poster": 95,
+  "article": 154,
+  "p18": 114,
+  "commons-category": 16,
+  "override": 35
+ },
+ "failures": [],
+ "unverified": [],
+ "genres": [
+  {
+   "name": "A Cappella",
+   "article": "A cappella",
+   "via": "lead",
+   "file": "Roskilde_Cathedrals_Boys_Choir.jpg",
+   "size": "2272x1704",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Abstract",
+   "article": null,
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Acid House",
+   "article": "Acid house",
+   "via": "article",
+   "file": "Roland_TB-303_Panel.jpg",
+   "size": "1656x814",
+   "licence": "CC0",
+   "sharedWith": null,
+   "rejected": [
+    "Mr._Smiley_Face.svg: not on Commons",
+    "Smiley.svg: not on Commons",
+    "Retro-flower-ornaments.svg: not on Commons",
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Madchester-logo.jpg: not on Commons"
+   ]
+  },
+  {
+   "name": "Acid Jazz",
+   "article": "Acid jazz",
+   "via": "p18",
+   "file": "Jamiroquai_2018_Coachella18W1-148_(40250209740)_(cropped).jpg",
+   "size": "3713x2082",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Acid_Jazz_Records_logo.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Acid Techno",
+   "article": "Acid techno",
+   "via": "commons-category",
+   "file": "FORBIDDEN_(RS).jpg",
+   "size": "1536x2300",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "TB-303.jpg: 402px wide"
+   ]
+  },
+  {
+   "name": "Adult Standards",
+   "article": "Adult standards",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Afrobeat",
+   "article": "Afrobeat",
+   "via": "lead",
+   "file": "Sean_Kuti_&_Egypt_80_at_NH7_Weekender.jpg",
+   "size": "2464x1632",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Fela_Kuti_(cropped).jpg: 192px wide"
+   ]
+  },
+  {
+   "name": "Afrobeats",
+   "article": "Afrobeats",
+   "via": "article",
+   "file": "Fuse_ODG.jpg",
+   "size": "750x500",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Wizkid_at_Iyanya's_album_launch_concert,_2013_(Cropped).png: 291px wide",
+    "Burna_Boy_(cropped).jpg: 372px wide"
+   ]
+  },
+  {
+   "name": "Aggrotech",
+   "article": "Electro-industrial",
+   "via": "article",
+   "file": "13-03-23_e-tropolis_Centhron_01.jpg",
+   "size": "4288x2848",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Alternative CCM",
+   "article": "Christian alternative rock",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Alternative Country",
+   "article": "Alternative country",
+   "via": "article",
+   "file": "Sonvolt.jpg",
+   "size": "2272x1704",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Alternative Dance",
+   "article": "Alternative dance",
+   "via": "p18",
+   "file": "EXIT_2012_New_Order.jpg",
+   "size": "1024x683",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Alternative Hip Hop",
+   "article": "Alternative hip-hop",
+   "via": "article",
+   "file": "Run_Run_Run_(2720461334).jpg",
+   "size": "4207x2737",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Alternative Metal",
+   "article": "Alternative metal",
+   "via": "article",
+   "file": "Page_Hamilton_Frankfurt.jpg",
+   "size": "2484x2508",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Adam_&_Maynard_Coachella_2006_(546341525).jpg: no thumbnail"
+   ]
+  },
+  {
+   "name": "Alternative Pop",
+   "article": "Alternative rock",
+   "via": "override",
+   "file": "Abjeez_-_Persian_alternative_pop_band_-_Utrecht_-_2011.jpg",
+   "size": "3281x2191",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Alternative R&B",
+   "article": "Alternative R&B",
+   "via": "p18",
+   "file": "Frank_Ocean_Coachella_2012_2.jpg",
+   "size": "3456x2592",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Alternative Rock",
+   "article": "Alternative rock",
+   "via": "p18",
+   "file": "Sonic_Youth_live_20050707.jpg",
+   "size": "2400x1600",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Nirvana_around_1992.jpg: 367px wide"
+   ]
+  },
+  {
+   "name": "Anarcho-Punk",
+   "article": "Anarcho-punk",
+   "via": "article",
+   "file": "Crass_pete_steve_andy.png",
+   "size": "1320x884",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Black_flag_waving.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Argentine Rock",
+   "article": "Argentine rock",
+   "via": "article",
+   "file": "Almendra_y_Manal.png",
+   "size": "1022x1507",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Charly_Garcia_en_Adios_Sui_Generis.jpg: 286px wide",
+    "Babasónicos.jpg: no thumbnail"
+   ]
+  },
+  {
+   "name": "Armenian Folk",
+   "article": "Armenian folk music",
+   "via": "p18",
+   "file": "Armenian_folk_music_3.JPG",
+   "size": "748x997",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Quartet,_Bible,_Tabriz,_1400-1401,_Matenadaran_N_184,_216a.JPG: shape 3.00"
+   ]
+  },
+  {
+   "name": "Art Rock",
+   "article": "Art rock",
+   "via": "article",
+   "file": "Black_Country,_New_Road_(49387468462).jpg",
+   "size": "3916x2203",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Atmospheric Black Metal",
+   "article": "Black metal",
+   "via": "article",
+   "file": "Gorgoroth_I.jpg",
+   "size": "1500x910",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Pentagram4.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Australian Hip Hop",
+   "article": "Australian hip-hop",
+   "via": "article",
+   "file": "Bladesofhades.jpg",
+   "size": "1600x1200",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "DJ_Bonez_-_Cerfified_(Film_Clip).png: 335px wide",
+    "Briggs_at_Festival_Hall,_2009.jpg: 253px wide"
+   ]
+  },
+  {
+   "name": "Austropop",
+   "article": "Austropop",
+   "via": "override",
+   "file": "Donauinselfest_20080905_EAV_b.jpg",
+   "size": "1600x1200",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Avant-Garde Jazz",
+   "article": "Avant-garde jazz",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Axé",
+   "article": "Axé",
+   "via": "lead",
+   "file": "Baiana_Salvador.jpg",
+   "size": "1665x2480",
+   "licence": "CC BY 3.0 br",
+   "sharedWith": null,
+   "rejected": [
+    "IveteSangalo.jpg: 426px wide"
+   ]
+  },
+  {
+   "name": "Azonto",
+   "article": "Azonto",
+   "via": "lead",
+   "file": "Ghanaians_dancing_azonto.png",
+   "size": "895x509",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Bachata",
+   "article": "Bachata (music)",
+   "via": "p18",
+   "file": "IBPA_22696_-_A_nova_edição_do_projeto_Salseando_e_Bachateando_estará_-_2019-02-05_-_Nando_Espinosa_Fotografia-SMC_PMPA.jpg",
+   "size": "2480x1653",
+   "licence": "Attribution",
+   "sharedWith": null,
+   "rejected": [
+    "Juanluisguerra1.png: 328px wide"
+   ]
+  },
+  {
+   "name": "Bagpipe",
+   "article": "Bagpipes",
+   "via": "lead",
+   "file": "Scotland_Independence_March,_28_March_2026_(32).jpg",
+   "size": "5568x3712",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Bagpipe_en.PNG: 209px wide",
+    "Mezoued.gif: not on Commons",
+    "Bag_piper,_Padre,_Currie_Hall,_Royal_Military_College_of_Canada,_fall_2011.jpg: shape 0.42",
+    "Tulumcu.jpg: 320px wide",
+    "Tickell_2004.jpg: 264px wide"
+   ]
+  },
+  {
+   "name": "Balearic",
+   "article": "Balearic beat",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Balkan Brass",
+   "article": "Balkan brass",
+   "via": "lead",
+   "file": "Fanfara_Transilvania_.jpg",
+   "size": "2048x1362",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Barbershop",
+   "article": "Barbershop music",
+   "via": "lead",
+   "file": "Dapper_Dans_(28382069095).jpg",
+   "size": "4675x3117",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Barbershop_quartet_WPA_poster.jpg: not a photo",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Baroque",
+   "article": "Baroque music",
+   "via": "p18",
+   "file": "Johann_Sebastian_Bach.jpg",
+   "size": "1376x1786",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Beach Music",
+   "article": "Beach music",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Bebop",
+   "article": "Bebop",
+   "via": "p18",
+   "file": "Howard_McGhee,_Brick_Fleagle_and_Miles_Davis,_ca_September_1947_(Gottlieb).jpg",
+   "size": "4895x5130",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "\"Bebop-rebop\"_early_bop_phrase.png: shape 4.90",
+    "Dizzy_Gillespie_at_the_Downbeat_Club,_ca_1947.jpg: shape 0.43"
+   ]
+  },
+  {
+   "name": "Bhangra",
+   "article": "Bhangra (music)",
+   "via": "lead",
+   "file": "Red_Baraat_02.jpg",
+   "size": "4955x3303",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Punjabi_example.svg: not on Commons",
+    "Punjab_map_(topographic)_with_cities.png: not a photo",
+    "MissPooja2.jpg: 300px wide"
+   ]
+  },
+  {
+   "name": "Big Band",
+   "article": "Big band",
+   "via": "p18",
+   "file": "Bergen_Big_Band_1.jpg",
+   "size": "2332x953",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Jazz_ensemble_-_seating_diagram.svg: not on Commons",
+    "OckbrookBandPridePark.jpg: shape 3.03",
+    "BennyGoodmanandBandStageDoorCanteen.jpg: 448px wide"
+   ]
+  },
+  {
+   "name": "Big Beat",
+   "article": "Big beat",
+   "via": "article",
+   "file": "The_Prodigy_live_in_Romania.JPG",
+   "size": "1552x985",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Black Metal",
+   "article": "Black metal",
+   "via": "article",
+   "file": "Hindvir_Gaulhammer_Fest_111008_01_C.jpg",
+   "size": "2304x3072",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Pentagram4.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Blues",
+   "article": "Blues",
+   "via": "article",
+   "file": "Bessie_Smith_(1936)_by_Carl_Van_Vechten.jpg",
+   "size": "4338x5546",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Black_American_Heritage_flag.svg: not on Commons",
+    "Gamme_la_blues.svg: not on Commons",
+    "Blues_shuffle_in_E.png: shape 4.55",
+    "Boogie-woogie-bassline.svg: not on Commons",
+    "Tajmahalblues.jpg: not on Commons"
+   ]
+  },
+  {
+   "name": "Blues Rock",
+   "article": "Blues rock",
+   "via": "p18",
+   "file": "Gary_Moore_2005.05.21_002-2.jpg",
+   "size": "2736x2848",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Bolero",
+   "article": "Bolero",
+   "via": "article",
+   "file": "Julio_jaramillo_laurido2.jpg",
+   "size": "954x862",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Sanchez+Blez.jpg: 425px wide",
+    "Bolero_Bass_line.jpg: rejected in review"
+   ]
+  },
+  {
+   "name": "Boogaloo",
+   "article": "Boogaloo",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Boogie-Woogie",
+   "article": "Boogie-woogie",
+   "via": "commons-category",
+   "file": "Ezra_Lee_on_stage_at_The_Rhythm_Riot_.jpg",
+   "size": "4096x2731",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "\"Texarkana_and_Northern\"_Boogie-woogie_bassline.svg: not on Commons",
+    "Boogie-woogie-bassline.svg: not on Commons",
+    "\"Texas_&_Pacific\"_boogie_woogie_bass.svg: not on Commons",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Bossa Nova",
+   "article": "Bossa nova",
+   "via": "lead",
+   "file": "Baden_Powell_no_Teatro_da_Praia,_1972.tif",
+   "size": "5583x4163",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Bossa_nova_dance_pattern.png: shape 7.82",
+    "Basic_bossa_nova_guitar_rhythm.PNG: 368px wide",
+    "Bossa-nova-rhythm1.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Boston Rock",
+   "article": null,
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Boy Band",
+   "article": "Boy band",
+   "via": "article",
+   "file": "The-Osmonds.jpg",
+   "size": "1879x1078",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "180902_스카이페스티벌_NCT_DREAM_1.jpg: shape 2.67"
+   ]
+  },
+  {
+   "name": "Brass Band",
+   "article": "Brass band",
+   "via": "lead",
+   "file": "Tanzania_Police_brass_band.jpg",
+   "size": "5353x3569",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Posaune.jpg: 434px wide"
+   ]
+  },
+  {
+   "name": "Breakbeat",
+   "article": "Breakbeat",
+   "via": "commons-category",
+   "file": "DJ_Natural_Nate-Taco_Scratch.jpg",
+   "size": "554x447",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Breakcore",
+   "article": "Breakcore",
+   "via": "p18",
+   "file": "Atari_Teenage_Riot_2010_01.jpg",
+   "size": "968x651",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Brill Building Pop",
+   "article": "Brill Building (genre)",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Brillbuilding2009.jpg: 397px wide",
+    "Gnome-mime-audio-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "British Blues",
+   "article": "British blues",
+   "via": "article",
+   "file": "Alexis-Korner.jpg",
+   "size": "2345x3458",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Jethro-Tull-cropped.jpg: 443px wide"
+   ]
+  },
+  {
+   "name": "British Dance Band",
+   "article": "British dance band",
+   "via": "lead",
+   "file": "Jack_Hylton_and_his_Orchestra.jpg",
+   "size": "1000x804",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "British Invasion",
+   "article": "British Invasion",
+   "via": "lead",
+   "file": "The_Beatles_arrive_at_JFK_Airport.jpg",
+   "size": "3578x2526",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Britpop",
+   "article": "Britpop",
+   "via": "article",
+   "file": "Coldplay_Glasto24_290624_(26)_(53836754632)_(cropped).jpg",
+   "size": "4817x3211",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Kinks.jpg: 317px wide",
+    "Nirvana_around_1992.jpg: 367px wide",
+    "Select_BritPop_cover_April_1993.jpg: not on Commons",
+    "Nme_blur_oasis.jpg: not on Commons",
+    "Liamg.jpg: 357px wide"
+   ]
+  },
+  {
+   "name": "Broken Beat",
+   "article": "Broken beat",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Brutal Death Metal",
+   "article": "Brutal death metal",
+   "via": "p18",
+   "file": "Dying_Fetus,_John_Gallagher_at_Party.San_Open_Air_2013_05.jpg",
+   "size": "2720x3744",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Bubblegum Dance",
+   "article": "Bubblegum music",
+   "via": "article",
+   "file": "Jerry_Kasenetz_and_Jeffry_Katz.png",
+   "size": "842x661",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Bubblegum Pop",
+   "article": "Bubblegum music",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "all usable photos already used by Bubblegum Dance"
+   ]
+  },
+  {
+   "name": "C-Pop",
+   "article": "C-pop",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Li_Jinhui_1930.jpg: 400px wide",
+    "BuckClayton.jpg: 307px wide"
+   ]
+  },
+  {
+   "name": "C86",
+   "article": "C86",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "NMEC86.jpg: not on Commons"
+   ]
+  },
+  {
+   "name": "Canadian Hip Hop",
+   "article": "Canadian hip-hop",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Transparentmusiccanada.png: rejected in review"
+   ]
+  },
+  {
+   "name": "Candy Pop",
+   "article": null,
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Cante Flamenco",
+   "article": "Cante flamenco",
+   "via": "override",
+   "file": "EMILIO_BEAUCHY,_Café_cantante,_hacia_1885,_copia_a_la_albúmina.jpg",
+   "size": "4009x3131",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Canterbury Scene",
+   "article": "Canterbury scene",
+   "via": "commons-category",
+   "file": "Richardsinclair.jpg",
+   "size": "1024x1536",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Cantopop",
+   "article": "Cantopop",
+   "via": "article",
+   "file": "MIRROR_members_2020-07-07_am730.jpg",
+   "size": "1732x779",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "HKDemo_template_bare.jpg: 164px wide",
+    "TwinsConcert2007.jpg: no thumbnail"
+   ]
+  },
+  {
+   "name": "Canzone Napoletana",
+   "article": "Canzone napoletana",
+   "via": "override",
+   "file": "Tipi_Napoletani_-_Serenata_(Naples,_Boy_and_old_man_playing_serenade)_-_Old_postcard.jpg",
+   "size": "823x533",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Capoeira",
+   "article": "Capoeira music",
+   "via": "article",
+   "file": "Capoeira-05.jpg",
+   "size": "3240x4320",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Berimbau_Angola.JPG: 299px wide",
+    "Berimbau_Sao_Bento_Grande.JPG: 299px wide"
+   ]
+  },
+  {
+   "name": "Carnatic",
+   "article": "Carnatic music",
+   "via": "lead",
+   "file": "Tanjore-style_Carnatic_tambura.JPG",
+   "size": "2304x3072",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Murasu.svg: not on Commons",
+    "1_Om.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Ceilidh",
+   "article": "Cèilidh",
+   "via": "p18",
+   "file": "Description-_Visitors_try_Scottish_ceilidh_dancing_at_the_2003_Smithsonian_Folklife_Festival_on_the_National_Mall._(2548929276).jpg",
+   "size": "3024x2016",
+   "licence": "No restrictions",
+   "sharedWith": null,
+   "rejected": [
+    "Ceili_dance_(Alexandria,_VA,_2019).webm: not on Commons"
+   ]
+  },
+  {
+   "name": "Cello",
+   "article": "Cello",
+   "via": "article",
+   "file": "Cello_study.jpg",
+   "size": "1500x2250",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Josephine_van_Lier_plays_violoncello_piccolo.jpg: no thumbnail",
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Bow_hand_Violoncello.jpg: 319px wide",
+    "Spectrogram_Cello_D_Arpeggio.png: not a photo"
+   ]
+  },
+  {
+   "name": "Celtic Punk",
+   "article": "Celtic punk",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Celtic Rock",
+   "article": "Celtic rock",
+   "via": "article",
+   "file": "Tri_Yann_Aymon_Folk_Festival_26.jpg",
+   "size": "2268x1467",
+   "licence": "CC BY 2.5",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Chalga",
+   "article": "Chalga",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Chamber Choir",
+   "article": "Chamber choir",
+   "via": "commons-category",
+   "file": "AveSol-JohannesPassion.jpg",
+   "size": "1920x1280",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Chamber Pop",
+   "article": "Chamber pop",
+   "via": "p18",
+   "file": "Tindersticks_3.jpg",
+   "size": "1500x1000",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Chanson",
+   "article": "Chanson",
+   "via": "p18",
+   "file": "Mireille_Mathieu_Hamburg_1971_001.jpg",
+   "size": "1869x1200",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Chicago Blues",
+   "article": "Chicago blues",
+   "via": "override",
+   "file": "Muddy_Waters_and_Bob_Margolin_1976.jpg",
+   "size": "1500x950",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Chicago House",
+   "article": "Chicago house",
+   "via": "article",
+   "file": "Grammophone_Records.JPG",
+   "size": "2592x1936",
+   "licence": "CC0",
+   "sharedWith": null,
+   "rejected": [
+    "Honorary_Frankie_Knuckles_Way.jpg: not on Commons"
+   ]
+  },
+  {
+   "name": "Chicago Soul",
+   "article": "Chicago soul",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Chicano Rap",
+   "article": "Chicano rap",
+   "via": "article",
+   "file": "Proper_Dos_Conejo_Serio_dont_hate_me_because_im_Mexican.jpg",
+   "size": "999x570",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "UFW_Flag.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Children's Music",
+   "article": "Children's music",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Chillwave",
+   "article": "Chillwave",
+   "via": "p18",
+   "file": "Neon_Indian.jpg",
+   "size": "4288x2848",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-audio-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Chinese Opera",
+   "article": "Chinese opera",
+   "via": "lead",
+   "file": "The_Limestone_Rhyme_Shao_opera_5.jpg",
+   "size": "4928x3264",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Costume_of_a_female_play.jpg: 404px wide"
+   ]
+  },
+  {
+   "name": "Chiptune",
+   "article": "Chiptune",
+   "via": "lead",
+   "file": "Chiptune-Setup-Game-Boys.jpg",
+   "size": "2800x1760",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Plasma_effect.jpg: 320px wide",
+    "MOS_Technologies_6581.jpg: 300px wide",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Choral",
+   "article": "Choir",
+   "via": "article",
+   "file": "Egyptian_Alexandria_Jews._Choir_of_Rabbin_Moshe_Cohen_in_Samuel_Menashe_synagogue._Alexandria.jpg",
+   "size": "1200x827",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Choir-layout.svg: not on Commons",
+    "Cantoria_luca_della_robbia22.jpg: 421px wide",
+    "Gnome-mime-audio-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Choro",
+   "article": "Choro",
+   "via": "article",
+   "file": "Pixinguinha_tocando_harmônio_(restored).jpg",
+   "size": "1410x1639",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Joaquim_Callado003.jpg: 308px wide",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Christian Alternative Rock",
+   "article": "Christian alternative rock",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Christian Hardcore",
+   "article": "Christian hardcore",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "JCHC.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Christian Hip Hop",
+   "article": "Christian hip-hop",
+   "via": "lead",
+   "file": "Lecrae_performing_live_in_2017.jpg",
+   "size": "3456x3456",
+   "licence": "CC0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Christian Metal",
+   "article": "Christian metal",
+   "via": "article",
+   "file": "As_I_Lay_Dying_at_the_With_Full_Force_music_festival_--_29_June_2007.jpg",
+   "size": "1600x1067",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Christian Music",
+   "article": "Christian music",
+   "via": "override",
+   "file": "Kari_Jobe_at_Burning_Lights_(cropped).jpg",
+   "size": "1980x1960",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Christian Punk",
+   "article": "Christian punk",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Christian_punk.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Christian Rock",
+   "article": "Christian rock",
+   "via": "article",
+   "file": "Jars_of_Clay.jpg",
+   "size": "2816x2112",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "WelcomeToParadiseStonehill.jpg: not on Commons",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Classic Dubstep",
+   "article": "Dubstep",
+   "via": "p18",
+   "file": "DJ_Hatcha_2008.jpg",
+   "size": "3888x2370",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Classic Girl Group",
+   "article": "Girl group",
+   "via": "article",
+   "file": "Supremes1965NL.jpg",
+   "size": "2406x3648",
+   "licence": "CC0",
+   "sharedWith": null,
+   "rejected": [
+    "2NE1_2013_kpop_hologram_(cropped).jpg: 390px wide"
+   ]
+  },
+  {
+   "name": "Classic Hardstyle",
+   "article": "Hardstyle",
+   "via": "override",
+   "file": "Qlimax_2008-11-22.JPG",
+   "size": "2560x1920",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Classic Iskelmä",
+   "article": "Schlager music",
+   "via": "lead",
+   "file": "Michelle_in_Berlijn.jpg",
+   "size": "3514x2636",
+   "licence": "CC0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Classic Mandopop",
+   "article": "Mandopop",
+   "via": "p18",
+   "file": "Faye_2011_Hong_Kong_cropped.jpg",
+   "size": "577x842",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Zhou_Xuan_by_C.H.Wong_Photo_Studio.jpg: no thumbnail",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Classic Rock",
+   "article": "Classic rock",
+   "via": "lead",
+   "file": "Fleetwood_Mac_Billboard_1977.jpg",
+   "size": "960x960",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Wwwm_fm_logo.jpg: not a photo"
+   ]
+  },
+  {
+   "name": "Classic Texas Country",
+   "article": "Texas country music",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Classical Clarinet",
+   "article": "Clarinet",
+   "via": "lead",
+   "file": "Leitner+Kraus_410_320.png",
+   "size": "2600x5000",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Clarinet_range.svg: not on Commons",
+    "Diderot_clarinette.jpg: shape 4.28",
+    "Clarinet_4_key_anon_Bate_(2).jpg: shape 0.20",
+    "C-klarinette-lauriol-bordeaux.jpg: shape 0.20",
+    "Albert-Klarinette.jpg: shape 0.19",
+    "Baermann-System.jpg: shape 0.20"
+   ]
+  },
+  {
+   "name": "Classical Guitar",
+   "article": "Classical guitar",
+   "via": "article",
+   "file": "Musee-de-la-musique-6.jpg",
+   "size": "1680x1131",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Range_guitar.svg: not on Commons",
+    "Vihuela_-_Frontispiece_Libro_de_música_de_vihuela_de_mano_intitulado_El_maestro_by_Luis_Milan.jpg: shape 3.04",
+    "Baroque_Guitar_Etienne_Picart_(1680).jpg: shape 3.79",
+    "Williams_Smallman_2005a.jpg: not on Commons",
+    "Parts_of_the_Classical_Guitar_-_Diagram.jpg: not a photo"
+   ]
+  },
+  {
+   "name": "Classical Period",
+   "article": "Classical period (music)",
+   "via": "lead",
+   "file": "Mozart_family_crop.jpg",
+   "size": "2864x3376",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Ionic_capitals_illustration_History_of_Art_for_Beginners_Vol_3_Architecture.svg: not on Commons",
+    "Don_Giovanni_Commendatore.png: shape 3.24"
+   ]
+  },
+  {
+   "name": "Classical Piano",
+   "article": "Piano",
+   "via": "lead",
+   "file": "Steinway_Vienna_002.JPG",
+   "size": "2561x3044",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-audio-openclipart.svg: not on Commons",
+    "Broadwood_grand_square_action.svg: not on Commons",
+    "Erard_double_pilot_action.svg: not on Commons",
+    "Minipiano_'Pianette'_model_with_matching_stool.jpg: not on Commons",
+    "Fortepian_-_schemat.svg: not on Commons",
+    "Pedal_Mark_1.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Colombian Rock",
+   "article": "Colombian rock",
+   "via": "override",
+   "file": "Coyete_Dallas.jpg",
+   "size": "1280x853",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Complextro",
+   "article": "Electro house",
+   "via": "lead",
+   "file": "Porter_Robinson,_Zedd,_and_Skrillex_at_the_2012_SXSW_cropped.jpg",
+   "size": "2400x1472",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Contemporary Country",
+   "article": null,
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Contemporary Jazz",
+   "article": null,
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Cool Jazz",
+   "article": "Cool jazz",
+   "via": "lead",
+   "file": "Dave_Brubeck_Quartet_1962.jpg",
+   "size": "995x659",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Country Blues",
+   "article": "Country blues",
+   "via": "override",
+   "file": "Son_House_playing_as_D._K._Wilgus_records_music.jpg",
+   "size": "4800x4637",
+   "licence": "CC BY 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Country Gospel",
+   "article": "Christian country music",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "ChristianitySymbolWhite.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Country Road",
+   "article": null,
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Country Rock",
+   "article": "Country rock",
+   "via": "article",
+   "file": "Dickey_Betts_Pistoia_Blues_Festival_2008.jpg",
+   "size": "2592x3888",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Crunk",
+   "article": "Crunk",
+   "via": "article",
+   "file": "Lil_Jon.jpg",
+   "size": "1159x1726",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Crust Punk",
+   "article": "Crust punk",
+   "via": "p18",
+   "file": "Amebix_show_64ety.jpg",
+   "size": "2048x1536",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Cuban Rumba",
+   "article": "Cuban rumba",
+   "via": "lead",
+   "file": "Bailarines_de_rumba_cubana_en_la_plaza_de_los_trabajadores_de_Camagüey,_Cuba.jpg",
+   "size": "1669x1113",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Rumba_Clave_Pattern.svg: not on Commons",
+    "Matanzas-style_guagua.tif: shape 4.37",
+    "Songo_timbales.tif: shape 3.62",
+    "Bare-bones_quinto_lock.jpg: shape 7.49",
+    "Rumbero-handbehind200.jpg: 200px wide",
+    "Bonko.jpg: shape 5.89"
+   ]
+  },
+  {
+   "name": "Cubaton",
+   "article": "Reggaeton",
+   "via": "article",
+   "file": "Wisin_&_Yandel.jpg",
+   "size": "1500x1000",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Summer_1995_Music_scene_at_beach_in_Vega_Baja,_Puerto_Rico_-_Snoop_Dogg_cameo.ogv: not on Commons",
+    "Casa_con_dos_marquesinas_en_San_Sebastián,_Puerto_Rico.jpg: rejected in review",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Cumbia",
+   "article": "Cumbia",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Cumbia Villera",
+   "article": "Cumbia villera",
+   "via": "commons-category",
+   "file": "Tu_Fazo_En_Vivo_Show.jpg",
+   "size": "960x640",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Cyber Metal",
+   "article": "Industrial metal",
+   "via": "article",
+   "file": "NIN2009torontoVFEST.png",
+   "size": "1280x720",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Dance Pop",
+   "article": "Dance-pop",
+   "via": "article",
+   "file": "Glasto17-132_(34777101343)_(cropped).jpg",
+   "size": "2159x2593",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Madonna_Confessions_Tour_Boombox-2.jpg: 344px wide"
+   ]
+  },
+  {
+   "name": "Dance Rock",
+   "article": "Dance-rock",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Dancehall",
+   "article": "Dancehall",
+   "via": "article",
+   "file": "Dizzy_Dee_&_Dancehall_artist_Slicker_1.jpg",
+   "size": "1500x1000",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Nuvola_Jamaican_flag.svg: not on Commons",
+    "Yellowman_backed_by_Sagittarius_Band,_Bersenbrueck_2007_-1_(cropped).jpg: 304px wide"
+   ]
+  },
+  {
+   "name": "Dangdut",
+   "article": "Dangdut",
+   "via": "lead",
+   "file": "Members_Royal_Crown_Music_HA_Concert_2.jpg",
+   "size": "4608x3072",
+   "licence": "CC BY 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Traditional_indonesian_instruments04.jpg: licence GFDL 1.2",
+    "Rhoma_Irama_gives_lecture.jpg: 340px wide"
+   ]
+  },
+  {
+   "name": "Dansband",
+   "article": "Dansband",
+   "via": "article",
+   "file": "Kikki_Danielsson.JPG",
+   "size": "2140x1901",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Nuvola_Swedish_flag.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Danseband",
+   "article": "Dansband",
+   "via": "article",
+   "file": "Lotta_Engberg.JPG",
+   "size": "1468x1941",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Nuvola_Swedish_flag.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Dansktop",
+   "article": null,
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Dark Ambient",
+   "article": "Dark ambient",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Lustmord_cropped.jpg: 448px wide"
+   ]
+  },
+  {
+   "name": "Dark Cabaret",
+   "article": "Dark cabaret",
+   "via": "p18",
+   "file": "Amanda_Palmer,_Auckland,_2.jpg",
+   "size": "2336x3504",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Dark Psytrance",
+   "article": "Psychedelic trance",
+   "via": "p18",
+   "file": "Neon2015.jpg",
+   "size": "1400x1400",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Retro-flower-ornaments.svg: not on Commons",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Dark Wave",
+   "article": "Dark wave",
+   "via": "p18",
+   "file": "20160723_Köln_Amphi_Blutengel_0052.jpg",
+   "size": "4240x2830",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Xymox_1989_220px.jpg: 220px wide",
+    "The_Frozen_Autumn.jpg: 425px wide"
+   ]
+  },
+  {
+   "name": "Darkstep",
+   "article": "Drum and bass",
+   "via": "lead",
+   "file": "Dextrous_Switzerland.jpg",
+   "size": "2449x2449",
+   "licence": "CC0",
+   "sharedWith": null,
+   "rejected": [
+    "Roland_TR-808_drum_machine.jpg: 447px wide"
+   ]
+  },
+  {
+   "name": "Death Metal",
+   "article": "Death metal",
+   "via": "p18",
+   "file": "Cannibal_Corpse_Rockharz_2018_01.jpg",
+   "size": "5760x3840",
+   "licence": "Attribution",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Deathgrind",
+   "article": "Deathgrind",
+   "via": "lead",
+   "file": "Assuck.ABC.No.Rio.again.jpg",
+   "size": "1000x916",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Deep Funk",
+   "article": "Deep funk",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Deep House",
+   "article": "Deep house",
+   "via": "override",
+   "file": "Deep_house_dj.jpeg",
+   "size": "975x650",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Delta Blues",
+   "article": "Delta blues",
+   "via": "commons-category",
+   "file": "David_Honeyboy_Edwards_and_band.jpg",
+   "size": "4301x2813",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Mississippi_Delta_SVG_Map.svg: not on Commons",
+    "Gnome-mime-audio-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Demoscene",
+   "article": "Demoscene",
+   "via": "p18",
+   "file": "Beyond_-_Conspiracy_-_2004_-_64k_intro.jpg",
+   "size": "800x450",
+   "licence": "CC BY-SA 2.5",
+   "sharedWith": null,
+   "rejected": [
+    "Future_Crew_-_Second_Reality_(1993)_(60fps)_(iw17c70uJes).webm: not on Commons",
+    "Plasma_effect.jpg: 320px wide",
+    "FC-SR-logo.jpg: not a photo"
+   ]
+  },
+  {
+   "name": "Detroit Hip Hop",
+   "article": "Music of Detroit",
+   "via": "article",
+   "file": "DellaReeseJuly09.jpg",
+   "size": "2000x2804",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Detroit_Jazz_Festival_in_Hart_Plaza_2009.jpg: 320px wide",
+    "Max_Fisher_Music_Center_in_Detroit,_MI.jpg: 320px wide",
+    "Degenerates_composite.JPG: 241px wide"
+   ]
+  },
+  {
+   "name": "Detroit Techno",
+   "article": "Detroit techno",
+   "via": "article",
+   "file": "The_Belleville_Three_at_The_Detroit_Masonic_Temple_2017_2.png",
+   "size": "4608x3062",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Didgeridoo",
+   "article": "Didgeridoo",
+   "via": "article",
+   "file": "Didgeridoo_(Imagicity_1070).jpg",
+   "size": "3951x2624",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Didgeridoo_Embout1.jpg: 320px wide"
+   ]
+  },
+  {
+   "name": "Digital Hardcore",
+   "article": "Digital hardcore",
+   "via": "article",
+   "file": "Atari_Teenage_Riot_2010_02.jpg",
+   "size": "968x651",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Disco",
+   "article": "Disco",
+   "via": "lead",
+   "file": "Disco_TGI_Bar_by_John_Vance.jpg",
+   "size": "2747x1819",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Blue_disco_quad_roller_skates.jpg: 200px wide"
+   ]
+  },
+  {
+   "name": "Disco House",
+   "article": "French house",
+   "via": "p18",
+   "file": "DaftAlive.jpeg",
+   "size": "1269x850",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-audio-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Dixieland",
+   "article": "Dixieland jazz",
+   "via": "article",
+   "file": "Internationales_Dixieland_Festival_2012_Dresden_8.JPG",
+   "size": "2560x1920",
+   "licence": "CC0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Djent",
+   "article": "Djent",
+   "via": "override",
+   "file": "Fredrik_Thordendal_Meshuggah_Live_at_Getaway_Rock_Festival_2012.jpg",
+   "size": "1067x1570",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Doo-Wop",
+   "article": "Doo-wop",
+   "via": "article",
+   "file": "EarthAngels-with-KathyYoung.jpg",
+   "size": "2048x1536",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "The_Moonglows_1956.jpg: 445px wide",
+    "Herman_Santiago.jpg: 260px wide"
+   ]
+  },
+  {
+   "name": "Doom Metal",
+   "article": "Doom metal",
+   "via": "p18",
+   "file": "Candlemass_@_Rock_Hard_Festival_2017_008.jpg",
+   "size": "4513x3009",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Tony_Iommi_live_with_Heaven_and_Hell_at_the_Forum,_Inglewood,_California,_2007.jpg: 409px wide",
+    "ElectricWizard_by_Christian_Misje_02.jpg: no thumbnail"
+   ]
+  },
+  {
+   "name": "Doomcore",
+   "article": "Hardcore (electronic dance music genre)",
+   "via": "commons-category",
+   "file": "20151115_ghosttown-stephan_105-8517.jpg",
+   "size": "5760x3840",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "BranMoviC_Hakken.gif: not on Commons",
+    "Early_Hardcore_symbol.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Doujin",
+   "article": "Doujin",
+   "via": "article",
+   "file": "Comicmarket62_00.JPG",
+   "size": "2048x1536",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Downtempo",
+   "article": "Downtempo",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Dream Pop",
+   "article": "Dream pop",
+   "via": "p18",
+   "file": "Chris_Lush.jpeg",
+   "size": "1736x1551",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Drone Metal",
+   "article": "Drone metal",
+   "via": "p18",
+   "file": "Droneberg_Berlin_Monarch_Apr_16_2015_101.jpg",
+   "size": "4000x6000",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Drum and Bass",
+   "article": "Drum and bass",
+   "via": "article",
+   "file": "Pirate_station_moscow_2009.jpg",
+   "size": "1940x1291",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Roland_TR-808_drum_machine.jpg: 447px wide"
+   ]
+  },
+  {
+   "name": "Drumfunk",
+   "article": "Drum and bass",
+   "via": "article",
+   "file": "Pendulum_CopenhagenNov2010.jpg",
+   "size": "2592x1936",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Roland_TR-808_drum_machine.jpg: 447px wide"
+   ]
+  },
+  {
+   "name": "Dub",
+   "article": "Dub music",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Dub Techno",
+   "article": "Dub techno",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Duranguense",
+   "article": "Duranguense",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Dutch House",
+   "article": "Electro house",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "all usable photos already used by Complextro"
+   ]
+  },
+  {
+   "name": "Dutch Pop",
+   "article": "Music of the Netherlands",
+   "via": "p18",
+   "file": "Historische_Jachthoorn,_tamboer_en_trompetterkorpsen_Nationale_Taptoe_2015_-_Coolsingel_-_Rotterdam_(21707388585).jpg",
+   "size": "4519x3389",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Bevrijdingsfestival_2008_-_Within_Tempation_02_cropped.jpg: licence GFDL 1.2"
+   ]
+  },
+  {
+   "name": "Early Music",
+   "article": "Early music",
+   "via": "article",
+   "file": "Akademie_für_Alte_Musik_Berlin_3608.JPG",
+   "size": "3264x2448",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "East Coast Hip Hop",
+   "article": "East Coast hip-hop",
+   "via": "article",
+   "file": "RZA_7_Shankbone_2009_Tao_of_Wu.jpg",
+   "size": "1980x2425",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Easy Listening",
+   "article": "Easy listening",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Electric Blues",
+   "article": "Electric blues",
+   "via": "p18",
+   "file": "Eric_Clapton_1.jpg",
+   "size": "4272x2848",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Electro House",
+   "article": "Electro house",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "all usable photos already used by Complextro"
+   ]
+  },
+  {
+   "name": "Electro Swing",
+   "article": "Electro swing",
+   "via": "commons-category",
+   "file": "Bal_de_la_bourse_2014.jpg",
+   "size": "2048x1378",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Electro-Industrial",
+   "article": "Electro-industrial",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "all usable photos already used by Aggrotech"
+   ]
+  },
+  {
+   "name": "Electroacoustic Improvisation",
+   "article": "Live electronic music",
+   "via": "article",
+   "file": "Shiraz_39.jpg",
+   "size": "1571x949",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Telharmonium-01_cropped.png: 442px wide",
+    "Farmers_Manual_2002.jpg: licence DSL",
+    "Rowe_Solo.jpg: 332px wide"
+   ]
+  },
+  {
+   "name": "Electroclash",
+   "article": "Electroclash",
+   "via": "lead",
+   "file": "Fischerspooner_NYC_2005.jpg",
+   "size": "640x480",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Electronicore",
+   "article": "Electronicore",
+   "via": "article",
+   "file": "Enter_Shikari_-_Clewlow_in_2012.jpg",
+   "size": "1500x1000",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Elektropunk",
+   "article": "Electronic rock",
+   "via": "override",
+   "file": "Silvers_Apples,_Headrow_House,_Leeds,_2016.jpg",
+   "size": "2681x2011",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Emo",
+   "article": "Emo",
+   "via": "article",
+   "file": "Sunny_Day_Real_Estate_2010.jpg",
+   "size": "2592x1944",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "John_Nolan.jpg: licence ",
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Emo-hairstyle.jpg: no thumbnail",
+    "Fall_Out_Boy_in_concert.jpg: 424px wide",
+    "Pete_Wentz_of_Fall_Out_Boy_October_2009_(cropped).jpg: 347px wide"
+   ]
+  },
+  {
+   "name": "Enka",
+   "article": "Enka",
+   "via": "article",
+   "file": "Murata_Hideo_museum.jpg",
+   "size": "1536x1152",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Azenbo_Soeda.jpg: 418px wide"
+   ]
+  },
+  {
+   "name": "Ethereal Wave",
+   "article": "Ethereal wave",
+   "via": "article",
+   "file": "Virage_sépia.jpg",
+   "size": "1200x798",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Autumn's_Grey_Solace.jpg: not on Commons"
+   ]
+  },
+  {
+   "name": "Eurodance",
+   "article": "Eurodance",
+   "via": "article",
+   "file": "Pandora_(artist).JPG",
+   "size": "886x860",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Europop",
+   "article": "Europop",
+   "via": "override",
+   "file": "Boney_M.jpg",
+   "size": "1929x1285",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Exotica",
+   "article": "Exotica",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Ritualofthesavage.jpg: not on Commons"
+   ]
+  },
+  {
+   "name": "Experimental Rock",
+   "article": "Experimental rock",
+   "via": "p18",
+   "file": "Moonlander_&_Moodswinger.jpg",
+   "size": "1351x1785",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Helix,_v.4,_no.8,_Sep._26,_1968_-_DPLA_-_bd488c361fd42c539d1cd78a0e4af0c1_(page_15).jpg: not a photo",
+    "Frank_Zappa_-_Capt._Beefheart_-_crop.jpg: 418px wide",
+    "Brian_Eno_-_TopPop_1974_08.png: no thumbnail"
+   ]
+  },
+  {
+   "name": "Fado",
+   "article": "Fado",
+   "via": "p18",
+   "file": "Old_Portuguese_Tiles_O_Fado_(2861589727).jpg",
+   "size": "2796x2010",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Port-guitar-silva-1796.jpg: 290px wide",
+    "Maria_Severa_-_Fado-Sängerin.jpg: 338px wide"
+   ]
+  },
+  {
+   "name": "Filmi",
+   "article": "Hindi film music",
+   "via": "lead",
+   "file": "Bollywood_Playback_Singers.jpg",
+   "size": "585x388",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Tyagaraja.jpg: 280px wide"
+   ]
+  },
+  {
+   "name": "Filthstep",
+   "article": "Dubstep",
+   "via": "article",
+   "file": "BorgoreCAMPBSICOX.jpg",
+   "size": "1545x1024",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Fingerstyle",
+   "article": "Fingerstyle guitar",
+   "via": "article",
+   "file": "Paco_Peña_in_1984.jpg",
+   "size": "2916x1939",
+   "licence": "CC BY 2.5",
+   "sharedWith": null,
+   "rejected": [
+    "Guitarist_John_Williams_in_performance_(Cordoba,_1986).jpg: 247px wide",
+    "Bossa-nova-rhythm1.svg: not on Commons",
+    "Clawhammer_bum-ditty.png: shape 4.09",
+    "Fingandslide.jpg: no thumbnail",
+    "Jeff_Beck.jpg: 373px wide"
+   ]
+  },
+  {
+   "name": "Flamenco",
+   "article": "Flamenco",
+   "via": "override",
+   "file": "Sargent_John_Singer_Spanish_Dancer.jpg",
+   "size": "793x1132",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Folk Metal",
+   "article": "Folk metal",
+   "via": "p18",
+   "file": "Metalmania_2007_-_Korpiklaani_-_Jonne_Järvelä_04.jpg",
+   "size": "3872x2592",
+   "licence": "CC BY-SA 2.5",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Alan_Averill.jpg: 333px wide"
+   ]
+  },
+  {
+   "name": "Folk Punk",
+   "article": "Folk punk",
+   "via": "article",
+   "file": "Crass_Pub_Fest_I.jpg",
+   "size": "942x625",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Folk Rock",
+   "article": "Folk rock",
+   "via": "p18",
+   "file": "The_Levellers.jpg",
+   "size": "1913x1270",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Jethro-Tull-cropped.jpg: 443px wide",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Folk-Pop",
+   "article": "Folk-pop",
+   "via": "p18",
+   "file": "Taylor_Swift_103_(18118974610).jpg",
+   "size": "2779x1980",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Footwork",
+   "article": "Footwork (genre)",
+   "via": "article",
+   "file": "Mike_Paradinas_(cropped).jpg",
+   "size": "1806x1229",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Forró",
+   "article": "Forró",
+   "via": "lead",
+   "file": "Caruaru-São-João-2005-Trio-forró.jpg",
+   "size": "1600x1200",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Freakbeat",
+   "article": "Freakbeat",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Free Jazz",
+   "article": "Free jazz",
+   "via": "article",
+   "file": "Ornette_Coleman_3.JPG",
+   "size": "2112x2816",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "French Pop",
+   "article": "French pop music",
+   "via": "p18",
+   "file": "Les_Rita_Mitsouko_f7692871.jpg",
+   "size": "4368x2912",
+   "licence": "CC BY-SA 2.0 fr",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Full On",
+   "article": "Psychedelic trance",
+   "via": "p18",
+   "file": "Main_stage_(9501905395).jpg",
+   "size": "3008x1723",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Retro-flower-ornaments.svg: not on Commons",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Funeral Doom",
+   "article": "Doom metal",
+   "via": "article",
+   "file": "My_Dying_Bride_44.jpg",
+   "size": "1600x1200",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Tony_Iommi_live_with_Heaven_and_Hell_at_the_Forum,_Inglewood,_California,_2007.jpg: 409px wide",
+    "ElectricWizard_by_Christian_Misje_02.jpg: no thumbnail"
+   ]
+  },
+  {
+   "name": "Funk",
+   "article": "Funk",
+   "via": "lead",
+   "file": "James-Brown_1973.jpg",
+   "size": "2047x1368",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Funk.tiff: shape 7.18",
+    "Thirteenth_chord_collapsed.png: not a photo",
+    "Stone3.jpg: not on Commons",
+    "Anitta_Heat_Latin_Music_Awards_2021.jpg: 380px wide",
+    "Talking_Heads_band1.jpg: 402px wide",
+    "Dr._Dre_in_2011.jpg: 224px wide"
+   ]
+  },
+  {
+   "name": "Funk Carioca",
+   "article": "Funk carioca",
+   "via": "override",
+   "file": "Rocinha_road_2010.JPG",
+   "size": "4288x2848",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Funk das Antigas",
+   "article": "Funk carioca",
+   "via": "override",
+   "file": "Museu_da_Lingua_Portuguesa_2026_funk_6.jpg",
+   "size": "4032x2268",
+   "licence": "CC0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Funk Metal",
+   "article": "Funk metal",
+   "via": "article",
+   "file": "Rage_Against_The_Machine_at_Vegoose_2007_11.jpg",
+   "size": "3072x2304",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Funk Rock",
+   "article": "Funk rock",
+   "via": "article",
+   "file": "Rhcp2013.jpg",
+   "size": "2000x1330",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Futurepop",
+   "article": "Futurepop",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "G Funk",
+   "article": "G-funk",
+   "via": "p18",
+   "file": "Snoop_Dogg_and_Dr._Dre.jpg",
+   "size": "1024x680",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Dr._Dre_in_2011.jpg: 224px wide"
+   ]
+  },
+  {
+   "name": "Gamelan",
+   "article": "Gamelan",
+   "via": "p18",
+   "file": "165_Museu_de_la_Música,_gamelan.jpg",
+   "size": "2816x1704",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Traditional_indonesian_instruments04.jpg: licence GFDL 1.2",
+    "Nagarakertagama.jpg: 443px wide",
+    "Gong_and_Chime_Culture_Map.jpg: not a photo",
+    "Gamelandegung.jpg: 344px wide",
+    "Michael_Tenzer.jpg: 400px wide",
+    "Saman_dance.jpg: no thumbnail"
+   ]
+  },
+  {
+   "name": "Gangster Rap",
+   "article": "Gangsta rap",
+   "via": "lead",
+   "file": "MC_Ren_of_NWA_Los_Angeles_1990_photographed_by_Ithaka_Darin_Pappas.jpg",
+   "size": "2160x1599",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Garage Punk",
+   "article": "Garage rock",
+   "via": "article",
+   "file": "The_D-Men_1964.JPG",
+   "size": "1891x1480",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "The_Music_Machine.png: 401px wide",
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Five_Americans.png: 385px wide",
+    "Fanclub_-_Q65_-_Jay_Baar_3.png: no thumbnail",
+    "The_monks_1966.jpg: 348px wide"
+   ]
+  },
+  {
+   "name": "Garage Rock",
+   "article": "Garage rock",
+   "via": "article",
+   "file": "The_Standells.png",
+   "size": "1261x857",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "The_Music_Machine.png: 401px wide",
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Five_Americans.png: 385px wide",
+    "Fanclub_-_Q65_-_Jay_Baar_3.png: no thumbnail",
+    "The_monks_1966.jpg: 348px wide"
+   ]
+  },
+  {
+   "name": "German Punk",
+   "article": "German punk",
+   "via": "article",
+   "file": "Zwitschermaschine.jpg",
+   "size": "1607x973",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Ghettotech",
+   "article": "Ghettotech",
+   "via": "article",
+   "file": "Detroit_Electronic_Music_Festival_2002_main_stage_after_dark.jpg",
+   "size": "1600x1200",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Glam Metal",
+   "article": "Glam metal",
+   "via": "p18",
+   "file": "KixSteveWhiteman1983.jpg",
+   "size": "2719x1913",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "New_York_Dolls_-_TopPop_1973_11.png: no thumbnail"
+   ]
+  },
+  {
+   "name": "Glam Rock",
+   "article": "Glam rock",
+   "via": "article",
+   "file": "Noddy_Holder_-_Slade_-_1973.jpg",
+   "size": "1660x2498",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Glitch Hop",
+   "article": "Glitch (music)",
+   "via": "override",
+   "file": "Electric_Zoo_-_The_Glitch_Mob.jpg",
+   "size": "4032x3024",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Goa Trance",
+   "article": "Goa trance",
+   "via": "p18",
+   "file": "Simon_Posford_at_Soulclipse.jpg",
+   "size": "2496x1567",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Goregrind",
+   "article": "Goregrind",
+   "via": "override",
+   "file": "Haemorrhage_at_Barroselas_metalfest.jpg",
+   "size": "2592x1944",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Gothic Metal",
+   "article": "Gothic metal",
+   "via": "p18",
+   "file": "Tiamat_Rockharz_Open_Air_2014_17.JPG",
+   "size": "5184x3456",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Black_Sabbath_debut_album.jpg: not on Commons",
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Ville_Valo_by_welovethedark.jpg: no thumbnail"
+   ]
+  },
+  {
+   "name": "Gothic Rock",
+   "article": "Gothic rock",
+   "via": "article",
+   "file": "Doors_electra_publicity_photo.JPG",
+   "size": "1526x1132",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Grindcore",
+   "article": "Grindcore",
+   "via": "p18",
+   "file": "Napalm_Death_on_6_March_2019_in_Tokyo,_Japan.jpg",
+   "size": "3440x2580",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "BrutalTruth_by_Christian_Misje_02.jpg: no thumbnail"
+   ]
+  },
+  {
+   "name": "Groove Metal",
+   "article": "Groove metal",
+   "via": "article",
+   "file": "Dimebag_Darrell_with_Pantera.jpg",
+   "size": "1200x1800",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Grunge",
+   "article": "Grunge",
+   "via": "article",
+   "file": "Seattle_Music_Scene_Exhibit_3,_EMP_Museum.jpg",
+   "size": "2448x3264",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Nirvana_around_1992.jpg: 367px wide",
+    "Jerry_Cantrell_2.jpg: 419px wide",
+    "BleachYour_Works.png: shape 4.63",
+    "Neil_Young_1976.jpg: 333px wide",
+    "CosmicPsychos2007.jpg: no thumbnail",
+    "Deep_Six_ad_-_The_Rocket_(1986).jpg: not a photo"
+   ]
+  },
+  {
+   "name": "Grupera",
+   "article": "Grupera",
+   "via": "lead",
+   "file": "Ana_Bárbara_2005.jpg",
+   "size": "800x600",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Gypsy Jazz",
+   "article": "Gypsy jazz",
+   "via": "lead",
+   "file": "Tchavolo_Schmitt_&_Steeve_Laffont.jpg",
+   "size": "1709x961",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Quintette_du_hot_club_de_France.jpg: 400px wide",
+    "Gypsophilia_adjust.jpg: shape 3.05",
+    "Hänsche_Weiss_Signature.jpg: not a photo"
+   ]
+  },
+  {
+   "name": "Happy Hardcore",
+   "article": "Happy hardcore",
+   "via": "p18",
+   "file": "Dj-paul-elstak-1305292754.jpg",
+   "size": "768x632",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Hard Alternative",
+   "article": "Alternative metal",
+   "via": "article",
+   "file": "Kornmaa2006.jpg",
+   "size": "1752x1168",
+   "licence": "CC BY 2.5",
+   "sharedWith": null,
+   "rejected": [
+    "Adam_&_Maynard_Coachella_2006_(546341525).jpg: no thumbnail"
+   ]
+  },
+  {
+   "name": "Hard Bop",
+   "article": "Hard bop",
+   "via": "article",
+   "file": "Nachtconcert_van_het_Horeca_Silverquintet_in_het_concertgebouw_te_Amsterdam,_Bestanddeelnr_910-1687.jpg",
+   "size": "4271x3304",
+   "licence": "CC0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Hard House",
+   "article": "UK hard house",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Hard Rock",
+   "article": "Hard rock",
+   "via": "p18",
+   "file": "Jimmy_Page_with_Robert_Plant_2_-_Led_Zeppelin_-_1977.jpg",
+   "size": "1846x1663",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Backbeat_chop.png: shape 4.60",
+    "Nirvana_around_1992.jpg: 367px wide"
+   ]
+  },
+  {
+   "name": "Hardcore Hip Hop",
+   "article": "Hardcore hip-hop",
+   "via": "p18",
+   "file": "BCN_-_20150817_-_206_(21767784550).jpg",
+   "size": "1600x1067",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Hardcore Punk",
+   "article": "Hardcore punk",
+   "via": "article",
+   "file": "Bad_brains_1983.jpg",
+   "size": "3484x2336",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Jello-Biafra.jpg: 281px wide",
+    "Antisect_Brighton_1985.jpg: no thumbnail",
+    "Guy_Picciotto.jpg: 325px wide"
+   ]
+  },
+  {
+   "name": "Hardcore Techno",
+   "article": "Hardcore (electronic dance music genre)",
+   "via": "commons-category",
+   "file": "Brutalismus_3000_bei_Europaträume_Tour_in_Frankfurt_2024.jpg",
+   "size": "3472x4624",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "BranMoviC_Hakken.gif: not on Commons",
+    "Early_Hardcore_symbol.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Harp",
+   "article": "Harp",
+   "via": "override",
+   "file": "Lavinia_Meijer_playing_the_harp,_2011.jpg",
+   "size": "2138x3543",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Harpsichord",
+   "article": "Harpsichord",
+   "via": "lead",
+   "file": "ClavecinRuckers&Taskin.JPG",
+   "size": "1944x2592",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-audio-openclipart.svg: not on Commons",
+    "HarpsichordMechanism-EN.svg: not on Commons",
+    "Jack_diagram-EN.svg: not on Commons",
+    "Harpsichord_jack_action.svg: not on Commons",
+    "Shove_Coupler.svg: not on Commons",
+    "Dogleg_shove_coupler.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Hauntology",
+   "article": "Hauntology (music)",
+   "via": "lead",
+   "file": "BBC_Radiophonic_Workshop_(1958-98)_machines_-_Tape_Recorder_with_tape_loop_equipment,_Beat_Frequency_Oscillator_&_EMS_Putney_VCS3.jpg",
+   "size": "3264x2448",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Highlife",
+   "article": "Highlife",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Highlife_guitar.tif: shape 3.21",
+    "Armstrong-Mensahinvitation.jpg: no thumbnail"
+   ]
+  },
+  {
+   "name": "Hindustani Classical",
+   "article": "Hindustani classical music",
+   "via": "article",
+   "file": "Barbed_rubab_(lute),_1660-1670_CE,_Golkonda.png",
+   "size": "905x1200",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Dhrupad_2.jpg: 300px wide",
+    "Murasu.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Hip Hop",
+   "article": "Hip-hop",
+   "via": "p18",
+   "file": "Dj_Grandmaster_Flash-01-mika.jpg",
+   "size": "1350x889",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Cassius_Clay_-_Sept_1963_-_Boxing_&_Wrestling_Magazine_Cover.jpg: not a photo",
+    "Roland_TR-808_drum_machine.jpg: 447px wide",
+    "FBI_letter_about_N.W.A..png: not a photo",
+    "Kanyewestdec2008.jpg: licence GFDL 1.2"
+   ]
+  },
+  {
+   "name": "Hip Hop Tuga",
+   "article": "Hip-hop tuga",
+   "via": "lead",
+   "file": "General_D_the_godfather_of_Portuguese_hip_hop_in_Lisbon,_Portugal_1993._Photograph_by_Ithaka_Darin_Pappas.jpg",
+   "size": "1776x2160",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Hip House",
+   "article": "Hip house",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Hiplife",
+   "article": "Hiplife",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Horror Punk",
+   "article": "Horror punk",
+   "via": "p18",
+   "file": "ZombinaTheSkeletones.jpg",
+   "size": "2048x1365",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Misfits_(Michael_Graves).gif: not on Commons"
+   ]
+  },
+  {
+   "name": "Horrorcore",
+   "article": "Horrorcore",
+   "via": "lead",
+   "file": "Gravediggaz-02-mika.jpg",
+   "size": "1350x892",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Hyphy",
+   "article": "Hyphy",
+   "via": "override",
+   "file": "SOB_X_RBE_performing_in_Austin,_Texas_(2016-06-16).jpg",
+   "size": "1755x1315",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Indie Folk",
+   "article": "Indie folk",
+   "via": "p18",
+   "file": "Noah_and_the_Whale_2010.jpg",
+   "size": "3342x2228",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Indie Pop",
+   "article": "Indie pop",
+   "via": "article",
+   "file": "Television_Personalities_(5363667797).jpg",
+   "size": "2779x1821",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Indie Punk",
+   "article": "Indie rock",
+   "via": "article",
+   "file": "Velvet_Underground_&_Nico_publicity_photo_(retouched).jpg",
+   "size": "1498x1850",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Stevemalkmus(by_Scott_Dudelson).jpg: no thumbnail"
+   ]
+  },
+  {
+   "name": "Indie R&B",
+   "article": "Alternative R&B",
+   "via": "article",
+   "file": "The_Weeknd_with_hand_in_the_air_performing_live_in_Hong_Kong_in_November_2018_(cropped).jpg",
+   "size": "2560x3417",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Indie Rock",
+   "article": "Indie rock",
+   "via": "article",
+   "file": "The_Chills,_Indietracks_2014_10.jpg",
+   "size": "3489x1966",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Stevemalkmus(by_Scott_Dudelson).jpg: no thumbnail"
+   ]
+  },
+  {
+   "name": "Indietronica",
+   "article": "Electronic music",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Indorock",
+   "article": "Indorock",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Industrial Metal",
+   "article": "Industrial metal",
+   "via": "article",
+   "file": "Rammstein_Live_at_Madison_Square_Garden.jpg",
+   "size": "4320x3240",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Industrial Rock",
+   "article": "Industrial rock",
+   "via": "article",
+   "file": "KMFDM1.jpg",
+   "size": "2304x1536",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Intelligent Dance Music",
+   "article": "Intelligent dance music",
+   "via": "p18",
+   "file": "Aphex_Twin_ilosaarirock_2011.jpg",
+   "size": "5399x3599",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Irish Folk",
+   "article": "Irish traditional music",
+   "via": "lead",
+   "file": "Clannad_on_stage_at_Leeds_Folk_Festival,_UK,_1982_(photograph_by_Tony_Rees)_(4).jpg",
+   "size": "1755x2398",
+   "licence": "CC BY 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Tinwhistles.jpg: 300px wide",
+    "Liam_O'Flinn.jpg: 250px wide",
+    "GibsonA4Mandolin1921.jpg: 216px wide",
+    "Martin_D28_Acoustic_Guitar.jpg: 204px wide",
+    "Irish_Bouzouki.jpg: 322px wide",
+    "Bodhran.jpg: 216px wide"
+   ]
+  },
+  {
+   "name": "Italo Dance",
+   "article": "Italo dance",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "J-Pop",
+   "article": "J-pop",
+   "via": "p18",
+   "file": "2019.01.26「第14回_KKBOX_MUSIC_AWARDS_in_Taiwan」乃木坂46_@台北小巨蛋_(46830410112).jpg",
+   "size": "5568x3712",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "J-Punk",
+   "article": "Music of Japan",
+   "via": "p18",
+   "file": "Three_Women_Playing_Musical_Instruments.jpg",
+   "size": "3144x2188",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Nobuo_Uematsu.jpg: 248px wide"
+   ]
+  },
+  {
+   "name": "J-Rock",
+   "article": "Japanese rock",
+   "via": "article",
+   "file": "The_Spiders.jpg",
+   "size": "3648x2406",
+   "licence": "No restrictions",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Jam Band",
+   "article": "Jam band",
+   "via": "lead",
+   "file": "Blues_Traveler_20081004.jpg",
+   "size": "2099x1831",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Cream_on_Fanclub_1968.png: no thumbnail"
+   ]
+  },
+  {
+   "name": "Jangle Pop",
+   "article": "Jangle pop",
+   "via": "p18",
+   "file": "1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg",
+   "size": "2235x2628",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Jazz",
+   "article": "Jazz",
+   "via": "p18",
+   "file": "Louis_Armstrong_restored.jpg",
+   "size": "3738x2912",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "EubieBlake.jpg: 200px wide",
+    "Scott_Joplin_19072.jpg: 200px wide",
+    "WC_Handy_age_19_handyphoto10.jpg: 160px wide",
+    "Bolden_band.gif: not on Commons",
+    "MortonBricktopRowCropMortonFace.jpg: 114px wide",
+    "Gnome-mime-audio-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Jazz Funk",
+   "article": "Jazz-funk",
+   "via": "override",
+   "file": "Jazz-funk_band_durning_a_concert.jpg",
+   "size": "5568x3374",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Jazz Fusion",
+   "article": "Jazz fusion",
+   "via": "p18",
+   "file": "Return_to_Forever_1976.jpg",
+   "size": "3089x2048",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Larry_Coryell_1979.jpg: 420px wide",
+    "JohnMcLaughlin.jpg: 320px wide"
+   ]
+  },
+  {
+   "name": "Jazz Metal",
+   "article": "Jazz fusion",
+   "via": "p18",
+   "file": "Miles_Davis_24.jpg",
+   "size": "1614x1187",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Larry_Coryell_1979.jpg: 420px wide",
+    "JohnMcLaughlin.jpg: 320px wide"
+   ]
+  },
+  {
+   "name": "Jump Blues",
+   "article": "Jump blues",
+   "via": "article",
+   "file": "Louis_Jordan,_New_York,_N.Y.,_ca._July_1946_(William_P._Gottlieb_04731).jpg",
+   "size": "936x1256",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Jumpstyle",
+   "article": "Jumpstyle",
+   "via": "override",
+   "file": "Koefnoen_jumpstyle.jpg",
+   "size": "3888x2592",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "K-Pop",
+   "article": "K-pop",
+   "via": "p18",
+   "file": "K-pop_boybands.jpg",
+   "size": "1588x980",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Search_volume_for_kpop.svg: not on Commons",
+    "South_Korean_exports_of_cultural_products_and_services.jpg: licence GPL",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Kindermusik",
+   "article": null,
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Kirtan",
+   "article": "Kirtan",
+   "via": "lead",
+   "file": "Chaitanya_sankirtan.jpg",
+   "size": "3477x2384",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Kizomba",
+   "article": "Kizomba",
+   "via": "article",
+   "file": "Ebo_Anderson_Jnr.jpg",
+   "size": "2160x2700",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Klapa",
+   "article": "Klapa",
+   "via": "lead",
+   "file": "Klapa_Sagena_koncert_Križ_nek_ti_sačuva_ime_Vatroslav_Lisinski_7_rujna_2008.jpg",
+   "size": "1200x703",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Klezmer",
+   "article": "Klezmer",
+   "via": "lead",
+   "file": "Tanz_des_Marschelik,_Spassmacher_(1902_postcard).png",
+   "size": "1290x842",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "C_Jewish_scale.PNG: not a photo",
+    "Ukrainian_Dorian_mode_on_C.png: shape 3.21",
+    "Mixolydian_mode_C.png: shape 3.43",
+    "Aeolian_mode_C.png: shape 3.43",
+    "Portrait_of_Pedotser_(A.M._Kholodenko).jpg: 376px wide",
+    "Max_Leibowitz_orchestra_from_1921_score_cover_(Cropped).jpg: not a photo"
+   ]
+  },
+  {
+   "name": "Kompa",
+   "article": "Compas",
+   "via": "lead",
+   "file": "Danse_compas_01.jpg",
+   "size": "1351x2000",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Korean Pop",
+   "article": "K-pop",
+   "via": "article",
+   "file": "Yoon_Mi_Rae_and_Tiger_JK.jpg",
+   "size": "1728x1152",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Search_volume_for_kpop.svg: not on Commons",
+    "South_Korean_exports_of_cultural_products_and_services.jpg: licence GPL",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Krautrock",
+   "article": "Krautrock",
+   "via": "article",
+   "file": "Can_1972_(Heinrich_Klaffs_Collection_102).jpg",
+   "size": "1024x680",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Kuduro Antigo",
+   "article": "Kuduro",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Kwaito",
+   "article": "Kwaito",
+   "via": "article",
+   "file": "M'du_Performing_Live_On_Stage.jpg",
+   "size": "600x600",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Laïko",
+   "article": "Laïko",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Nuvola_Greek_flag.svg: not on Commons",
+    "Marinella-liveathinonarena.jpg: not on Commons",
+    "AnnaVissiatAthinonArena.jpg: 332px wide"
+   ]
+  },
+  {
+   "name": "Latin Alternative",
+   "article": "Latin alternative",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Latin Jazz",
+   "article": "Latin jazz",
+   "via": "article",
+   "file": "Airto_Moreira.jpg",
+   "size": "1600x1200",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Tresillo_divisive.png: 362px wide",
+    "MortonBricktopRowCropMortonFace.jpg: 114px wide",
+    "Big_four_Buddy_Bolden.png: shape 4.83",
+    "Tanga_piano_guajeo.jpg: shape 5.28",
+    "Manteca_=_bell_pattern.tif: shape 2.95",
+    "Afro_blue_bass.jpg: shape 4.92"
+   ]
+  },
+  {
+   "name": "Latin Metal",
+   "article": "Latin metal",
+   "via": "lead",
+   "file": "Angeles_del_Infierno_1º_Formación_sobre_el_escenario_Madrid_1985.jpg",
+   "size": "1747x1080",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Latin Pop",
+   "article": "Latin pop",
+   "via": "article",
+   "file": "Ricky_Martin_in_store_appearance,_Sydney_Australia_(1).jpg",
+   "size": "2336x3504",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Thalía_Primera_Fila_cropped.jpg: 363px wide"
+   ]
+  },
+  {
+   "name": "Levenslied",
+   "article": "Levenslied",
+   "via": "lead",
+   "file": "Opnamen_in_Flint_in_Amersfoort_van_programma_over_zanger_Andre_Hazes_dat_de_TROS,_Bestanddeelnr_931-9555.jpg",
+   "size": "3680x2443",
+   "licence": "CC0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Liedermacher",
+   "article": "Singer-songwriter",
+   "via": "lead",
+   "file": "Joan_Baez_Bob_Dylan.jpg",
+   "size": "2898x2049",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Fabrizio_De_Andrè.jpg: 323px wide",
+    "Bundesarchiv_Bild_183-R1202-0019,_Berlin,_Palast_der_Republik,_Bulat_Okudshawa_cropped.jpg: 288px wide"
+   ]
+  },
+  {
+   "name": "Light Music",
+   "article": "Light music",
+   "via": "lead",
+   "file": "Scarborough_Spa_Orchestra.jpg",
+   "size": "3264x2208",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Eric_Coates_-_Suite_in_Four_Movements.jpg: not on Commons"
+   ]
+  },
+  {
+   "name": "Liquid Funk",
+   "article": "Liquid drum and bass",
+   "via": "lead",
+   "file": "Netsky_purple_3_Liquicity_Festival_2015.jpg",
+   "size": "4128x2322",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Lo-Fi",
+   "article": "Lo-fi music",
+   "via": "lead",
+   "file": "Will_this_lo-fi_studio_work?.jpg",
+   "size": "1350x900",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Lovers Rock",
+   "article": "Lovers rock",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Kofi_Live_October_2012.jpg: 250px wide"
+   ]
+  },
+  {
+   "name": "Luk Thung",
+   "article": "Luk thung",
+   "via": "article",
+   "file": "เจนภพ_จบกระบวนวรรณ.jpg",
+   "size": "2896x4344",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Luk_Thung_Concert.jpg: no thumbnail",
+    "สุรพล_สมบัติเจริญ.webp: 400px wide"
+   ]
+  },
+  {
+   "name": "Madchester",
+   "article": "Madchester",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Madchester-logo.jpg: not on Commons",
+    "Retro-flower-ornaments.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Makossa",
+   "article": "Makossa",
+   "via": "lead",
+   "file": "Female_Makossa_Dancer_-_Enugu_State_-_Nigeria_-_01.jpg",
+   "size": "3454x4836",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Mambo",
+   "article": "Mambo (music)",
+   "via": "override",
+   "file": "The_Mambo_Tribe.jpg",
+   "size": "3000x1747",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Manele",
+   "article": "Manele",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Manele-ritmika.pdf: not on Commons"
+   ]
+  },
+  {
+   "name": "Marching Band",
+   "article": "Marching band",
+   "via": "p18",
+   "file": "West_Point_Band_Army_vs_N_Illinois_Review.jpg",
+   "size": "3871x2512",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "KSU_MB_block.jpg: not on Commons",
+    "Big_Ten_Conference_Marching_Band_Uniforms_West-East.png: shape 4.44"
+   ]
+  },
+  {
+   "name": "Mariachi",
+   "article": "Mariachi",
+   "via": "lead",
+   "file": "MX_MM_CANTEMOS_A_MAMÁ_DESDE_CASA_(49864889988).jpg",
+   "size": "3300x2200",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Mario_Santiago_y_Silvestre_Vargas.jpg: licence GFDL"
+   ]
+  },
+  {
+   "name": "Martial Industrial",
+   "article": "Martial industrial",
+   "via": "override",
+   "file": "Laibach_(17562319686).jpg",
+   "size": "2890x2168",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Math Rock",
+   "article": "Math rock",
+   "via": "article",
+   "file": "Albini_atp.jpg",
+   "size": "1066x1600",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Mbalax",
+   "article": "Mbalax",
+   "via": "article",
+   "file": "Tamadrum_YoussouNdour.jpg",
+   "size": "1000x666",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Melbourne Bounce",
+   "article": "Electro house",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "all usable photos already used by Complextro"
+   ]
+  },
+  {
+   "name": "Mellow Gold",
+   "article": null,
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Melodic Death Metal",
+   "article": "Melodic death metal",
+   "via": "p18",
+   "file": "Deadlock_Rockharz_2016_06.jpg",
+   "size": "5472x3648",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Melodic Hardcore",
+   "article": "Melodic hardcore",
+   "via": "article",
+   "file": "Touché_Amoré_-_Rock_am_Ring_2023-43738.jpg",
+   "size": "5508x3794",
+   "licence": "CC0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Melodic Metalcore",
+   "article": "Melodic metalcore",
+   "via": "p18",
+   "file": "20161202_Oberhausen_Ruhrpott_Metall_Meeting_Unearth_0035_Unearth.jpg",
+   "size": "5193x3466",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Memphis Blues",
+   "article": "Memphis blues",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "The_Memphis_Blues_1.jpg: rejected in review",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Memphis Soul",
+   "article": "Memphis soul",
+   "via": "article",
+   "file": "Sun_Studio.jpg",
+   "size": "1188x1784",
+   "licence": "CC BY-SA 2.5",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Merengue",
+   "article": "Merengue music",
+   "via": "article",
+   "file": "Merengue_dancing.jpg",
+   "size": "2495x3743",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Merseybeat",
+   "article": "Beat music",
+   "via": "p18",
+   "file": "Dave_Clark_Five_1966.JPG",
+   "size": "579x551",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Metalcore",
+   "article": "Metalcore",
+   "via": "p18",
+   "file": "Killswitch_Engage_-_Rock_am_Ring_2016_-_Mendig_-_027381510148_-_Leonhard_Kreissig_-_Canon_EOS_5D_Mark_II.jpg",
+   "size": "4012x2675",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Mexican Son",
+   "article": "Son mexicano",
+   "via": "article",
+   "file": "HuapangoAcuarela.JPG",
+   "size": "2592x3872",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Miami Bass",
+   "article": "Miami bass",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Microhouse",
+   "article": "Microhouse",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Military Band",
+   "article": "Military band",
+   "via": "lead",
+   "file": "Bild_BeT_2.jpg",
+   "size": "3072x2048",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Mexican_Massed_Bands.jpeg: shape 2.86",
+    "Korps_Musik_Upacara_Pasukan_Pengamanan_Presiden_Republik_Indonesia.jpeg: 137px wide",
+    "North_Korean_Massed_Bands.jpeg: shape 3.04"
+   ]
+  },
+  {
+   "name": "Minimal Techno",
+   "article": "Minimal techno",
+   "via": "article",
+   "file": "Robert_Hood_Live_@_Kennedys,_Dublin,_Ireland_2009.JPG",
+   "size": "2592x1944",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Minimal Wave",
+   "article": "Minimal wave",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Minimalism",
+   "article": "Minimal music",
+   "via": "override",
+   "file": "Philip_Glass_003.jpg",
+   "size": "2120x3328",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Mod Revival",
+   "article": "Mod revival",
+   "via": "article",
+   "file": "Mod_style_Lambretta_scooters.jpg",
+   "size": "800x600",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Mod_symbol.svg: not on Commons",
+    "Thejam.gif: not on Commons"
+   ]
+  },
+  {
+   "name": "Moombahton",
+   "article": "Moombahton",
+   "via": "p18",
+   "file": "Afrojack_in_action.jpg",
+   "size": "1792x1344",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Motown",
+   "article": "Motown",
+   "via": "article",
+   "file": "Berry_Gordy_House_Boston_Edison_Detroit.JPG",
+   "size": "2916x1456",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Motown_logo_with_wordmark.svg: not on Commons",
+    "Black_American_Heritage_flag.svg: not on Commons",
+    "Tamla_Motown_logo_variant_A.webp: not on Commons"
+   ]
+  },
+  {
+   "name": "Música Mexicana",
+   "article": "Regional Mexican music",
+   "via": "article",
+   "file": "Peso_Pluma_concierto_(cropped).png",
+   "size": "624x780",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Nasheed",
+   "article": "Nasheed",
+   "via": "override",
+   "file": "Sami_Yusuf_2011.jpg",
+   "size": "5616x3744",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Nashville Sound",
+   "article": "Nashville sound",
+   "via": "commons-category",
+   "file": "Chad_Gamble_at_the_\"The_Nashville_Sound\"_release_party,_Grimey's_New_and_Preloved_Music.jpg",
+   "size": "1299x1098",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Neo Metal",
+   "article": "New wave of American heavy metal",
+   "via": "p18",
+   "file": "Machine_Head_Live_Zurich.jpg",
+   "size": "2816x2112",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Neo Soul",
+   "article": "Neo soul",
+   "via": "article",
+   "file": "D'Angelo_Pori_Jazz_2012_(cropped).jpg",
+   "size": "1331x1663",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Neo-Rockabilly",
+   "article": "Rockabilly",
+   "via": "article",
+   "file": "Elvis_Presley_promoting_Jailhouse_Rock.jpg",
+   "size": "2673x3448",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Neoclassical Darkwave",
+   "article": "Dark wave",
+   "via": "article",
+   "file": "Dead_Can_Dance6.jpg",
+   "size": "1953x1302",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Xymox_1989_220px.jpg: 220px wide",
+    "The_Frozen_Autumn.jpg: 425px wide"
+   ]
+  },
+  {
+   "name": "Neofolk",
+   "article": "Neofolk",
+   "via": "p18",
+   "file": "Sol_Invictus_Live.jpg",
+   "size": "2048x1360",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Nerdcore",
+   "article": "Nerdcore",
+   "via": "article",
+   "file": "YTCracker_Performing_Live.jpg",
+   "size": "2848x4288",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Frontalot.jpg: 320px wide",
+    "Adult_Swim_(Symbol).svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Neue Deutsche Härte",
+   "article": "Neue Deutsche Härte",
+   "via": "p18",
+   "file": "Eisbrecher_Rockharz_2015_04.jpg",
+   "size": "5472x3648",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Neue Deutsche Welle",
+   "article": "Neue Deutsche Welle",
+   "via": "p18",
+   "file": "Trio19.jpg",
+   "size": "4067x2967",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "New Beat",
+   "article": "New beat",
+   "via": "p18",
+   "file": "LordsofAcid11_1_19.jpg",
+   "size": "560x640",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "New Jack Swing",
+   "article": "New jack swing",
+   "via": "p18",
+   "file": "캣츠아이(KATSEYE)_뮤직뱅크_출근길,_분위기로_올킬.jpg",
+   "size": "1590x964",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Janet_Tour.jpg: 330px wide",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "New Orleans Blues",
+   "article": "New Orleans blues",
+   "via": "lead",
+   "file": "Blues_Nightclub.jpg",
+   "size": "5568x3712",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "New Orleans Jazz",
+   "article": "Dixieland jazz",
+   "via": "p18",
+   "file": "BrianOConnell05.jpg",
+   "size": "1026x720",
+   "licence": "CC BY-SA 2.5",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "New Rave",
+   "article": "New rave",
+   "via": "lead",
+   "file": "Klaxons_Queens_May_Ball_2007.jpg",
+   "size": "2048x1536",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "New Weird America",
+   "article": "New Weird America",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "New_Weird_America.png: not on Commons"
+   ]
+  },
+  {
+   "name": "Nintendocore",
+   "article": "Nintendocore",
+   "via": "article",
+   "file": "The_Advantage_Band_Japan_2010.jpg",
+   "size": "1390x860",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "No Wave",
+   "article": "No wave",
+   "via": "p18",
+   "file": "Billy_Nomates_op_het_Valkhof_Festival_2022.jpg",
+   "size": "4032x3024",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Noise Pop",
+   "article": "Noise Pop",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "97-atxl_(1).png: no thumbnail"
+   ]
+  },
+  {
+   "name": "Noise Rock",
+   "article": "Noise rock",
+   "via": "article",
+   "file": "Velvet_Underground_WLWH_publicity_photo.jpg",
+   "size": "2915x2159",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Norteño",
+   "article": "Norteño (music)",
+   "via": "article",
+   "file": "Ramón_Ayala.jpg",
+   "size": "4752x3168",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Northern Soul",
+   "article": "Northern soul",
+   "via": "article",
+   "file": "TommyHuntNorthernSoul.jpg",
+   "size": "1944x2592",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Northernsoul.jpg: 300px wide",
+    "Tainted_Love_by_Gloria_Jones_1965_official_US_vinyl_side-b.png: not a photo"
+   ]
+  },
+  {
+   "name": "Nu Electro",
+   "article": "Electro (music)",
+   "via": "commons-category",
+   "file": "Agoria._Sébastien_Devaud._2012.jpg",
+   "size": "2362x3543",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-audio-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Nu Gaze",
+   "article": "Nu gaze",
+   "via": "article",
+   "file": "MyVitriol.Nov24.KOKO.jpg",
+   "size": "800x600",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Nu Jazz",
+   "article": "Nu jazz",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Nu Metal",
+   "article": "Nu metal",
+   "via": "article",
+   "file": "ReginaldArvizu.jpg",
+   "size": "1522x2071",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Korn_Logo_Black_PNG.png: not a photo",
+    "Disturbed_live_2005.jpg: 396px wide"
+   ]
+  },
+  {
+   "name": "Nueva Canción",
+   "article": "Nueva canción",
+   "via": "p18",
+   "file": "Mercedes_Sosa,_1967.jpg",
+   "size": "1280x844",
+   "licence": "CC BY-SA 3.0 nl",
+   "sharedWith": null,
+   "rejected": [
+    "Parra01f.PNG: 290px wide"
+   ]
+  },
+  {
+   "name": "NWOBHM",
+   "article": "New wave of British heavy metal",
+   "via": "article",
+   "file": "MetalKutte.jpg",
+   "size": "3072x2304",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Steve_Clark.jpeg: 281px wide",
+    "Iron_Maiden_-_The_Number_Of_The_Beast.jpg: not on Commons",
+    "Blitzkrieg_2012.jpg: 404px wide"
+   ]
+  },
+  {
+   "name": "NWOTHM",
+   "article": "New wave of traditional heavy metal",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Old School Bassline",
+   "article": "Bassline (music genre)",
+   "via": "article",
+   "file": "Niche.jpg",
+   "size": "768x1024",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Opera",
+   "article": "Opera",
+   "via": "lead",
+   "file": "Macbeth_applause_at_Savonlinna_Opera_festival_in_2007_-_panoramio.jpg",
+   "size": "1600x1200",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Noun-theatre-2089429.svg: not on Commons",
+    "Gnome-mime-audio-openclipart.svg: not on Commons",
+    "Gluck's_Orphée_-_title_page_illustration_(lightened_and_cropped).jpg: 259px wide",
+    "Feodor_Chaliapin_as_Ivan_Susanin.jpg: 407px wide",
+    "Prodana_Nevesta_Cover_1919.JPG: not on Commons",
+    "Senesino_portrait_edited.jpg: 380px wide"
+   ]
+  },
+  {
+   "name": "Operatic Pop",
+   "article": "Operatic pop",
+   "via": "article",
+   "file": "Il_Divo_(6874985579).jpg",
+   "size": "1000x667",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Orchestra",
+   "article": "Orchestra",
+   "via": "lead",
+   "file": "National_Chamber_Orchestra_of_Armenia.jpg",
+   "size": "5184x3456",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Cincinnati_Symphony_Orchestra_Wikivoyage_FTT.jpg: shape 3.00",
+    "Diagram_Modern_symphony_orchestra-en.svg: not on Commons",
+    "Laredo_Philharmonic.jpg: 170px wide",
+    "Taipei.apo-hsu.altonthompson.jpg: no thumbnail"
+   ]
+  },
+  {
+   "name": "Orquesta Tipica",
+   "article": "Orquesta típica",
+   "via": "lead",
+   "file": "Orquesta_tipica_julio_de_caro.jpg",
+   "size": "2105x1909",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Flor_de_Cuba.jpg: 397px wide"
+   ]
+  },
+  {
+   "name": "Ostrock",
+   "article": "Music of Germany",
+   "via": "override",
+   "file": "2016_City_Karat_Puhdys_-_by_2eight_-_8SC4057.jpg",
+   "size": "2048x1365",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Outlaw Country",
+   "article": "Outlaw country",
+   "via": "p18",
+   "file": "Kris_Willie_Waylon.jpg",
+   "size": "978x669",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "P Funk",
+   "article": "Parliament-Funkadelic",
+   "via": "lead",
+   "file": "George_Clinton_2006.jpg",
+   "size": "3008x2000",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "George_Clinton_&_Parliament_Funkadelic_performing_in_Waterfront_Park,_Louisville,_Kentucky_on_July_4th,_2008.jpg: not on Commons"
+   ]
+  },
+  {
+   "name": "Pagan Black Metal",
+   "article": "Pagan metal",
+   "via": "p18",
+   "file": "Eluveitie_Cernunnos_Fest_161207_01.jpg",
+   "size": "1843x1382",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Pagode",
+   "article": "Pagode",
+   "via": "override",
+   "file": "Roda_de_Samba_-_Tijuca_-_RJ.jpg",
+   "size": "3783x2717",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Panpipe",
+   "article": "Pan flute",
+   "via": "lead",
+   "file": "Flute_de_pan_MHNT_ETH_AC_NH_31_Savès.jpg",
+   "size": "5310x4073",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "(Auch)_Flûte_de_pan_décoré_'Musée_des_Amériques'_-_Auch.jpg: shape 0.34",
+    "PanandDaphnis.jpg: 388px wide"
+   ]
+  },
+  {
+   "name": "Piano Blues",
+   "article": "Blues",
+   "via": "article",
+   "file": "Dan_Aykroyd_on_set_of_MTV_Music_Television_NYC.jpg",
+   "size": "3350x4918",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Black_American_Heritage_flag.svg: not on Commons",
+    "Gamme_la_blues.svg: not on Commons",
+    "Blues_shuffle_in_E.png: shape 4.55",
+    "Boogie-woogie-bassline.svg: not on Commons",
+    "Tajmahalblues.jpg: not on Commons"
+   ]
+  },
+  {
+   "name": "Poetry",
+   "article": null,
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Polka",
+   "article": "Polka",
+   "via": "lead",
+   "file": "La_Polka.jpg",
+   "size": "3173x4238",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Gnome-mime-audio-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Polyphony",
+   "article": "Polyphony",
+   "via": "p18",
+   "file": "A_traditional_male_folk_group_from_Skrapar.JPG",
+   "size": "2048x1536",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-audio-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Pop Flamenco",
+   "article": "New flamenco",
+   "via": "p18",
+   "file": "El_flamenco_de_Rosalía_y_Raúl_Refree_llena_el_Parque_de_la_Cuña_Verde_(05).jpg",
+   "size": "1500x845",
+   "licence": "CC BY 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Pop Punk",
+   "article": "Pop-punk",
+   "via": "p18",
+   "file": "RiP2013_GreenDay_Billie_Joe_Armstrong_0013.JPG",
+   "size": "3112x2074",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Sum_41_live_2008.jpg: no thumbnail",
+    "Fall_Out_Boy_in_concert.jpg: 424px wide"
+   ]
+  },
+  {
+   "name": "Pop Rap",
+   "article": "Pop rap",
+   "via": "p18",
+   "file": "LL_Cool_J_with_arms_raised_at_2007_MyCoke_Fest_in_Atlanta.JPG",
+   "size": "1540x1182",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Pop Rock",
+   "article": "Pop rock",
+   "via": "p18",
+   "file": "Avril_Lavigne_playing_guitar,_St._Petersburg.jpg",
+   "size": "2304x1536",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Porro",
+   "article": "Porro",
+   "via": "lead",
+   "file": "Banda_14_de_Septiembre.jpg",
+   "size": "4416x3312",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Post-Disco",
+   "article": "Post-disco",
+   "via": "article",
+   "file": "Michael_Jackson,_1988_(46845017052).jpg",
+   "size": "896x1252",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Post-Grunge",
+   "article": "Post-grunge",
+   "via": "p18",
+   "file": "Foo_Fighters_-_Grohl_and_Mendel.jpg",
+   "size": "2592x1944",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Post-Hardcore",
+   "article": "Post-hardcore",
+   "via": "p18",
+   "file": "Glassjaw_hk_2010.jpg",
+   "size": "1800x1200",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Post-Metal",
+   "article": "Post-metal",
+   "via": "p18",
+   "file": "EADH_2K9.jpg",
+   "size": "5670x3066",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Post-Punk",
+   "article": "Post-punk",
+   "via": "p18",
+   "file": "Rockaway_Beach-_Gang_Of_Four_(39702637281).jpg",
+   "size": "2048x1368",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Jon_Savage_1kpx_jn09_crop.jpg: 437px wide",
+    "Brian_Eno_-_TopPop_1974_11_crop.png: 252px wide",
+    "Ivan_Kral,_David_Bowie_and_Iggy_Pop_by_Ivan_Kral.jpg: 351px wide",
+    "Siouxsie_and_the_banshees_1979_with_robert_smith.jpg: not on Commons",
+    "PiLposterforWikipedia.jpg: 215px wide",
+    "Talking_Heads_band1.jpg: 402px wide"
+   ]
+  },
+  {
+   "name": "Post-Rock",
+   "article": "Post-rock",
+   "via": "article",
+   "file": "Slint-1.jpg",
+   "size": "1600x1066",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Simon_Reynolds_(cropped)_(2).jpg: 420px wide"
+   ]
+  },
+  {
+   "name": "Power Noise",
+   "article": "Power noise",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Power Pop",
+   "article": "Power pop",
+   "via": "article",
+   "file": "Televisie-optreden_van_The_Beatles_in_Treslong_te_Hillegom_vlnr._Paul_McCartney,_Bestanddeelnr_916-5099.jpg",
+   "size": "3648x2406",
+   "licence": "CC0",
+   "sharedWith": null,
+   "rejected": [
+    "Cheaptrick1.jpg: 394px wide",
+    "Sullivan_Beach_Boys_(cropped).jpg: 393px wide",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Powerviolence",
+   "article": "Powerviolence",
+   "via": "lead",
+   "file": "Siege_battle_of_the_bands_1984.jpg",
+   "size": "653x523",
+   "licence": "CC BY-SA 2.5",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Progressive Bluegrass",
+   "article": "Bluegrass music",
+   "via": "lead",
+   "file": "Bluegrass_Band.jpg",
+   "size": "1920x1080",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "BluegrassBanjo.jpg: shape 0.37"
+   ]
+  },
+  {
+   "name": "Progressive House",
+   "article": "Progressive house",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Progressive Metal",
+   "article": "Progressive metal",
+   "via": "p18",
+   "file": "Dream_Theater_Live_in_Argentina_03-03-08.jpg",
+   "size": "2816x2112",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Progressive Rock",
+   "article": "Progressive rock",
+   "via": "p18",
+   "file": "Porcupine_Tree_@_Poznan,_Poland_2007_04.jpg",
+   "size": "2787x1784",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "GoldenEarring1971TopPop.png: no thumbnail"
+   ]
+  },
+  {
+   "name": "Progressive Trance",
+   "article": "Trance music",
+   "via": "p18",
+   "file": "Armin_van_Buuren_2014.jpg",
+   "size": "1920x960",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Aly_&_Fila_au_Beachclub_--_4.jpg: 383px wide"
+   ]
+  },
+  {
+   "name": "Protopunk",
+   "article": "Proto-punk",
+   "via": "article",
+   "file": "MC50_-_Fabrik_Hamburg_2018_02.jpg",
+   "size": "6016x4016",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Psychedelic Rock",
+   "article": "Psychedelic rock",
+   "via": "article",
+   "file": "The_Fillmore.jpg",
+   "size": "2592x1944",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Retro-flower-ornaments.svg: not on Commons",
+    "Gnome-mime-audio-openclipart.svg: not on Commons",
+    "1967_Mantra-Rock_Dance_Avalon_poster.jpg: not a photo",
+    "White_rabbit.JPG: 395px wide",
+    "Primal_Scream_performing_Screamadelica_live_in_Paradiso,_Amsterdam_Screamadelica's_iconic_cover_image_(6127942325).jpg: not a photo"
+   ]
+  },
+  {
+   "name": "Psychedelic Trance",
+   "article": "Psychedelic trance",
+   "via": "article",
+   "file": "Stepanida_Borisova_at_Khan-Altay_psytrance_festival.JPG",
+   "size": "1280x960",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Retro-flower-ornaments.svg: not on Commons",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Psychobilly",
+   "article": "Psychobilly",
+   "via": "article",
+   "file": "The_Meteors_live_in_Pordenone,_Italy,_2006.jpg",
+   "size": "2058x1372",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Pub Rock",
+   "article": "Pub rock (United Kingdom)",
+   "via": "article",
+   "file": "Duryegg.jpg",
+   "size": "771x950",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Punta",
+   "article": "Punta",
+   "via": "article",
+   "file": "Músics_al_pororó_2015_01.JPG",
+   "size": "3864x5152",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Flag_of_Garifuna.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Qawwali",
+   "article": "Qawwali",
+   "via": "lead",
+   "file": "Qawalli_at_Ajmer_Sharif_dargah.jpg",
+   "size": "4117x2317",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Tyagaraja.jpg: 280px wide"
+   ]
+  },
+  {
+   "name": "R&B",
+   "article": "Rhythm and blues",
+   "via": "article",
+   "file": "Dizzy_Gillespie01.JPG",
+   "size": "3142x2114",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "John_Lee_Hooker_two.jpg: 347px wide",
+    "Habanera_cut-time.jpg: shape 4.23",
+    "Mardi_gras_in_new_orleans.tif: shape 4.72",
+    "Clave_in_cut-time.tiff: shape 7.49",
+    "Tresillo_and_backbeat.tiff: shape 7.59",
+    "Little_Richard_(1967).png: 348px wide"
+   ]
+  },
+  {
+   "name": "Ragga Jungle",
+   "article": "Jungle music",
+   "via": "p18",
+   "file": "2013-10-13_02.28.27dssss.jpg",
+   "size": "1600x1200",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "All_Junglists_A_London_Someting_Dis.jpg: not on Commons"
+   ]
+  },
+  {
+   "name": "Ragtime",
+   "article": "Ragtime",
+   "via": "article",
+   "file": "Chase_&_Baker_player_piano,_Buffalo,_NY,_circa_1885.JPG",
+   "size": "3264x2448",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Maple_Leaf_Rag.PNG: 402px wide",
+    "Cake_walk_1903,_10_seconds.gif: not on Commons",
+    "The_Top_Liner_Rag.jpg: 400px wide",
+    "Shoe_Tickler_Rag.jpg: 300px wide",
+    "On_the_Pike_1.jpg: 400px wide"
+   ]
+  },
+  {
+   "name": "Ranchera",
+   "article": "Ranchera",
+   "via": "article",
+   "file": "Tumba_de_José_Alfredo_Jiménez.jpg",
+   "size": "2832x2128",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "MiguelAM.gif: not on Commons"
+   ]
+  },
+  {
+   "name": "Rap",
+   "article": "Rapping",
+   "via": "lead",
+   "file": "50_cent_en_concierto.jpg",
+   "size": "1824x1368",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-audio-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Rap Metal",
+   "article": "Rap metal",
+   "via": "p18",
+   "file": "Limp_Bizkit_2011_Chile.jpg",
+   "size": "2560x1920",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Rap Rock",
+   "article": "Rap rock",
+   "via": "article",
+   "file": "Beastie-boys.jpg",
+   "size": "2792x1805",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Rebetiko",
+   "article": "Rebetiko",
+   "via": "lead",
+   "file": "Rembetes_Karaiskaki_1933.jpg",
+   "size": "4376x2479",
+   "licence": "FAL",
+   "sharedWith": null,
+   "rejected": [
+    "Nuvola_Greek_flag.svg: not on Commons",
+    "Semsis_Eskenazi_Tomboulis.jpg: 417px wide",
+    "Trichordobouzouki-upright.jpg: 217px wide",
+    "WaldmeierLebanon.gif: not on Commons",
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Bouzouki_001.jpg: shape 0.40"
+   ]
+  },
+  {
+   "name": "Reggae",
+   "article": "Reggae",
+   "via": "article",
+   "file": "Jimmy_Cliff_-_Festival_du_Bout_du_Monde_2012_-_011.jpg",
+   "size": "4752x3168",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Buju_Banton.jpg: 375px wide",
+    "Nuvola_Jamaican_flag.svg: not on Commons",
+    "Reggae_double_riff_on_D_and_Em64.png: shape 5.41",
+    "One_drop_sixteenth-note_pattern.png: shape 3.43",
+    "SlyDunbar1979.png: 398px wide",
+    "Reggae_Bass_Line.jpg: shape 2.77"
+   ]
+  },
+  {
+   "name": "Reggae Fusion",
+   "article": "Reggae fusion",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Reggae Rock",
+   "article": "Reggae rock",
+   "via": "commons-category",
+   "file": "Artikal_Sound_System_at_B&B_(LBI).jpg",
+   "size": "1920x1080",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Reggaeton",
+   "article": "Reggaeton",
+   "via": "article",
+   "file": "Fuego_Dance_Crew_at_California_Dance_Festival_2025_01.png",
+   "size": "1600x1062",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Summer_1995_Music_scene_at_beach_in_Vega_Baja,_Puerto_Rico_-_Snoop_Dogg_cameo.ogv: not on Commons",
+    "Casa_con_dos_marquesinas_en_San_Sebastián,_Puerto_Rico.jpg: rejected in review",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Riddim",
+   "article": "Riddim (genre)",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Riot Grrrl",
+   "article": "Riot grrrl",
+   "via": "p18",
+   "file": "Revolution_Girl_Style_Now_by_Feral78.jpg",
+   "size": "3264x2448",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Kathleen_Hanna.jpg: 232px wide",
+    "Carrie_Brownstein.jpg: 207px wide"
+   ]
+  },
+  {
+   "name": "Rock",
+   "article": "Rock music",
+   "via": "p18",
+   "file": "Jimmy_Page_-_A.R.M.S._Concert,_Oakland,_Ca._1983.jpg",
+   "size": "1781x1336",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Beatles_ad_1965_just_the_beatles_crop.jpg: not a photo",
+    "Sum_41_live_2008.jpg: no thumbnail",
+    "Carlos_Santana_123176.jpg: no thumbnail",
+    "Switchfoot_Fading_West_ATL.png: not on Commons",
+    "Blondie_(Debbie_Harry)_One.jpg: 232px wide",
+    "Nirvana_around_1992.jpg: 367px wide"
+   ]
+  },
+  {
+   "name": "Rock en Español",
+   "article": "Rock en español",
+   "via": "lead",
+   "file": "Maná_-_Rock_in_Rio_Madrid_2012_-_40.jpg",
+   "size": "3000x2000",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Teentops-enargentina.jpg: 448px wide",
+    "Triana_-_Billboard.jpg: 418px wide"
+   ]
+  },
+  {
+   "name": "Rockabilly",
+   "article": "Rockabilly",
+   "via": "article",
+   "file": "BillHaley.JPG",
+   "size": "2048x1536",
+   "licence": "Copyrighted free use",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Rocksteady",
+   "article": "Rocksteady",
+   "via": "commons-category",
+   "file": "TINY_PORT.jpg",
+   "size": "2400x2400",
+   "licence": "CC BY 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Ethiopians-photo-by-Dubwize.jpg: 347px wide",
+    "Ska-Rock_Steady_on_D_and_Em64.png: shape 4.12"
+   ]
+  },
+  {
+   "name": "Roots Reggae",
+   "article": "Roots reggae",
+   "via": "p18",
+   "file": "Bob-Marley-in-Concert_Zurich_05-30-80.jpg",
+   "size": "600x497",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Nuvola_Jamaican_flag.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Roots Rock",
+   "article": "Roots rock",
+   "via": "p18",
+   "file": "WilcoIACity2007.jpg",
+   "size": "2467x1668",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Rumba",
+   "article": null,
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Russelåter",
+   "article": "Russ music",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Russian Rock",
+   "article": "Rock music in Russia",
+   "via": "p18",
+   "file": "Юбилейный_концерт_«Цветов».jpg",
+   "size": "3245x1837",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Kino1986leningrad_(cropped).jpg: 291px wide",
+    "Aquarium_2004-12-12_live_in_Mannheim_(crop).jpg: 298px wide"
+   ]
+  },
+  {
+   "name": "Salsa",
+   "article": "Salsa music",
+   "via": "lead",
+   "file": "2006-06-03_Congas1.JPG",
+   "size": "1989x2395",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Dance-salsa-puerto-vallarta.jpg: 240px wide",
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "The_Palladium_Ballroom.gif: not on Commons",
+    "Oscar_D_Leon_2011.jpg: 180px wide"
+   ]
+  },
+  {
+   "name": "Samba",
+   "article": "Samba",
+   "via": "lead",
+   "file": "Originais_do_Samba.tif",
+   "size": "4903x3058",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Hilário_Jovino_Ferreira.jpg: 200px wide",
+    "Gnome-mime-audio-openclipart.svg: not on Commons",
+    "NoelRosa.gif: not on Commons",
+    "Pandeiros.JPG: no thumbnail"
+   ]
+  },
+  {
+   "name": "Schlager",
+   "article": "Schlager music",
+   "via": "article",
+   "file": "Musikantenstadl-Tournee_2010,_Wien_(18)_Francine_Jordi_und_Andy_Borg.jpg",
+   "size": "1195x826",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Screamo",
+   "article": "Screamo",
+   "via": "article",
+   "file": "Live-pg.99.jpg",
+   "size": "1800x1215",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Semba",
+   "article": "Semba",
+   "via": "lead",
+   "file": "Festival_du_bout_du_Monde_2011_-_Bonga_en_concert_le_6_août-_006.jpg",
+   "size": "4752x3168",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Serialism",
+   "article": "Serialism",
+   "via": "override",
+   "file": "Karlheinz_Stockhausen_2005.jpg",
+   "size": "935x1275",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Sertanejo",
+   "article": "Sertanejo music",
+   "via": "p18",
+   "file": "Show_de_Victor_&_Léo_(2013).jpg",
+   "size": "2592x1944",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Sergioreis.jpg: 300px wide"
+   ]
+  },
+  {
+   "name": "Shibuya-Kei",
+   "article": "Shibuya-kei",
+   "via": "lead",
+   "file": "Shibuya_(77455654).jpg",
+   "size": "2048x1536",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Shibuya_Crossing_at_Night_(1992-10_by_sodai_gomi).jpg: 240px wide",
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "SethTimbsAndFantasticPlasticMachine.jpg: 320px wide"
+   ]
+  },
+  {
+   "name": "Shoegaze",
+   "article": "Shoegaze",
+   "via": "lead",
+   "file": "Pleasure_Centre.jpg",
+   "size": "4288x3216",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Cocteau_Twins_1986.jpg: 437px wide",
+    "Starflyer03.jpg: not on Commons",
+    "Sofia_Coppola_in_2003.jpg: 337px wide"
+   ]
+  },
+  {
+   "name": "Singer-Songwriter",
+   "article": "Singer-songwriter",
+   "via": "p18",
+   "file": "Joan_Baez_Bob_Dylan_crop.jpg",
+   "size": "1698x2049",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Fabrizio_De_Andrè.jpg: 323px wide",
+    "Bundesarchiv_Bild_183-R1202-0019,_Berlin,_Palast_der_Republik,_Bulat_Okudshawa_cropped.jpg: 288px wide"
+   ]
+  },
+  {
+   "name": "Ska",
+   "article": "Ska",
+   "via": "article",
+   "file": "The_Specials.JPG",
+   "size": "1920x1080",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Nuvola_Jamaican_flag.svg: not on Commons",
+    "Backbeat_chop.png: shape 4.60",
+    "Ska-Rock_Steady_on_D_and_Em64.png: shape 4.12"
+   ]
+  },
+  {
+   "name": "Ska Punk",
+   "article": "Ska punk",
+   "via": "article",
+   "file": "NoDoubtAtWorcester.jpg",
+   "size": "3000x2000",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Opivy2.jpg: 400px wide"
+   ]
+  },
+  {
+   "name": "Skweee",
+   "article": "Skweee",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Skweee-records.jpg: not on Commons"
+   ]
+  },
+  {
+   "name": "Sleaze Rock",
+   "article": "Glam metal",
+   "via": "article",
+   "file": "DefLeppard1.JPG",
+   "size": "1904x1023",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "New_York_Dolls_-_TopPop_1973_11.png: no thumbnail"
+   ]
+  },
+  {
+   "name": "Sludge Metal",
+   "article": "Sludge metal",
+   "via": "p18",
+   "file": "Crowbar_@_Mod,_04.jpg",
+   "size": "2560x1440",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Henry_Rollins_of_Black_Flag,_1983.jpg: not a photo"
+   ]
+  },
+  {
+   "name": "Smooth Jazz",
+   "article": "Smooth jazz",
+   "via": "p18",
+   "file": "Chuck_Mangione_DSC0042_2.jpg",
+   "size": "4256x2832",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Soft Rock",
+   "article": "Soft rock",
+   "via": "override",
+   "file": "Bread_1971.JPG",
+   "size": "958x678",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Soukous",
+   "article": "Soukous",
+   "via": "lead",
+   "file": "Le_groupe_Loketo.jpg",
+   "size": "1799x1188",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Franco_Luambo_Makiadi.jpg: 171px wide",
+    "Rochereau_performing_at_Paris_Olympia.jpg: 351px wide"
+   ]
+  },
+  {
+   "name": "Soul Blues",
+   "article": "Soul blues",
+   "via": "override",
+   "file": "BobbyBland1996.jpg",
+   "size": "800x747",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Soul Jazz",
+   "article": "Soul jazz",
+   "via": "article",
+   "file": "Het_Less_McCann_trio_op_Schiphol,_vlnr_Less_McCann_(piano),_Hurby_Loui_(bas),_Bestanddeelnr_914-5091.jpg",
+   "size": "3706x2443",
+   "licence": "CC0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Soundtrack",
+   "article": "Soundtrack",
+   "via": "lead",
+   "file": "USN16mmSoundtrack.jpg",
+   "size": "1288x1128",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Video-x-generic.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Southern Gospel",
+   "article": "Southern gospel",
+   "via": "article",
+   "file": "The_Kingsmen_Quartet_1985.png",
+   "size": "917x621",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "ChristianitySymbolWhite.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Southern Hip Hop",
+   "article": "Southern hip-hop",
+   "via": "article",
+   "file": "Luther_Campbell_by_David_Cabrera.jpg",
+   "size": "1700x2267",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Birdman_at_hot_97_summer_jam_2007.jpg: 326px wide",
+    "DJ_Paul_of_Three_6_Mafia_(2015).jpg: 321px wide"
+   ]
+  },
+  {
+   "name": "Southern Rock",
+   "article": "Southern rock",
+   "via": "lead",
+   "file": "Duane_Allman.jpg",
+   "size": "3262x4472",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Southern Soul",
+   "article": "Southern soul",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Otis_Redding.png: 380px wide",
+    "ChristianitySymbolWhite.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Space Rock",
+   "article": "Space rock",
+   "via": "p18",
+   "file": "EdWynne5_(cropped2).jpg",
+   "size": "1546x1139",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Retro-flower-ornaments.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Spanish Reggae",
+   "article": "Reggae en Español",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "all usable photos already used by Roots Reggae"
+   ]
+  },
+  {
+   "name": "Speed Garage",
+   "article": "Speed garage",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Speed Metal",
+   "article": "Speed metal",
+   "via": "p18",
+   "file": "20161202_Oberhausen_Ruhrpott_Metall_Meeting_Iced_Earth_0180_Iced_Earth.jpg",
+   "size": "5193x3466",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Speedcore",
+   "article": "Speedcore",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Steelpan",
+   "article": "Steelpan",
+   "via": "lead",
+   "file": "Steelpan_Instruments_at_Trinidad_and_Tobago_Carnival.jpg",
+   "size": "2048x1536",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Aasteeldrum.jpg: 350px wide",
+    "Steel_pan_notes.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Stoner Metal",
+   "article": "Stoner rock",
+   "via": "p18",
+   "file": "Queens_of_the_Stone_Age_(229).JPG",
+   "size": "5760x3840",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Cannabis_leaf.svg: not on Commons",
+    "Cannabis_sativa_2.jpg: rejected in review",
+    "ElectricWizard_by_Christian_Misje_03.jpg: no thumbnail"
+   ]
+  },
+  {
+   "name": "Stoner Rock",
+   "article": "Stoner rock",
+   "via": "override",
+   "file": "Sleep_at_the_Filmore_Detroit,_March_31,_2018.jpg",
+   "size": "1328x747",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Street Punk",
+   "article": "Street punk",
+   "via": "commons-category",
+   "file": "Potbelly_in_2025.jpg",
+   "size": "1080x810",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "GBH_on_Warped_Tour.jpg: 400px wide",
+    "Punk-27947.jpg: 409px wide"
+   ]
+  },
+  {
+   "name": "String Band",
+   "article": "String band",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "TheSkilletLickers.jpg: 368px wide"
+   ]
+  },
+  {
+   "name": "String Quartet",
+   "article": "String quartet",
+   "via": "article",
+   "file": "Tallinn_String_Quartet_in_Tel_Aviv_(cropped).jpg",
+   "size": "3012x2015",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "String_quartet_in_recording_studio.jpg: shape 2.72",
+    "Schoenberg_string_quartet_exc._quartal_chord.png: not a photo"
+   ]
+  },
+  {
+   "name": "Sunset Lounge",
+   "article": null,
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Swamp Blues",
+   "article": "Swamp blues",
+   "via": "article",
+   "file": "Lazy_Lester_in_2004.jpg",
+   "size": "1000x667",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Swamp Pop",
+   "article": "Swamp pop",
+   "via": "override",
+   "file": "Warren_Storm_at_New_Orleans_Jazz_&_Heritage_Festival,_New_Orleans,_LA.jpg",
+   "size": "1725x1294",
+   "licence": "CC BY 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Symphonic Black Metal",
+   "article": "Symphonic black metal",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Symphonic Metal",
+   "article": "Symphonic metal",
+   "via": "article",
+   "file": "Tarja_Turunen_at_Obras_Stadium_2008_02.jpg",
+   "size": "3072x2304",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-audio-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Symphonic Rock",
+   "article": "Progressive rock",
+   "via": "p18",
+   "file": "Porcupine_Tree_TS_Wisła_Kraków_001.jpg",
+   "size": "2710x1814",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "GoldenEarring1971TopPop.png: no thumbnail"
+   ]
+  },
+  {
+   "name": "Synthpop",
+   "article": "Synth-pop",
+   "via": "p18",
+   "file": "Pet_Shop_Boys_live_i_Tivoli.JPG",
+   "size": "3648x2736",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Sequential_Circuits_Prophet_5.jpg: 386px wide",
+    "Gary_Numan_playing.jpg: 352px wide",
+    "Depeche-mode-martin-gore2.jpg: 400px wide"
+   ]
+  },
+  {
+   "name": "Tech House",
+   "article": "Tech house",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Technical Death Metal",
+   "article": "Technical death metal",
+   "via": "p18",
+   "file": "Opeth_münchen_06.12.2008._8_(B&W).jpg",
+   "size": "1710x2137",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Techno",
+   "article": "Techno",
+   "via": "p18",
+   "file": "Vagator,_Goa,_India,_DJ_playing_music_on_turntable.jpg",
+   "size": "4032x2688",
+   "licence": "CC BY 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "TB-303.jpg: 402px wide",
+    "Dorian_Gray_FFM.jpg: no thumbnail",
+    "Underworld_tour1s.jpg: 443px wide",
+    "Roland_TR-808_drum_machine.jpg: 447px wide"
+   ]
+  },
+  {
+   "name": "Teen Pop",
+   "article": "Teen pop",
+   "via": "article",
+   "file": "Robin_-_Ilosaarirock_2015_12.jpg",
+   "size": "2832x4256",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Tekno",
+   "article": null,
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Texas Blues",
+   "article": "Texas blues",
+   "via": "article",
+   "file": "Jackie_Venson_Live.jpg",
+   "size": "5472x3648",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Theme",
+   "article": "Theme music",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Thrash Metal",
+   "article": "Thrash metal",
+   "via": "article",
+   "file": "Metallica_London_2008-09-15_Kirk_and_James.jpg",
+   "size": "2085x1545",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Throat Singing",
+   "article": "Throat singing",
+   "via": "commons-category",
+   "file": "Baby_on_board_(1189915312).jpg",
+   "size": "1600x1200",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Timba",
+   "article": "Timba",
+   "via": "lead",
+   "file": "CUBA_Havana_-_salsa_Anthony_and_Steph.jpg",
+   "size": "3072x2304",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Tin Pan Alley",
+   "article": "Tin Pan Alley",
+   "via": "article",
+   "file": "Tin_Pan_Alley_Aug_2025_13.jpg",
+   "size": "3060x4080",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Tinpanalley.jpg: 381px wide"
+   ]
+  },
+  {
+   "name": "Trap",
+   "article": "Trap music",
+   "via": "p18",
+   "file": "M-Audio_Trigger_Finger_Pro_-_angled_-_2014_NAMM_Show_(by_Matt_Vanacoro).jpg",
+   "size": "6000x4000",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Tribal House",
+   "article": "Tribal house",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Trip Hop",
+   "article": "Trip hop",
+   "via": "p18",
+   "file": "Massive_attack_at_stereoleto.jpg",
+   "size": "3264x2448",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Trova",
+   "article": "Trova",
+   "via": "lead",
+   "file": "Casa_de_la_Trova_Santiago_Cuba.jpg",
+   "size": "900x600",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Cropped_image_of_Compay.jpg: 267px wide"
+   ]
+  },
+  {
+   "name": "Turbo Folk",
+   "article": "Turbo-folk",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "Grafit_protiv_turbofolka,Imotski01848.JPG: rejected in review"
+   ]
+  },
+  {
+   "name": "Turntablism",
+   "article": "Turntablism",
+   "via": "p18",
+   "file": "Djkermitportrait1.jpg",
+   "size": "3000x4500",
+   "licence": "CC BY 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Janek_Schaefer_playing_his_Tri-Phonic_Turntable_1997.jpg: 290px wide",
+    "FemaleDJ.jpg: 440px wide"
+   ]
+  },
+  {
+   "name": "UK Funky",
+   "article": "UK funky",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "UK Garage",
+   "article": "UK garage",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "UK Hip Hop",
+   "article": "UK rap",
+   "via": "p18",
+   "file": "Flo-dan,_Wiley_(34882237).jpg",
+   "size": "1544x1024",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Skepta_&_P_Diddy_(&_Chipmunk)_Backstage_at_orange_rock_corps.png: 320px wide"
+   ]
+  },
+  {
+   "name": "Ukulele",
+   "article": "Ukulele",
+   "via": "article",
+   "file": "Ukulele_Craze_1916_Glackens.jpg",
+   "size": "1209x1600",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Kumalae_ukulele_of_c._1910.webm: not on Commons",
+    "Ukulele4.png: 268px wide",
+    "Ukulele1_HiRes.jpg: 300px wide",
+    "Red_Ukulele.JPG: shape 0.43",
+    "Ukulele_wall.jpg: 449px wide",
+    "Ukulele_chords.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Unblack Metal",
+   "article": "Unblack metal",
+   "via": "article",
+   "file": "Pilgrim.jpg",
+   "size": "2592x3456",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Underground Hip Hop",
+   "article": "Underground hip-hop",
+   "via": "article",
+   "file": "Lil_B_Nuemos_2012.jpg",
+   "size": "800x600",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "MF_Doom_(2011_portrait_illustration_from_tour_poster).jpg: not a photo"
+   ]
+  },
+  {
+   "name": "Underground Rap",
+   "article": "Underground hip-hop",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": [
+    "MF_Doom_(2011_portrait_illustration_from_tour_poster).jpg: not a photo",
+    "all usable photos already used by Underground Hip Hop"
+   ]
+  },
+  {
+   "name": "Uplifting Trance",
+   "article": "Uplifting trance",
+   "via": "p18",
+   "file": "Sensation_white.jpg",
+   "size": "2048x1049",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Urban Contemporary",
+   "article": "Urban contemporary music",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "V-Pop",
+   "article": "Popular music of Vietnam",
+   "via": "lead",
+   "file": "Phamduydan.jpg",
+   "size": "1536x2048",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Vallenato",
+   "article": "Vallenato",
+   "via": "override",
+   "file": "Conjunto_vallenato.jpg",
+   "size": "1600x1200",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Vaporwave",
+   "article": "Vaporwave",
+   "via": "lead",
+   "file": "Wikiwave_00000.png",
+   "size": "2100x1700",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-audio-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Video Game Music",
+   "article": "Video game music",
+   "via": "article",
+   "file": "SNES-Mod1-Console-Set.jpg",
+   "size": "5472x2840",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "WPVG_icon_2016.svg: not on Commons",
+    "Gnome-mime-sound-openclipart.svg: not on Commons"
+   ]
+  },
+  {
+   "name": "Viking Metal",
+   "article": "Viking metal",
+   "via": "p18",
+   "file": "Turisas_Ilosaari_2008.jpg",
+   "size": "1500x1000",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Mjollnir.png: 217px wide"
+   ]
+  },
+  {
+   "name": "Villancicos",
+   "article": "Villancico",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Visual Kei",
+   "article": "Visual kei",
+   "via": "p18",
+   "file": "Visual_kei_1.jpg",
+   "size": "3008x2000",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Visual_kei.jpg: 200px wide",
+    "Gnome-mime-audio-openclipart.svg: not on Commons",
+    "Mana_moi_dix_mois.jpg: 250px wide"
+   ]
+  },
+  {
+   "name": "Vocal House",
+   "article": "House music",
+   "via": "p18",
+   "file": "CERVEJARIA_DO_GORDO.jpg",
+   "size": "1280x960",
+   "licence": "CC BY-SA 4.0",
+   "sharedWith": null,
+   "rejected": [
+    "Gnome-mime-sound-openclipart.svg: not on Commons",
+    "Honorary_Frankie_Knuckles_Way.jpg: not on Commons",
+    "Smiley_badge.jpg: not on Commons",
+    "Paradise_garage.jpg: 432px wide"
+   ]
+  },
+  {
+   "name": "Vocal Jazz",
+   "article": "Vocal jazz",
+   "via": "override",
+   "file": "Cassandra_Wilson_2.jpg",
+   "size": "3888x2592",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Vocaloid",
+   "article": "Vocaloid",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Volksmusik",
+   "article": "Alpine folk music",
+   "via": "lead",
+   "file": "Die_Mayrhofner_at_Wenn_die_Musi_spielt_-_Winter_Open_Air_2011.jpg",
+   "size": "2700x1800",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "West Coast Rap",
+   "article": "West Coast hip-hop",
+   "via": "p18",
+   "file": "Kendrick_Lamar_@_Grosse_Freiheit_36,_Hamburg_(9498448120)_(cropped).jpg",
+   "size": "1302x1855",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": [
+    "Eazy_E_headshot.jpg: 164px wide",
+    "MC_Hammer_2010_(cropped).jpg: 365px wide",
+    "Dr._Dre.jpg: 400px wide",
+    "Tupac_Shakur_driver's_license_photo_(1996).png: 248px wide"
+   ]
+  },
+  {
+   "name": "Western Swing",
+   "article": "Western swing",
+   "via": "article",
+   "file": "Bob_Wills_photograph_-_Cropped.jpg",
+   "size": "939x1072",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Wonky",
+   "article": "Wonky (genre)",
+   "via": "p18",
+   "file": "Rustie.jpg",
+   "size": "1001x627",
+   "licence": "CC BY 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "World Fusion",
+   "article": "World music",
+   "via": "article",
+   "file": "Delhi_2_Dublin_in_2012.jpg",
+   "size": "5184x2612",
+   "licence": "CC BY-SA 3.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Wrock",
+   "article": "Wizard rock",
+   "via": "article",
+   "file": "Theparselmouthswrockstock.jpg",
+   "size": "2048x1361",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Yoik",
+   "article": "Joik",
+   "via": "lead",
+   "file": "Aarne_G._from_Utsjoki_performs_a_yoik.jpg",
+   "size": "570x800",
+   "licence": "CC0",
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Yugoslav Rock",
+   "article": "Popular music in Yugoslavia",
+   "via": "article",
+   "file": "Riblja_Corba_2008.JPG",
+   "size": "2288x1576",
+   "licence": "Public domain",
+   "sharedWith": null,
+   "rejected": [
+    "Zdravko_Čolić_symphonic_koncert_(cropped).jpg: 357px wide"
+   ]
+  },
+  {
+   "name": "Zouglou",
+   "article": "Zouglou",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Zouk",
+   "article": "Zouk",
+   "via": "poster",
+   "file": null,
+   "size": null,
+   "licence": null,
+   "sharedWith": null,
+   "rejected": []
+  },
+  {
+   "name": "Zydeco",
+   "article": "Zydeco",
+   "via": "lead",
+   "file": "Buckwheat_Zydeco_and_band_performing_at_the_Kitchener_Blues_Festival.jpg",
+   "size": "3648x2736",
+   "licence": "CC BY-SA 2.0",
+   "sharedWith": null,
+   "rejected": []
+  }
+ ]
+}

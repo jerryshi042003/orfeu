@@ -42,9 +42,12 @@ export const sleep = ms => new Promise(r => setTimeout(r, ms));
 const CACHE = new URL('./.cache/', import.meta.url).pathname;
 const useCache = !process.argv.includes('--no-cache');
 
+const cacheFile = url => CACHE + createHash('sha1').update(url).digest('hex') + '.json';
+export const isCached = url => useCache && existsSync(cacheFile(url));
+
 // GET JSON with retries. Returns { status, body } and never throws for HTTP errors.
 export async function getJson(url, opts = {}) {
-  const file = CACHE + createHash('sha1').update(url).digest('hex') + '.json';
+  const file = cacheFile(url);
   if (useCache && opts.cache !== false && existsSync(file)) return JSON.parse(readFileSync(file, 'utf8'));
   const result = await fetchJson(url, opts);
   if (useCache && opts.cache !== false && (result.status === 200 || result.status === 404)) {
@@ -56,15 +59,18 @@ export async function getJson(url, opts = {}) {
 
 async function fetchJson(url, { retries = 4 } = {}) {
   for (let attempt = 0; ; attempt++) {
+    let wait = 1500 * (attempt + 1);
     try {
-      const res = await fetch(url, { headers: { 'User-Agent': UA, Accept: 'application/json' } });
+      const res = await fetch(url, { headers: { 'User-Agent': UA, Accept: 'application/json' }, signal: AbortSignal.timeout(30000) });
       if (res.status === 404 || res.status === 400) return { status: res.status, body: null };
       if (res.ok) return { status: res.status, body: await res.json() };
-      if (attempt >= retries) return { status: res.status, body: null };
+      // Rate limited (Wikimedia answers 429 with Retry-After): wait as asked, a few more times.
+      if (res.status === 429 && attempt < retries + 4) wait = Math.min(60, Math.max(5, +res.headers.get('retry-after') || 10)) * 1000;
+      else if (attempt >= retries) return { status: res.status, body: null };
     } catch (err) {
       if (attempt >= retries) return { status: 'error', body: null, error: String(err) };
     }
-    await sleep(1500 * (attempt + 1));
+    await sleep(wait);
   }
 }
 
@@ -80,16 +86,5 @@ export async function mapLimit(items, limit, fn) {
 
 export const playlistId = link => (String(link || '').match(/playlist[:/]([A-Za-z0-9]{22})/) || [])[1] || null;
 
-// Spotify oEmbed returns 404 for playlists that no longer exist.
-export async function checkPlaylist(id) {
-  const url = 'https://open.spotify.com/oembed?url=' + encodeURIComponent(`https://open.spotify.com/playlist/${id}`);
-  // Spotify occasionally answers 404 for a live playlist, so confirm a miss twice.
-  let result;
-  for (let attempt = 0; attempt < 3; attempt++) {
-    result = await getJson(url, { cache: false });
-    if (result.status === 200) break;
-    await sleep(2000 * (attempt + 1));
-  }
-  if (result.status !== 200 && result.status !== 404) throw new Error(`Spotify oEmbed answered ${result.status} for playlist ${id}; rerun later`);
-  return { live: result.status === 200, status: result.status, title: result.body?.title ?? null };
-}
+// URL slug: "Música Mexicana" -> "musica-mexicana", "R&B" -> "r-and-b".
+export const slugify = s => (s || '').normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/&/g, ' and ').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');

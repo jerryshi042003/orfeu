@@ -4,9 +4,12 @@
   "type": "module",
   "description": "Builds the static data files the Orfeu site reads.",
   "scripts": {
+    "audit": "node audit-playlists.mjs",
     "genres": "node build-genres.mjs",
+    "images": "node build-images.mjs",
     "locations": "node build-locations.mjs",
-    "build": "node build-genres.mjs && node build-locations.mjs"
+    "pages": "node build-pages.mjs",
+    "build": "node audit-playlists.mjs --fresh && node build-genres.mjs && node build-images.mjs && node build-locations.mjs && node build-pages.mjs"
   },
   "dependencies": {
     "d3-geo": "3.1.1",

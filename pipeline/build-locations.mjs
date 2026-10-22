@@ -2,7 +2,9 @@
 // pipeline/source/passed_rows.csv.
 //
 // - Drops rows that are not places (the "Christmas" playlists, "Everything",
-//   "Hatecore") and playlists Spotify no longer serves.
+//   "Hatecore") and playlists that failed pipeline/reports/playlists-audit.json (run
+//   audit-playlists.mjs first).
+// - Gives every place a URL slug for ?p= links.
 // - Geocodes each place once with OpenStreetMap Nominatim (results are cached in
 //   pipeline/geocode-cache.json, which is committed, so rebuilds make no requests for
 //   places already seen). A result is only kept when OpenStreetMap places it in the
@@ -10,18 +12,20 @@
 // - Projects every point onto the same Equal Earth map that world.svg draws, so the
 //   site needs no mapping library at runtime.
 //
-// Usage: node build-locations.mjs [--skip-spotify]
+// Usage: node build-locations.mjs
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { createRequire } from 'node:module';
 import { geoEqualEarth, geoPath } from 'd3-geo';
 import { feature } from 'topojson-client';
-import { readCsv, readJson, writeJson, fold, sleep, UA, mapLimit, playlistId, checkPlaylist } from './lib.mjs';
+import { readCsv, readJson, writeJson, fold, sleep, UA, playlistId, slugify } from './lib.mjs';
 
 const require = createRequire(import.meta.url);
 const ROOT = new URL('..', import.meta.url).pathname;
 const SOURCE = ROOT + 'pipeline/source/passed_rows.csv';
 const CACHE_FILE = ROOT + 'pipeline/geocode-cache.json';
-const SKIP_SPOTIFY = process.argv.includes('--skip-spotify');
+const AUDIT = readJson(ROOT + 'pipeline/reports/playlists-audit.json', null);
+if (!AUDIT) throw new Error('Run audit-playlists.mjs first: pipeline/reports/playlists-audit.json is missing');
+const audited = new Map(AUDIT.items.filter(r => r.kind === 'place').map(r => [r.id, r]));
 
 // "APO Armed Forces Europe, Middle East, & Canada US" is a military postal zone, not a place.
 const NOT_PLACES = /christmas|^everything$|^hatecore$|^"?APO /i;
@@ -111,6 +115,7 @@ const path = geoPath(projection).digits(1);
 
 const rows = readCsv(SOURCE).slice(1);
 const skipped = { notPlace: [], unparsed: [], dead: [], noGeo: [] };
+const cutDetail = [];
 const parsed = [];
 for (const [sourceIndex, [raw, uri, web]] of rows.entries()) {
   const name = raw.trim();
@@ -120,10 +125,21 @@ for (const [sourceIndex, [raw, uri, web]] of rows.entries()) {
   parsed.push({ source: name, sourceIndex, id: playlistId(web) || playlistId(uri), ...entry });
 }
 
-const checks = SKIP_SPOTIFY ? parsed.map(() => ({ live: true, title: null })) : await mapLimit(parsed, 2, p => checkPlaylist(p.id));
+// The playlist titles capitalise every word ("Jerez De La Frontera"); joining words inside
+// a name are written in lower case ("Jerez de la Frontera", "Frankfurt am Main").
+const particles = s => s.replace(/(?<=\S )(De|Del|La|Las|Los|Am|An|Der|Den|Do|Da|Dos|Das|Di|Du|Des|Le|Les|Sur|En|Y)(?= \S)/g, w => w.toLowerCase());
+
 const locations = [];
-for (const [i, p] of parsed.entries()) {
-  if (!checks[i].live) { skipped.dead.push(p.source); continue; }
+for (const p of parsed) {
+  const a = audited.get(p.id);
+  if (!a) throw new Error(`${p.source} (${p.id}) is not in the playlist audit; rerun audit-playlists.mjs`);
+  if (a.verdict === 'error') throw new Error(`${p.source}: Spotify could not be reached during the audit; rerun it`);
+  if (a.verdict === 'cut') { skipped.dead.push(p.source); cutDetail.push({ name: p.source, reasons: a.reasons, tracks: a.tracks, playable: a.playable }); continue; }
+  // Spotify added the state to some Australian playlists ("The Sound of Adelaide South
+  // Australia AU"); take the region from the current title.
+  // (Geocoding keeps using the original name, so the cache stays valid.)
+  const titleRegion = !p.region && a.titleMatch === 'drift' && a.current?.toLowerCase().startsWith(p.place.toLowerCase() + ' ') && a.current.endsWith(' ' + p.code)
+    ? a.current.slice(p.place.length + 1, -p.code.length - 1) : null;
   const geo = await geocode(p);
   if (!geo) { skipped.noGeo.push(p.source); }
   // Keep the playlist's own spelling, but take OpenStreetMap's capitalisation when it is
@@ -131,20 +147,30 @@ for (const [i, p] of parsed.entries()) {
   const place = geo && fold(geo.name) === fold(p.place) ? geo.name : p.place;
   const [x, y] = geo ? projection([geo.lon, geo.lat]).map(v => Math.round(v * 10) / 10) : [null, null];
   locations.push({
-    name: p.kind === 'country' ? countryName(p.code) : place,
-    region: p.region,
+    name: p.kind === 'country' ? countryName(p.code) : particles(place),
+    region: p.region || titleRegion,
     country: p.kind === 'country' ? null : countryName(p.code),
     code: p.code,
     map: NUMERIC[p.code] || null,
     kind: p.kind,
     playlist: `https://open.spotify.com/playlist/${p.id}`,
-    playlistTitle: checks[i].title,
+    playlistTitle: a.title,
+    tracks: a.tracks,
     point: geo ? { x, y, lat: geo.lat, lon: geo.lon } : null,
     source: p.source,
     sourceIndex: p.sourceIndex,
   });
 }
 
+const seen = new Set();
+for (const l of [...locations].sort((a, b) => a.sourceIndex - b.sourceIndex)) {
+  let slug = slugify(l.name);
+  if (seen.has(slug)) slug = slugify([l.name, l.region, l.code].filter(Boolean).join(' '));
+  let n = 2;
+  while (seen.has(slug)) slug = slugify(l.name + ' ' + l.code) + '-' + n++;
+  seen.add(slug);
+  l.slug = slug;
+}
 writeJson(ROOT + 'assets/data/locations.json', { source: 'pipeline/source/passed_rows.csv', sourceCount: rows.length, generated: new Date().toISOString().slice(0, 10), width: W, height: H, locations }, false);
 
 // The SVG: one path per country, id "c" + ISO numeric code. The page zooms the viewBox
@@ -154,6 +180,6 @@ const svg = [`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}">`,
 mkdirSync(ROOT + 'assets/map', { recursive: true });
 writeFileSync(ROOT + 'assets/map/world.svg', svg + '\n');
 
-writeJson(ROOT + 'pipeline/reports/locations-report.json', { kept: locations.length, skipped, unmapped: locations.filter(l => !l.point).map(l => l.source) });
+writeJson(ROOT + 'pipeline/reports/locations-report.json', { kept: locations.length, audited: AUDIT.checkedAt.slice(0, 10), skipped, cut: cutDetail, unmapped: locations.filter(l => !l.point).map(l => l.source) });
 console.log(`${locations.length} locations kept. Skipped: ${Object.entries(skipped).map(([k, v]) => `${k}=${v.length}`).join(', ')}`);
 for (const [k, v] of Object.entries(skipped)) if (v.length) console.log(` ${k}: ${v.join('; ')}`);

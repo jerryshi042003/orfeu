@@ -1,0 +1,30 @@
+{
+ "about": "Families for genres whose own name says nothing about them, reviewed by hand on 2026-10-21. build-genres.mjs uses these before guessing from the Wikipedia text.",
+ "families": {
+  "A Cappella": ["classical", "pop"], "Abstract": ["electronic", "hip-hop"], "Aggrotech": ["electronic", "metal-punk"],
+  "Alternative CCM": ["rock"], "Alternative Dance": ["rock", "electronic"], "Azonto": ["world"],
+  "Beach Music": ["soul-funk", "pop"], "Breakcore": ["electronic"], "British Dance Band": ["jazz-blues", "pop"],
+  "British Invasion": ["rock", "pop"], "Bubblegum Dance": ["electronic", "pop"], "Canterbury Scene": ["rock", "jazz-blues"],
+  "Capoeira": ["brazilian", "world"], "Ceilidh": ["folk-country"], "Children's Music": ["other"],
+  "Christian Music": ["pop"], "Complextro": ["electronic"], "Cubaton": ["latin", "hip-hop"],
+  "Danseband": ["pop"], "Darkstep": ["electronic"], "Demoscene": ["electronic"],
+  "Didgeridoo": ["world"], "Doujin": ["world"], "Dub": ["world", "electronic"],
+  "Ethereal Wave": ["rock", "electronic"], "Eurodance": ["electronic", "pop"], "Filthstep": ["electronic"],
+  "Full On": ["electronic"], "Ghettotech": ["electronic", "hip-hop"], "Grupera": ["latin", "pop"],
+  "Hard Alternative": ["rock", "metal-punk"], "Hauntology": ["electronic"], "Hiplife": ["hip-hop", "world"],
+  "Jumpstyle": ["electronic"], "Kindermusik": ["other"], "Kirtan": ["world"],
+  "Liedermacher": ["folk-country", "pop"], "Light Music": ["classical", "pop"], "Luk Thung": ["world"],
+  "Makossa": ["world", "soul-funk"], "Miami Bass": ["hip-hop", "electronic"], "Minimal Wave": ["electronic", "rock"],
+  "Nasheed": ["world"], "Nashville Sound": ["folk-country", "pop"], "Nerdcore": ["hip-hop"],
+  "Neue Deutsche Welle": ["rock", "pop"], "New Weird America": ["folk-country", "rock"], "Nintendocore": ["metal-punk", "electronic"],
+  "No Wave": ["rock", "metal-punk"], "Nu Gaze": ["rock"], "NWOBHM": ["metal-punk"], "NWOTHM": ["metal-punk"],
+  "Orquesta Tipica": ["latin"], "Panpipe": ["world", "folk-country"], "Poetry": ["other"],
+  "Porro": ["latin"], "Psychobilly": ["rock", "metal-punk"], "Punta": ["latin", "world"],
+  "Riddim": ["electronic"], "Riot Grrrl": ["metal-punk", "rock"], "Russelåter": ["electronic"],
+  "Shibuya-Kei": ["pop", "world"], "Skweee": ["electronic", "soul-funk"], "Speedcore": ["electronic"],
+  "String Band": ["folk-country"], "Theme": ["classical"], "Ukulele": ["folk-country", "world"],
+  "Urban Contemporary": ["soul-funk", "pop"], "Video Game Music": ["electronic", "classical"], "Villancicos": ["latin", "classical"],
+  "Visual Kei": ["rock", "metal-punk"], "Vocaloid": ["electronic", "pop"], "Volksmusik": ["folk-country"],
+  "Wonky": ["electronic", "hip-hop"]
+ }
+}

@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Orfeu · Place of the day</title>
-  <meta name="description" content="A new place to hear every day: the sound of a city or country on Spotify, marked on a map.">
+  <meta name="description" content="A new place to hear every day: the sound of a city or country on Spotify, marked on a map, plus an atlas of every place.">
   <meta name="theme-color" content="#f4efe5" media="(prefers-color-scheme: light)">
-  <meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#12110f" media="(prefers-color-scheme: dark)">
   <link rel="canonical" href="https://jerryshi042003.github.io/orfeu/locations/">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Orfeu">
@@ -18,48 +18,90 @@
   <link rel="apple-touch-icon" href="../assets/favicon/apple-touch-icon.png">
   <link rel="manifest" href="../assets/favicon/site.webmanifest">
   <link rel="preload" href="../assets/fonts/instrument-serif-latin.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="../assets/css/orfeu.css?v=4">
-  <script src="../assets/js/orfeu.js?v=4" defer></script>
+  <link rel="stylesheet" href="../assets/css/orfeu.css?v=5">
+  <script src="../assets/js/core.js?v=5" defer></script>
+  <script src="../assets/js/places.js?v=5" defer></script>
 </head>
-<body data-page="place" data-root="../">
-  <header class="masthead">
+<body data-page="places" data-root="../">
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="top">
     <a class="wordmark" href="../">Orfeu</a>
-    <nav class="tabs" aria-label="Daily picks">
-      <a href="../">Genre</a>
-      <a href="./" aria-current="page">Place</a>
+    <nav class="nav" aria-label="Sections">
+      <a href="../">Today</a>
+      <a href="../explore/">Explore</a>
+      <a href="./" aria-current="page">Places</a>
+      <a href="../picks/">Jerry’s picks</a>
     </nav>
+    <div class="top-actions">
+      <a class="icon-btn" href="../explore/?focus=1" aria-label="Search genres"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></a>
+      <button class="icon-btn" type="button" data-surprise title="Surprise me (R)"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg><span class="surprise-label">Surprise me</span><span class="visually-hidden">: open a random genre</span></button>
+    </div>
   </header>
 
-  <main>
-    <nav class="day" aria-label="Choose a day">
-      <a id="day-prev" class="day-step" href="?" aria-label="Previous day"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg></a>
-      <time id="day-label">Today</time>
-      <a id="day-next" class="day-step" href="?" aria-label="Next day"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></a>
-      <a id="day-today" class="day-today" href="./" hidden>Back to today</a>
-    </nav>
+  <main id="main" class="page">
+    <div class="wrap">
+      <section class="place-hero" aria-labelledby="pick-name">
+        <div>
+          <nav class="place-day" aria-label="Choose a day">
+            <a id="day-prev" class="day-step" aria-label="Previous day"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg></a>
+            <p class="kicker"><span id="kicker">Place of the day</span> · <time id="day-label">Today</time></p>
+            <a id="day-next" class="day-step" aria-label="Next day"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></a>
+            <a id="day-today" class="today-link" href="./" hidden>Back to today</a>
+          </nav>
+          <h1 id="pick-name" class="place-name" aria-busy="true">&hellip;</h1>
+          <p id="pick-where" class="place-where"></p>
+          <div class="place-actions">
+            <a id="listen" class="btn btn-spotify" target="_blank" rel="noopener noreferrer" aria-disabled="true"><svg class="icon fill" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 1.5a10.5 10.5 0 1 0 0 21 10.5 10.5 0 0 0 0-21Zm4.82 15.15a.65.65 0 0 1-.9.22c-2.46-1.5-5.56-1.84-9.21-1.01a.66.66 0 0 1-.29-1.28c4-.91 7.42-.52 10.18 1.17.31.19.41.59.22.9Zm1.28-2.86a.82.82 0 0 1-1.12.27c-2.82-1.73-7.11-2.23-10.44-1.22a.82.82 0 1 1-.47-1.57c3.8-1.15 8.54-.6 11.77 1.39.38.24.5.74.26 1.13Zm.11-2.97C14.83 8.8 9.27 8.62 6.05 9.6a.98.98 0 1 1-.57-1.88c3.7-1.12 9.83-.9 13.71 1.4a.98.98 0 0 1-1 1.7Z"/></svg><span>Listen on Spotify</span><span class="visually-hidden"> (opens in a new tab)</span></a>
+            <button id="play-here" class="btn btn-quiet" type="button"><svg class="icon fill" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10.5-6.5L8 5.5Z"/></svg><span>Play here</span></button>
+            <button id="share" class="btn btn-quiet" type="button"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 15V3.5M7.5 8 12 3.5 16.5 8"/><path d="M5 12.5v6A1.5 1.5 0 0 0 6.5 20h11a1.5 1.5 0 0 0 1.5-1.5v-6"/></svg><span>Share</span></button>
+          </div>
+          <p id="place-note" class="place-note"></p>
+          <p id="problem" class="problem" role="alert" hidden>The place didn’t load. Check your connection and try again.<button id="problem-retry" type="button">Reload</button></p>
+          <noscript><p class="problem">Orfeu needs JavaScript to pick the day’s place.</p></noscript>
+        </div>
+        <figure id="map" class="map" hidden>
+          <div id="map-frame"></div>
+          <figcaption id="map-caption"></figcaption>
+        </figure>
+      </section>
 
-    <section class="pick" aria-label="Place of the day">
-      <h1 id="pick-name" class="pick-name" aria-busy="true">&hellip;</h1>
-      <p id="pick-where" class="pick-where"></p>
-      <p class="visually-hidden">Place of the day</p>
-      <div class="listen-row">
-        <a id="listen" class="listen" target="_blank" rel="noopener noreferrer" aria-disabled="true"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 1.5a10.5 10.5 0 1 0 0 21 10.5 10.5 0 0 0 0-21Zm4.82 15.15a.65.65 0 0 1-.9.22c-2.46-1.5-5.56-1.84-9.21-1.01a.66.66 0 0 1-.29-1.28c4-.91 7.42-.52 10.18 1.17.31.19.41.59.22.9Zm1.28-2.86a.82.82 0 0 1-1.12.27c-2.82-1.73-7.11-2.23-10.44-1.22a.82.82 0 1 1-.47-1.57c3.8-1.15 8.54-.6 11.77 1.39.38.24.5.74.26 1.13Zm.11-2.97C14.83 8.8 9.27 8.62 6.05 9.6a.98.98 0 1 1-.57-1.88c3.7-1.12 9.83-.9 13.71 1.4a.98.98 0 0 1-1 1.7Z"/></svg><span>Listen on Spotify</span><span class="visually-hidden"> (opens in a new tab)</span></a>
-        <p id="listen-note" class="listen-note"></p>
-      </div>
-      <p id="problem" class="problem" role="alert" hidden>Today’s pick didn’t load. Check your connection and try again.<button id="problem-retry" type="button">Reload</button></p>
-      <noscript><p class="problem">Orfeu needs JavaScript to pick the day’s place.</p></noscript>
-    </section>
+      <section class="section" aria-labelledby="player-title">
+        <div class="section-head"><h2 id="player-title">Listen here</h2></div>
+        <div id="player" class="player"></div>
+      </section>
 
-    <figure id="map" class="map" hidden>
-      <div id="map-frame" class="map-frame"></div>
-      <figcaption id="map-caption"></figcaption>
-    </figure>
+      <section id="nearby" class="section" aria-labelledby="nearby-title" hidden>
+        <div class="section-head"><h2 id="nearby-title">Nearby</h2></div>
+        <ul id="nearby-list" class="results"></ul>
+      </section>
+
+      <section class="section atlas-section" aria-labelledby="atlas-title">
+        <div class="section-head"><h2 id="atlas-title">All places</h2></div>
+        <div class="search" role="search">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <label class="visually-hidden" for="pq">Search a city or country</label>
+          <input id="pq" type="search" placeholder="Search: Sevilla, Lagos, Japan…" autocomplete="off" spellcheck="false" enterkeyhint="go">
+        </div>
+        <ul id="place-results" class="results" aria-live="polite"></ul>
+        <figure class="map atlas" style="margin-top:18px">
+          <div id="atlas-frame"></div>
+          <div id="atlas-pop" class="atlas-pop" hidden></div>
+          <figcaption>Tap or hover a dot to open a place. Rings mark whole countries.</figcaption>
+        </figure>
+      </section>
+    </div>
   </main>
 
   <footer class="colophon">
-    <p>Orfeu picks one genre and one place to listen to every day. Orfeu is Brazilian Portuguese for Orpheus, the musician of Greek myth.</p>
-    <p>Playlists come from Every Noise at Once (“The Sound of …”) on Spotify. Map from Natural Earth; place coordinates from OpenStreetMap contributors (ODbL).</p>
+    <p>Playlists: Every Noise at Once (“The Sound of …”) on Spotify, each checked before it is listed. Map: Natural Earth. Place coordinates: © OpenStreetMap contributors (ODbL).</p>
     <p><a href="https://github.com/jerryshi042003/orfeu">Source on GitHub</a></p>
   </footer>
+
+  <nav class="tabbar" aria-label="Sections">
+    <a href="../"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="2.5"/></svg>Today</a>
+    <a href="../explore/"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>Explore</a>
+    <a href="./" aria-current="page"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-6.5-5.6-6.5-11a6.5 6.5 0 0 1 13 0c0 5.4-6.5 11-6.5 11Z"/><circle cx="12" cy="10" r="2.3"/></svg>Places</a>
+    <a href="../picks/"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20s-7.5-4.6-7.5-10.2A4.3 4.3 0 0 1 12 7.3a4.3 4.3 0 0 1 7.5 2.5C19.5 15.4 12 20 12 20Z"/></svg>Picks</a>
+  </nav>
 </body>
 </html>

@@ -14,5 +14,8 @@
  "Spoken Word": { "title": "Spoken word", "reason": "The lead describes performance art without using a music word." },
  "Balearic": { "title": "Balearic beat", "reason": "Balearic is a disambiguation page; Balearic beat is the music." },
  "Intelligent Dance Music": { "title": "Intelligent dance music", "reason": "\"Loose label for ...\" reads as a record label to the automatic check." },
- "Pub Rock": { "title": "Pub rock (United Kingdom)", "reason": "Pub Rock is a disambiguation page; the Spotify genre is the British scene." }
+ "Pub Rock": { "title": "Pub rock (United Kingdom)", "reason": "Pub Rock is a disambiguation page; the Spotify genre is the British scene." },
+ "Neoclassical Darkwave": { "title": "Dark wave", "reason": "The Neoclassical playlist is now \"The Pulse of Neoclassical Darkwave\"; Neoclassical dark wave is a section of the Dark wave article." },
+ "Bagpipe": { "title": "Bagpipes", "reason": "The Pipe Band playlist is now \"The Pulse of Bagpipe\"." },
+ "Axé": { "title": "Bahian Carnival", "reason": "English Wikipedia's Axé and Axé music pages are about the Candomblé concept; axé is the music of the Bahian Carnival." }
 }

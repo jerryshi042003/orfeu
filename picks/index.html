@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Jerry’s picks · Orfeu</title>
+  <meta name="description" content="The genres Jerry Shi keeps coming back to, flamenco first, each with its Spotify playlist.">
+  <meta name="theme-color" content="#f4efe5" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#12110f" media="(prefers-color-scheme: dark)">
+  <link rel="canonical" href="https://jerryshi042003.github.io/orfeu/picks/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Orfeu">
+  <meta property="og:title" content="Jerry’s picks · Orfeu">
+  <meta property="og:description" content="The genres Jerry Shi keeps coming back to, flamenco first.">
+  <meta property="og:url" content="https://jerryshi042003.github.io/orfeu/picks/">
+  <link rel="icon" href="../assets/favicon/favicon.ico" sizes="any">
+  <link rel="icon" href="../assets/favicon/favicon-32x32.png" type="image/png" sizes="32x32">
+  <link rel="apple-touch-icon" href="../assets/favicon/apple-touch-icon.png">
+  <link rel="manifest" href="../assets/favicon/site.webmanifest">
+  <link rel="preload" href="../assets/fonts/instrument-serif-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="../assets/css/orfeu.css?v=5">
+  <script src="../assets/js/core.js?v=5" defer></script>
+  <script src="../assets/js/picks.js?v=5" defer></script>
+</head>
+<body data-page="picks" data-root="../">
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="top">
+    <a class="wordmark" href="../">Orfeu</a>
+    <nav class="nav" aria-label="Sections">
+      <a href="../">Today</a>
+      <a href="../explore/">Explore</a>
+      <a href="../locations/">Places</a>
+      <a href="./" aria-current="page">Jerry’s picks</a>
+    </nav>
+    <div class="top-actions">
+      <a class="icon-btn" href="../explore/?focus=1" aria-label="Search genres"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></a>
+      <button class="icon-btn" type="button" data-surprise title="Surprise me (R)"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg><span class="surprise-label">Surprise me</span><span class="visually-hidden">: open a random genre</span></button>
+    </div>
+  </header>
+
+  <main id="main" class="page">
+    <div class="wrap">
+      <header class="page-head">
+        <p class="kicker">Jerry’s picks</p>
+        <h1 class="page-title">Genres Jerry loves</h1>
+        <p class="page-lede">The ones Jerry Shi, who built Orfeu, keeps coming back to. Flamenco first, then a lot of Brazil.</p>
+      </header>
+      <p id="picks-problem" class="empty" hidden>The picks didn’t load. Check your connection and reload the page.</p>
+
+      <article id="feature" class="feature section" aria-labelledby="feature-title" hidden style="padding:0;margin-top:clamp(24px,4vw,40px)">
+        <div id="feature-media" class="feature-media"></div>
+        <div class="feature-body">
+          <p id="feature-label" class="kicker">First pick</p>
+          <h2 id="feature-title" class="feature-title"></h2>
+          <p id="feature-note" class="feature-note"></p>
+          <div id="feature-links" class="feature-links"></div>
+          <div id="feature-actions"></div>
+        </div>
+      </article>
+
+      <section class="section" aria-labelledby="more-title">
+        <div class="section-head"><h2 id="more-title">And the rest</h2><a href="../explore/">Explore every genre</a></div>
+        <ol id="pick-grid" class="pick-grid"></ol>
+      </section>
+    </div>
+  </main>
+
+  <footer class="colophon">
+    <p>Every pick links to a playlist that passed the same check as the rest of the site. Funk bruxaria has no playlist of its own, so its card links to the nearest one. Photos: Wikimedia Commons, credited on each genre’s page.</p>
+    <p><a href="https://github.com/jerryshi042003/orfeu">Source on GitHub</a></p>
+  </footer>
+
+  <nav class="tabbar" aria-label="Sections">
+    <a href="../"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="2.5"/></svg>Today</a>
+    <a href="../explore/"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>Explore</a>
+    <a href="../locations/"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-6.5-5.6-6.5-11a6.5 6.5 0 0 1 13 0c0 5.4-6.5 11-6.5 11Z"/><circle cx="12" cy="10" r="2.3"/></svg>Places</a>
+    <a href="./" aria-current="page"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20s-7.5-4.6-7.5-10.2A4.3 4.3 0 0 1 12 7.3a4.3 4.3 0 0 1 7.5 2.5C19.5 15.4 12 20 12 20Z"/></svg>Picks</a>
+  </nav>
+</body>
+</html>
