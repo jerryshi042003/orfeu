@@ -18,6 +18,7 @@
   let genres, families, bySlug;
   try {
     ({ genres, families } = await O.data.genres());
+    if (filter !== 'all' && filter !== 'saved' && !Object.hasOwn(families, filter)) filter = 'all';
     bySlug = new Map(genres.map(g => [g.slug, g]));
   } catch (err) {
     console.error('Orfeu could not load its data.', err);
