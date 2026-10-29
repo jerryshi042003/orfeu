@@ -50,7 +50,10 @@ const readCached = file => {
   try {
     const result = JSON.parse(readFileSync(file, 'utf8'));
     return (result?.status === 200 || result?.status === 404) && Object.hasOwn(result, 'body') ? result : null;
-  } catch { return null; }
+  } catch (err) {
+    if (err.code === 'ENOENT' || err instanceof SyntaxError) return null;
+    throw err;
+  }
 };
 export const isCached = url => useCache && readCached(cacheFile(url)) !== null;
 

@@ -92,6 +92,16 @@ test('valid JSON with an invalid cache envelope is also a miss', async () => {
   });
 });
 
+test('a filesystem error stops before any HTTP request', async () => {
+  await withCache(async ({ getJson, isCached, url, file, requests }) => {
+    const target = url('/success');
+    mkdirSync(file(target));
+    assert.throws(() => isCached(target), { code: 'EISDIR' });
+    await assert.rejects(getJson(target, { retries: 0 }), { code: 'EISDIR' });
+    assert.equal(requests(), 0);
+  });
+});
+
 test('explicit cache bypass neither reads nor overwrites the saved result', async () => {
   await withCache(async ({ getJson, url, file, requests }) => {
     const target = url('/success');
