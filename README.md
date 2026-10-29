@@ -30,7 +30,7 @@ Orfeu gives you one music genre and one place to listen to every day, with a rea
 | `/locations/`, `/locations/?date=…`, `/locations/?p=sevilla` | Today's place, a past day's place, one place |
 | `/picks/` | Jerry's picks |
 
-Everyone sees the same pick on the same calendar day. The picks come from `assets/data/schedule.json`, which fixes the genre and place for every date from 2025-01-01 to 2028-12-28. Dates up to 2026-10-21 reproduce what the site showed before the schedule existed, so old `?date=` links still show the same thing. The file is only ever extended.
+Everyone sees the same pick on the same calendar day. The picks come from `assets/data/schedule.json`, which fixes the genre and place for every date from 2025-01-01 to 2028-12-29. Dates up to 2026-10-21 reproduce what the site showed before the schedule existed, so old `?date=` links still show the same thing. The file is only ever extended.
 
 ## The playlist audit
 
