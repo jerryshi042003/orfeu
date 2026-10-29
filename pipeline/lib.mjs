@@ -1,5 +1,5 @@
 // Shared helpers for the Orfeu data build scripts.
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { dirname } from 'node:path';
 
@@ -46,12 +46,21 @@ const CACHE = new URL('./.cache/', import.meta.url).pathname;
 const useCache = !process.argv.includes('--no-cache');
 
 const cacheFile = url => CACHE + createHash('sha1').update(url).digest('hex') + '.json';
-export const isCached = url => useCache && existsSync(cacheFile(url));
+const readCached = file => {
+  try {
+    const result = JSON.parse(readFileSync(file, 'utf8'));
+    return (result?.status === 200 || result?.status === 404) && Object.hasOwn(result, 'body') ? result : null;
+  } catch { return null; }
+};
+export const isCached = url => useCache && readCached(cacheFile(url)) !== null;
 
 // GET JSON with retries. Returns { status, body } and never throws for HTTP errors.
 export async function getJson(url, opts = {}) {
   const file = cacheFile(url);
-  if (useCache && opts.cache !== false && existsSync(file)) return JSON.parse(readFileSync(file, 'utf8'));
+  if (useCache && opts.cache !== false) {
+    const cached = readCached(file);
+    if (cached !== null) return cached;
+  }
   const result = await fetchJson(url, opts);
   if (useCache && opts.cache !== false && (result.status === 200 || result.status === 404)) {
     mkdirSync(CACHE, { recursive: true });
