@@ -4,6 +4,7 @@
   "type": "module",
   "description": "Builds the static data files the Orfeu site reads.",
   "scripts": {
+    "test": "node --test *.test.mjs",
     "audit": "node audit-playlists.mjs",
     "genres": "node build-genres.mjs",
     "images": "node build-images.mjs",

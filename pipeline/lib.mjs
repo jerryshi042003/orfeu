@@ -31,7 +31,10 @@ export function parseCsv(text) {
 
 export const readCsv = path => parseCsv(readFileSync(path, 'utf8'));
 export const readJson = (path, fallback) => { try { return JSON.parse(readFileSync(path, 'utf8')); } catch { return fallback; } };
-export const writeJson = (path, value, pretty = true) => mkdirSync(dirname(path), { recursive: true }) || writeFileSync(path, JSON.stringify(value, null, pretty ? 1 : 0) + '\n');
+export const writeJson = (path, value, pretty = true) => {
+  mkdirSync(dirname(path), { recursive: true });
+  writeFileSync(path, JSON.stringify(value, null, pretty ? 1 : 0) + '\n');
+};
 
 // Lowercase, strip accents and everything that is not a letter or digit.
 export const fold = s => (s || '').normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]/g, '');
