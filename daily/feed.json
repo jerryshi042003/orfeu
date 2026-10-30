@@ -152,6 +152,58 @@
    },
    "why": "Rebetiko, the bouzouki music of Greece's underground, took root in Thessaloniki's taverns and port quarters.",
    "status": "ok"
+  },
+  {
+   "date": "2026-11-07",
+   "culture": {
+    "genre": "samba",
+    "reel": "https://www.instagram.com/reel/DJSiOO7MM_0/",
+    "caption": "Ju Diniz · Deck Bar SP, São Paulo",
+    "name": "Samba",
+    "spotify": "playlist/4bms91WyguCn9JrqlvkifK",
+    "playlistTitle": "The Pulse of Samba",
+    "wiki": "https://en.wikipedia.org/wiki/Samba",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Originais_do_Samba.tif/lossy-page1-1280px-Originais_do_Samba.tif.jpg",
+    "credit": "Originais do Samba · Unknown author · Public domain",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:Originais_do_Samba.tif"
+   },
+   "place": {
+    "place": "sao-paulo",
+    "reel": "https://www.instagram.com/reel/DbjbzoDNkeN/",
+    "caption": "Isaias Lima · Avenida Paulista",
+    "name": "São Paulo",
+    "country": "Brazil",
+    "spotify": "playlist/6MP0EKbToSg5mLY6oNOO0X",
+    "playlistTitle": "The Sound of São Paulo BR"
+   },
+   "why": "Samba lives in São Paulo's botecos and samba schools, where rodas de samba fill bars across the city every week.",
+   "status": "ok"
+  },
+  {
+   "date": "2026-11-08",
+   "culture": {
+    "genre": "argentine-rock",
+    "reel": "https://www.instagram.com/reel/DdJbD9QsD6b/",
+    "caption": "Sicoticos · Morón, Buenos Aires",
+    "name": "Argentine Rock",
+    "spotify": "playlist/3IyoGm8A5EFKLgZciN8QkP",
+    "playlistTitle": "The Pulse of Argentine Rock",
+    "wiki": "https://en.wikipedia.org/wiki/Argentine_rock",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Almendra_y_Manal.png/1280px-Almendra_y_Manal.png",
+    "credit": "Almendra y Manal · Unknown author · Public domain",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:Almendra_y_Manal.png"
+   },
+   "place": {
+    "place": "buenos-aires",
+    "reel": "https://www.instagram.com/reel/Dau5GK2Ol7A/",
+    "caption": "TravelZilla · Obelisco, Avenida 9 de Julio",
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "spotify": "playlist/1iyu1s4szp3ASCNSbGerzQ",
+    "playlistTitle": "The Sound of Buenos Aires AR"
+   },
+   "why": "Rock nacional was born in Buenos Aires in the 1960s, and Argentine rock bands still fill the city's clubs and arenas.",
+   "status": "ok"
   }
  ]
 }
