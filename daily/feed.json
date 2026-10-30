@@ -1,0 +1,4 @@
+{
+ "note": "Days for https://jerrythegoat.com/orfeu/ added from the cloud. Muse appends entries; the daily-feed GitHub Action checks each one, fills names and Spotify playlists from assets/data, and sets status ok or rejected. See daily/README.md.",
+ "days": []
+}
