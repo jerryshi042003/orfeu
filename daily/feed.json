@@ -6,80 +6,152 @@
    "culture": {
     "genre": "bachata",
     "reel": "https://www.instagram.com/reel/DdZT5Jsu3fJ/",
-    "caption": "Taliya · Santo Domingo"
+    "caption": "Taliya · Santo Domingo",
+    "name": "Bachata",
+    "spotify": "playlist/7gNCVZ5IkLkANU7PEFI7ld",
+    "playlistTitle": "The Pulse of Bachata",
+    "wiki": "https://en.wikipedia.org/wiki/Bachata_(music)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IBPA_22696_-_A_nova_edi%C3%A7%C3%A3o_do_projeto_Salseando_e_Bachateando_estar%C3%A1_-_2019-02-05_-_Nando_Espinosa_Fotografia-SMC_PMPA.jpg/1280px-IBPA_22696_-_A_nova_edi%C3%A7%C3%A3o_do_projeto_Salseando_e_Bachateando_estar%C3%A1_-_2019-02-05_-_Nando_Espinosa_Fotografia-SMC_PMPA.jpg",
+    "credit": "IBPA 22696 - A nova edição do projeto Salseando e Bachateando estará… · Nando Espinosa Fotografia/SMC PMPA · Attribution",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:IBPA_22696_-_A_nova_edi%C3%A7%C3%A3o_do_projeto_Salseando_e_Bachateando_estar%C3%A1_-_2019-02-05_-_Nando_Espinosa_Fotografia-SMC_PMPA.jpg"
    },
    "place": {
     "place": "santo-domingo",
     "reel": "https://www.instagram.com/reel/Da0gR13Ovzs/",
-    "caption": "FILSATION · Zona Colonial"
+    "caption": "FILSATION · Zona Colonial",
+    "name": "Santo Domingo",
+    "country": "Dominican Republic",
+    "spotify": "playlist/34wU6dhyWpdIldF9C0JIV0",
+    "playlistTitle": "The Sound of Santo Domingo DO"
    },
-   "why": "Bachata was born in the Dominican Republic, and Santo Domingo is where it is still danced in bars and on streets every night."
+   "why": "Bachata was born in the Dominican Republic, and Santo Domingo is where it is still danced in bars and on streets every night.",
+   "status": "ok"
   },
   {
    "date": "2026-11-02",
    "culture": {
     "genre": "mariachi",
     "reel": "https://www.instagram.com/reel/DT6k0tJkX3h/",
-    "caption": "Freddy Aguilera · Plaza Garibaldi"
+    "caption": "Freddy Aguilera · Plaza Garibaldi",
+    "name": "Mariachi",
+    "spotify": "playlist/0qdVYOb42dtSPU2isg0Fbq",
+    "playlistTitle": "The Pulse of Mariachi",
+    "wiki": "https://en.wikipedia.org/wiki/Mariachi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MX_MM_CANTEMOS_A_MAM%C3%81_DESDE_CASA_%2849864889988%29.jpg/1280px-MX_MM_CANTEMOS_A_MAM%C3%81_DESDE_CASA_%2849864889988%29.jpg",
+    "credit": "MX MM CANTEMOS A MAMÁ DESDE CASA (49864889988) · Milton Martínez / Secretaría de Cultura de la Ciudad de México from México · CC BY 2.0",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:MX_MM_CANTEMOS_A_MAM%C3%81_DESDE_CASA_(49864889988).jpg"
    },
    "place": {
     "place": "ciudad-de-mexico",
     "reel": "https://www.instagram.com/reel/DbGrB1LoRvW/",
-    "caption": "Raul Flores · Zócalo"
+    "caption": "Raul Flores · Zócalo",
+    "name": "Ciudad de México",
+    "country": "Mexico",
+    "spotify": "playlist/0aUBHhKtsrIvno7MKNDvn4",
+    "playlistTitle": "The Sound of Ciudad de México MX"
    },
-   "why": "Mariachi bands gather every night at Plaza Garibaldi, in the historic centre of Mexico City."
+   "why": "Mariachi bands gather every night at Plaza Garibaldi, in the historic centre of Mexico City.",
+   "status": "ok"
   },
   {
    "date": "2026-11-03",
    "culture": {
     "genre": "axe",
     "reel": "https://www.instagram.com/reel/DcUjDxHP58d/",
-    "caption": "Katharine Madrid · Pelourinho, Salvador"
+    "caption": "Katharine Madrid · Pelourinho, Salvador",
+    "name": "Axé",
+    "spotify": "playlist/6bRruRD07FqvmDq5nloWnQ",
+    "playlistTitle": "The Pulse of Axé",
+    "wiki": "https://en.wikipedia.org/wiki/Bahian_Carnival",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Baiana_Salvador.jpg/1280px-Baiana_Salvador.jpg",
+    "credit": "Baiana Salvador · Foto:Antônio Cruz/ABr · CC BY 3.0 br",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:Baiana_Salvador.jpg"
    },
    "place": {
     "place": "salvador",
     "reel": "https://www.instagram.com/reel/DeXd_NESp1o/",
-    "caption": "Paige Serena · Pelourinho"
+    "caption": "Paige Serena · Pelourinho",
+    "name": "Salvador",
+    "country": "Brazil",
+    "spotify": "playlist/1s83xcj4GrvcbGEu82rJ9U",
+    "playlistTitle": "The Sound of Salvador BR"
    },
-   "why": "Axé exploded out of Salvador's carnival blocos, and its drums still fill the streets of Pelourinho."
+   "why": "Axé exploded out of Salvador's carnival blocos, and its drums still fill the streets of Pelourinho.",
+   "status": "ok"
   },
   {
    "date": "2026-11-04",
    "culture": {
     "genre": "new-orleans-jazz",
     "reel": "https://www.instagram.com/reel/Da7_KILNQpv/",
-    "caption": "Glen David Andrews · French Quarter"
+    "caption": "Glen David Andrews · French Quarter",
+    "name": "New Orleans Jazz",
+    "spotify": "playlist/6aNpVL2xDVFpMtn5k0jP8u",
+    "playlistTitle": "The Pulse of New Orleans Jazz",
+    "wiki": "https://en.wikipedia.org/wiki/Dixieland_jazz",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BrianOConnell05.jpg/1280px-BrianOConnell05.jpg",
+    "credit": "BrianOConnell05 · Infrogmation of New Orleans · CC BY-SA 2.5",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:BrianOConnell05.jpg"
    },
    "place": {
     "place": "new-orleans",
     "reel": "https://www.instagram.com/reel/Da8PcI0JZTj/",
-    "caption": "NOLA Bartender · Bourbon Street"
+    "caption": "NOLA Bartender · Bourbon Street",
+    "name": "New Orleans, Louisiana",
+    "country": "United States",
+    "spotify": "playlist/7elQoMcxyrYOU4MI6ken8Y",
+    "playlistTitle": "The Sound of New Orleans Louisiana US"
    },
-   "why": "Jazz was born in New Orleans, and brass bands still play it on the streets of the French Quarter."
+   "why": "Jazz was born in New Orleans, and brass bands still play it on the streets of the French Quarter.",
+   "status": "ok"
   },
   {
    "date": "2026-11-05",
    "culture": {
-    "genre": "gypsy-jazz"
+    "genre": "gypsy-jazz",
+    "name": "Gypsy Jazz",
+    "spotify": "playlist/5jLKGN5WilhUlxQHhJYrWk",
+    "playlistTitle": "The Pulse of Gypsy Jazz",
+    "wiki": "https://en.wikipedia.org/wiki/Gypsy_jazz",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tchavolo_Schmitt_%26_Steeve_Laffont.jpg/1280px-Tchavolo_Schmitt_%26_Steeve_Laffont.jpg",
+    "credit": "Tchavolo Schmitt & Steeve Laffont · Jean-Christophe Windland · CC BY-SA 4.0",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:Tchavolo_Schmitt_%26_Steeve_Laffont.jpg"
    },
    "place": {
     "place": "paris",
     "reel": "https://www.instagram.com/reel/Db2TgS8Pp5M/",
-    "caption": "Gayane Hovsepyan · Eiffel Tower street view"
+    "caption": "Gayane Hovsepyan · Eiffel Tower street view",
+    "name": "Paris",
+    "country": "France",
+    "spotify": "playlist/2sxvQMwzAo9yjbDVBxufmh",
+    "playlistTitle": "The Sound of Paris FR"
    },
-   "why": "Django Reinhardt created jazz manouche in Paris in the 1930s, and gypsy jazz still fills the city's small clubs."
+   "why": "Django Reinhardt created jazz manouche in Paris in the 1930s, and gypsy jazz still fills the city's small clubs.",
+   "status": "ok"
   },
   {
    "date": "2026-11-06",
    "culture": {
-    "genre": "rebetiko"
+    "genre": "rebetiko",
+    "name": "Rebetiko",
+    "spotify": "playlist/3p3vjJdI1ODhbEjG8ZowBJ",
+    "playlistTitle": "The Pulse of Rebetiko",
+    "wiki": "https://en.wikipedia.org/wiki/Rebetiko",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rembetes_Karaiskaki_1933.jpg/1280px-Rembetes_Karaiskaki_1933.jpg",
+    "credit": "Rembetes Karaiskaki 1933 · Unknown author · FAL",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:Rembetes_Karaiskaki_1933.jpg"
    },
    "place": {
     "place": "thessaloniki",
     "reel": "https://www.instagram.com/reel/DfAXm69RGR-/",
-    "caption": "Mixalis Mpaxtatze · White Tower"
+    "caption": "Mixalis Mpaxtatze · White Tower",
+    "name": "Thessaloniki",
+    "country": "Greece",
+    "spotify": "playlist/2jM4ZTuuoTHGolB1XPVubz",
+    "playlistTitle": "The Sound of Thessaloníki GR"
    },
-   "why": "Rebetiko, the bouzouki music of Greece's underground, took root in Thessaloniki's taverns and port quarters."
+   "why": "Rebetiko, the bouzouki music of Greece's underground, took root in Thessaloniki's taverns and port quarters.",
+   "status": "ok"
   }
  ]
 }
