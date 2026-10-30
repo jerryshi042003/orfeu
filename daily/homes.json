@@ -1,22 +1,77 @@
 {
  "note": "Where each culture is from, by country. sync.mjs fails when a day (or a queued pair) puts a culture in a city outside these countries. Keys are genre slugs, or the label for a culture without one. Add the culture here before queueing it.",
  "homes": {
-  "afrobeat": ["Nigeria", "Ghana"],
-  "axe": ["Brazil"],
-  "bossa-nova": ["Brazil"],
-  "cante-flamenco": ["Spain"],
-  "choro": ["Brazil"],
-  "cool-jazz": ["United States"],
-  "cumbia": ["Colombia", "Mexico"],
-  "fado": ["Portugal"],
-  "flamenco": ["Spain"],
-  "forro": ["Brazil"],
-  "funk-carioca": ["Brazil"],
-  "Habibi Funk": ["Egypt", "Lebanon", "Morocco", "Algeria", "Libya", "Sudan"],
-  "new-orleans-jazz": ["United States"],
-  "pagode": ["Brazil"],
-  "salsa": ["Colombia", "Cuba", "United States"],
-  "samba": ["Brazil"],
-  "southern-hip-hop": ["United States"]
+  "afrobeat": [
+   "Nigeria",
+   "Ghana"
+  ],
+  "axe": [
+   "Brazil"
+  ],
+  "bachata": [
+   "Dominican Republic"
+  ],
+  "bossa-nova": [
+   "Brazil"
+  ],
+  "cante-flamenco": [
+   "Spain"
+  ],
+  "choro": [
+   "Brazil"
+  ],
+  "cool-jazz": [
+   "United States"
+  ],
+  "cumbia": [
+   "Colombia",
+   "Mexico"
+  ],
+  "fado": [
+   "Portugal"
+  ],
+  "flamenco": [
+   "Spain"
+  ],
+  "forro": [
+   "Brazil"
+  ],
+  "funk-carioca": [
+   "Brazil"
+  ],
+  "gypsy-jazz": [
+   "France"
+  ],
+  "Habibi Funk": [
+   "Egypt",
+   "Lebanon",
+   "Morocco",
+   "Algeria",
+   "Libya",
+   "Sudan"
+  ],
+  "mariachi": [
+   "Mexico"
+  ],
+  "new-orleans-jazz": [
+   "United States"
+  ],
+  "pagode": [
+   "Brazil"
+  ],
+  "rebetiko": [
+   "Greece"
+  ],
+  "salsa": [
+   "Colombia",
+   "Cuba",
+   "United States"
+  ],
+  "samba": [
+   "Brazil"
+  ],
+  "southern-hip-hop": [
+   "United States"
+  ]
  }
 }

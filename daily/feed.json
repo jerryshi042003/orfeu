@@ -1,4 +1,85 @@
 {
  "note": "Days for https://jerrythegoat.com/orfeu/ added from the cloud. Muse appends entries; the daily-feed GitHub Action checks each one, fills names and Spotify playlists from assets/data, and sets status ok or rejected. See daily/README.md.",
- "days": []
+ "days": [
+  {
+   "date": "2026-11-01",
+   "culture": {
+    "genre": "bachata",
+    "reel": "https://www.instagram.com/reel/DdZT5Jsu3fJ/",
+    "caption": "Taliya · Santo Domingo"
+   },
+   "place": {
+    "place": "santo-domingo",
+    "reel": "https://www.instagram.com/reel/Da0gR13Ovzs/",
+    "caption": "FILSATION · Zona Colonial"
+   },
+   "why": "Bachata was born in the Dominican Republic, and Santo Domingo is where it is still danced in bars and on streets every night."
+  },
+  {
+   "date": "2026-11-02",
+   "culture": {
+    "genre": "mariachi",
+    "reel": "https://www.instagram.com/reel/DT6k0tJkX3h/",
+    "caption": "Freddy Aguilera · Plaza Garibaldi"
+   },
+   "place": {
+    "place": "ciudad-de-mexico",
+    "reel": "https://www.instagram.com/reel/DbGrB1LoRvW/",
+    "caption": "Raul Flores · Zócalo"
+   },
+   "why": "Mariachi bands gather every night at Plaza Garibaldi, in the historic centre of Mexico City."
+  },
+  {
+   "date": "2026-11-03",
+   "culture": {
+    "genre": "axe",
+    "reel": "https://www.instagram.com/reel/DcUjDxHP58d/",
+    "caption": "Katharine Madrid · Pelourinho, Salvador"
+   },
+   "place": {
+    "place": "salvador",
+    "reel": "https://www.instagram.com/reel/DeXd_NESp1o/",
+    "caption": "Paige Serena · Pelourinho"
+   },
+   "why": "Axé exploded out of Salvador's carnival blocos, and its drums still fill the streets of Pelourinho."
+  },
+  {
+   "date": "2026-11-04",
+   "culture": {
+    "genre": "new-orleans-jazz",
+    "reel": "https://www.instagram.com/reel/Da7_KILNQpv/",
+    "caption": "Glen David Andrews · French Quarter"
+   },
+   "place": {
+    "place": "new-orleans",
+    "reel": "https://www.instagram.com/reel/Da8PcI0JZTj/",
+    "caption": "NOLA Bartender · Bourbon Street"
+   },
+   "why": "Jazz was born in New Orleans, and brass bands still play it on the streets of the French Quarter."
+  },
+  {
+   "date": "2026-11-05",
+   "culture": {
+    "genre": "gypsy-jazz"
+   },
+   "place": {
+    "place": "paris",
+    "reel": "https://www.instagram.com/reel/Db2TgS8Pp5M/",
+    "caption": "Gayane Hovsepyan · Eiffel Tower street view"
+   },
+   "why": "Django Reinhardt created jazz manouche in Paris in the 1930s, and gypsy jazz still fills the city's small clubs."
+  },
+  {
+   "date": "2026-11-06",
+   "culture": {
+    "genre": "rebetiko"
+   },
+   "place": {
+    "place": "thessaloniki",
+    "reel": "https://www.instagram.com/reel/DfAXm69RGR-/",
+    "caption": "Mixalis Mpaxtatze · White Tower"
+   },
+   "why": "Rebetiko, the bouzouki music of Greece's underground, took root in Thessaloniki's taverns and port quarters."
+  }
+ ]
 }
