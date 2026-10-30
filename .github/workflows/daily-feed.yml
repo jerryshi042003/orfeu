@@ -1,0 +1,25 @@
+name: daily-feed
+# Checks and completes the days Muse adds to daily/feed.json for jerrythegoat.com/orfeu.
+on:
+  push:
+    branches: [main]
+    paths: [daily/feed.json, daily/homes.json, daily/resolve.mjs]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: daily-feed
+jobs:
+  resolve:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node daily/resolve.mjs
+      - name: Commit the checked feed
+        run: |
+          git diff --quiet daily/feed.json && exit 0
+          git config user.name "orfeu-daily-feed"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "daily: check feed" daily/feed.json
+          git push
