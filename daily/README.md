@@ -1,6 +1,10 @@
 # Daily feed for jerrythegoat.com/orfeu
 
-Muse adds a week of days here every Saturday from the cloud. The page at
+Muse adds a week of days here every Saturday from the cloud, with no one at a computer:
+Muse (Saturday 4 PM Pacific) emails Jerry an `ORFEU FEED <first date>` message whose body ends with
+the week's JSON between `ORFEU-JSON-START` and `ORFEU-JSON-END`; a Claude cloud routine (Saturday
+evening) reads that email and runs `node daily/ingest.mjs mail.txt`, which appends the days and new
+home countries, and pushes; the `daily-feed` Action checks them. The page at
 https://jerrythegoat.com/orfeu/ reads `daily/feed.json` straight from GitHub and shows a day
 only after the `daily-feed` Action has marked it `"status": "ok"`. Dates the site already hosts
 (its own `days.json`) always win.
