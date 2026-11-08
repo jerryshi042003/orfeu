@@ -204,6 +204,209 @@
    },
    "why": "Rock nacional was born in Buenos Aires in the 1960s, and Argentine rock bands still fill the city's clubs and arenas.",
    "status": "ok"
+  },
+  {
+   "date": "2026-11-09",
+   "culture": {
+    "genre": "norteno",
+    "reel": "https://www.instagram.com/reel/DYRLcWzu-oi/",
+    "caption": "Grupo Costumbre · Paladares festival, Monterrey",
+    "name": "Norteño",
+    "spotify": "playlist/3vQBT7hk0yey7LiFLEiqPA",
+    "playlistTitle": "The Pulse of Norteño",
+    "wiki": "https://en.wikipedia.org/wiki/Norte%C3%B1o_(music)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ram%C3%B3n_Ayala.jpg/1280px-Ram%C3%B3n_Ayala.jpg",
+    "credit": "Ramón Ayala · aaronmarkham · CC BY 2.0",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:Ram%C3%B3n_Ayala.jpg"
+   },
+   "place": {
+    "place": "monterrey",
+    "reel": "https://www.instagram.com/reel/Dc4srJoJyhT/",
+    "caption": "Eduardo Saldaña · Cerro de la Silla",
+    "name": "Monterrey",
+    "country": "Mexico",
+    "spotify": "playlist/3pJvSuqEOAaMjVzA5gUttv",
+    "playlistTitle": "The Sound of Monterrey MX"
+   },
+   "why": "Norteño, the accordion and bajo sexto music of northern Mexico, is Monterrey's home sound, played at its festivals, dances and cantinas.",
+   "status": "rejected",
+   "problems": [
+    "the site already has this date"
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "culture": {
+    "genre": "canzone-napoletana",
+    "reel": "https://www.instagram.com/reel/Db_Ud13oISA/",
+    "caption": "Gianni Fiorellino · Napoli",
+    "name": "Canzone Napoletana",
+    "spotify": "playlist/5vT1SylGnuan9hNgh4jmkV",
+    "playlistTitle": "The Pulse of Canzone Napoletana",
+    "wiki": "https://en.wikipedia.org/wiki/Canzone_napoletana",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tipi_Napoletani_-_Serenata_%28Naples%2C_Boy_and_old_man_playing_serenade%29_-_Old_postcard.jpg/1280px-Tipi_Napoletani_-_Serenata_%28Naples%2C_Boy_and_old_man_playing_serenade%29_-_Old_postcard.jpg",
+    "credit": "Tipi Napoletani - Serenata (Naples, Boy and old man playing serenade)… · Anonymous Unknown author · Public domain",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:Tipi_Napoletani_-_Serenata_(Naples,_Boy_and_old_man_playing_serenade)_-_Old_postcard.jpg"
+   },
+   "place": {
+    "place": "naples",
+    "reel": "https://www.instagram.com/reel/DdhSs_NRskx/",
+    "caption": "Daniel Cheung · Spaccanapoli, Centro Storico",
+    "name": "Naples",
+    "country": "Italy",
+    "spotify": "playlist/74unPCRNqKUxCGhE6SegNr",
+    "playlistTitle": "The Sound of Naples IT"
+   },
+   "why": "Neapolitan song was born in Naples, and its melodies still fill the bars and streets of the historic centre.",
+   "status": "rejected",
+   "problems": [
+    "the site already has this date"
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "culture": {
+    "genre": "irish-folk",
+    "reel": "https://www.instagram.com/reel/DTgDS3jDGRI/",
+    "caption": "The Temple Bar Pub · Temple Bar, Dublin",
+    "name": "Irish Folk",
+    "spotify": "playlist/64p4YbsKAEENKDHyrhqT8g",
+    "playlistTitle": "The Pulse of Irish Folk",
+    "wiki": "https://en.wikipedia.org/wiki/Irish_traditional_music",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Clannad_on_stage_at_Leeds_Folk_Festival%2C_UK%2C_1982_%28photograph_by_Tony_Rees%29_%284%29.jpg/1280px-Clannad_on_stage_at_Leeds_Folk_Festival%2C_UK%2C_1982_%28photograph_by_Tony_Rees%29_%284%29.jpg",
+    "credit": "Clannad on stage at Leeds Folk Festival, UK, 1982 (photograph by Tony… · Tony 1212 · CC BY 4.0",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:Clannad_on_stage_at_Leeds_Folk_Festival,_UK,_1982_(photograph_by_Tony_Rees)_(4).jpg"
+   },
+   "place": {
+    "place": "dublin-ie",
+    "reel": "https://www.instagram.com/reel/DI167i_xLoL/",
+    "caption": "Jonny Fairplay · Temple Bar",
+    "name": "Dublin",
+    "country": "Ireland",
+    "spotify": "playlist/1n0W8NFV4OQBXCU9oZF4eX",
+    "playlistTitle": "The Sound of Dublin IE"
+   },
+   "why": "Irish folk lives in Dublin's pub sessions, where ballads and tunes are played in bars across the city every night.",
+   "status": "rejected",
+   "problems": [
+    "the site already has this date"
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "culture": {
+    "genre": "chicago-house",
+    "reel": "https://www.instagram.com/reel/Ddz5lA8hcQP/",
+    "caption": "Terry Hunter · Soldier Field, Chicago",
+    "name": "Chicago House",
+    "spotify": "playlist/6qwD48tGbRLj6hXnYEWcm7",
+    "playlistTitle": "The Pulse of Chicago House",
+    "wiki": "https://en.wikipedia.org/wiki/Chicago_house",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Grammophone_Records.JPG/1280px-Grammophone_Records.JPG",
+    "credit": "Grammophone Records · t3xt · CC0",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:Grammophone_Records.JPG"
+   },
+   "place": {
+    "place": "chicago",
+    "reel": "https://www.instagram.com/reel/DXfpeVfAfw-/",
+    "caption": "Hasnain Khoja · Chicago Riverwalk",
+    "name": "Chicago, Illinois",
+    "country": "United States",
+    "spotify": "playlist/6UhIdjRWhofrYI32vzVuh9",
+    "playlistTitle": "The Sound of Chicago Illinois US"
+   },
+   "why": "House music was created in Chicago clubs in the 1980s, and the city's DJs still play it to big crowds at home.",
+   "status": "rejected",
+   "problems": [
+    "the site already has this date"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "culture": {
+    "genre": "luk-thung",
+    "reel": "https://www.instagram.com/reel/DK4eSToPqSL/",
+    "caption": "KT Kratae · Bangkok",
+    "name": "Luk Thung",
+    "spotify": "playlist/6MslyOrYueYGlzlUsxJqSP",
+    "playlistTitle": "The Pulse of Luk Thung",
+    "wiki": "https://en.wikipedia.org/wiki/Luk_thung",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%A0%E0%B8%9E_%E0%B8%88%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93.jpg/1280px-%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%A0%E0%B8%9E_%E0%B8%88%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93.jpg",
+    "credit": "เจนภพ จบกระบวนวรรณ · Mr. Muangthai Pattarathawong · CC BY-SA 4.0",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%A0%E0%B8%9E_%E0%B8%88%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93.jpg"
+   },
+   "place": {
+    "place": "bangkok",
+    "reel": "https://www.instagram.com/reel/DTM5C20iFnw/",
+    "caption": "Jorge Gonzalez · Grand Palace",
+    "name": "Bangkok",
+    "country": "Thailand",
+    "spotify": "playlist/3YIvuZgWEk5QHhaHVE3D84",
+    "playlistTitle": "The Sound of Bangkok TH"
+   },
+   "why": "Luk thung, Thailand's country music of working life and love, is sung on Bangkok's stages and heard all over the capital.",
+   "status": "rejected",
+   "problems": [
+    "the site already has this date"
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "culture": {
+    "genre": "ceilidh",
+    "reel": "https://www.instagram.com/reel/DU_CzSdDrc3/",
+    "caption": "Toni · Stramash, Edinburgh",
+    "name": "Ceilidh",
+    "spotify": "playlist/6FkWIiVnv9cMCgroIy5gvE",
+    "playlistTitle": "The Pulse of Ceilidh",
+    "wiki": "https://en.wikipedia.org/wiki/C%C3%A8ilidh",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Description-_Visitors_try_Scottish_ceilidh_dancing_at_the_2003_Smithsonian_Folklife_Festival_on_the_National_Mall._%282548929276%29.jpg/1280px-Description-_Visitors_try_Scottish_ceilidh_dancing_at_the_2003_Smithsonian_Folklife_Festival_on_the_National_Mall._%282548929276%29.jpg",
+    "credit": "Description- Visitors try Scottish ceilidh dancing at the 2003 Smiths… · Smithsonian Institution · No restrictions",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:Description-_Visitors_try_Scottish_ceilidh_dancing_at_the_2003_Smithsonian_Folklife_Festival_on_the_National_Mall._(2548929276).jpg"
+   },
+   "place": {
+    "place": "edinburgh",
+    "reel": "https://www.instagram.com/reel/DcJi8YFtE9K/",
+    "caption": "Scotland · Royal Mile",
+    "name": "Edinburgh",
+    "country": "United Kingdom",
+    "spotify": "playlist/59mVtaEYToEQ9AToHqB0db",
+    "playlistTitle": "The Sound of Edinburgh GB"
+   },
+   "why": "The ceilidh is Scotland's social dance, and Edinburgh's pubs and halls hold ceilidh nights with live fiddle and accordion bands.",
+   "status": "rejected",
+   "problems": [
+    "the site already has this date"
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "culture": {
+    "genre": "flamenco",
+    "reel": "https://www.instagram.com/reel/DZHb3aMiGl4/",
+    "caption": "Casa de la Memoria · Sevilla",
+    "name": "Flamenco",
+    "spotify": "playlist/0uTfHeo5DaGm2CNDv0Daen",
+    "playlistTitle": "The Pulse of Flamenco",
+    "wiki": "https://en.wikipedia.org/wiki/Flamenco",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sargent_John_Singer_Spanish_Dancer.jpg/1280px-Sargent_John_Singer_Spanish_Dancer.jpg",
+    "credit": "Spanish Dancer · John Singer Sargent · Public domain",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:Sargent_John_Singer_Spanish_Dancer.jpg"
+   },
+   "place": {
+    "place": "sevilla",
+    "reel": "https://www.instagram.com/reel/DdXNh_lykDQ/",
+    "caption": "Jean-Michel Dufaux · Plaza de España",
+    "name": "Sevilla",
+    "country": "Spain",
+    "spotify": "playlist/73ay4fvl6yV1tocDa2ar47",
+    "playlistTitle": "The Sound of Sevilla ES"
+   },
+   "why": "Flamenco belongs to Andalusia, and Seville is one of its capitals, with tablaos and peñas across the old city.",
+   "status": "rejected",
+   "problems": [
+    "the site already has this date"
+   ]
   }
  ]
 }
