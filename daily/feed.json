@@ -407,6 +407,179 @@
    "problems": [
     "the site already has this date"
    ]
+  },
+  {
+   "date": "2026-11-16",
+   "culture": {
+    "genre": "detroit-techno",
+    "reel": "https://www.instagram.com/reel/DfRz2u5t2j-/",
+    "caption": "Octave One · live outdoor stage",
+    "name": "Detroit Techno",
+    "spotify": "playlist/7cm4tt6sv3jeOLhIFcsODO",
+    "playlistTitle": "The Pulse of Detroit Techno",
+    "wiki": "https://en.wikipedia.org/wiki/Detroit_techno",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/The_Belleville_Three_at_The_Detroit_Masonic_Temple_2017_2.png/1280px-The_Belleville_Three_at_The_Detroit_Masonic_Temple_2017_2.png",
+    "credit": "The Belleville Three at The Detroit Masonic Temple 2017 2 · PeRshGo · CC BY-SA 4.0",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:The_Belleville_Three_at_The_Detroit_Masonic_Temple_2017_2.png"
+   },
+   "place": {
+    "place": "detroit",
+    "reel": "https://www.instagram.com/reel/Dc1kQ_6BtYl/",
+    "caption": "Bruce Larkin · Downtown Detroit",
+    "name": "Detroit, Michigan",
+    "country": "United States",
+    "spotify": "playlist/3JCBPwsE24EuNiRMu4vKJE",
+    "playlistTitle": "The Sound of Detroit Michigan US"
+   },
+   "why": "Techno was invented in Detroit in the 1980s, and the city still celebrates it at the Movement festival in Hart Plaza every year.",
+   "status": "ok"
+  },
+  {
+   "date": "2026-11-17",
+   "culture": {
+    "genre": "merengue",
+    "reel": "https://www.instagram.com/reel/DPbvKJVDecK/",
+    "caption": "Raquel Arias · Club Gallístico Los Picos, Palo Amarillo, Santiago",
+    "name": "Merengue",
+    "spotify": "playlist/4NkeMljO0pQoCQ6wYfskq2",
+    "playlistTitle": "The Pulse of Merengue",
+    "wiki": "https://en.wikipedia.org/wiki/Merengue_music",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Merengue_dancing.jpg/1280px-Merengue_dancing.jpg",
+    "credit": "Merengue dancing · Garry Knight · CC BY-SA 2.0",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:Merengue_dancing.jpg"
+   },
+   "place": {
+    "place": "santiago-do",
+    "reel": "https://www.instagram.com/reel/DfA9elkNN2Z/",
+    "caption": "Enfocaofly · Monumento a los Héroes de la Restauración",
+    "name": "Santiago",
+    "country": "Dominican Republic",
+    "spotify": "playlist/70SkkFTZtgrSeN905xfJCD",
+    "playlistTitle": "The Sound of Santiago DO"
+   },
+   "why": "Merengue típico comes from the Cibao valley, and Santiago is the Cibao's capital, where típico bands play the clubs every weekend.",
+   "status": "ok"
+  },
+  {
+   "date": "2026-11-18",
+   "culture": {
+    "genre": "sertanejo",
+    "reel": "https://www.instagram.com/reel/DZBUIIoOWYS/",
+    "caption": "Di Paullo e Paulino · Jardins Madri, Goiânia",
+    "name": "Sertanejo",
+    "spotify": "playlist/4XKCiUs8eXwTtivKMnDuNc",
+    "playlistTitle": "The Pulse of Sertanejo",
+    "wiki": "https://en.wikipedia.org/wiki/Sertanejo_music",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Show_de_Victor_%26_L%C3%A9o_%282013%29.jpg/1280px-Show_de_Victor_%26_L%C3%A9o_%282013%29.jpg",
+    "credit": "Show de Victor & Léo (2013) · Roberta.msa · CC BY-SA 4.0",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:Show_de_Victor_%26_L%C3%A9o_(2013).jpg"
+   },
+   "place": {
+    "place": "goiania",
+    "reel": "https://www.instagram.com/reel/DKpAehvMDx0/",
+    "caption": "Prefeitura de Goiânia · Parque Flamboyant",
+    "name": "Goiânia",
+    "country": "Brazil",
+    "spotify": "playlist/6CuHx0PQqNygXgcOXV8GRT",
+    "playlistTitle": "The Sound of Goiânia BR"
+   },
+   "why": "Goiânia is the capital of sertanejo, the home ground of the singing duplas whose shows fill the city's stages.",
+   "status": "ok"
+  },
+  {
+   "date": "2026-11-19",
+   "culture": {
+    "genre": "madchester",
+    "reel": "https://www.instagram.com/reel/DLfnC2EIO4R/",
+    "caption": "Bez · Harewood House, Leeds",
+    "name": "Madchester",
+    "spotify": "playlist/2Dr75rpoKDWa0DCN0NET92",
+    "playlistTitle": "The Pulse of Madchester",
+    "wiki": "https://en.wikipedia.org/wiki/Madchester"
+   },
+   "place": {
+    "place": "manchester",
+    "reel": "https://www.instagram.com/reel/Dd2_hS8qLjH/",
+    "caption": "Above And Beyond Visuals · Deansgate Square",
+    "name": "Manchester",
+    "country": "United Kingdom",
+    "spotify": "playlist/5GctOYnZ47zhiLgdGDhcIT",
+    "playlistTitle": "The Sound of Manchester GB"
+   },
+   "why": "Madchester fused indie rock and acid house in Manchester's Haçienda scene, and its bands still carry that sound.",
+   "status": "ok"
+  },
+  {
+   "date": "2026-11-20",
+   "culture": {
+    "genre": "rumba",
+    "reel": "https://www.instagram.com/reel/DeCj8YLIpxa/",
+    "caption": "EL FLAKKA · Barcelona",
+    "name": "Rumba",
+    "spotify": "playlist/6xTJcmwhLWodeRkas1DvZW",
+    "playlistTitle": "The Pulse of Rumba"
+   },
+   "place": {
+    "place": "barcelona",
+    "reel": "https://www.instagram.com/reel/DbQ9TbTtqfj/",
+    "caption": "Mauro Ger · Sagrada Família",
+    "name": "Barcelona",
+    "country": "Spain",
+    "spotify": "playlist/1BUqSJKAJHR3pyx1tuOKDf",
+    "playlistTitle": "The Sound of Barcelona ES"
+   },
+   "why": "Rumba catalana was born in Barcelona's gitano neighbourhoods, blending flamenco with Cuban rhythm, and it is still played in the city's bars and plazas.",
+   "status": "ok"
+  },
+  {
+   "date": "2026-11-21",
+   "culture": {
+    "genre": "outlaw-country",
+    "reel": "https://www.instagram.com/reel/DHTqSLSO0Kj/",
+    "caption": "Dale Watson · Continental Club, Austin",
+    "name": "Outlaw Country",
+    "spotify": "playlist/1Ts8DqTqHvdrENVBB4CBPJ",
+    "playlistTitle": "The Pulse of Outlaw Country",
+    "wiki": "https://en.wikipedia.org/wiki/Outlaw_country",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kris_Willie_Waylon.jpg/1280px-Kris_Willie_Waylon.jpg",
+    "credit": "Kris Willie Waylon · Bozotexino · Public domain",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:Kris_Willie_Waylon.jpg"
+   },
+   "place": {
+    "place": "austin",
+    "reel": "https://www.instagram.com/reel/DfsuXOKKgsx/",
+    "caption": "Casey · Downtown Austin",
+    "name": "Austin, Texas",
+    "country": "United States",
+    "spotify": "playlist/3gz7G6lax8nkXZ3vBr3n4i",
+    "playlistTitle": "The Sound of Austin Texas US"
+   },
+   "why": "Austin's honky tonks kept outlaw country alive, and Dale Watson still plays them on a weekly residency.",
+   "status": "ok"
+  },
+  {
+   "date": "2026-11-22",
+   "culture": {
+    "genre": "cantopop",
+    "name": "Cantopop",
+    "spotify": "playlist/5F89CMViVJAUx1m00BbfaQ",
+    "playlistTitle": "The Pulse of Cantopop",
+    "wiki": "https://en.wikipedia.org/wiki/Cantopop",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MIRROR_members_2020-07-07_am730.jpg/1280px-MIRROR_members_2020-07-07_am730.jpg",
+    "credit": "MIRROR members 2020-07-07 am730 · am730 · CC BY 3.0",
+    "imagePage": "https://commons.wikimedia.org/wiki/File:MIRROR_members_2020-07-07_am730.jpg"
+   },
+   "place": {
+    "place": "central-district",
+    "reel": "https://www.instagram.com/reel/Dd4Y4VoPNcv/",
+    "caption": "Timothy Tau Hsieh · Central District",
+    "name": "Central District",
+    "country": "Hong Kong",
+    "spotify": "playlist/7LLNXp6X1InEG0iJuJQQMN",
+    "playlistTitle": "The Sound of Central District HK"
+   },
+   "why": "Cantopop is Hong Kong's own pop music, sung in Cantonese, and Central's skyline is the backdrop the genre grew up against.",
+   "status": "ok"
   }
  ]
 }
