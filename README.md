@@ -1,6 +1,6 @@
 # Orfeu
 
-Orfeu gives you one music genre and one place to listen to every day, with a real photo of each genre from Wikimedia Commons and a Spotify playlist that has been checked to work.
+Orfeu gives you one music genre and one place to listen to every day, with a Spotify playlist that has been checked to work.
 
 **Live site:** [jerryshi042003.github.io/orfeu](https://jerryshi042003.github.io/orfeu/)
 
@@ -49,6 +49,9 @@ The last audit ran on 21 October 2026 over 1,227 playlists (all genres, all plac
 Spotify can delete or rename these playlists at any time, so run the audit again before publishing.
 
 ## Photos
+
+Since 17 November 2026 the site shows no photos: every genre uses its drawn poster, and the page text is cut to the name, the day and the controls. The photo data below is still built into `genres.json` (and other pages may read it) but the site does not display it.
+
 
 Each genre's photo is chosen by `pipeline/build-images.mjs` from, in order: a reviewed override (`pipeline/image-overrides.json`), the Wikipedia article's lead image, the Wikidata image, the article's other images, and, only when those give nothing usable, the genre's Commons category. Only files on Wikimedia Commons with a free licence (public domain, CC0, CC BY, CC BY-SA and similar) are used; maps, logos, scores, diagrams and very small files are skipped, and no photo appears on two genres (when two genres share an article, the second gets the next photo or the poster). Every automatic pick was reviewed by eye on 2026-10-21: twelve files (sheet music, diagrams, a logo and the like) are excluded, and the next candidate is used where there is one; twelve genres show the poster instead of a weak photo; and 35 photos were chosen by hand. Five are for the picks (Flamenco, Cante Flamenco, Pagode, Funk Carioca, Funk das Antigas). Three replace weak automatic picks (Ostrock, Alternative Pop, Chicago Blues). The other 27 give a photo to a genre that had none, mostly the lead image of the same article in another language's Wikipedia (for example Harp, Vallenato, Djent, Minimalism, Vocal Jazz).
 

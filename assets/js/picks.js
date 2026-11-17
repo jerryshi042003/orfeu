@@ -43,13 +43,8 @@
 
   function renderFeature(p) {
     const media = $('#feature-media');
-    const img = p.g.image;
-    if (img) {
-      const pic = el('img', { alt: img.title, srcset: O.srcset(img), sizes: '(min-width: 860px) 55vw, 100vw', src: O.thumb(img, 960), decoding: 'async' });
-      if (img.position) pic.style.setProperty('--pos', img.position);
-      media.append(pic, el('p', { class: 'feature-credit' }, O.extLink(img.page, img.title, ''), ` · ${img.artist} · ${img.licence}`));
-    } else media.append(O.poster(p.g.slug, p.g.name, { mark: true }));
-    $('#feature-label').textContent = p.label ? `${p.label} · first pick` : 'First pick';
+    media.append(O.poster(p.g.slug, p.g.name, { mark: true }));
+    $('#feature-label').textContent = p.label || '';
     $('#feature-title').textContent = p.g.name;
     $('#feature-note').textContent = p.note;
     $('#feature-links').replaceChildren(...links(p, ''));

@@ -155,12 +155,7 @@
 
   // A genre card (Explore grid, shelves, picks).
   function genreCard(g, { meta, day, families, saveButton = true, eager = false } = {}) {
-    const media = el('span', { class: 'card-media' });
-    if (g.image) {
-      const img = el('img', { src: thumb(g.image, 500), alt: '', loading: eager ? 'eager' : 'lazy', decoding: 'async', style: g.image.position ? { 'object-position': g.image.position } : null });
-      img.addEventListener('error', () => { media.replaceChildren(poster(g.slug, g.name)); }, { once: true });
-      media.append(img);
-    } else media.append(poster(g.slug, g.name));
+    const media = el('span', { class: 'card-media' }, poster(g.slug, g.name));
     const metaText = meta ?? (families ? g.family.map(f => families[f]).filter(Boolean).slice(0, 2).join(' · ') : '');
     const link = el('a', { class: 'card', href: genreUrl(g.slug) },
       media,
@@ -177,7 +172,7 @@
       e.preventDefault();
       const { on, ok } = saved.toggle(g.slug);
       b.setAttribute('aria-pressed', String(on));
-      toast(ok ? (on ? `Saved ${g.name}` : `Removed ${g.name}`) : 'This browser is not keeping saved genres (private mode?)');
+      toast(ok ? (on ? 'Saved' : 'Removed') : 'Not saved');
     });
     document.addEventListener('orfeu:saved', e => { if (e.detail.slug === g.slug) b.setAttribute('aria-pressed', String(e.detail.on)); });
     return b;
@@ -206,9 +201,8 @@
     const id = playlistId(playlist);
     container.replaceChildren();
     if (!id) return { load() {} };
-    const button = el('button', { type: 'button', class: 'btn btn-spotify', html: icon('play', 'fill') + '<span>Load the player</span>' });
-    const cta = el('div', { class: 'player-cta' }, button, el('p', {}, `Plays ${label} right here. This loads Spotify's player, which uses Spotify's cookies.`));
-    container.append(cta);
+    const button = el('button', { type: 'button', class: 'btn btn-spotify', html: icon('play', 'fill') + '<span>Play</span>' });
+    container.append(button);
     let loaded = false;
     function load(focus) {
       if (loaded) return;

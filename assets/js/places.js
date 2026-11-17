@@ -76,10 +76,11 @@
     const listen = $('#listen');
     listen.href = place.playlist;
     listen.removeAttribute('aria-disabled');
-    $('#place-note').textContent = `${place.playlistTitle || 'The Sound of ' + place.name}${place.tracks ? ` · ${place.tracks} tracks` : ''}`;
+    $('#place-note').textContent = '';
     const player = O.player($('#player'), place.playlist, place.playlistTitle || place.name);
     $('#play-here').addEventListener('click', () => {
-      player.load(false);
+      $('#player-section').hidden = false;
+      player.load(true);
       $('#player').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'center' });
     });
     $('#share').addEventListener('click', () => O.share({ title: `${place.name} · Orfeu`, text: `The sound of ${place.name} on Orfeu`, link: O.absolute(O.placeUrl(place.slug)) }));
@@ -108,7 +109,7 @@
     }
     svg.append(g);
     const { lat, lon } = place.point;
-    $('#map-caption').textContent = `${Math.abs(lat).toFixed(2)}° ${lat >= 0 ? 'N' : 'S'}, ${Math.abs(lon).toFixed(2)}° ${lon >= 0 ? 'E' : 'W'}`;
+    $('#map-caption').textContent = '';
   }
 
   // Zoom the world map to the place: a country's whole outline, or a window around a city

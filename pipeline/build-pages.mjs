@@ -121,7 +121,7 @@ function setMeta(html, attr, key, value) {
 }
 function page(g) {
   const url = `${SITE}g/${g.slug}/`;
-  const description = g.wiki ? firstSentence(g.wiki.extract) : `Listen to ${g.name}: a Spotify playlist on Orfeu.`;
+  const description = `${g.name} on Orfeu.`;
   let html = template
     .replace(/(href|src)="\.\//g, '$1="../../')
     .replace('<body data-page="today" data-root="./">', `<body data-page="genre" data-root="../../" data-genre="${g.slug}">`)
@@ -134,12 +134,6 @@ function page(g) {
   html = setMeta(html, 'property', 'og:title', `${g.name} · Orfeu`);
   html = setMeta(html, 'property', 'og:description', description);
   html = setMeta(html, 'property', 'og:url', url);
-  if (g.image) {
-    const w = g.image.widths.filter(x => x <= 1280).pop();
-    const og = g.image.original && (!w || (g.image.w > w && g.image.w <= 1600)) ? g.image.original : g.image.thumb.replace('{w}', w);
-    html = setMeta(html, 'property', 'og:image', og);
-    html = setMeta(html, 'property', 'og:image:alt', g.image.title);
-  }
   if (!html.includes(`data-genre="${g.slug}"`)) throw new Error('index.html changed shape; update build-pages.mjs');
   return html;
 }
@@ -152,7 +146,7 @@ function gone(slug) {
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex">
   <title>No longer on Orfeu</title>
-  <link rel="stylesheet" href="../../assets/css/orfeu.css?v=5">
+  <link rel="stylesheet" href="../../assets/css/orfeu.css?v=6">
 </head>
 <body data-root="../../">
   <main class="page"><div class="wrap"><header class="page-head">

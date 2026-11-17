@@ -18,9 +18,9 @@
   <link rel="apple-touch-icon" href="../assets/favicon/apple-touch-icon.png">
   <link rel="manifest" href="../assets/favicon/site.webmanifest">
   <link rel="preload" href="../assets/fonts/instrument-serif-latin.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="../assets/css/orfeu.css?v=5">
-  <script src="../assets/js/core.js?v=5" defer></script>
-  <script src="../assets/js/picks.js?v=5" defer></script>
+  <link rel="stylesheet" href="../assets/css/orfeu.css?v=6">
+  <script src="../assets/js/core.js?v=6" defer></script>
+  <script src="../assets/js/picks.js?v=6" defer></script>
 </head>
 <body data-page="picks" data-root="../">
   <a class="skip" href="#main">Skip to content</a>
@@ -34,16 +34,14 @@
     </nav>
     <div class="top-actions">
       <a class="icon-btn" href="../explore/?focus=1" aria-label="Search genres"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></a>
-      <button class="icon-btn" type="button" data-surprise title="Surprise me (R)"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg><span class="surprise-label">Surprise me</span><span class="visually-hidden">: open a random genre</span></button>
+      <button class="icon-btn" type="button" data-surprise aria-label="Random genre"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg><span class="visually-hidden">Random genre</span></button>
     </div>
   </header>
 
   <main id="main" class="page">
     <div class="wrap">
       <header class="page-head">
-        <p class="kicker">Jerry’s picks</p>
-        <h1 class="page-title">Genres Jerry loves</h1>
-        <p class="page-lede">The ones Jerry Shi, who built Orfeu, keeps coming back to. Flamenco first, then a lot of Brazil.</p>
+        <h1 class="page-title">Jerry’s picks</h1>
       </header>
       <p id="picks-problem" class="empty" hidden>The picks didn’t load. Check your connection and reload the page.</p>
 
@@ -65,10 +63,6 @@
     </div>
   </main>
 
-  <footer class="colophon">
-    <p>Every pick links to a playlist that passed the same check as the rest of the site. Funk bruxaria has no playlist of its own, so its card links to the nearest one. Photos: Wikimedia Commons, credited on each genre’s page.</p>
-    <p><a href="https://github.com/jerryshi042003/orfeu">Source on GitHub</a></p>
-  </footer>
 
   <nav class="tabbar" aria-label="Sections">
     <a href="../"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="2.5"/></svg>Today</a>

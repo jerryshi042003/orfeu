@@ -18,9 +18,9 @@
   <link rel="apple-touch-icon" href="../assets/favicon/apple-touch-icon.png">
   <link rel="manifest" href="../assets/favicon/site.webmanifest">
   <link rel="preload" href="../assets/fonts/instrument-serif-latin.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="../assets/css/orfeu.css?v=5">
-  <script src="../assets/js/core.js?v=5" defer></script>
-  <script src="../assets/js/places.js?v=5" defer></script>
+  <link rel="stylesheet" href="../assets/css/orfeu.css?v=6">
+  <script src="../assets/js/core.js?v=6" defer></script>
+  <script src="../assets/js/places.js?v=6" defer></script>
 </head>
 <body data-page="places" data-root="../">
   <a class="skip" href="#main">Skip to content</a>
@@ -34,7 +34,7 @@
     </nav>
     <div class="top-actions">
       <a class="icon-btn" href="../explore/?focus=1" aria-label="Search genres"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></a>
-      <button class="icon-btn" type="button" data-surprise title="Surprise me (R)"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg><span class="surprise-label">Surprise me</span><span class="visually-hidden">: open a random genre</span></button>
+      <button class="icon-btn" type="button" data-surprise aria-label="Random genre"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg><span class="visually-hidden">Random genre</span></button>
     </div>
   </header>
 
@@ -44,7 +44,7 @@
         <div>
           <nav class="place-day" aria-label="Choose a day">
             <a id="day-prev" class="day-step" aria-label="Previous day"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg></a>
-            <p class="kicker"><span id="kicker">Place of the day</span> · <time id="day-label">Today</time></p>
+            <p class="kicker"><span id="kicker" hidden></span><time id="day-label">Today</time></p>
             <a id="day-next" class="day-step" aria-label="Next day"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></a>
             <a id="day-today" class="today-link" href="./" hidden>Back to today</a>
           </nav>
@@ -65,8 +65,8 @@
         </figure>
       </section>
 
-      <section class="section" aria-labelledby="player-title">
-        <div class="section-head"><h2 id="player-title">Listen here</h2></div>
+      <section id="player-section" class="section" aria-labelledby="player-title" hidden>
+        <div class="section-head"><h2 id="player-title" class="visually-hidden">Player</h2></div>
         <div id="player" class="player"></div>
       </section>
 
@@ -86,16 +86,12 @@
         <figure class="map atlas" style="margin-top:18px">
           <div id="atlas-frame"></div>
           <div id="atlas-pop" class="atlas-pop" hidden></div>
-          <figcaption>Tap or hover a dot to open a place. Rings mark whole countries.</figcaption>
+          
         </figure>
       </section>
     </div>
   </main>
 
-  <footer class="colophon">
-    <p>Playlists: Every Noise at Once (“The Sound of …”) on Spotify, each checked before it is listed. Map: Natural Earth. Place coordinates: © OpenStreetMap contributors (ODbL).</p>
-    <p><a href="https://github.com/jerryshi042003/orfeu">Source on GitHub</a></p>
-  </footer>
 
   <nav class="tabbar" aria-label="Sections">
     <a href="../"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="2.5"/></svg>Today</a>
